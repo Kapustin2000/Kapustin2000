@@ -36,10 +36,10 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Development Tools
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -67,37 +67,43 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 **Master's Degree in Automation and Computer-Integrated Technologies**  
 *State University of Intelligent Technologies and Telecommunications (2017 – 2022)*
 
-## 📖 Recent Publications & Articles
-
-### 🔬 Research Publications
-- **"Technological Transformations, Formation of GMS and GFS"** *(January 2025)*
-  - Exploring the integration of AI, quantum computing, and blockchain in understanding consciousness
-  - [View on ResearchGate](https://www.researchgate.net/profile/Mykhailo-Kapustin)
+## 📖 Publications & Articles
 
 ### 📝 Technical Articles
-- **"Google ADK and Startup Technical Guide: AI Agents"** *(October 2025)*
-  - [Read on Medium](https://medium.com/@kapustinomm)
-- **"My First AI & Blockchain Hackathon: Building the Global Forecasting System"** *(September 2025)*
-  - [Read on Medium](https://medium.com/@kapustinomm)
-- **"Building a Resume Matcher with tRPC, NLP, and Vertex AI"** *(September 2025)*
-  - [Read on Medium](https://medium.com/@kapustinomm)
+Read my latest articles on:
 
-## 🌟 Featured Projects
+<div align="center">
+  <a href="https://medium.com/@kapustinomm">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://habr.com/en/users/kapustinomm/">
+    <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr" />
+  </a>
+  <a href="https://hashnode.com/@kapustinomm">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</div>
 
-### 🎯 Global Forecasting System (GFS)
-*AI-driven platform for predicting financial and geopolitical events through dream analysis*
+### 🔬 Research Publications
+Explore my research on:
 
-- 🧠 Analyzes collective unconscious data
-- 📊 Cross-references with news streams and market movements  
-- 🔮 Generates forecasts in finance, geopolitics, and social processes
-- 🏆 Developed during Theta EuroCon Hackathon in Berlin
+<div align="center">
+  <a href="https://www.researchgate.net/profile/Mykhailo-Kapustin">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
+</div>
 
-### 🤖 Resume Matcher App
-*Advanced matching system using modern AI technologies*
+## 💼 Projects
 
-- 🔍 Built with tRPC, TypeScript, NLP, and Google Vertex AI
-- ⚡ Performance comparison with REST and GraphQL implementations
-- 🎯 Intelligent candidate-job matching algorithms
+For a complete list of my projects and detailed descriptions, visit my [LinkedIn profile](https://www.linkedin.com/in/mykhailo-kapustin-55885612a).
+
+Here on GitHub, you'll find a few open-source projects I'm working on:
+
+<div align="center">
+  <a href="https://github.com/Kapustin2000">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
