@@ -6,7 +6,6 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 - **AI & Machine Learning** - Developing intelligent systems and forecasting models
 - **Blockchain Technology** - Building decentralized applications and smart contracts  
 - **Consciousness Research** - Exploring lucid dreams and their technological applications
-- **Global Forecasting Systems** - Creating AI-driven prediction platforms
 
 ## 🛠️ Tech Stack
 
