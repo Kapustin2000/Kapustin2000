@@ -1,11 +1,5 @@
 # Hi there, I'm Mykhailo Kapustin 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=CTO+%26+Software+Architect;AI+%26+Blockchain+Researcher;Lucid+Dreams+%26+Consciousness+Studies" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
 I am a **Chief Technology Officer** and **Software Architect** with a passion for cutting-edge technology and consciousness research. My work spans across artificial intelligence, blockchain technology, and the fascinating intersection of technology with human consciousness through lucid dreaming studies.
 
 ### 🎯 Current Focus
@@ -256,13 +250,6 @@ Here on GitHub, you'll find a few open-source projects I'm working on:
   </a>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kapustin2000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapustin2000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -274,17 +261,6 @@ Here on GitHub, you'll find a few open-source projects I'm working on:
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mykhailo-Kapustin)
 
 </div>
-
-## 💡 Let's Collaborate!
-
-I'm always excited to discuss new projects, innovative ideas, or potential collaborations. Whether you're interested in:
-
-- 🤖 **AI & Machine Learning** projects
-- ⛓️ **Blockchain** development
-- 🧠 **Consciousness research** and lucid dreaming
-- 🚀 **Startup** ventures and technical consulting
-
-Feel free to reach out through any of the platforms above or connect with me directly on GitHub!
 
 ---
 
