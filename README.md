@@ -29,8 +29,6 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 
 </details>
 
----
-
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">🏢 Professional Experience</span></summary>
 
@@ -130,8 +128,6 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 
 </details>
 
----
-
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">📚 Education</span></summary>
 
@@ -155,8 +151,6 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 </details>
 
 </details>
-
----
 
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">📖 Publications & Articles</span></summary>
@@ -235,8 +229,6 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 - *Tproger* - ASRP's AI model for dream analysis
 
 </details>
-
----
 
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">🎤 Conferences & Speaking</span></summary>
@@ -349,8 +341,6 @@ September 2025, Berlin, Germany
 
 </details>
 
----
-
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">💼 Projects</span></summary>
 
@@ -365,8 +355,6 @@ Here on GitHub, you'll find a few open-source projects I'm working on:
 </div>
 
 </details>
-
----
 
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">🎯 Current Focus</span></summary>
