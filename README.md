@@ -197,46 +197,46 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 - *Journal of Investment, Banking and Finance*
 - This study explores methodological approaches to transmitting consciousness states between subjects using advanced neurointerface technologies. It discusses the formation of the Global Mental System (GMS) and Global Forecasting System (GFS), focusing on "right-brain technologies" that integrate biological entities with consciousness and artificial intelligence. The research examines the application of AI algorithms for processing and transmitting data, enabling the classification and analysis of neural information
 
-**["The methodology for diagnosing and managing stress developed by Grivtsova"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(July 2024)*
+**["The methodology for diagnosing and managing stress developed by Grivtsova, as an independent method and as part of the preparation for inducing lucid dreams within the framework of the 'Bancheko Extended Algorithm,' and its application in the 'GFS'"](https://www.researchgate.net/publication/383412731_The_methodology_for_diagnosing_and_managing_stress_developed_by_Grivtsova_as_an_independent_method_and_as_part_of_the_preparation_for_inducing_lucid_dreams_within_the_framework_of_the_Bancheko_Extende)** *(July 2024)*
 - *American Journal of Medical and Clinical Research & Reviews*
-- Stress management methodology and lucid dream induction framework
+- The study explores Grivtsova's stress management methodology both as a standalone approach and as part of Banchenko Extended, a framework for lucid dream induction. The research analyzes its efficacy in stress reduction and dream-state control enhancement
 
-**["Forecasting Social, Geopolitical, and Economic Events Using the 'Banchenko-Technology'"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(June 2024)*
+**["Forecasting Social, Geopolitical, and Economic Events Using the 'Banchenko-Technology'"](https://www.researchgate.net/publication/381995064_Forecasting_Social_Geopolitical_and_Economic_Events_Using_the_%27Banchenko-Technology%27)** *(June 2024)*
 - *Japan Journal of Research*
-- Banchenko Algorithm and Mnemonic Synchronization for event prediction
+- This study investigates the Banchenko Algorithm and Mnemonic Synchronization for predicting social, geopolitical, and economic events. It examines the link between lucid dreaming and collective consciousness for forecasting significant events. The research introduces a digital system for managing event forecasts and market trends using AI and dream synchronization techniques, highlighting the innovative potential of combining dream experiences with objective data for high-probability predictions
 
-**["Application of Banchenko's Mnemonic Dream Synchronization Method"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(January 2024)*
+**["Application of 'Banchenko's Mnemonic Dream Synchronization Method' for Joint Lucid Dream Synchronization within 'Blokhin's Dreaming Cell Concept,' Analyzed Using 'Kapustin's AI Dream Matching Model'"](https://www.researchgate.net/publication/378492219_The_Application_of_the_Banchenko%27s_Mnemonic_Dream_Synchronization_Method_for_the_Joint_Synchronization_of_Dream_Elements_Including_Lucid_Dreams_within_the_Framework_of_Blokhin%27s_Dreaming_Cell_Concept_)** *(January 2024)*
 - *International Internal Medicine Journal*
-- AI Dream Matching Model for synchronized lucid dreaming
+- This research investigates the use of Banchenko's Mnemonic Dream Synchronization Method for synchronizing dream elements, including lucid dreams, among participants. It involves analyzing dream journals, utilizing AI for dream correlation, and studying the impact of synchronized activities on dream content. The study highlights the potential of using synchronized dream techniques to enhance dream recall and explore the subconscious
 
 ### 📊 **Academic Research (2018)**
 
-**["A STUDY OF SOFTWARE DEVELOPMENT TOOLS REQUIRED IN THE JOB MARKET"](https://www.researchgate.net/publication/370123456_A_STUDY_OF_SOFTWARE_DEVELOPMENT_TOOLS_THAT_ARE_REQUIRED_IN_THE_JOB_MARKET_IN_UKRAINE_AND_THE_WORLD)** *(December 2018)*
+**["A STUDY OF SOFTWARE DEVELOPMENT TOOLS THAT ARE REQUIRED IN THE JOB MARKET IN UKRAINE AND THE WORLD"](https://www.researchgate.net/publication/331283099_A_STUDY_OF_SOFTWARE_DEVELOPMENT_TOOLS_THAT_ARE_REQUIRED_IN_THE_JOB_MARKET_IN_UKRAINE_AND_THE_WORLD)** *(December 2018)*
 - *Proceedings of the O S Popov ОNAT*
-- Analysis of programming languages and frameworks in Ukrainian and global IT markets
+- This research investigates software development tools needed in the job market. It analyzes global and Ukrainian IT trends, focusing on programming languages and frameworks like JavaScript, Python, and AngularJS. The study highlights differences in tool popularity between Ukraine and other countries, providing insights into current and future IT industry demands, and showcasing my involvement in cutting-edge software development research
 
 ### 🌐 **Popular Science & Technology Articles**
 
-**["Lucid dreams and VR: Swiss Olympic team training in dreams"](https://tproger.ru/articles/lucid-dreams-and-vr-swiss-olympic-team-training-in-dreams/)** *(December 2024)*
-- *Tproger* - VR and conscious dreams in sports training
+**["Lucid dreams and VR: Swiss Olympic team training in dreams"](https://tproger.ru/articles/vr-i-osoznannye-sny--trenirovki-olimpijcev-vo-sne)** *(December 2024)*
+- *Tproger* - How VR and conscious dreams are already helping the Swiss Olympic team train in their sleep. Find out how technology is changing sports, training and programming by blurring the boundaries between reality and dreams
 
-**["Brain–computer interface (BCI) in HR: How Technology is Changing Recruitment"](https://tproger.ru/articles/brain-computer-interface-bci-in-hr-how-technology-is-changing-recruitment/)** *(December 2024)*
-- *Tproger* - Neural interfaces and recruitment automation
+**["Brain–computer interface (BCI) in HR: How Technology is Changing Recruitment"](https://tproger.ru/articles/nejroseti-v-hr--budushhee-podbora-personala-cherez-sinhronizaciyu-sostoyanij)** *(December 2024)*
+- *Tproger* - Learn how neural interfaces and neural networks are turning the hiring process into an exact science. Cognitive synchronization and brain signal analysis technologies help build harmonious teams and automate recruitment
 
-**["Sleep and Code: How Vivid Dreams Inspire Programmers"](https://tproger.ru/articles/sleep-and-code-how-vivid-dreams-inspire-programmers/)** *(October 2024)*
-- *Tproger* - The connection between dreams and programming creativity
+**["From Pet Project to Scientific Research: Path to True Innovation"](https://tproger.ru/articles/ot-pet-proekta-do-nauchnogo-issledovaniya-put-k-nastoyashhej-innovacii)** *(October 2024)*
+- *Tproger* - The article explores how vivid dreams can inspire programmers, enhancing their creativity and problem-solving abilities. It discusses the significance of sleep in forming creative neural connections and how programmers often experience lucid dreaming. The article highlights the importance of balancing work and sleep to maintain productivity and innovation. By understanding the role of sleep, programmers can leverage their dreams to generate new ideas and solutions
 
-**["The Economics of Dreams: How Our Dreams Influence Global Markets"](https://samara.aif.ru/society/science/ekonomika_snov_kak_nashi_sny_vliyayut_na_globalnye_rynki)** *(May 2024)*
-- *Аргументы и факты* - Dream market and economic impact
+**["The Economics of Dreams: How Our Dreams Influence Global Markets"](https://samara.aif.ru/society/ekonomika-snovideniy-kak-nashi-sny-vliyayut-na-mirovye-rynki)** *(May 2024)*
+- *Аргументы и факты* - The article explores how the study of lucid dreaming and dream synchronization can impact global markets. Researchers, led by Denis Banchenko, have identified a new economic sector— the "dream market." This involves the influence of dreams on consumer behavior and market trends, supported by AI and blockchain technologies. The findings suggest that dreams and subconscious states can significantly affect economic activities and investment strategies
 
-**["From Pet Project to Scientific Research: Path to True Innovation"](https://tproger.ru/articles/from-pet-project-to-scientific-research-path-to-true-innovation/)** *(October 2023)*
-- *Tproger* - Evolution from personal projects to scientific research
+**["From Pet Project to Scientific Research: Path to True Innovation"](https://tproger.ru/articles/ot-pet-proekta-do-nauchnogo-issledovaniya-put-k-nastoyashhej-innovacii)** *(October 2023)*
+- *Tproger* - The article explores how passion projects in programming can evolve into significant scientific research. It highlights a case where a simple pet project on dream synchronization led to groundbreaking results. Utilizing AI and innovative models, researchers achieved notable insights into dream analysis and synchronization, demonstrating the potential of combining creativity with scientific inquiry
 
-**["Future Technologies: A Glimpse into Innovation"](https://tproger.ru/articles/future-technologies-a-glimpse-into-innovation/)** *(October 2023)*
-- *Tproger* - AI, Quantum Computing, and Neurointerfaces
+**["Future Technologies: A Glimpse into Innovation"](https://tproger.ru/articles/tehnologii-budushhego-vzglyad-v-mir-innovacij)** *(October 2023)*
+- *Tproger* - The article discusses four future technologies set to transform our world: Artificial Intelligence, Quantum Computing, Quantum Communications, and Neurointerfaces. It highlights AI's automation and diagnostic potential, quantum computing's data processing power, quantum communications' secure data transmission, and neurointerfaces' direct brain-device interaction. These innovations promise to revolutionize various aspects of life and technology
 
-**["AI and Lucid Dreaming: Exploring New Opportunities"](https://tproger.ru/articles/ai-and-lucid-dreaming-exploring-new-opportunities/)** *(June 2023)*
-- *Tproger* - ASRP's AI model for dream analysis
+**["AI and Lucid Dreaming: Exploring New Opportunities"](https://tproger.ru/articles/otkrojte-dver-v-mir-snovidenij-iskusstvennyj-intellekt-osoznannye-snovideniya-i-novyj-rynok-vozmozhnostej)** *(June 2023)*
+- *Tproger* - The article delves into how artificial intelligence aids in studying lucid dreams. It presents a model developed by ASRP, which uses AI to analyze and understand dreams deeply. The technology, built on microservice architecture and leveraging tools like Pinecone and Elasticsearch, offers practical applications in therapy and creativity. It opens new avenues for exploring the subconscious mind and utilizing dreams for emotional and creative insights
 
 </details>
 
