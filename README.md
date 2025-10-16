@@ -354,15 +354,436 @@ September 2025, Berlin, Germany
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">💼 Projects</span></summary>
 
-For a complete list of my projects and detailed descriptions, visit my [LinkedIn profile](https://www.linkedin.com/in/mykhailo-kapustin-55885612a).
+<details>
+<summary><b>🏢 HYS Enterprise – Corporate Website</b> <em>(September 2018 – February 2020)</em></summary>
 
-Here on GitHub, you'll find a few open-source projects I'm working on:
+**Project Overview:**
+The HYS Enterprise corporate website serves as the official digital portal for one of Ukraine's largest IT companies. It provides a comprehensive overview of the company's expertise, services, and values, acting as a primary point of contact for clients, partners, and potential employees.
+
+**Live Website:** [https://www.hys-enterprise.com](https://www.hys-enterprise.com)
 
 <div align="center">
-  <a href="https://github.com/Kapustin2000">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="projects/hys/1739446106412.jpeg" alt="HYS Enterprise Website" width="600" style="border-radius: 8px; margin: 10px 0;" />
 </div>
+
+**Key Features:**
+- **Company Presentation** – Showcasing HYS Enterprise's mission, services, and expertise in software development
+- **Portfolio** – Highlighting completed projects in software development, business process automation, and IT consulting
+- **Careers Section** – Listing job opportunities, work culture, and hiring process details
+- **Contact Information** – Providing direct ways to reach company representatives
+
+**My Role and Contributions:**
+As a Full-Stack Web Developer, I was the key developer responsible for designing, developing, and maintaining the corporate website:
+- Developing and implementing frontend and backend features for the site
+- Ensuring responsive design and seamless user experience across devices
+- Optimizing performance and security to maintain a high standard of quality
+- Collaborating with designers, marketers, and stakeholders to align the website with company branding and business goals
+- Performing regular maintenance, updates, and debugging to ensure smooth functionality
+
+**Technologies Used:**
+- WordPress
+- React.js
+- PostgreSQL
+
+</details>
+
+---
+
+<details>
+<summary><b>🌱 QPQ International – Green Energy Project Funding & Advisory Platform</b> <em>(February 2020 – July 2020)</em></summary>
+
+**Project Overview:**
+QPQ International is a digitally-enabled bespoke deal advisory platform dedicated to advancing green energy projects globally. The company focuses on assisting project developers in accelerating development, securing financing, and establishing partnerships to promote sustainable initiatives.
+
+**Live Website:** [https://qpq.international](https://qpq.international)
+
+<div align="center">
+  <img src="projects/qpq/qpq.png" alt="QPQ International Platform" width="600" style="border-radius: 8px; margin: 10px 0;" />
+</div>
+
+**Key Services:**
+- **Project Development Support** – QPQ International collaborates with developers to enhance project readiness, ensuring all necessary components are in place to attract investors
+- **Investor Matching** – Leveraging a vast network of over 600 professional investors, including private equity funds, institutional investors, and independent power producers (IPPs), QPQ connects suitable investors with vetted projects
+- **Funding Accelerator Program** – The Green Energy Project Funding Accelerator is an initiative designed to bridge the gap between green energy projects and investors. It offers coaching and training to project sponsors, culminating in events that showcase vetted projects to potential investors
+
+**Mission:**
+QPQ International is committed to making the planet greener by supporting project developers and business owners in the sustainability and renewable energy sectors. The company aims to accelerate the achievement of the United Nations' Sustainable Development Goals (SDGs) through its initiatives.
+
+**Global Reach:**
+Based in Dubai, QPQ International operates worldwide, focusing on markets including the US, Canada, Europe, the Balkans, the Baltics, select South American countries, Southeast Asia, Australia, and New Zealand.
+
+**Technologies Used:**
+- Laravel
+- Vue.js
+- PostgreSQL
+- Nginx
+
+</details>
+
+---
+
+<details>
+<summary><b>📚 Your Torah Tutors – Online Torah Learning Platform</b> <em>(August 2020 – April 2021)</em></summary>
+
+**Project Overview:**
+Your Torah Tutors is an online educational platform dedicated to empowering students to become independent and confident learners in Torah study. The platform offers personalized tutoring sessions focusing on enhancing vocabulary, grammar, and comprehension skills in both Chumash and Gemara. Utilizing unique flashcards and engaging teaching methods, the program makes learning enjoyable and effective. Lessons are conducted via Zoom, making them accessible to students aged 8 and up, regardless of their location.
+
+**Live Website:** [https://yourtorahtutors.org](https://yourtorahtutors.org)
+
+<div align="center">
+  <img src="projects/your-torah/your-torah.png" alt="Your Torah Tutors Platform" width="600" style="border-radius: 8px; margin: 10px 0;" />
+</div>
+
+**Key Features:**
+- **Personalized Learning** – Tailored sessions that cater to the individual needs of each student, ensuring effective learning outcomes
+- **Innovative Teaching Tools** – Use of unique flashcards and interactive methods to expand vocabulary and enhance understanding
+- **Qualified Tutors** – A team of carefully selected tutors who excel in teaching techniques and are sensitive to each child's needs
+- **Flexible Access** – Online lessons via Zoom, allowing students from various locations to participate
+
+**My Role and Contributions:**
+As a developer for Your Torah Tutors, my responsibilities included:
+- **Website Development** – Designed and developed the official website, ensuring a user-friendly interface and seamless navigation
+- **Platform Integration** – Implemented Zoom integration for online lessons, providing a stable and accessible virtual learning environment
+- **Flashcard System** – Developed the unique flashcard feature to aid in vocabulary expansion and retention
+- **User Accounts** – Created secure login portals for teachers and students, facilitating personalized learning experiences
+- **Feedback Mechanism** – Integrated a system for collecting and displaying testimonials to showcase the program's effectiveness
+
+**Technologies Used:**
+- Laravel
+- Vue.js
+- PostgreSQL
+- Docker
+- PHP
+- Nginx
+
+</details>
+
+---
+
+<details>
+<summary><b>🌱 Lill – Intelligent Plant Care Assistant</b> <em>(July 2021 – October 2021)</em></summary>
+
+**Project Overview:**
+Lill is a mobile application designed to assist plant enthusiasts in identifying, diagnosing, and caring for their plants. The app offers a comprehensive suite of features to ensure optimal plant health and growth.
+
+<div align="center">
+  <img src="projects/lill/Plants-care-and-identification-app-1024x572.png" alt="Lill App Interface" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/lill/Plants-care-and-identification-app-2-1024x577.png" alt="Lill Plant Care Features" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/lill/Plants-care-and-identification-app-3-1024x577.png" alt="Lill Garden Management" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/lill/Plants-care-and-identification-app-4-1024x577.png" alt="Lill Plant Identification" width="200" style="border-radius: 8px; margin: 5px;" />
+</div>
+
+**Key Features:**
+- **Plant Identification and Diagnosis** – Instantly identify various plant species and diagnose potential issues, providing users with tailored treatment suggestions
+- **Smart Care Reminders** – Set up customizable notifications for essential plant care tasks, including watering, fertilizing, spraying, cleaning, and repotting, ensuring timely maintenance
+- **Personalized Garden Management** – Create and manage personal plant collections within the app. Track growth, monitor health, and organize plants by different locations or categories using the "My Garden" and "My Places" features
+
+**My Role and Contributions:**
+As a developer for Lill, my responsibilities included:
+- **Mobile Application Development** – Led the development of the iOS and Android applications, ensuring a seamless and intuitive user experience across platforms
+- **Plant Identification Integration** – Implemented advanced algorithms and machine learning models to accurately identify plant species and diagnose potential issues
+- **Notification System** – Developed a robust notification system to provide users with timely reminders for various plant care activities
+- **User Interface Design** – Collaborated with designers to create an intuitive and visually appealing interface, enhancing user engagement and satisfaction
+- **Data Management** – Ensured secure and efficient handling of user data, including personal plant collections and care schedules
+
+**Technologies Used:**
+- Node.js
+- PostgreSQL
+- GraphQL
+- Docker
+- Nginx
+
+</details>
+
+---
+
+<details>
+<summary><b>💪 IzziFit – Smart Workout and Training Plan Application</b> <em>(October 2021 – January 2022)</em></summary>
+
+**Project Overview:**
+IzziFit is a mobile application designed to provide users with personalized workout routines and comprehensive fitness tracking tools. The app offers over 500 exercises tailored to individual needs, making it suitable for both beginners and fitness enthusiasts.
+
+<div align="center">
+  <img src="projects/izzifit/Weight-loss-game-for-women-1024x572.png" alt="IzziFit App Interface" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/izzifit/Weight-loss-game-for-women-2-1024x577.png" alt="IzziFit Workout Features" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/izzifit/Weight-loss-game-for-women-3-1024x577.png" alt="IzziFit Exercise Library" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/izzifit/Weight-loss-game-for-women-4-1024x577.png" alt="IzziFit Progress Tracking" width="200" style="border-radius: 8px; margin: 5px;" />
+</div>
+
+**Key Features:**
+- **Personalized Workouts** – Access a vast library of exercises selected to match your fitness level and goals
+- **Calorie Calculator** – Easily log your meals, and the app calculates your daily caloric intake to help you stay on track
+- **Gamified Experience** – Turn your fitness journey into an engaging game by converting burned calories into energy, which can be used to earn rewards within the app
+- **Additional Tools** – Utilize features like a mood tracker, water intake reminders, meal planning, and smart workout suggestions to support a holistic approach to health
+
+**My Role and Contributions:**
+As a developer for IzziFit, my responsibilities included:
+- **Mobile Application Development** – Led the development of the iOS and Android applications, ensuring a seamless user experience across platforms
+- **Backend Integration** – Implemented robust backend services to handle user data securely and efficiently
+- **Gamification Features** – Developed the gamification elements that allow users to earn rewards based on their workout performance, enhancing user engagement
+- **Performance Optimization** – Conducted thorough testing and optimization to ensure the app runs smoothly on various devices
+
+**Technologies Used:**
+- Node.js
+- GraphQL
+- Docker
+- Nginx
+- PostgreSQL
+- ClickHouse
+
+</details>
+
+---
+
+<details>
+<summary><b>💬 Hark – Global Anonymous Chat Platform</b> <em>(January 2022 – March 2022)</em></summary>
+
+**Project Overview:**
+Hark is a mobile application designed to facilitate anonymous conversations between individuals worldwide. The platform provides a safe space for users to share their thoughts, discuss personal or professional challenges, and connect with others without revealing their identities.
+
+<div align="center">
+  <img src="projects/hark/Anonymos-voice-chat-1024x572.png" alt="Hark Chat Interface" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/hark/Anonymos-voice-chat-2-1024x577.png" alt="Hark Anonymous Communication" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/hark/Anonymos-voice-chat-3-1024x577.png" alt="Hark Voice Chat Features" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/hark/Anonymos-voice-chat-4-1024x577.png" alt="Hark Community Features" width="200" style="border-radius: 8px; margin: 5px;" />
+</div>
+
+**Key Features:**
+- **Anonymous Communication** – Users can engage in voice or text chats without disclosing personal information, ensuring privacy and fostering open dialogue
+- **Emotional Expression** – The app offers various modes for users to express their emotions, allowing for genuine and heartfelt interactions
+- **Safe Environment** – Hark provides a secure space for users to vent about work or personal life, ensuring that conversations remain confidential and respectful
+- **Favorites and Soul Mates** – Users can reconnect with individuals who have positively impacted them by adding them to their favorites, fostering meaningful connections
+- **Community Building** – By rating conversations, users contribute to building an open-minded community that respects and supports each other
+
+**My Role and Contributions:**
+As a developer for Hark, my responsibilities included:
+- **Mobile Application Development** – Led the development of the iOS and Android applications, ensuring a seamless and intuitive user experience across platforms
+- **Anonymous Communication System** – Implemented secure and anonymous voice and text chat functionalities, prioritizing user privacy
+- **User Interface Design** – Collaborated with designers to create an intuitive and visually appealing interface, enhancing user engagement and satisfaction
+- **Favorites Feature** – Developed the functionality allowing users to add others to their favorites, enabling the re-establishment of meaningful connections
+- **Community Rating System** – Implemented a rating system for conversations to help build a respectful and supportive community
+
+**Technologies Used:**
+- Node.js
+- Docker
+- Nginx
+- PostgreSQL
+- GraphQL
+
+</details>
+
+---
+
+<details>
+<summary><b>👩 Woman Insight – Online Educational Platform</b> <em>(July 2021 – April 2023)</em></summary>
+
+**Project Overview:**
+Woman Insight is an online educational platform dedicated to personal development, offering courses that cater to various aspects of life, including spirituality, goals and development, business and finance, family and home, hobbies and interests, relationships, and health and beauty. The platform provides concise lessons, each lasting up to 15 minutes, allowing users to engage in learning even with limited free time. The content is designed to be direct and practical, ensuring maximum benefit without unnecessary information.
+
+**Live Website:** [https://womaninsight.com/ru/courses/](https://womaninsight.com/ru/courses/)
+
+<div align="center">
+  <img src="projects/woman-insight/E-Learning-platform-1024x572.png" alt="Woman Insight Platform" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/woman-insight/E-Learning-platform-2-1024x577.png" alt="Woman Insight Courses" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/woman-insight/E-Learning-platform-3-1024x577.png" alt="Woman Insight Learning Paths" width="200" style="border-radius: 8px; margin: 5px;" />
+</div>
+
+**Key Features:**
+- **Diverse Course Offerings** – Courses cover a wide range of topics, such as spirituality, personal development, business, family, hobbies, relationships, and health
+- **Concise Lessons** – Each lesson is designed to be brief, lasting up to 15 minutes, making it convenient for users with busy schedules
+- **Personalized Learning Paths** – Users can select courses that align with their personal goals and interests, creating a tailored educational experience
+- **Expert Instructors** – Courses are led by experts in various fields, providing professional guidance and insights
+
+**My Role and Contributions:**
+As a developer for Woman Insight, my responsibilities included:
+- **Website Development** – Designed and developed the official website, ensuring a user-friendly interface and seamless navigation
+- **Course Management System** – Implemented a robust system for managing course content, allowing for easy updates and organization
+- **User Authentication** – Developed secure login and registration functionalities to protect user data and provide personalized experiences
+- **Responsive Design** – Ensured the platform is accessible across various devices, providing a consistent experience for all users
+- **Performance Optimization** – Optimized website performance to ensure fast loading times and smooth interactions
+
+**Technologies Used:**
+- Node.js
+- Docker
+- PostgreSQL
+- ClickHouse
+- MongoDB
+- Elasticsearch
+
+</details>
+
+---
+
+<details>
+<summary><b>📺 Gazer TV – Smart TV Companion Application</b> <em>(April 2021 – July 2023)</em></summary>
+
+**Project Overview:**
+Gazer TV is a mobile application designed to enhance the user experience of Gazer Smart TVs by transforming smartphones and tablets into versatile remote controls. The app offers a range of features that provide users with intuitive and convenient ways to interact with their TVs.
+
+<div align="center">
+  <img src="projects/gazer/All-movies-in-one-place-1024x572.png" alt="Gazer TV Interface" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/gazer/All-movies-in-one-place-2-1024x577.png" alt="Gazer TV Remote Control" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/gazer/All-movies-in-one-place-3-1024x577.png" alt="Gazer TV Media Playback" width="200" style="border-radius: 8px; margin: 5px;" />
+  <img src="projects/gazer/All-movies-in-one-place-4-1024x577.png" alt="Gazer TV Screen Mirroring" width="200" style="border-radius: 8px; margin: 5px;" />
+</div>
+
+**Key Features:**
+- **Remote Control Functionality** – Operate your Gazer Smart TV using your mobile device, eliminating the need for traditional remote controls
+- **Media Playback** – Stream videos, photos, and audio directly from your smartphone or tablet to the TV screen, facilitating seamless media sharing
+- **Wireless Mouse and Touchpad** – Utilize the "mouse function" to navigate the TV interface with precision, using your device as a wireless mouse or touchpad
+- **On-Screen Keyboard** – Simplify text input with the on-screen keyboard feature, making searches and data entry more efficient
+- **Screen Mirroring** – Mirror your mobile device's screen onto the TV, allowing for a larger display of your apps, games, and other content
+
+**My Role and Contributions:**
+As a developer for Gazer TV, my responsibilities included:
+- **Mobile Application Development** – Led the development of the app for both iOS and Android platforms, ensuring a consistent and user-friendly experience across devices
+- **Integration with Gazer Smart TVs** – Implemented seamless connectivity between the app and Gazer Smart TVs, enabling efficient communication and control
+- **User Interface Design** – Collaborated with designers to create an intuitive interface that enhances user engagement and accessibility
+- **Feature Implementation** – Developed key functionalities such as media playback, wireless mouse control, and screen mirroring to enrich the user experience
+- **Testing and Optimization** – Conducted thorough testing to ensure app stability, performance, and compatibility with various devices and TV models
+
+**Technologies Used:**
+- Node.js
+- PostgreSQL
+- MongoDB
+- RESTful
+- GraphQL
+- Nginx
+- Elasticsearch
+- GPT-4 integration
+- OAuth2.0
+- JWT
+- Jenkins
+- GitLab CI
+- Docker
+- Kubernetes
+- Amazon Web Services (AWS)
+- Grafana
+- GIT
+- Terraform
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 AI Curriculum Vitae (CV) Matcher to Vacancy</b> <em>(March 2025)</em></summary>
+
+**Project Overview:**
+A Node.js server built with tRPC that provides an AI-powered CV and job description matching service. The service analyzes both documents and provides insights about candidate's fit for the position.
+
+**GitHub Repository:** [https://github.com/Kapustin2000/cv-matcher-technical-task-trpc](https://github.com/Kapustin2000/cv-matcher-technical-task-trpc)
+
+**Key Features:**
+- **PDF Processing** – Handles CVs and job descriptions in PDF format with comprehensive parsing
+- **AI-Powered Analysis** – Uses Gemini 1.5 Flash for intelligent document analysis and matching
+- **Candidate Evaluation** – Identifies strengths, weaknesses, and provides improvement recommendations
+- **Job Fit Scoring** – Provides numerical score (0-100) for candidate-position compatibility
+- **Type-Safe API** – Built with tRPC for end-to-end type safety
+- **Rate Limiting** – Implements protection against abuse with configurable limits
+- **File Management** – Secure upload handling with automatic cleanup
+
+**My Role and Contributions:**
+As a developer for the AI CV Matcher, my responsibilities included:
+- **Backend Development** – Built the Node.js server with tRPC for type-safe API endpoints
+- **AI Integration** – Implemented Gemini 1.5 Flash integration for document analysis
+- **PDF Processing** – Developed robust PDF parsing and content extraction capabilities
+- **API Design** – Created comprehensive RESTful endpoints with proper error handling
+- **Security Implementation** – Added rate limiting, file validation, and secure upload management
+- **Performance Optimization** – Ensured efficient processing and response times
+
+**Technologies Used:**
+- Vertex AI
+- Artificial Intelligence (AI)
+- tRPC
+- Node.js
+- Google Cloud Platform (GCP)
+
+</details>
+
+---
+
+<details>
+<summary><b>🧠 ASRP Media – Analytical & Research Media Platform</b> <em>(May 2023 – September 2025)</em></summary>
+
+**Project Overview:**
+ASRP Media is an analytical and research platform dedicated to neuroscience, AI, cognitive science, and consciousness studies. As part of the ASRP ecosystem, it provides exclusive content, expert insights, and in-depth analyses of emerging technologies. The platform serves scientists, researchers, and technology enthusiasts interested in neurotechnology, lucid dreaming, and cognitive enhancement.
+
+**Live Website:** [https://asrp.media/en](https://asrp.media/en)
+
+<div align="center">
+  <img src="projects/asrp-media/asrp-media.png" alt="ASRP Media Platform" width="600" style="border-radius: 8px; margin: 10px 0;" />
+</div>
+
+**Key Features:**
+- **Expert Interviews** – In-depth discussions with scientists, engineers, and industry leaders in neuroscience and AI
+- **Scientific Research & Reviews** – Curated meta-analyses, reports, and case studies on neurotechnology and human cognition
+- **Subscription-Based Access** – A flexible model offering premium articles, research papers, and expert discussions
+- **Integration with ASRP Ecosystem** – Connected with AI-driven research, neurointerfaces, and dream analysis tools
+- **Community & Knowledge Sharing** – A space for researchers and innovators to collaborate and exchange ideas
+
+**My Role and Contributions:**
+As a developer and strategist, I contributed to:
+- **Website Development** – Designed and optimized the platform for seamless user experience
+- **Custom CMS Implementation** – Developed an efficient system for publishing and managing research content
+- **Monetization & Subscription Model** – Created a balanced content structure with exclusive premium access
+- **SEO & Audience Growth** – Applied visibility strategies to expand reach and credibility
+- **AI & Data Integration** – Integrated AI tools for automated research analysis and content organization
+
+**Technologies Used:**
+- Vue.js
+- Pinia
+- Nuxt.js
+- Node.js
+- LangChain
+- Artificial Intelligence (AI)
+- ChatGPT
+- PostgreSQL
+- Nginx
+- Docker
+
+</details>
+
+---
+
+<details>
+<summary><b>🧘 Arcanum12th – Advanced Educational Platform for Consciousness and Cognitive Studies</b> <em>(April 2023 – Present)</em></summary>
+
+**Project Overview:**
+Arcanum12th is a unique educational platform focused on consciousness studies, cognitive science, and mental training. It offers structured courses, research, and AI-driven analysis tools to help users develop self-awareness, master lucid dreaming, and enhance cognitive abilities. The platform is part of the ASRP ecosystem, integrating scientific research, neurotechnology, and AI-based dream interpretation.
+
+**Live Website:** [https://arcanum12th.education/en](https://arcanum12th.education/en)
+
+<div align="center">
+  <img src="projects/arcanum12th/arcanum12th.png" alt="Arcanum12th Platform" width="600" style="border-radius: 8px; margin: 10px 0;" />
+</div>
+
+**Key Features:**
+- **Specialized Learning Programs** – Courses on lucid dreaming, neurotraining, meditation, and mental resilience
+- **AI-Powered Dream Analysis** – Integration with GMS (Global Mental System) for dream interpretation and consciousness tracking
+- **Exclusive Research & Case Studies** – A collection of scientific papers, real-world applications, and experimental results
+- **Community & Networking** – A space for like-minded individuals to exchange knowledge and insights
+- **Practical Cognitive Training** – Interactive tools for mental state monitoring, self-reflection, and neural optimization
+
+**My Role and Contributions:**
+As a developer and strategist, I contributed to:
+- **Platform Development** – Designed and optimized a seamless learning experience with a modern interface
+- **Course & Content Management System (CMS)** – Built a structured and scalable content delivery system
+- **AI & Data Integration** – Implemented machine learning models for dream analysis and consciousness mapping
+- **Subscription & Monetization Model** – Developed a flexible access system for free and premium content
+- **SEO & Growth Strategy** – Optimized the platform for maximum reach and engagement in cognitive science communities
+
+**Technologies Used:**
+- Vue.js
+- Nuxt.js
+- LangChain
+- Docker
+- Node.js
+- Nginx
+- PostgreSQL
+
+</details>
+
 
 </details>
 
