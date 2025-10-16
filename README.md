@@ -163,8 +163,8 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 
 ### 📝 **Technical Articles (2023-2025)**
 
-**["Building an App Store Review Analysis Pipeline with Python NLP & Data Visualization"](https://medium.com/@kapustinomm/from-star-ratings-to-insights-building-an-app-store-review-analysis-pipeline-with-python-nlp-56002731e661)** *(October 2025)*
-- Published on: [Medium](https://medium.com/@kapustinomm/from-star-ratings-to-insights-building-an-app-store-review-analysis-pipeline-with-python-nlp-56002731e661) | [Hashnode](https://hashnode.com/@kapustinomm)
+**["Building an App Store Review Analysis Pipeline with Python NLP & Data Visualization"](https://kapustinomm.hashnode.dev/building-an-app-store-review-analysis-pipeline-with-python-nlp-and-data-visualization)** *(October 2025)*
+- Published on: [Hashnode](https://kapustinomm.hashnode.dev/building-an-app-store-review-analysis-pipeline-with-python-nlp-and-data-visualization) | [Medium](https://medium.com/@kapustinomm/from-star-ratings-to-insights-building-an-app-store-review-analysis-pipeline-with-python-nlp-56002731e661)
 - An analytical case study on how App Store reviews can be transformed into structured insights using Python, NLP, and data visualization. The article explores how user feedback reflects social sentiment and how such data can help forecast trends within digital ecosystems
 
 **["Google ADK and 'Startup Technical Guide: AI Agents': how Google is redefining the way AI agents are built"](https://habr.com/en/articles/953592/)** *(October 2025)*
@@ -187,8 +187,8 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 - Published on: [Hashnode](https://kapustinomm.hashnode.dev/docling-in-working-with-texts-languages-and-knowledge) | [Medium](https://medium.com/@kapustinomm/docling-in-working-with-texts-languages-and-knowledge-87263c51dfeb) | [Habr](https://habr.com/en/articles/935584/)
 - A professional overview of Docling as an environment for working with linguistic and textual data, presented through the lens of digital humanities and AI research. This comprehensive analysis explores how Docling transforms academic documents into structured, graph-based knowledge representations, enabling better peer review, semantic analysis, and integration with LLM pipelines
 
-**["How to Integrate Google ADK with a Custom Interface"](https://kapustinomm.hashnode.dev/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples)** *(July-August 2025)*
-- Published on: [Hashnode](https://kapustinomm.hashnode.dev/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples) | [Habr](https://habr.com/en/articles/933804/)
+**["How to Integrate Google ADK with a Custom Interface"](https://medium.com/@kapustinomm/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples-04f01ab501ca)** *(July-August 2025)*
+- Published on: [Medium](https://medium.com/@kapustinomm/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples-04f01ab501ca) | [Hashnode](https://kapustinomm.hashnode.dev/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples) | [Habr](https://habr.com/en/articles/933804/)
 - A comprehensive guide to integrating Google ADK into custom interfaces: code examples, session management, FastAPI integration, deployment on Vertex AI, and agent architecture. This step-by-step tutorial covers everything from basic agent creation to production-ready implementations with custom backends and state management
 
 ### 🔬 **Research Publications (2024-2025)**
