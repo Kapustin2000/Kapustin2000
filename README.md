@@ -7,7 +7,8 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 - **Blockchain Technology** - Building decentralized applications and smart contracts  
 - **Consciousness Research** - Exploring lucid dreams and their technological applications
 
-## 🛠️ Tech Stack
+<details>
+<summary><span style="font-size: 1.3em; font-weight: bold;">🛠️ Tech Stack</span></summary>
 
 <div align="center">
 
@@ -30,6 +31,10 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+</details>
+
+---
 
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">🏢 Professional Experience</span></summary>
@@ -127,8 +132,6 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 - 💼 Balanced technical development with business partnerships
 
 </details>
-
-For complete professional history and detailed experience, visit my [LinkedIn profile](https://www.linkedin.com/in/mykhailo-kapustin-55885612a).
 
 </details>
 
