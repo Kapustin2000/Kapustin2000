@@ -712,7 +712,7 @@ ASRP Media is an analytical and research platform dedicated to neuroscience, AI,
 **Live Website:** [https://asrp.media/en](https://asrp.media/en)
 
 <div align="center">
-  <img src="projects/asrp-media/asrp-media.png" alt="ASRP Media Platform" width="600" style="border-radius: 8px; margin: 10px 0;" />
+  <img src="projects/asrp.media/asrp-media-en.png" alt="ASRP Media Platform" width="600" style="border-radius: 8px; margin: 10px 0;" />
 </div>
 
 **Key Features:**
