@@ -253,7 +253,8 @@ For complete professional history and detailed experience, visit my [LinkedIn pr
   </a>
 </div>
 
-## 🎤 Conferences & Speaking
+<details>
+<summary><span style="font-size: 1.3em; font-weight: bold;">🎤 Conferences & Speaking</span></summary>
 
 ### WeAreDevelopers World Congress Europe
 
@@ -358,6 +359,8 @@ September 2025, Berlin, Germany
 - 🎥 **Live Pitch Video:** [YouTube Presentation](https://www.youtube.com/watch?v=8ubUtSxpi-g)
 
 *<sub>Click on any photo above to view full size</sub>*
+
+</details>
 
 </details>
 
