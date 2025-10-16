@@ -163,35 +163,39 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 
 ### 📝 **Technical Articles (2023-2025)**
 
-**["Google ADK and Startup Technical Guide: AI Agents"](https://medium.com/@kapustinomm/google-adk-and-startup-technical-guide-ai-agents-how-google-is-redefining-the-way-ai-agents-are-built-123456789)** *(October 2025)*
-- Published on: [Medium](https://medium.com/@kapustinomm/google-adk-and-startup-technical-guide-ai-agents-how-google-is-redefining-the-way-ai-agents-are-built-123456789) | [Hashnode](https://hashnode.com/@kapustinomm) | [Habr](https://habr.com/en/users/kapustinomm/)
-- Google's roadmap for building agentic systems and engineering platforms
+**["Building an App Store Review Analysis Pipeline with Python NLP & Data Visualization"](https://medium.com/@kapustinomm/from-star-ratings-to-insights-building-an-app-store-review-analysis-pipeline-with-python-nlp-56002731e661)** *(October 2025)*
+- Published on: [Medium](https://medium.com/@kapustinomm/from-star-ratings-to-insights-building-an-app-store-review-analysis-pipeline-with-python-nlp-56002731e661) | [Hashnode](https://hashnode.com/@kapustinomm)
+- An analytical case study on how App Store reviews can be transformed into structured insights using Python, NLP, and data visualization. The article explores how user feedback reflects social sentiment and how such data can help forecast trends within digital ecosystems
 
-**["My First AI & Blockchain Hackathon: Building the Global Forecasting System"](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625)** *(September 2025)*
-- Published on: [Medium](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625) | [Hashnode](https://hashnode.com/@kapustinomm) | [Habr](https://habr.com/en/users/kapustinomm/)
-- Theta EuroCon Hackathon experience and GFS prototype development
+**["Google ADK and 'Startup Technical Guide: AI Agents': how Google is redefining the way AI agents are built"](https://habr.com/en/articles/953592/)** *(October 2025)*
+- Published on: [Habr](https://habr.com/en/articles/953592/) | [Hashnode](https://kapustinomm.hashnode.dev/google-adk-and-startup-technical-guide-ai-agents-how-google-is-redefining-the-way-ai-agents-are-built) | [Medium](https://medium.com/@kapustinomm/google-adk-and-startup-technical-guide-ai-agents-how-google-is-redefining-the-way-ai-agents-are-a0bbceede6bf)
+- Google has released a 64-page Startup Technical Guide: AI Agents — a document that can rightfully be called a roadmap for building agentic systems. I read it cover to cover and pulled out five key ideas: from architecture built on Google ADK to the principles of AgentOps and grounding. This isn't about "chatbots" anymore — it's about a new generation of engineering platforms
 
-**["Building a Resume Matcher with tRPC, NLP, and Vertex AI"](https://medium.com/@kapustinomm/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai-1122334455)** *(September 2025)*
-- Published on: [Medium](https://medium.com/@kapustinomm/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai-1122334455) | [Hashnode](https://hashnode.com/@kapustinomm) | [Habr](https://habr.com/en/users/kapustinomm/)
-- Technical implementation using tRPC, TypeScript, and Google Vertex AI
+**["My First AI & Blockchain Hackathon: Building the Global Forecasting System at Theta EuroCon in Berlin"](https://kapustinomm.hashnode.dev/my-first-ai-and-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-berlin)** *(September 2025)*
+- Published on: [Hashnode](https://kapustinomm.hashnode.dev/my-first-ai-and-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-berlin) | [Habr](https://habr.com/en/articles/947040/) | [Medium](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625)
+- In September 2025, I joined my first hackathon — Theta EuroCon Hackathon in Berlin. Together with my team at ASRP, we built the first prototype of the Global Forecasting System (GFS), a bold attempt to create the first real competitor to BlackRock's Aladdin. In this article, I share what we built in just five days, how the hackathon atmosphere pushed us beyond our limits, and why GFS has the potential to change the way we forecast social, geopolitical, and economic events
 
-**["My Personal Exam: How I Built an MVP LLM Agent on Google ADK"](https://medium.com/@kapustinomm/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk-90c246ab9c2a)** *(September 2025)*
-- Published on: [Medium](https://medium.com/@kapustinomm/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk-90c246ab9c2a) | [Hashnode](https://hashnode.com/@kapustinomm) | [Habr](https://habr.com/en/users/kapustinomm/)
-- Personal experience developing LLM agents in educational scenarios
+**["Building a Resume Matcher with tRPC, NLP, and Vertex AI"](https://kapustinomm.hashnode.dev/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai)** *(September 2025)*
+- Published on: [Hashnode](https://kapustinomm.hashnode.dev/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai) | [Medium](https://medium.com/@kapustinomm/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai-fec6e9896adb) | [Habr](https://habr.com/en/articles/943306/)
+- In this article, I share how I built a resume matcher app using tRPC, TypeScript, and Google Vertex AI. The project takes PDF resumes and job postings, extracts text, applies basic NLP for skill detection, and then calls Gemini 1.5 Flash for deeper analysis. Along the way, I explain why tRPC felt faster and cleaner than REST or GraphQL for an MVP, show code snippets from the repo, and discuss both the benefits and trade-offs of this approach
 
-**["Docling in Working with Texts, Languages, and Knowledge"](https://medium.com/@kapustinomm/docling-in-working-with-texts-languages-and-knowledge-123456789)** *(August 2025)*
-- Published on: [Medium](https://medium.com/@kapustinomm/docling-in-working-with-texts-languages-and-knowledge-123456789) | [Hashnode](https://hashnode.com/@kapustinomm) | [Habr](https://habr.com/en/users/kapustinomm/)
-- Professional overview of Docling for linguistic and textual data
+**["My Personal Exam: How I Built an MVP LLM Agent on Google ADK"](https://kapustinomm.hashnode.dev/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk)** *(September 2025)*
+- Published on: [Hashnode](https://kapustinomm.hashnode.dev/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk) | [Habr](https://habr.com/en/articles/942696/) | [Medium](https://medium.com/@kapustinomm/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk-90c246ab9c2a)
+- In this article, I share my personal experience of developing an MVP LLM agent with Google ADK in educational scenarios. I describe how I built the architecture from a monolithic agent to a modular system, the challenges I faced (memory, tokens, orchestration), and the engineering hacks that helped me overcome them. Most importantly, I share the philosophy: why working with LLMs feels like taking an exam, how the role of a CTO evolves, and what such projects can teach us. In the end, I summarize with 10 lessons I learned from this "AI exam"
 
-**["How to Integrate Google ADK with a Custom Interface"](https://hashnode.com/@kapustinomm/how-to-integrate-google-adk-with-a-custom-interface-123456789)** *(July-August 2025)*
-- Published on: [Hashnode](https://hashnode.com/@kapustinomm/how-to-integrate-google-adk-with-a-custom-interface-123456789) | [Habr](https://habr.com/en/users/kapustinomm/)
-- Step-by-step guide with code examples and deployment strategies
+**["Docling in Working with Texts, Languages, and Knowledge"](https://kapustinomm.hashnode.dev/docling-in-working-with-texts-languages-and-knowledge)** *(August 2025)*
+- Published on: [Hashnode](https://kapustinomm.hashnode.dev/docling-in-working-with-texts-languages-and-knowledge) | [Medium](https://medium.com/@kapustinomm/docling-in-working-with-texts-languages-and-knowledge-87263c51dfeb) | [Habr](https://habr.com/en/articles/935584/)
+- A professional overview of Docling as an environment for working with linguistic and textual data, presented through the lens of digital humanities and AI research. This comprehensive analysis explores how Docling transforms academic documents into structured, graph-based knowledge representations, enabling better peer review, semantic analysis, and integration with LLM pipelines
+
+**["How to Integrate Google ADK with a Custom Interface"](https://kapustinomm.hashnode.dev/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples)** *(July-August 2025)*
+- Published on: [Hashnode](https://kapustinomm.hashnode.dev/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples) | [Habr](https://habr.com/en/articles/933804/)
+- A comprehensive guide to integrating Google ADK into custom interfaces: code examples, session management, FastAPI integration, deployment on Vertex AI, and agent architecture. This step-by-step tutorial covers everything from basic agent creation to production-ready implementations with custom backends and state management
 
 ### 🔬 **Research Publications (2024-2025)**
 
-**["Technological Transformations, Formation of GMS and GFS"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(February 2025)*
+**["Technological Transformations, Formation of GMS (Global Mental System) and GFS (Global Forecasting System) —'Right-Brain Technologies' Based on Biological Entities with Consciousness, Artificial Intelligence, Quantum Computing, and Blockchain"](https://www.researchgate.net/publication/388438082_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_)** *(February 2025)*
 - *Journal of Investment, Banking and Finance*
-- Exploring "right-brain technologies" integrating consciousness, AI, quantum computing, and blockchain
+- This study explores methodological approaches to transmitting consciousness states between subjects using advanced neurointerface technologies. It discusses the formation of the Global Mental System (GMS) and Global Forecasting System (GFS), focusing on "right-brain technologies" that integrate biological entities with consciousness and artificial intelligence. The research examines the application of AI algorithms for processing and transmitting data, enabling the classification and analysis of neural information
 
 **["The methodology for diagnosing and managing stress developed by Grivtsova"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(July 2024)*
 - *American Journal of Medical and Clinical Research & Reviews*
