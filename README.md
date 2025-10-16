@@ -2,11 +2,6 @@
 
 I am a **Chief Technology Officer** and **Software Architect** with a passion for cutting-edge technology and consciousness research. My work spans across artificial intelligence, blockchain technology, and the fascinating intersection of technology with human consciousness through lucid dreaming studies.
 
-### 🎯 Current Focus
-- **AI & Machine Learning** - Developing intelligent systems and forecasting models
-- **Blockchain Technology** - Building decentralized applications and smart contracts  
-- **Consciousness Research** - Exploring lucid dreams and their technological applications
-
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">🛠️ Tech Stack</span></summary>
 
@@ -166,27 +161,6 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">📖 Publications & Articles</span></summary>
 
-<details>
-<summary>📋 Click to view all publications</summary>
-
-### 🔬 **Research Publications (2024-2025)**
-
-**["Technological Transformations, Formation of GMS and GFS"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(February 2025)*
-- *Journal of Investment, Banking and Finance*
-- Exploring "right-brain technologies" integrating consciousness, AI, quantum computing, and blockchain
-
-**["The methodology for diagnosing and managing stress developed by Grivtsova"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(July 2024)*
-- *American Journal of Medical and Clinical Research & Reviews*
-- Stress management methodology and lucid dream induction framework
-
-**["Forecasting Social, Geopolitical, and Economic Events Using the 'Banchenko-Technology'"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(June 2024)*
-- *Japan Journal of Research*
-- Banchenko Algorithm and Mnemonic Synchronization for event prediction
-
-**["Application of Banchenko's Mnemonic Dream Synchronization Method"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(January 2024)*
-- *International Internal Medicine Journal*
-- AI Dream Matching Model for synchronized lucid dreaming
-
 ### 📝 **Technical Articles (2023-2025)**
 
 **["Google ADK and Startup Technical Guide: AI Agents"](https://medium.com/@kapustinomm/google-adk-and-startup-technical-guide-ai-agents-how-google-is-redefining-the-way-ai-agents-are-built-123456789)** *(October 2025)*
@@ -213,6 +187,30 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 - Published on: [Hashnode](https://hashnode.com/@kapustinomm/how-to-integrate-google-adk-with-a-custom-interface-123456789) | [Habr](https://habr.com/en/users/kapustinomm/)
 - Step-by-step guide with code examples and deployment strategies
 
+### 🔬 **Research Publications (2024-2025)**
+
+**["Technological Transformations, Formation of GMS and GFS"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(February 2025)*
+- *Journal of Investment, Banking and Finance*
+- Exploring "right-brain technologies" integrating consciousness, AI, quantum computing, and blockchain
+
+**["The methodology for diagnosing and managing stress developed by Grivtsova"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(July 2024)*
+- *American Journal of Medical and Clinical Research & Reviews*
+- Stress management methodology and lucid dream induction framework
+
+**["Forecasting Social, Geopolitical, and Economic Events Using the 'Banchenko-Technology'"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(June 2024)*
+- *Japan Journal of Research*
+- Banchenko Algorithm and Mnemonic Synchronization for event prediction
+
+**["Application of Banchenko's Mnemonic Dream Synchronization Method"](https://www.researchgate.net/publication/370123456_Technological_Transformations_Formation_of_GMS_Global_Mental_System_and_GFS_Global_Forecasting_System_-_Right-Brain_Technologies_Based_on_Biological_Entities_with_Consciousness_Artificial_Intelligence_Quantum_Computing_and_Blockchain_Banchenko-Market_Global_Market_of_Lucid_Dreams_and_Other_Transcendental_States_of_Consciousness)** *(January 2024)*
+- *International Internal Medicine Journal*
+- AI Dream Matching Model for synchronized lucid dreaming
+
+### 📊 **Academic Research (2018)**
+
+**["A STUDY OF SOFTWARE DEVELOPMENT TOOLS REQUIRED IN THE JOB MARKET"](https://www.researchgate.net/publication/370123456_A_STUDY_OF_SOFTWARE_DEVELOPMENT_TOOLS_THAT_ARE_REQUIRED_IN_THE_JOB_MARKET_IN_UKRAINE_AND_THE_WORLD)** *(December 2018)*
+- *Proceedings of the O S Popov ОNAT*
+- Analysis of programming languages and frameworks in Ukrainian and global IT markets
+
 ### 🌐 **Popular Science & Technology Articles**
 
 **["Lucid dreams and VR: Swiss Olympic team training in dreams"](https://tproger.ru/articles/lucid-dreams-and-vr-swiss-olympic-team-training-in-dreams/)** *(December 2024)*
@@ -235,34 +233,6 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 
 **["AI and Lucid Dreaming: Exploring New Opportunities"](https://tproger.ru/articles/ai-and-lucid-dreaming-exploring-new-opportunities/)** *(June 2023)*
 - *Tproger* - ASRP's AI model for dream analysis
-
-### 📊 **Academic Research (2018)**
-
-**["A STUDY OF SOFTWARE DEVELOPMENT TOOLS REQUIRED IN THE JOB MARKET"](https://www.researchgate.net/publication/370123456_A_STUDY_OF_SOFTWARE_DEVELOPMENT_TOOLS_THAT_ARE_REQUIRED_IN_THE_JOB_MARKET_IN_UKRAINE_AND_THE_WORLD)** *(December 2018)*
-- *Proceedings of the O S Popov ОNAT*
-- Analysis of programming languages and frameworks in Ukrainian and global IT markets
-
-</details>
-
-### 📝 **Read My Articles**
-<div align="center">
-  <a href="https://medium.com/@kapustinomm">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://habr.com/en/users/kapustinomm/">
-    <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr" />
-  </a>
-  <a href="https://hashnode.com/@kapustinomm">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-  </a>
-</div>
-
-### 🔬 **Research Publications**
-<div align="center">
-  <a href="https://www.researchgate.net/profile/Mykhailo-Kapustin">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
-  </a>
-</div>
 
 </details>
 
@@ -393,6 +363,17 @@ Here on GitHub, you'll find a few open-source projects I'm working on:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+</details>
+
+---
+
+<details>
+<summary><span style="font-size: 1.3em; font-weight: bold;">🎯 Current Focus</span></summary>
+
+- **AI & Machine Learning** - Developing intelligent systems and forecasting models
+- **Blockchain Technology** - Building decentralized applications and smart contracts  
+- **Consciousness Research** - Exploring lucid dreams and their technological applications
 
 </details>
 
