@@ -134,8 +134,24 @@ For complete professional history and detailed experience, visit my [LinkedIn pr
 
 ## 📚 Education
 
-**Master's Degree in Automation and Computer-Integrated Technologies**  
+### Master's Degree in Automation and Computer-Integrated Technologies
 *State University of Intelligent Technologies and Telecommunications (2017 – 2022)*
+
+<details>
+<summary><b>🎓 View Diploma & Academic Records</b></summary>
+
+**Degree Details:**
+- **Program:** Automation and Computer-Integrated Technologies
+- **Institution:** State University of Intelligent Technologies and Telecommunications
+- **Duration:** 2017 – 2022
+- **Level:** Master's Degree
+
+**Academic Documentation:**
+- 📄 **[Diploma & Academic Records](education/telecommunication/telecomunication-education.pdf)** - Complete diploma with grades and academic achievements
+
+*<sub>Click to view full diploma document with grades and academic details</sub>*
+
+</details>
 
 ## 📖 Publications & Articles
 
