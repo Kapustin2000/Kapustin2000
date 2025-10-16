@@ -237,6 +237,49 @@ For complete professional history and detailed experience, visit my [LinkedIn pr
   </a>
 </div>
 
+## 🎤 Conferences & Speaking
+
+### <img src="conferences/theta-eurocon-2025/logo.jpeg" alt="THETA EuroCon Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" /> THETA EuroCon European Theta Network Conference & Hackathon
+
+September 2025, Berlin, Germany
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="conferences/theta-eurocon-2025/2025-09-14 13.24.15.jpg" alt="THETA EuroCon Conference Photo 4" width="180" />
+    </td>
+    <td align="center">
+      <img src="conferences/theta-eurocon-2025/2025-09-14 13.22.51.jpg" alt="THETA EuroCon Conference Photo 2" width="180" />
+    </td>
+    <td align="center">
+      <img src="conferences/theta-eurocon-2025/2025-09-14 13.23.07.jpg" alt="THETA EuroCon Conference Photo 3" width="180" />
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🔍 View Conference Details</b></summary>
+
+**Event Details:**
+- **Focus Areas:** Blockchain, Hackathon, AI, LLM, Cloud Infrastructure
+- **Location:** European Theta Network Conference
+- **Participation:** Live pitch presentation and hackathon participation
+
+**My Contribution:**
+- 🎯 **Live Pitch Presentation:** Delivered a compelling presentation on my project
+- 🏆 **Hackathon Participation:** Built innovative solutions combining AI and blockchain technologies
+- 🤝 **Networking:** Connected with industry leaders and fellow innovators
+
+**Related Content:**
+- 📝 **Article:** ["My First AI & Blockchain Hackathon: Building the Global Forecasting System"](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625)
+- 🎥 **Live Pitch Video:** [YouTube Presentation](https://www.youtube.com/watch?v=8ubUtSxpi-g)
+
+*<sub>Click on any photo above to view full size</sub>*
+
+</details>
+
+---
+
 ## 💼 Projects
 
 For a complete list of my projects and detailed descriptions, visit my [LinkedIn profile](https://www.linkedin.com/in/mykhailo-kapustin-55885612a).
