@@ -239,6 +239,73 @@ For complete professional history and detailed experience, visit my [LinkedIn pr
 
 ## 🎤 Conferences & Speaking
 
+### WeAreDevelopers World Congress Europe
+
+July 2024, Berlin, Germany
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419215344.jpeg" alt="WeAreDevelopers Conference Photo 1" width="150" />
+    </td>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419216254.jpeg" alt="WeAreDevelopers Conference Photo 2" width="150" />
+    </td>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419216485.jpeg" alt="WeAreDevelopers Conference Photo 3" width="150" />
+    </td>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419217967.jpeg" alt="WeAreDevelopers Conference Photo 4" width="150" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419228046.jpeg" alt="WeAreDevelopers Conference Photo 5" width="150" />
+    </td>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419228989.jpeg" alt="WeAreDevelopers Conference Photo 6" width="150" />
+    </td>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419229377.jpeg" alt="WeAreDevelopers Conference Photo 7" width="150" />
+    </td>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419229683.jpeg" alt="WeAreDevelopers Conference Photo 8" width="150" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419230725.jpeg" alt="WeAreDevelopers Conference Photo 9" width="150" />
+    </td>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/1722419231929.jpeg" alt="WeAreDevelopers Conference Photo 10" width="150" />
+    </td>
+    <td align="center">
+      <img src="conferences/WeAreDevelopers/2025-09-24 12.17.53.jpg" alt="WeAreDevelopers Conference Photo 11" width="150" />
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🔍 View Conference Details</b></summary>
+
+**Event Details:**
+- **Focus Areas:** Software Development, Technology Innovation, Developer Community
+- **Location:** WeAreDevelopers World Congress Europe
+- **Participation:** Conference attendance and networking
+
+**My Experience:**
+- 🎯 **Technology Insights:** Gained valuable insights into latest development trends
+- 🏆 **Networking:** Connected with developers and industry professionals
+- 🤝 **Knowledge Sharing:** Participated in technical discussions and workshops
+
+*<sub>Click on any photo above to view full size</sub>*
+
+</details>
+
+---
+
 ### <img src="conferences/theta-eurocon-2025/logo.jpeg" alt="THETA EuroCon Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" /> THETA EuroCon European Theta Network Conference & Hackathon
 
 September 2025, Berlin, Germany
