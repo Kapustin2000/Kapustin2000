@@ -31,10 +31,8 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 
 </div>
 
-## 🏢 Professional Experience
-
 <details>
-<summary>📋 Click to view detailed experience</summary>
+<summary><span style="font-size: 1.3em; font-weight: bold;">🏢 Professional Experience</span></summary>
 
 ### **Co-Founder & CTO** at Advanced Scientific Research Projects (ASRP.media)
 *April 2023 – Present · 2 yrs 7 mos*
@@ -132,7 +130,12 @@ I am a **Chief Technology Officer** and **Software Architect** with a passion fo
 
 For complete professional history and detailed experience, visit my [LinkedIn profile](https://www.linkedin.com/in/mykhailo-kapustin-55885612a).
 
-## 📚 Education
+</details>
+
+---
+
+<details>
+<summary><span style="font-size: 1.3em; font-weight: bold;">📚 Education</span></summary>
 
 ### Master's Degree in Automation and Computer-Integrated Technologies
 *State University of Intelligent Technologies and Telecommunications (2017 – 2022)*
@@ -153,7 +156,12 @@ For complete professional history and detailed experience, visit my [LinkedIn pr
 
 </details>
 
-## 📖 Publications & Articles
+</details>
+
+---
+
+<details>
+<summary><span style="font-size: 1.3em; font-weight: bold;">📖 Publications & Articles</span></summary>
 
 <details>
 <summary>📋 Click to view all publications</summary>
@@ -252,6 +260,10 @@ For complete professional history and detailed experience, visit my [LinkedIn pr
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
 </div>
+
+</details>
+
+---
 
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">🎤 Conferences & Speaking</span></summary>
@@ -366,7 +378,8 @@ September 2025, Berlin, Germany
 
 ---
 
-## 💼 Projects
+<details>
+<summary><span style="font-size: 1.3em; font-weight: bold;">💼 Projects</span></summary>
 
 For a complete list of my projects and detailed descriptions, visit my [LinkedIn profile](https://www.linkedin.com/in/mykhailo-kapustin-55885612a).
 
@@ -377,6 +390,8 @@ Here on GitHub, you'll find a few open-source projects I'm working on:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+</details>
 
 ## 🤝 Connect with Me
 
