@@ -1,6 +1,14 @@
 # Hi there, I'm Mykhailo Kapustin 👋
 
-I am a **Chief Technology Officer** and **Software Architect** with a passion for cutting-edge technology and consciousness research. My work spans across artificial intelligence, blockchain technology, and the fascinating intersection of technology with human consciousness through lucid dreaming studies.
+Berlin-based developer and researcher with over 10 years of experience in technology.
+
+My background spans **Frontend**, **Backend**, **DevOps**, **AI/ML**, and **digital strategy**, which helps me see projects as complete systems — from idea to implementation.
+
+I believe technology is a tool to understand and improve the world, not just to build products.
+
+Beyond development, I work as a **mentor**, write **articles and research papers**, speak at **conferences**, and participate in **hackathons**.
+
+Lately, I've been exploring **dreams and consciousness**, studying how technology can help us better understand the human mind.
 
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">🛠️ Tech Stack</span></summary>
