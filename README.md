@@ -253,9 +253,8 @@ Lately, I've been exploring **dreams and consciousness**, studying how technolog
 <details>
 <summary><span style="font-size: 1.3em; font-weight: bold;">🎤 Conferences & Speaking</span></summary>
 
-### WeAreDevelopers World Congress Europe
-
-July 2024, Berlin, Germany
+<details>
+<summary><b>🌍 WeAreDevelopers World Congress Europe</b> - July 2024, Berlin, Germany</summary>
 
 <table align="center">
   <tr>
@@ -301,9 +300,6 @@ July 2024, Berlin, Germany
   </tr>
 </table>
 
-<details>
-<summary><b>🔍 View Conference Details</b></summary>
-
 **Event Details:**
 - **Focus Areas:** Software Development, Technology Innovation, Developer Community
 - **Location:** WeAreDevelopers World Congress Europe
@@ -314,15 +310,13 @@ July 2024, Berlin, Germany
 - 🏆 **Networking:** Connected with developers and industry professionals
 - 🤝 **Knowledge Sharing:** Participated in technical discussions and workshops
 
-*<sub>Click on any photo above to view full size</sub>*
 
 </details>
 
 ---
 
-### <img src="conferences/theta-eurocon-2025/logo.jpeg" alt="THETA EuroCon Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" /> THETA EuroCon European Theta Network Conference & Hackathon
-
-September 2025, Berlin, Germany
+<details>
+<summary><b>🚀 <img src="conferences/theta-eurocon-2025/logo.jpeg" alt="THETA EuroCon Logo" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> THETA EuroCon European Theta Network Conference & Hackathon</b> - September 2025, Berlin, Germany</summary>
 
 <table align="center">
   <tr>
@@ -338,9 +332,6 @@ September 2025, Berlin, Germany
   </tr>
 </table>
 
-<details>
-<summary><b>🔍 View Conference Details</b></summary>
-
 **Event Details:**
 - **Focus Areas:** Blockchain, Hackathon, AI, LLM, Cloud Infrastructure
 - **Location:** European Theta Network Conference
@@ -355,7 +346,6 @@ September 2025, Berlin, Germany
 - 📝 **Article:** ["My First AI & Blockchain Hackathon: Building the Global Forecasting System"](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625)
 - 🎥 **Live Pitch Video:** [YouTube Presentation](https://www.youtube.com/watch?v=8ubUtSxpi-g)
 
-*<sub>Click on any photo above to view full size</sub>*
 
 </details>
 
