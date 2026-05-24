@@ -7,7 +7,7 @@
 
 ## Context
 
-Worked as a senior backend engineer on product engineering projects, building and maintaining high-performance backend systems.
+Worked as a senior backend engineer within the MOB.325/LAB325 group of companies, building and maintaining high-performance backend systems for client products. While MOB.325 focused on team leadership, LAB325 was the IC track within the same ecosystem.
 
 ## Key Achievements
 

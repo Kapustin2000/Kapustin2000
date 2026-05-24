@@ -7,7 +7,7 @@
 
 ## Context
 
-Led development teams and drove technical delivery for client projects at MOB.325, a product engineering company.
+Led development teams and drove technical delivery within the MOB.325/LAB325 group of companies. While MOB.325 focused on team leadership and client delivery, LAB325 was the parallel IC track within the same ecosystem.
 
 ## Key Achievements
 

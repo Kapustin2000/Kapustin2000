@@ -40,4 +40,24 @@ Global footprint: USA · Germany · Ukraine · Israel · Kazakhstan
 
 ---
 
+## TODO
+
+- [ ] Fill in location for ASRP, LAB325, MOB.325, Provectus, Ephyros, Woolf
+- [ ] Verify stacks for Provectus, PHP-academy, SuperMediaAds, Top Agent (PHP only?)
+- [ ] Expand thin entries (Provectus, PHP-academy, SuperMediaAds) with concrete facts/metrics
+- [ ] Add duration to ASRP header
+- [ ] Enrich Impact column with metrics (optional)
+
+### Ideas
+
+- Index: add Location column (text, no flags)
+- Index: add Duration column
+- Index: visually indicate concurrent roles (LAB325 + MOB.325 ran in parallel)
+- ASRP: link to live products (arcanum12th.education, asrp.media)
+- Company pages: add `reference.md` for companies with reference letters (Coelix, HYS, PHP-academy)
+- Cross-link Experience → Publications by company
+- Add Prev / Next navigation between company pages
+
+---
+
 [← Back to Profile](../README.md)
