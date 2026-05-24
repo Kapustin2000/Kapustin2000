@@ -1,21 +1,33 @@
 id: skills
 type: index
-description: "Technical skills and competencies — categorized by domain"
+description: "Technical skills and competencies — with experience mapping"
 categories:
   - label: Languages
-    skills: [TypeScript, JavaScript, Python, PHP, SQL, Bash]
+    skills: [TypeScript, JavaScript, Python, PHP, SQL, C++]
   - label: Frontend
-    skills: [Vue.js, Nuxt, React, HTML, CSS]
-  - label: Backend
-    skills: [Node.js, Laravel, Express, FastAPI]
+    skills: [Vue.js, Nuxt, React, Angular, Pinia, Vuex, HTML, CSS]
+  - label: Backend & API
+    skills: [Node.js, Laravel, Express, FastAPI, RESTful APIs, GraphQL, tRPC, WebSockets, Socket.io, OAuth 2.0, JWT, WordPress]
   - label: AI/ML
-    skills: [LangChain, Google ADK, Vertex AI, Gemini, OpenAI]
-  - label: DevOps
-    skills: [Docker, Kubernetes, AWS, Nginx, CI/CD]
+    skills: [LangChain, LangGraph, Google ADK, Vertex AI, Gemini, OpenAI, ChatGPT, PyTorch, snnTorch, Multi-agent Systems, Machine Learning, LLM]
+  - label: Cloud & DevOps
+    skills: [Docker, Kubernetes, AWS, Google Cloud Platform, Microsoft Azure, Terraform, Nginx, CI/CD, Linux]
   - label: Databases
-    skills: [PostgreSQL, MongoDB, Elasticsearch, ClickHouse, Redis]
-  - label: Tools
-    skills: [Git, GraphQL, tRPC, WebSockets, Linux]
+    skills: [PostgreSQL, MySQL, MongoDB, Elasticsearch, ClickHouse, Redis]
+  - label: Tools & Platforms
+    skills: [Git, JIRA, Jenkins, GitLab CI, Grafana, Gulp, Cursor]
+  - label: Blockchain
+    skills: [Algorand, Smart Contracts]
+timeline:
+  2016: [PHP, JavaScript]
+  2017: [PHP, WordPress]
+  2018: [React, Angular, HTML, CSS]
+  2020: [Vue.js, Laravel, PostgreSQL, MySQL]
+  2021: [Node.js, GraphQL, Docker, MongoDB, Elasticsearch, ClickHouse, Redis]
+  2022: [Kubernetes, AWS, WebSockets, Socket.io, OAuth 2.0, JWT, Jenkins, GitLab CI, Grafana]
+  2023: [LangChain, Nuxt.js, Terraform, Nginx, GCP]
+  2024: [PyTorch, snnTorch, Azure, Algorand]
+  2025: [Google ADK, Vertex AI, Gemini, Python AI, tRPC, FastAPI, Multi-agent Systems, LLM, Pinia]
 navigation:
   parent: /
   siblings: [experience, projects, publications, conferences, education]

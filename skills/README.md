@@ -2,59 +2,168 @@
 
 # Skills & Technologies
 
-### Languages
+## Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+| Technology | Used at |
+|-----------|---------|
+| TypeScript | [Woolf](../experience/woolf/), [ASRP](../experience/asrp/), [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| JavaScript | All |
+| Python | [Woolf](../experience/woolf/), [ASRP](../experience/asrp/) |
+| PHP | [Provectus](../experience/provectus/), [Ephyros](../experience/ephyros/), [Coelix](../experience/coelix/), [PHP-academy](../experience/php-academy/), [Top Agent](../experience/top-agent/), [SuperMediaAds](../experience/super-media-ads/) |
+| SQL | [LAB325](../experience/lab325/), [MOB.325](../experience/mob325/), [Ephyros](../experience/ephyros/), [ASRP](../experience/asrp/) |
+| C++ | University |
 
-### Frontend & Frameworks
+## Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+| Technology | Used at |
+|-----------|---------|
+| Vue.js | [ASRP](../experience/asrp/), [Coelix](../experience/coelix/), [Ephyros](../experience/ephyros/) |
+| Nuxt.js | [ASRP](../experience/asrp/) |
+| React | [HYS Enterprise](../experience/hys-enterprise/) |
+| Angular | [HYS Enterprise](../experience/hys-enterprise/) |
+| Pinia | [ASRP](../experience/asrp/) |
+| Vuex | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| HTML | All |
+| CSS | All |
 
-### AI / ML
+## Backend & API
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+| Technology | Used at |
+|-----------|---------|
+| Node.js | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/), [ASRP](../experience/asrp/), [Woolf](../experience/woolf/) |
+| Laravel | [Coelix](../experience/coelix/), [Ephyros](../experience/ephyros/), [Provectus](../experience/provectus/) |
+| Express | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| FastAPI | [Woolf](../experience/woolf/) |
+| RESTful APIs | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/), [ASRP](../experience/asrp/) |
+| GraphQL | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| tRPC | [Woolf](../experience/woolf/) |
+| WebSockets | [MOB.325](../experience/mob325/) |
+| Socket.io | [MOB.325](../experience/mob325/) |
+| OAuth 2.0 | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| JWT | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| WordPress | [HYS Enterprise](../experience/hys-enterprise/), [PHP-academy](../experience/php-academy/) |
 
-### Cloud & DevOps
+## AI / ML
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+| Technology | Used at |
+|-----------|---------|
+| LangChain | [ASRP](../experience/asrp/) |
+| LangGraph | [ASRP](../experience/asrp/) |
+| Google ADK | [Woolf](../experience/woolf/) |
+| Vertex AI | [Woolf](../experience/woolf/) |
+| Gemini | [Woolf](../experience/woolf/), [ASRP](../experience/asrp/) |
+| OpenAI / GPT-4 | [ASRP](../experience/asrp/), [Woolf](../experience/woolf/) |
+| ChatGPT | [ASRP](../experience/asrp/) |
+| PyTorch | [ASRP](../experience/asrp/) |
+| snnTorch | [ASRP](../experience/asrp/) |
+| Multi-agent Systems | [Woolf](../experience/woolf/), [ASRP](../experience/asrp/) |
+| Machine Learning | [Woolf](../experience/woolf/), [ASRP](../experience/asrp/) |
+| Large Language Models (LLM) | [Woolf](../experience/woolf/), [ASRP](../experience/asrp/) |
 
-### Databases
+## Cloud & DevOps
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+| Technology | Used at |
+|-----------|---------|
+| Docker | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/), [ASRP](../experience/asrp/), [Coelix](../experience/coelix/), [Ephyros](../experience/ephyros/) |
+| Kubernetes | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| AWS | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| Google Cloud Platform | [Woolf](../experience/woolf/), [ASRP](../experience/asrp/) |
+| Microsoft Azure | [ASRP](../experience/asrp/) |
+| Terraform | [ASRP](../experience/asrp/) |
+| Nginx | [ASRP](../experience/asrp/) |
+| CI/CD | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/), [ASRP](../experience/asrp/) |
+| Linux | All |
 
-### Tools & Platforms
+## Databases
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+| Technology | Used at |
+|-----------|---------|
+| PostgreSQL | [ASRP](../experience/asrp/), [LAB325](../experience/lab325/), [Ephyros](../experience/ephyros/), [Coelix](../experience/coelix/), [HYS Enterprise](../experience/hys-enterprise/) |
+| MySQL | [HYS Enterprise](../experience/hys-enterprise/), [PHP-academy](../experience/php-academy/) |
+| MongoDB | [LAB325](../experience/lab325/) |
+| Elasticsearch | [LAB325](../experience/lab325/) |
+| ClickHouse | [LAB325](../experience/lab325/), [MOB.325](../experience/mob325/) |
+| Redis | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/), [ASRP](../experience/asrp/) |
 
-Meta: [meta.yaml](meta.yaml)
+## Tools & Platforms
+
+| Technology | Used at |
+|-----------|---------|
+| Git | All |
+| JIRA | [Provectus](../experience/provectus/), [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| Jenkins | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| GitLab CI | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| Grafana | [MOB.325](../experience/mob325/), [LAB325](../experience/lab325/) |
+| Gulp | [HYS Enterprise](../experience/hys-enterprise/) |
+| Cursor | Recent |
 
 ---
+
+## Blockchain
+
+| Technology | Used at |
+|-----------|---------|
+| Algorand | [ASRP](../experience/asrp/) |
+| Smart Contracts | [ASRP](../experience/asrp/) |
+
+---
+
+## Experience Summary
+
+| Technology | Years | Period |
+|-----------|-------|--------|
+| JavaScript | 10+ yrs | 2016 – present |
+| HTML / CSS | 10+ yrs | 2016 – present |
+| Linux | 10+ yrs | 2016 – present |
+| Git | 10+ yrs | 2016 – present |
+| PHP | 5 yrs | 2016 – 2021 |
+| TypeScript | 5 yrs | 2021 – present |
+| Node.js | 5 yrs | 2021 – present |
+| Docker | 5 yrs | 2021 – present |
+| Nginx | 5 yrs | 2021 – present |
+| CI/CD | 5 yrs | 2021 – present |
+| Redis | 5 yrs | 2021 – present |
+| SQL / PostgreSQL | 6 yrs | 2020 – present |
+| Vue.js | 6 yrs | 2020 – present |
+| React | 2 yrs | 2018 – 2020 |
+| Angular | 2 yrs | 2018 – 2020 |
+| Laravel | 2 yrs | 2020 – 2021 |
+| Express | 2 yrs | 2021 – 2023 |
+| GraphQL | 2 yrs | 2021 – 2023 |
+| WebSockets / Socket.io | 2 yrs | 2021 – 2023 |
+| Kubernetes / AWS | 2 yrs | 2021 – 2023 |
+| MongoDB / Elasticsearch / ClickHouse | 2 yrs | 2021 – 2023 |
+| WordPress | 3 yrs | 2017 – 2020 |
+| Python | 3 yrs | 2023 – present |
+| LangChain / LangGraph | 3 yrs | 2023 – present |
+| OpenAI / LLM | 3 yrs | 2023 – present |
+| PyTorch | 3 yrs | 2023 – present |
+| Google Cloud / Azure | 3 yrs | 2023 – present |
+| Terraform | 3 yrs | 2023 – present |
+| Nuxt.js / Pinia | 3 yrs | 2023 – present |
+| Algorand / Smart Contracts | 3 yrs | 2023 – present |
+| Google ADK / Vertex AI / Gemini | 1 yr | 2025 – present |
+| tRPC / FastAPI | 1 yr | 2025 – present |
+| Multi-agent Systems | 1 yr | 2025 – present |
+
+---
+
+## Skills Timeline
+
+```
+2016 ── PHP, JavaScript
+2017 ── PHP, WordPress
+2018 ── React, WordPress
+2019 ── React, PHP, WordPress
+2020 ── Vue.js, Laravel, PostgreSQL
+2021 ── Node.js, GraphQL, Docker, MongoDB, Elasticsearch, ClickHouse
+2022 ── Kubernetes, AWS, WebSockets, Socket.io
+2023 ── LangChain, Nuxt.js, Terraform, Nginx
+2025 ── Google ADK, Vertex AI, Gemini, Python, tRPC, FastAPI
+```
+
+---
+
+Meta: [meta.yaml](meta.yaml)
 
 [← Back to Profile](../README.md)
