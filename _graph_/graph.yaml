@@ -1,6 +1,7 @@
 # AI Knowledge Graph — Complete Entity Map
 # All entities, their types, dates, and relations in one machine-readable file.
 # Generated from individual meta.yaml files.
+# Navigation protocol: see GUIDE.md in this directory.
 
 version: 1
 generated: 2026-05-24

@@ -51,7 +51,7 @@
 
 - [x] Create `graph.yaml` — machine-readable schema of all entities (companies, projects, publications, conferences) with relations and dates
 - [ ] Add `_meta.md` to each image folder — describes what the image shows, its context, and how it relates to other entities
-- [ ] Design AI navigation layer: a graph view of everything — what was done, when, and how it connects
+- [x] Design AI navigation layer: a graph view of everything — what was done, when, and how it connects
 
 ### Structured Data (YAML frontmatter)
 

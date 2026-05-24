@@ -36,4 +36,4 @@ Fully remote, no visa restrictions. Eligible to live and work in any EU country 
   <img src="https://komarev.com/ghpvc/?username=Kapustin2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-Meta: [meta.yaml](meta.yaml) · Graph: [_graph_/graph.yaml](_graph_/graph.yaml)
+Meta: [meta.yaml](meta.yaml) · Graph: [_graph_/graph.yaml](_graph_/graph.yaml) · AI Guide: [_graph_/GUIDE.md](_graph_/GUIDE.md)
