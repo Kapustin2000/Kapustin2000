@@ -1,7 +1,8 @@
-[← All Projects](../README.md)
+[All Projects](../README.md)
 
-# 🏢 HYS Enterprise – Corporate Website
-*(September 2018 – February 2020)*
+# HYS Enterprise — Corporate Website
+
+*September 2018 – February 2020*
 
 **Project Overview:**
 The HYS Enterprise corporate website serves as the official digital portal for one of Ukraine's largest IT companies. It provides a comprehensive overview of the company's expertise, services, and values, acting as a primary point of contact for clients, partners, and potential employees.
@@ -9,7 +10,7 @@ The HYS Enterprise corporate website serves as the official digital portal for o
 **Live Website:** [https://www.hys-enterprise.com](https://www.hys-enterprise.com)
 
 <div align="center">
-  <img src="1739446106412.jpeg" alt="HYS Enterprise Website" width="600" style="border-radius: 8px; margin: 10px 0;" />
+  <img src="1739446106412.jpeg" alt="HYS Enterprise Website" width="600" />
 </div>
 
 **Key Features:**
@@ -33,4 +34,4 @@ As a Full-Stack Web Developer, I was the key developer responsible for designing
 
 ---
 
-[← All Projects](../README.md)
+[All Projects](../README.md)
