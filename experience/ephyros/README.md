@@ -20,6 +20,6 @@ Worked as a full-stack web developer building client-facing web applications usi
 
 ---
 
-[← All Experience](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Experience](../README.md)

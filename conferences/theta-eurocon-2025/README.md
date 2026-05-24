@@ -35,6 +35,6 @@
 
 ---
 
-[← All Conferences](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Conferences](../README.md)

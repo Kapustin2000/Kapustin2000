@@ -36,6 +36,6 @@ As a Full-Stack Web Developer, I was the key developer responsible for designing
 
 ---
 
-[← All Projects](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Projects](../README.md)

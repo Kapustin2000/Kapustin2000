@@ -29,6 +29,6 @@ Through these contributions, Coelix evolved into a software development company 
 
 ---
 
-[← All Experience](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Experience](../README.md)

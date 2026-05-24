@@ -39,6 +39,6 @@ As a developer for IzziFit, my responsibilities included:
 
 ---
 
-[← All Projects](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Projects](../README.md)

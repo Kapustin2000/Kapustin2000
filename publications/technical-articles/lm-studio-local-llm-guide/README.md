@@ -18,6 +18,6 @@ Run Large Language Models Offline on Your Computer — No API Keys, No Cloud Dep
 
 ---
 
-[← Technical Articles](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← Technical Articles](../README.md)

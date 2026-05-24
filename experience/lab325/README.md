@@ -27,6 +27,6 @@ Worked as a senior backend engineer within the MOB.325/LAB325 group of companies
 
 ---
 
-[← All Experience](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Experience](../README.md)

@@ -28,6 +28,6 @@ Worked as a software developer for HYS Enterprise, one of Ukraine's largest IT c
 
 ---
 
-[← All Experience](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Experience](../README.md)

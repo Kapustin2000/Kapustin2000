@@ -45,6 +45,6 @@ Co-founded ASRP, a transatlantic research holding company focused on AI, blockch
 
 ---
 
-[← All Experience](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Experience](../README.md)

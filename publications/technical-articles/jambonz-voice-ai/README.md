@@ -16,6 +16,6 @@ An exploration of how telephony evolves into programmable Voice AI. This article
 
 ---
 
-[← Technical Articles](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← Technical Articles](../README.md)

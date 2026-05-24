@@ -18,6 +18,6 @@ Worked on a project focused on developing a robust website engine and creating w
 
 ---
 
-[← All Experience](../README.md)
-
 Meta: [meta.yaml](meta.yaml)
+
+[← All Experience](../README.md)
