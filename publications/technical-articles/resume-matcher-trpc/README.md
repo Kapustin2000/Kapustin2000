@@ -3,6 +3,8 @@
 # Building a Resume Matcher with tRPC, NLP, and Vertex AI
 *September 2025*
 
+**Developed at:** [Woolf](../../experience/woolf/)
+
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai) | [Medium](https://medium.com/@kapustinomm/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai-fec6e9896adb) | [Habr](https://habr.com/en/articles/943306/)
 
 **Full text:** [article.md](article.md)

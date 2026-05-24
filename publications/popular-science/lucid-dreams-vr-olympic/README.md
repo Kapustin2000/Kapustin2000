@@ -3,6 +3,8 @@
 # Lucid dreams and VR: Swiss Olympic team training in dreams
 *December 2024 — Tproger*
 
+**Developed at:** [ASRP](../../experience/asrp/)
+
 **Link:** [Tproger](https://tproger.ru/articles/vr-i-osoznannye-sny--trenirovki-olimpijcev-vo-sne)
 
 **Full text:** [article.md](article.md)

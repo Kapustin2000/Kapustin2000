@@ -4,6 +4,8 @@
 
 *February 2026*
 
+**Developed at:** [ASRP](../../experience/asrp/)
+
 Run Large Language Models Offline on Your Computer — No API Keys, No Cloud Dependencies, Complete Privacy
 
 **Links:** [Medium](https://medium.com/@kapustinomm/how-to-run-llms-locally-with-lm-studio-complete-guide-2026-c941843e000e) | [Habr](https://habr.com/en/articles/1005054/)

@@ -10,7 +10,7 @@
 - [ ] Verify stacks for Provectus, PHP-academy, SuperMediaAds, Top Agent (PHP only?)
 - [ ] Expand thin entries (Provectus, PHP-academy, SuperMediaAds) with concrete facts/metrics
 - [ ] Add duration to ASRP header
-- [ ] Add `reference.md` for companies with reference letters (Coelix, HYS, PHP-academy, ...)
+- [x] Add `reference.md` for companies with reference letters (Coelix, HYS, LAB325, MOB.325, Provectus)
 - [ ] Enrich Impact column with metrics (optional)
 
 ### Ideas
@@ -34,7 +34,6 @@
 ## Publications
 
 ### Ideas
-- Link publications to companies (which articles were written at which company)
 - Add read counts (38K, 10K, 7.5K, etc.) to article READMEs
 
 ## Skills
@@ -78,6 +77,8 @@
 - [x] Bidirectional project ↔ company cross-references
 - [x] Skills and education migrated to folders
 - [x] GitHub stats added to README
+- [x] Experience → Publications cross-links (ASRP: 13, Woolf: 5)
+- [x] Publications → Experience cross-links (Developed at on 18 article READMEs)
 - [x] Links consistent across all pages (no .md extensions)
 - [x] ← Back to Profile / ← All Projects / ← All Experience consistent everywhere
 - [x] Conferences sorted by date descending

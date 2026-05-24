@@ -31,12 +31,13 @@ Designed and delivered an MVP LLM-agent prototype for educational assessment usi
 
 | Period | Role | Company | Location | Duration | Stack |
 |--------|------|---------|----------|----------|-------|
-| 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | USA, DE, UA, IL, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
+| 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | San Francisco, USA | 6 mos | Google ADK, Vertex AI |
+| 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | USA, DE, UA, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
 | 2021-07 – 2023-04 | Team Lead | [MOB.325](mob325/) | Ukraine | 1 yr 10 mos | Node.js, Docker, GraphQL |
 | 2021-07 – 2023-04 | Sr. Backend Dev | [LAB325](lab325/) | Ukraine | 1 yr 10 mos * | Node.js, PostgreSQL, GraphQL |
 | 2020-08 – 2021-04 | Team Lead | [Coelix](coelix/) | Tel Aviv, Israel (Remote) | 9 mos | Laravel, Vue, PHP |
-| 2021-04 – 2021-07 | Sr. Backend Dev | [Provectus](provectus/) | — | 4 mos | PHP, Laravel |
-| 2020-02 – 2020-07 | Full Stack Dev | [Ephyros](ephyros/) | — | 6 mos | PHP, Laravel, Vue |
+| 2021-04 – 2021-07 | Sr. Backend Dev | [Provectus](provectus/) | Odessa, Ukraine | 4 mos | PHP, Laravel |
+| 2020-02 – 2020-07 | Full Stack Dev | [Ephyros](ephyros/) | Kyiv, Ukraine | 6 mos | PHP, Laravel, Vue |
 | 2018-09 – 2020-02 | Full Stack Dev | [HYS Enterprise](hys-enterprise/) | Odessa, Ukraine | 1 yr 6 mos | WordPress, React |
 | 2018-01 – 2018-09 | Full Stack Dev | [Top Agent](top-agent/) | Odessa, Ukraine | 9 mos | PHP |
 | 2017-07 – 2017-12 | Full Stack Dev | [PHP-academy](php-academy/) | Odessa, Ukraine | 6 mos | PHP |
@@ -61,9 +62,9 @@ Designed and delivered an MVP LLM-agent prototype for educational assessment usi
 
 | Country | Companies |
 |---------|-----------|
-| Ukraine | HYS Enterprise (Odessa), Top Agent (Odessa), PHP-academy (Odessa), MOB.325, LAB325 |
+| Ukraine | HYS Enterprise (Odessa), Top Agent (Odessa), PHP-academy (Odessa), MOB.325, LAB325, Provectus (Odessa), Ephyros (Kyiv) |
 | Israel | Coelix (Tel Aviv) |
-| USA | ASRP, Woolf |
+| USA | ASRP, Woolf (San Francisco) |
 | Germany | ASRP |
 | Kazakhstan | ASRP |
 
@@ -84,16 +85,7 @@ Designed and delivered an MVP LLM-agent prototype for educational assessment usi
 2025 ── Google ADK, Vertex AI, Gemini, TypeScript, Python
 ```
 
-PHP (8 yrs) → Laravel (2 yrs) → Node.js (4 yrs) → Vue/Nuxt (3 yrs) → AI/ML (2025)
-
----
-
-## Career Arc
-
-```
-2016 ── Junior ──→ 2018 ── Mid ──→ 2020 ── Senior ──→ 2023 ── Lead / CTO ──→ now
-       IC roles               Lead roles            Executive
-```
+PHP (5 yrs) → Laravel (2 yrs) → Node.js (4 yrs) → Vue/Nuxt (3 yrs) → AI/ML (2025)
 
 ---
 

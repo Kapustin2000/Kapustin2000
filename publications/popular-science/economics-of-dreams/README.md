@@ -3,6 +3,8 @@
 # The Economics of Dreams: How Our Dreams Influence Global Markets
 *May 2024 — Аргументы и факты*
 
+**Developed at:** [ASRP](../../experience/asrp/)
+
 **Link:** [Аргументы и факты](https://samara.aif.ru/society/ekonomika-snovideniy-kak-nashi-sny-vliyayut-na-mirovye-rynki)
 
 **Full text:** [article.md](article.md)

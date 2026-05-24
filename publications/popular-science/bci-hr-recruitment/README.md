@@ -3,6 +3,8 @@
 # Brain–computer interface (BCI) in HR: How Technology is Changing Recruitment
 *December 2024 — Tproger*
 
+**Developed at:** [ASRP](../../experience/asrp/)
+
 **Link:** [Tproger](https://tproger.ru/articles/nejroseti-v-hr--budushhee-podbora-personala-cherez-sinhronizaciyu-sostoyanij)
 
 **Full text:** [article.md](article.md)

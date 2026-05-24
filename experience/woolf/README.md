@@ -20,6 +20,14 @@ Designed and implemented an MVP LLM-agent prototype for educational assessment a
 
 - [AI CV Matcher](../../projects/ai-cv-matcher/)
 
+## Related Publications
+
+- [My Personal Exam: MVP LLM Agent on Google ADK](../../publications/technical-articles/mvp-llm-agent-adk/)
+- [How to Integrate Google ADK with a Custom Interface](../../publications/technical-articles/google-adk-custom-interface/)
+- [Google ADK and Startup Technical Guide](../../publications/technical-articles/google-adk-startup-guide/)
+- [Building a Resume Matcher with tRPC](../../publications/technical-articles/resume-matcher-trpc/)
+- [Building AI Agent Infrastructure](../../publications/technical-articles/ai-agent-infrastructure/)
+
 ---
 
 [← All Experience](../README.md)
