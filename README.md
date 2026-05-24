@@ -13,14 +13,6 @@ Learn more about me:
 
 ---
 
-## 🎯 Current Focus
-
-- **AI & Machine Learning** — Developing intelligent systems and forecasting models
-- **Blockchain Technology** — Building decentralized applications and smart contracts
-- **Consciousness Research** — Exploring lucid dreams and their technological applications
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
