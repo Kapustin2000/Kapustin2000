@@ -8,13 +8,14 @@
 |---|---------|------|
 | 1 | [How to Run LLMs Locally with LM Studio: Complete Guide 2026](technical-articles/lm-studio-local-llm-guide/) | Feb 2026 |
 | 2 | [Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems](technical-articles/ai-agent-infrastructure/) | Oct 2025 |
-| 3 | [Building an App Store Review Analysis Pipeline](technical-articles/app-store-review-analysis/) | Oct 2025 |
-| 4 | [Google ADK and Startup Technical Guide](technical-articles/google-adk-startup-guide/) | Oct 2025 |
-| 5 | [My First AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | Sep 2025 |
-| 6 | [Building a Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) | Sep 2025 |
-| 7 | [My Personal Exam: MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | Sep 2025 |
-| 8 | [Docling in Working with Texts](technical-articles/docling-text-language/) | Aug 2025 |
-| 9 | [How to Integrate Google ADK with a Custom Interface](technical-articles/google-adk-custom-interface/) | Jul-Aug 2025 |
+| 3 | [Voice AI Systems Powered by Jambonz: From Telephony to Human–Machine Dialogue](technical-articles/jambonz-voice-ai/) | Oct 2025 |
+| 4 | [Building an App Store Review Analysis Pipeline](technical-articles/app-store-review-analysis/) | Oct 2025 |
+| 5 | [Google ADK and Startup Technical Guide](technical-articles/google-adk-startup-guide/) | Oct 2025 |
+| 6 | [My First AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | Sep 2025 |
+| 7 | [Building a Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) | Sep 2025 |
+| 8 | [My Personal Exam: MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | Sep 2025 |
+| 9 | [Docling in Working with Texts](technical-articles/docling-text-language/) | Aug 2025 |
+| 10 | [How to Integrate Google ADK with a Custom Interface](technical-articles/google-adk-custom-interface/) | Jul-Aug 2025 |
 
 ## Research Publications
 
