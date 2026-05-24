@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # Your Torah Tutors — Online Torah Learning Platform
 
@@ -37,4 +37,4 @@ As a developer for Your Torah Tutors, my responsibilities included:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

@@ -1,4 +1,4 @@
-# Mykhailo Kapustin
+# Hi there, I'm Mykhailo Kapustin 👋
 
 Berlin-based developer and researcher with over 10 years of experience in technology. My background spans **Frontend**, **Backend**, **DevOps**, **AI/ML**, and **digital strategy**. I work as a **mentor**, write **articles and research papers**, speak at **conferences**, and participate in **hackathons**.
 

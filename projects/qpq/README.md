@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # QPQ International — Green Energy Project Funding & Advisory Platform
 
@@ -32,4 +32,4 @@ Based in Dubai, QPQ International operates worldwide, focusing on markets includ
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)
