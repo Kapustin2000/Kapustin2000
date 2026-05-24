@@ -8,26 +8,83 @@ Global footprint: USA · Germany · Ukraine · Israel · Kazakhstan
 
 ---
 
-## Leadership
+## Featured
 
-| Period | Role | Company | Impact | Stack |
-|--------|------|---------|--------|-------|
-| 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | 10+ products, AI algorithms, team building | Vue, Nuxt, LangChain, Docker |
-| 2021-07 – 2023-04 | Team Lead | [MOB.325](mob325/) | Led dev teams, scalable solutions | Node.js, Docker |
-| 2020-08 – 2021-04 | Team Lead | [Coelix](coelix/) | WordPress to custom dev, 3 major clients | Laravel, Vue |
+### [Co-Founder & CTO @ ASRP](asrp/) — AI × Consciousness Research
+*Apr 2023 – Present · 3+ yrs*
+Built a transatlantic research holding from scratch: 10+ products across EdTech, AI, media, and blockchain. Led end-to-end architecture, team building, and product strategy.
+`Vue` `Nuxt` `LangChain` `Docker` `Node.js`
 
-## Individual Contributor
+### [Team Lead @ MOB.325](mob325/) — Smart TV & Entertainment
+*Jul 2021 – Apr 2023 · 1 yr 10 mos*
+Led cross-functional teams building high-load backend systems for consumer products. Delivered 3 projects concurrently (IzziFit, Hark, Lill). Ran concurrently with LAB325 IC role.
+`Node.js` `GraphQL` `Docker` `PostgreSQL`
 
-| Period | Role | Company | Impact | Stack |
-|--------|------|---------|--------|-------|
-| 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | MVP LLM agent, EdTech assessment AI | Google ADK, Vertex AI |
-| 2021-07 – 2023-04 | Sr. Backend Developer | [LAB325](lab325/) | High-performance backend systems | Node.js, PostgreSQL |
-| 2021-04 – 2021-07 | Sr. Backend Developer | [Provectus](provectus/) | Backend solutions | PHP, Laravel |
-| 2020-02 – 2020-07 | Full Stack Developer | [Ephyros](ephyros/) | Full-stack web applications | PHP, Laravel |
-| 2018-09 – 2020-02 | Full Stack Developer | [HYS Enterprise](hys-enterprise/) | Corporate website | WordPress, React |
-| 2018-01 – 2018-09 | Full Stack Developer | [Top Agent](top-agent/) | Travel management platform | PHP |
-| 2017-07 – 2017-12 | Full Stack Developer | [PHP-academy](php-academy/) | Website engine from scratch | PHP |
-| 2016-06 – 2016-11 | Backend Developer | [SuperMediaAds](super-media-ads/) | API integrations, partnership management | PHP |
+### [Sr. AI/ML Engineer @ Woolf](woolf/) — EdTech AI
+*Apr 2025 – Sep 2025 · 6 mos*
+Designed and delivered an MVP LLM-agent prototype for educational assessment using Google ADK and Vertex AI. First AI/ML role transitioning from web engineering into AI.
+`Google ADK` `Vertex AI` `Gemini` `TypeScript` `Python`
+
+---
+
+## All Roles
+
+| Period | Role | Company | Location | Duration | Stack |
+|--------|------|---------|----------|----------|-------|
+| 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | USA, DE, UA, IL, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
+| 2021-07 – 2023-04 | Team Lead | [MOB.325](mob325/) | Ukraine | 1 yr 10 mos | Node.js, Docker, GraphQL |
+| 2021-07 – 2023-04 | Sr. Backend Dev | [LAB325](lab325/) | Ukraine | 1 yr 10 mos * | Node.js, PostgreSQL, GraphQL |
+| 2020-08 – 2021-04 | Team Lead | [Coelix](coelix/) | Tel Aviv, Israel (Remote) | 9 mos | Laravel, Vue, PHP |
+| 2021-04 – 2021-07 | Sr. Backend Dev | [Provectus](provectus/) | — | 4 mos | PHP, Laravel |
+| 2020-02 – 2020-07 | Full Stack Dev | [Ephyros](ephyros/) | — | 6 mos | PHP, Laravel, Vue |
+| 2018-09 – 2020-02 | Full Stack Dev | [HYS Enterprise](hys-enterprise/) | Odessa, Ukraine | 1 yr 6 mos | WordPress, React |
+| 2018-01 – 2018-09 | Full Stack Dev | [Top Agent](top-agent/) | Odessa, Ukraine | 9 mos | PHP |
+| 2017-07 – 2017-12 | Full Stack Dev | [PHP-academy](php-academy/) | Odessa, Ukraine | 6 mos | PHP |
+| 2016-06 – 2016-11 | Backend Dev | [SuperMediaAds](super-media-ads/) | — | 6 mos | PHP |
+
+╳ LAB325 + MOB.325 ran concurrently (dual IC + Lead roles in same company group)
+
+---
+
+## By Domain
+
+| Domain | Companies | Key Stack |
+|--------|-----------|-----------|
+| AI / EdTech / Research | ASRP, Woolf | ADK, Vertex AI, LangChain, Gemini |
+| Tech Leadership & Consulting | MOB.325, LAB325, Coelix | Node.js, GraphQL, Docker, Laravel |
+| Enterprise Software | Provectus, Ephyros, HYS Enterprise | PHP, Laravel, WordPress, React |
+| Early Career / Freelance | Top Agent, PHP-academy, SuperMediaAds | PHP |
+
+---
+
+## By Country
+
+| Country | Companies |
+|---------|-----------|
+| Ukraine | HYS Enterprise (Odessa), Top Agent (Odessa), PHP-academy (Odessa), MOB.325, LAB325 |
+| Israel | Coelix (Tel Aviv) |
+| USA | ASRP, Woolf |
+| Germany | ASRP |
+| Kazakhstan | ASRP |
+
+---
+
+## Skills Evolution
+
+```
+2016 ── PHP
+2017 ── PHP
+2018 ── PHP → WordPress, React.js
+2019 ── WordPress, React.js
+2020 ── PHP, Laravel, Vue.js, PostgreSQL
+2021 ── PHP/Laravel ──→ Node.js, GraphQL, Docker, K8s
+2022 ── Node.js, GraphQL, Docker, ClickHouse, K8s, AWS
+2023 ── Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL
+2024 ── Vue, Nuxt, LangChain, Docker
+2025 ── Google ADK, Vertex AI, Gemini, TypeScript, Python
+```
+
+PHP (8 yrs) → Laravel (2 yrs) → Node.js (4 yrs) → Vue/Nuxt (3 yrs) → AI/ML (2025)
 
 ---
 
@@ -37,26 +94,6 @@ Global footprint: USA · Germany · Ukraine · Israel · Kazakhstan
 2016 ── Junior ──→ 2018 ── Mid ──→ 2020 ── Senior ──→ 2023 ── Lead / CTO ──→ now
        IC roles               Lead roles            Executive
 ```
-
----
-
-## TODO
-
-- [ ] Fill in location for ASRP, LAB325, MOB.325, Provectus, Ephyros, Woolf
-- [ ] Verify stacks for Provectus, PHP-academy, SuperMediaAds, Top Agent (PHP only?)
-- [ ] Expand thin entries (Provectus, PHP-academy, SuperMediaAds) with concrete facts/metrics
-- [ ] Add duration to ASRP header
-- [ ] Enrich Impact column with metrics (optional)
-
-### Ideas
-
-- Index: add Location column (text, no flags)
-- Index: add Duration column
-- Index: visually indicate concurrent roles (LAB325 + MOB.325 ran in parallel)
-- ASRP: link to live products (arcanum12th.education, asrp.media)
-- Company pages: add `reference.md` for companies with reference letters (Coelix, HYS, PHP-academy)
-- Cross-link Experience → Publications by company
-- Add Prev / Next navigation between company pages
 
 ---
 

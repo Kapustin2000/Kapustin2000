@@ -25,6 +25,8 @@
 
 - [ ] Cross-link Projects → Experience (done: all 11 have "Developed at")
 - [ ] Cross-link Experience → Projects (done: 7/11 companies have "Related Projects")
+- [ ] Create project pages for ASRP.science and ASRP.tech
+- [ ] Scrape ASRP.tech website to extract all activities, products, and research — add to ASRP project descriptions
 
 ### Ideas
 - Add featured projects with preview images to `projects/README.md`
@@ -44,13 +46,30 @@
 ## General
 
 - [x] Add reference letters from former colleagues (12 recommendations + PDFs across HYS, LAB325, MOB.325, Coelix, Provectus)
-- [ ] Create timeline page (work + projects + publications + conferences in chronological order)
+- [x] Create timeline page (work + projects + publications + conferences in chronological order)
 
 ### AI Knowledge Graph
 
 - [ ] Create `graph.yaml` — machine-readable schema of all entities (companies, projects, publications, conferences) with relations and dates
 - [ ] Add `_meta.md` to each image folder — describes what the image shows, its context, and how it relates to other entities
 - [ ] Design AI navigation layer: a graph view of everything — what was done, when, and how it connects
+
+### Structured Data (YAML frontmatter)
+
+- [ ] Add YAML frontmatter (`id`, `type`, `date`, `tags`, `relations`) to all entity READMEs — Person, Company, Project, Article, Conference, Course
+- [ ] Add `status` field to projects (idea / in-progress / completed) and articles (draft / published / archived)
+- [ ] Add `evidence` field — link back to source GitHub pages for verifiability
+- [ ] Create `_schema_.yaml` — canonical entity type definitions with required fields
+- [ ] Keep folder-per-item structure intact (no flat renaming, no date prefixes)
+- [ ] No static site generators, no graph databases — pure YAML + Markdown
+
+### Narrative & Architecture
+
+- [ ] Define and add **grand narrative** to README — one sentence tying together research, AI, education, consciousness
+- [ ] Separate layers in entity pages: narrative (why) / semantic links (relations) / evidence (proof) / timeline (evolution)
+- [ ] Create **Concept Graph** in `_graph_/concepts.yaml` — intellectual architecture (Consciousness → Lucid dreaming → AI agents → ASRP)
+- [ ] Add **temporal evolution** to each entity — not just dates, but how it evolved over time
+- [ ] Ensure every claim/achievement has an **evidence** backlink (article, repo, PDF, talk, demo, screenshot)
 
 ## Done
 

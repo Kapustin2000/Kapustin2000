@@ -1,4 +1,4 @@
-# Hi there, I'm Mykhailo Kapustin 👋
+# Mykhailo Kapustin
 
 Berlin-based developer and researcher with over 10 years of experience in technology. My background spans **Frontend**, **Backend**, **DevOps**, **AI/ML**, and **digital strategy**. I work as a **mentor**, write **articles and research papers**, speak at **conferences**, and participate in **hackathons**.
 
@@ -10,6 +10,13 @@ Learn more about me:
 - [Publications](publications/)
 - [Conferences](conferences/)
 - [Education](education/)
+- [Timeline](timeline.md)
+
+---
+
+## Work Authorization
+
+Fully remote, no visa restrictions. Eligible to live and work in any EU country without sponsorship. Access to Asian markets via a Kazakhstan-based entity and US markets via an American entity.
 
 ---
 

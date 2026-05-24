@@ -2,22 +2,47 @@
 
 # Publications & Articles
 
-## Technical Articles
+22 articles · 10 technical · 4 research · 1 academic · 7 popular science · 3 platforms
 
-| # | Article | Date |
-|---|---------|------|
-| 1 | [How to Run LLMs Locally with LM Studio: Complete Guide 2026](technical-articles/lm-studio-local-llm-guide/) | Feb 2026 |
-| 2 | [Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems](technical-articles/ai-agent-infrastructure/) | Oct 2025 |
-| 3 | [Voice AI Systems Powered by Jambonz: From Telephony to Human–Machine Dialogue](technical-articles/jambonz-voice-ai/) | Oct 2025 |
-| 4 | [Building an App Store Review Analysis Pipeline](technical-articles/app-store-review-analysis/) | Oct 2025 |
-| 5 | [Google ADK and Startup Technical Guide](technical-articles/google-adk-startup-guide/) | Oct 2025 |
-| 6 | [My First AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | Sep 2025 |
-| 7 | [Building a Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) | Sep 2025 |
-| 8 | [My Personal Exam: MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | Sep 2025 |
-| 9 | [Docling in Working with Texts](technical-articles/docling-text-language/) | Aug 2025 |
-| 10 | [How to Integrate Google ADK with a Custom Interface](technical-articles/google-adk-custom-interface/) | Jul-Aug 2025 |
+---
 
-## Research Publications
+## Featured
+
+### [How to Run LLMs Locally with LM Studio](technical-articles/lm-studio-local-llm-guide/)
+*Feb 2026 · Technical*
+Complete guide to running LLMs offline with LM Studio — no API keys, no cloud, full privacy.
+`local-ai` `llm` `lm-studio`
+
+### [Building AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/)
+*Oct 2025 · Technical*
+Three architectural paths from monorepo chaos to scalable agent ecosystems: Filesystem Registry, Package Manager, AgentOps.
+`ai-agents` `architecture` `mcp` `a2a`
+
+### [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/)
+*Oct 2025 · Technical*
+From PSTN to SIP to Jambonz — building programmable Voice AI agents with telephony and LLMs.
+`voice-ai` `telephony` `jambonz`
+
+---
+
+## By Category
+
+### Technical Articles
+
+| # | Article | Date | Platforms |
+|---|---------|------|-----------|
+| 1 | [How to Run LLMs Locally with LM Studio](technical-articles/lm-studio-local-llm-guide/) | Feb 2026 | Medium, Habr |
+| 2 | [Building AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) | Oct 2025 | Medium, Habr |
+| 3 | [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) | Oct 2025 | Habr |
+| 4 | [Building an App Store Review Analysis Pipeline](technical-articles/app-store-review-analysis/) | Oct 2025 | Hashnode, Medium |
+| 5 | [Google ADK and Startup Technical Guide](technical-articles/google-adk-startup-guide/) | Oct 2025 | Medium, Habr, Hashnode |
+| 6 | [My First AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | Sep 2025 | Medium, Habr, Hashnode |
+| 7 | [Building a Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) | Sep 2025 | Medium, Habr, Hashnode |
+| 8 | [My Personal Exam: MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | Sep 2025 | Medium, Habr, Hashnode |
+| 9 | [Docling in Working with Texts](technical-articles/docling-text-language/) | Aug 2025 | Medium, Habr, Hashnode |
+| 10 | [How to Integrate Google ADK with a Custom Interface](technical-articles/google-adk-custom-interface/) | Jul-Aug 2025 | Medium, Habr, Hashnode |
+
+### Research Publications
 
 | # | Paper | Date |
 |---|-------|------|
@@ -26,13 +51,13 @@
 | 3 | [Forecasting Events Using Banchenko-Technology](research-publications/banchenko-forecasting/) | Jun 2024 |
 | 4 | [Banchenko's Mnemonic Dream Synchronization Method](research-publications/banchenko-dream-synchronization/) | Jan 2024 |
 
-## Academic Research
+### Academic Research
 
 | # | Paper | Date |
 |---|-------|------|
 | 1 | [Software Development Tools in the Job Market](academic-research/software-development-tools/) | Dec 2018 |
 
-## Popular Science & Technology
+### Popular Science & Technology
 
 | # | Article | Date |
 |---|---------|------|
@@ -43,6 +68,28 @@
 | 5 | [From Pet Project to Scientific Research](popular-science/pet-project-scientific-research-2023/) | Oct 2023 |
 | 6 | [Future Technologies: A Glimpse into Innovation](popular-science/future-technologies-innovation/) | Oct 2023 |
 | 7 | [AI and Lucid Dreaming: Exploring New Opportunities](popular-science/ai-lucid-dreaming/) | Jun 2023 |
+
+---
+
+## By Platform
+
+| Platform | Articles |
+|----------|----------|
+| Habr | 9 articles |
+| Medium | 9 articles |
+| Hashnode | 7 articles |
+
+---
+
+## By Year
+
+| Year | Count |
+|------|-------|
+| 2026 | 1 |
+| 2025 | 13 |
+| 2024 | 7 |
+| 2023 | 3 |
+| 2018 | 1 |
 
 ---
 
