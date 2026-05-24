@@ -10,13 +10,17 @@ Learn more about me:
 - [Publications](publications/)
 - [Conferences](conferences/)
 - [Education](education/)
+- [Work Authorization](work-authorization/)
+- [About](about/)
 - [Timeline](timeline.md)
 
 ---
 
-## Work Authorization
+## Course
 
-Fully remote, no visa restrictions. Eligible to live and work in any EU country without sponsorship. Access to Asian markets via a Kazakhstan-based entity and US markets via an American entity.
+**AI Agents — From Theory to Living Systems** — 50% off with code `kapustin2000-github`
+
+→ [arcanum12th.education](https://arcanum12th.education/en/courses/8ca42d7c-962e-40bb-98ae-00bc8cb34ea1/landing)
 
 ---
 
@@ -35,5 +39,7 @@ Fully remote, no visa restrictions. Eligible to live and work in any EU country 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kapustin2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
+
+---
 
 Meta: [meta.yaml](meta.yaml) · Graph: [_graph_/graph.yaml](_graph_/graph.yaml) · AI Guide: [_graph_/GUIDE.md](_graph_/GUIDE.md)
