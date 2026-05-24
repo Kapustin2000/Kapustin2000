@@ -21,7 +21,7 @@ Berlin-based developer and researcher with over 10 years of experience in techno
 
 <div align="center">
 
-[![💼 Experience](https://img.shields.io/badge/💼-Experience-blue?style=for-the-badge)](experience.md)
+[![💼 Experience](https://img.shields.io/badge/💼-Experience-blue?style=for-the-badge)](experience/)
 [![💻 Projects](https://img.shields.io/badge/💻-Projects-success?style=for-the-badge)](projects/)
 [![📚 Publications](https://img.shields.io/badge/📚-Publications-orange?style=for-the-badge)](publications.md)
 [![🎤 Conferences](https://img.shields.io/badge/🎤-Conferences-purple?style=for-the-badge)](conferences/)
