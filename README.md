@@ -18,9 +18,7 @@ Learn more about me:
 
 ## Course
 
-**AI Agents — From Theory to Living Systems** — 50% off with code `kapustin2000-github`
-
-→ [arcanum12th.education](https://arcanum12th.education/en/courses/8ca42d7c-962e-40bb-98ae-00bc8cb34ea1/landing)
+1. [**AI Agents — From Theory to Living Systems**](https://arcanum12th.education/en/courses/8ca42d7c-962e-40bb-98ae-00bc8cb34ea1/landing) — 50% off with code `kapustin2000-github`
 
 ---
 
