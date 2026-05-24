@@ -1,33 +1,43 @@
-От пет-проекта до научного исследования: путь к настоящей инновации
+# From Pet Project to Scientific Research: Path to True Innovation (2024)
 
-Источник: Tproger
+![Cover](images/cover.jpg)
 
-Рассказали, как страсть к программированию и пет-проекты могут привести в научное исследование с удивительными результатами.
+Innovation always begins with small steps. Even the most modest ideas can lead to astonishing discoveries and scientific research that changes our understanding of the world.
 
-Инновации всегда начинаются с маленьких шагов. Однако, даже самые скромные идеи могут привести к потрясающим открытиям и научным исследованиям, которые меняют наше представление о мире.
+One such story is of an idea that started as a pet project but eventually grew into a scientific study with remarkable results. The title of this research is: *"Application of the 'Banchenko Dream Synchronization Mnemonics Method' for Joint Synchronization of Dream Elements (including Lucid Dreams) within the 'Blokhin Dream Network Concept' and Analysis of Results based on the 'Kapustin Dream Match Search AI Model'"*.
 
-Одной из таких историй является идея, которая началась как пет-проект, но в конечном итоге переросло в научное исследование с удивительными результатами. Название этого исследования – "Application of the 'Banchenko Dream Synchronization Mnemonics Method' for Joint Synchronization of Dream Elements (including Lucid Dreams) within the 'Blokhin Dream Network Concept' and Analysis of Results based on the 'Kapustin Dream Match Search AI Model'".
+This incredible story demonstrates how a passion for programming, research, and scientific curiosity can lead to innovation.
 
-Автор: Капустин Михаил, CTO представляющий компанию ASRP (Advanced Scientific Research Projects & Association of Sleep Research Projects).
+## An Idea Born from a Passion for Research
 
-Идея, рожденная из страсти к исследованиям
+The story began with a pet project whose idea seemed bold and somewhat unusual. The founders decided to explore sleep and the possibility of synchronizing dreams between different people.
 
-История началась с пет-проекта, идея которого казалась смелой и несколько необычной. Основатели проекта решили исследовать сон и возможность синхронизации сновидений между разными людьми. Их гипотеза была неоднозначной и даже эксцентричной. Они предположили, что использование теории мемов и тег-мемов в сочетании с механизмами синхронизации ритмов мозга может привести к синхронизации сновидений у участников, включая случаи осознанных сновидений.
+Their hypothesis was unconventional and even eccentric. They suggested that using meme theory and tag-memes in combination with brain rhythm synchronization mechanisms could lead to dream synchronization among participants, including cases of lucid dreams.
 
-От пет-проекта к научному моделированию
+## From Pet Project to Scientific Modeling
 
-Они разработали новую компьютерную модель "Kapustin Dream Match Search AI Model" для идентификации соответствий между снами на основе искусственного интеллекта. Эта модель стала ключевым элементом их исследования.
+At first, this seemed like an idea that would remain within the realm of amateur interest. But the researchers' boldness and scientific curiosity knew no bounds.
 
-Гипотезы и результаты
+They developed a new computer model — the "Kapustin Dream Match Search AI Model" — for identifying correspondences between dreams based on artificial intelligence. This model became the key element of their research.
 
-Первая гипотеза предполагала, что синхронизация сновидений через общие синхронные действия и нейропроцессы приведет к более высокой степени схожести в содержании индивидуальных снов по сравнению с случайными совпадениями.
+## Hypotheses and Results
 
-Вторая гипотеза предполагала, что сон с синхронизированным содержанием будет демонстрировать более высокое количество взаимосвязанных тем, символов и переживаний между участниками, что указывает на уровень взаимосвязи выше случайных паттернов.
+The researchers formulated several hypotheses. The first, non-directional hypothesis proposed that dream synchronization through shared synchronous actions and neuroprocesses would lead to a higher degree of similarity in individual dream content compared to random coincidence.
 
-Искусственный интеллект и анализ снов
+The second hypothesis proposed that synchronized dreams would exhibit a higher number of interconnected themes, symbols, and experiences between participants, indicating a level of interconnection beyond random patterns.
 
-Участники были подвергнуты синхронным действиям, а их сновидения ежедневно анализировались. Результаты оказались захватывающими. Первая не направленная гипотеза подтвердилась – сон действительно синхронизировался между участниками, включая случаи осознанных сновидений. Но настоящим открытием стала вторая гипотеза. Когда компьютерная модель была применена к анализу синхронизированных сновидений, она продемонстрировала статистически значимое увеличение точности.
+## AI and Dream Analysis
 
-Выводы
+The study began. Participants were subjected to synchronous actions, and their dreams were analyzed daily. The results were captivating. The first non-directional hypothesis was confirmed — dreams were indeed synchronized between participants, including cases of lucid dreams.
 
-Исследование превратилось из необычного пет-проекта в научное открытие с потенциалом для дальнейших исследований в области сновидений и искусственного интеллекта. Эта история является примером того, как страсть к программированию, науке и научной любознательности могут привести к настоящей инновации, даже если начать с самых скромных идей.
+But the real breakthrough came with the second hypothesis. When the computer model was applied to analyze synchronized dreams, it demonstrated a statistically significant increase in accuracy. This meant that artificial intelligence could recognize matches between dreams with high precision, opening new possibilities for exploring the world of dreams.
+
+This research also highlights the importance of pet projects and startups for programmers. You can start with small ideas, but as this story shows, they can grow into scientific research and lead to innovations that change our understanding of the world. Programmers driven by scientific curiosity and a passion for research can make revolutionary discoveries, even starting from the most modest ideas.
+
+## Conclusions
+
+The study evolved from an unusual pet project into a scientific discovery with potential for further research in the fields of dreams and artificial intelligence. This story is an example of how passion for programming, science, and scientific curiosity can lead to true innovation, even when starting with the most modest ideas. There is no limit to what can be achieved when you are passionate and interested.
+
+---
+
+*Originally published on [Tproger](https://tproger.ru/articles/ot-pet-proekta-do-nauchnogo-issledovaniya-put-k-nastoyashhej-innovacii)*

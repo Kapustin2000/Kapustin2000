@@ -1,70 +1,97 @@
-Google ADK и «Startup Technical Guide: AI Agents»: как Google переопределяет создание AI-агентов / Habr
+# Google ADK and "Startup Technical Guide: AI Agents": How Google is Redefining AI Agent Creation
 
-Level of difficulty: Easy
-Reading time: 9 min
-Reach and readers: 5.3K
+**Author:** Mykhailo Kapustin (@kapustinomm)  
+**Published on Habr:** October 5, 2025  
+**Difficulty:** Easy | **Reading time:** 9 min | **Reach:** 5.3K
 
-Tags: Google ADK, AI, vertex, google cloud, google, google app engine
-Hub: Artificial Intelligence
+**Tags:** Google ADK, AI, Vertex AI, Google Cloud, Google App Engine  
+**Hub:** Artificial Intelligence
 
-Когда Google Cloud выкатывает Startup Technical Guide: AI Agents – это не просто очередная документация, а знаковое событие. Почему? Да потому что вокруг AI-агентов сейчас шумиха, но до сих пор не было целостного технического ориентира. Этим летом я уже погружался в тему и даже написал статью на Хабре о Google ADK и интеграции AI-агента в кастомный UI. Но новый гайд от Google – это совсем другой уровень: 64 страницы, охватывающие путь от идеи до продакшена. Чем же он отличается от других материалов? Во-первых, масштабом и глубиной: Google явно вложила экспертизу своих команд, чтобы описать всё – от архитектуры до AgentOps (операции и сопровождение агентов в продакшене). Во-вторых, уклоном на практическую надёжность: внутри шаг за шагом расписано, как превратить прототип агента в устойчивую систему с мониторингом, тестами, безопасностью. В-третьих, фокусом на экосистему Google Cloud: гайд показывает, как использовать Vertex AI, модель Gemini, Agent Development Kit (ADK) и прочие инструменты. Но, что ценно, принципы из гайда применимы шире – они будут полезны любому разработчику LLM-агентов, даже если вы используете альтернативные платформы.
+![Cover](images/cover.png)
 
-Итак, прочитав весь документ, я выписал для себя пять главных инсайтов.
+When Google Cloud releases the "Startup Technical Guide: AI Agents" — this is not just another documentation drop, but a landmark event. Why? Because there is a lot of hype around AI agents right now, but until now there has been no comprehensive technical reference point.
 
-Инсайт 1: AI-агенты – это не чат-боты, а новая парадигма работы с ИИ
+This summer I already dove into the topic and even wrote an article on Habr about Google ADK and integrating an AI agent into a custom UI. But the new guide from Google is on a completely different level: 64 pages covering the entire journey from idea to production.
 
-Главное, что пытается донести гайд с самого начала: подход "спросил – получил ответ" уходит в прошлое. AI-агенты – это следующий шаг, где мы даём модели сложную цель, а не конкретный вопрос. Агент сам планирует и выполняет многошаговые задачи, привлекая инструменты и внешние данные. Thomas Kurian (CEO Google Cloud) метко назвал агентный workflow «новым фронтиром», где AI сможет, к примеру, "распланировать запуск продукта или решить проблему в цепочке поставок", выполняя все необходимые шаги. Это фундаментальное отличие от привычных узких ботов: агент – это как бы ваш автономный помощник, способный рассуждать, принимать решения и действовать.
+What makes it stand out? First, scale and depth — Google has invested the expertise of its teams to describe everything from architecture to AgentOps. Second, a focus on practical reliability — step by step, it describes how to turn an agent prototype into a robust system with monitoring, testing, and security. Third, a focus on the Google Cloud ecosystem — the guide shows how to use Vertex AI, Gemini, the Agent Development Kit (ADK), and other tools. The principles are also applicable more broadly — they will be useful to any LLM agent developer, even on alternative platforms.
 
-Для меня как разработчика этот акцент важен. Мы часто грешим тем, что называем "AI-агентом" любой скрипт с GPT, прикрученным к паре API. Но Google задаёт более высокую планку: агент должен уметь адаптивно достигать целей, а не просто отвечать по шаблону. И это действительно смена парадигмы. В гайде прямо говорится, что появление AI-агентов – «переломный момент в софтверной инженерии», позволяющий автоматизировать ранее невозможные задачи. Честно говоря, я это ощутил даже по своим экспериментам: когда впервые собрал простейшего агента, который сам гуглит, считает и пишет результаты – почувствовал, что делаю что-то большее, чем чат-бот. Теперь же у нас есть официальное подтверждение: агенты – это новый класс систем, требующий нового мышления.
+After reading the entire document, I distilled five key insights.
 
-Инсайт 2: Один LLM не вывезет – нужен "полный стакан" инфраструктуры и инструментов
+## Insight 1: AI Agents Are Not Chatbots — A New Paradigm for Working with AI
 
-Google подчёркивает: невозможно построить серьёзного AI-агента, просто выбрав большую языковую модель. Нужна скалируемая инфраструктура, интеграция данных и выверенная архитектура. В гайде даже есть фраза, что создание production-grade агента требует куда большего, чем выбор LLM. И далее расписываются ключевые компоненты агента: модель, инструменты (tools) для действий, логика оркестрации (например, шаблон ReAct), память для контекста, механизм хранения сессий, и т.д.
+![AI Agents Paradigm Shift](images/ai-agents-paradigm.png)
 
-Читая этот раздел, я несколько раз кивал головой. Действительно, на практике первые попытки сделать агента часто выглядят так: "возьмём GPT-4, прикрутим API вызовы – готово". Но без прочной архитектуры всё быстро ломается. Например, нет памяти – агент забывает контекст, нет нормальной оркестрации – заваливается на сложных цепочках задач. В гайде это лечится: Google ADK предоставляет структуру, где есть управление контекстом, регистрация инструментов, контейнеризация агента для деплоя, встроенные механизмы тестирования и наблюдения. Проще говоря, они предлагают каркас, который снимает часть головной боли.
+The main point the guide drives home from the start: the "ask and receive an answer" approach is becoming a thing of the past. AI agents are the next step, where we give the model a complex goal, not a specific question. The agent plans and executes multi-step tasks, leveraging tools and external data.
 
-Отдельно мне понравился акцент на "Automate workflows, not just conversations". Маленькому стартапу, чтобы выехать, мало сделать говорящую голову – нужно автоматизировать реальные бизнес-процессы. А для этого агент должен встраиваться в инфраструктуру: ходить в ваши API, работать с вашими данными. Гайд советует строить "защищённый продукт", где агент подключается к внутренним системам, создавая тем самым конкурентное преимущество (ведь конкуренты не получат доступа к вашим данным так легко). Я как техдир вижу в этом мудрый совет: привязывайте агента к тому, что делает ваш сервис уникальным – и тогда это будет не игрушка, а часть вашего moat (рва от конкурентов).
+Thomas Kurian (CEO of Google Cloud) aptly called agentic workflows the "new frontier," where AI could, for example, "plan a product launch or solve a supply chain problem" by executing all the necessary steps. This is a fundamental departure from conventional narrow bots: an agent is like your autonomous assistant, capable of reasoning, making decisions, and taking action.
 
-Вывод здесь такой: LLM – это мозг агента, но чтобы этот мозг работал в реальном мире, ему нужен "организм". Инфраструктура, инструменты, схемы взаимодействия – без них ваш агент либо останется демкой, либо упадёт под первой же нагрузкой.
+As a developer, this emphasis is important. We often call any script with GPT wired to a couple of APIs an "AI agent." But Google sets a higher bar: an agent must adaptively achieve goals, not just respond by template.
 
-Инсайт 3: Grounding: учим агента опираться на знания, а не фантазировать
+## Insight 2: One LLM Is Not Enough — You Need the Full Stack of Infrastructure and Tools
 
-Одна из любимых тем разработчиков LLM – как бороться с галлюцинациями модели и её ограниченным знанием мира. Google отвечает: Grounding. Гайд чётко разводит понятия: «Fine-tuning – это не grounding». Дообучение модели под задачу не гарантирует актуальности и фактичности ответов. А вот grounding как раз "подключает модель к актуальным достоверным источникам данных, чтобы её ответы были фактологически точны". Проще говоря, мы привязываем агента к источникам истины.
+![Full Stack Infrastructure](images/full-stack-infrastructure.png)
 
-На практике это означает Retrieval-Augmented Generation (RAG) – когда перед генерацией ответа агент делает поисковый запрос или лезет в вашу базу знаний, чтобы подтянуть релевантные факты. В гайде RAG называют первым шагом к "приземлению" агента на почву реальности. Далее Google описывает эволюцию: от обычного RAG – к GraphRAG (учёт связей в данных через граф знаний) и даже к Agentic RAG, где агент сам активно добывает информацию, а не пассивно получает контекст. Пример Agentic RAG – интеграция с Google Search, когда модель умеет не только читать выдачу, но и решать, когда поисковый шаг нужен, и как использовать найденное.
+Google emphasizes: you cannot build a serious AI agent by simply choosing a large language model. You need scalable infrastructure, data integration, and a well-thought-out architecture. Creating a production-grade agent requires far more than selecting an LLM.
 
-Меня это впечатлило: по сути, Google двигается к тому, чтобы агент был проактивным исследователем. Он не доверяет слепо своему внутреннему миру, а проверяет гипотезы, уточняет данные. Вспоминается наш опыт: как-то мы запускали агента для техподдержки, и без RAG он начал выдумывать ответы, заставив команду хвататься за голову. Вывод: даже самый умный LLM надо заземлять. И гайд даёт мне, как разработчику, уверенность, что лучшее решение – это связка LLM + внешний индекс знаний. Кстати, Google уже предоставляет для этого инструменты (в том же Vertex AI есть API для проверки, насколько ответ основан на фактах – Check Grounding API упоминается в тексте).
+Key agent components include: the model, tools for actions, orchestration logic (e.g., the ReAct pattern), memory for context, session storage mechanisms, and more.
 
-Отдельно гайд напоминает про multimodality – поддержку не только текста, но и изображений, таблиц, аудио. Например, Gemini (новая модель от Google) – мультимодальная, и в Agentspace (ноукод-платформе для агентов) заявлена "synthesis of text, images, charts, video". Это тоже часть "grounding": агент может воспринимать разные типы данных из реального мира. Мой инсайт тут: будущие агенты будут черпать информацию отовсюду – из документов, из интернета, из датчиков – лишь бы не работать в вакууме собственных знаний.
+The guide emphasizes "Automate workflows, not just conversations." For a small startup, building a "talking head" is not enough — you need to automate real business processes. The agent must integrate into your infrastructure: access your APIs, work with your data.
 
-Инсайт 4: AgentOps – тестирование и мониторинг вместо "авось прокатит"
+## Insight 3: Grounding — Teaching the Agent to Rely on Knowledge, Not Hallucinations
 
-Самое сильное впечатление на меня произвёл раздел про AgentOps – по сути, MLOps для агентов. Google честно говорит: большинство агентов сейчас проваливаются в продакшене не из-за плохих моделей, а потому что никто не делает "нудную" операционную работу. Гайд предлагает четырёхслойный подход к оценке агента: компонентные тесты (каждый инструмент и функция проверяются отдельно), проверка траекторий размышления (что агент делает на каждом шаге), проверка исходов (насколько итоговые ответы корректны) и системный мониторинг в продакшене. Признаюсь, я почувствовал лёгкий укол совести – ведь зачастую мы ограничивались парой ручных прогонов и считали, что "вроде работает".
+![Grounding Diagram](images/grounding-diagram.png)
 
-Однако такой подход неприемлем, если агент – часть продукта. Google прямо заявляет: переход от импровизированного "vibe-testing" к систематической, автоматизированной и воспроизводимой процедуре – это конкурентное преимущество. Фраза из гайда: "принятие систематической системы оценок – не просто лучшая практика, а конкурентное преимущество" – должна, на мой взгляд, висеть над столом у каждого, кто пилит AI-фичу в стартапе.
+One of the favorite topics among LLM developers is how to combat model hallucinations and limited world knowledge. Google's answer: **Grounding**. The guide clearly distinguishes: fine-tuning is not grounding. Fine-tuning does not guarantee the accuracy and factuality of responses. Grounding connects the model to up-to-date, reliable data sources.
 
-Что это значит на практике? Для меня как инженера – пересмотреть процесс разработки агента. Добавить побольше маленьких тестов: проверять, правильно ли парсится контекст, правильно ли вызываются функции, не сломалось ли что-то при обновлении модели. Инструментировать "chain of thought": гайд советует логировать каждое действие агента и даже автоматически прогонять сценарии, отлавливая, где агент сбился с пути. Это, кстати, реализовано в ADK: там есть встроенный трейсинг шагов и механизм оценки качества ответа (например, соответствия фактам).
+In practice, this means Retrieval-Augmented Generation (RAG) — before generating a response, the agent makes a search query or accesses your knowledge base to pull relevant facts. The guide describes the evolution from basic RAG to GraphRAG (leveraging data relationships through a knowledge graph) and even Agentic RAG, where the agent actively gathers information.
 
-Ещё инсайт – Google уже зашила часть этих практик в Agent Starter Pack: это набор Terraform-шаблонов, CI/CD-конфигов и скриптов, который сразу включает мониторинг, тестирование и деплой агентов по лучшим стандартам. По сути, они предлагают стартапам не изобретать велосипед, а взять готовый каркас, где при каждом новом билде вашего агента будут прогоняться тесты, оцениваться ответы, проверяться защитные правила. "Противоположность move fast and break things", как пошутили на реддите – и это действительно так. Но, скажу честно, после общения с enterprise-заказчиками понимаю: лучше заложить проверки и песочницы с самого начала, чем потом объяснять, почему ваш AI-бот внезапно что-то сломал у клиента.
+Google is essentially moving toward making the agent a proactive researcher — one that doesn't blindly trust its internal world but verifies hypotheses and refines data.
 
-Инсайт 5: Безопасность и этика: теперь обязательные требования, а не опция
+## Insight 4: AgentOps — Testing and Monitoring Instead of "Hope for the Best"
 
-Гайд недвусмысленно даёт понять: создавая мощного AI-агента, вы автоматически берёте на себя ответственность за его безопасность, защиту данных и этическое поведение. "Разрабатывая агент, вы несёте непреложную ответственность сделать его безопасным, защищённым и этически настроенным" – говорится в тексте. Это не красивые слова: дальше подробно расписано, какие риски бывают (модель может выдавать токсичный контент, может утечь конфиденциальная информация, агент могут взломать через prompt-injection и т.д.) и какие нужны меры.
+![AgentOps Workflow](images/agentops-workflow.png)
 
-Читаю я это и думаю: а ведь правда, мы же запускаем по сути автономную систему во внешнюю среду. Вспомните, сколько историй было, когда chatGPT кто-то пытался jailbreak-ить, или как боты начинали вести себя неподобающе. В продакшен-агенте такие вещи недопустимы. Google предлагает подход "defense-in-depth": многоуровневая защита. Во-первых, "дизайн с оградками" – уже на этапе разработки агента заложить контекстные фильтры, ограничения на инструменты (принцип минимальных привилегий) и т.п. Во-вторых, инфраструктурная защита: изолировать выполнение агента, использовать IAM-роли, чтобы даже скомпрометированный агент не мог навредить вне своей песочницы. В-третьих, мониторинг и аудит: логировать каждое действие (в ADK для этого есть подробный трейс), хранить логи в BigQuery, настроить алерты. И наконец, встроить guardrails: автоматические проверки входящих промптов и исходящих ответов на нежелательный контент или попытки атаки.
+The strongest impression was made by the section on AgentOps — essentially MLOps for agents. Google honestly states: most agents fail in production not because of bad models, but because nobody does the "tedious" operational work.
 
-Меня впечатлило, что даже эти проверки Google предлагает автоматизировать. Например, они упоминают, что Agent Starter Pack интегрирует проверку на injection-атаки прямо в CI/CD: каждый раз при изменении кода агента прогоняются тесты, нет ли уязвимостей или новых "дыр" в безопасности. Такой подход для разработчиков новых агентных систем пока внове. Но ощущается стремление Google задать стандарт: "secure by design" даже для экспериментальных AI-фич. Как инженер, я рад этому тренду. Значит, будет меньше случаев, когда из лучших побуждений запустили AI-сервис, а он скомпрометировал данные пользователей или наделал этических ошибок.
+The guide proposes a four-layer approach to agent evaluation:
 
-Отдельно отмечу: гайд отсылает к Google Secure AI Framework (SAIF) – видимо, внутреннему своду правил по безопасной разработке AI. Это намекает, что большие игроки уже формируют best practices, и наш долг – им следовать. Если раньше можно было сказать "да ладно, выкатим агент, авось ничего страшного", то теперь такая беспечность неприемлема. Безопасность, приватность, соответствие нормам – должны быть в чеклисте при разработке AI-агента с самого начала.
+1. **Component tests** — each tool and function is tested individually
+2. **Trajectory checks** — what the agent does at each step
+3. **Outcome checks** — how correct the final answers are
+4. **System monitoring** — production observability
 
-Заключение
+Google explicitly states that moving from improvised "vibe-testing" to a systematic, automated, and reproducible procedure is a competitive advantage.
 
-После вдумчивого чтения гайда у меня сложилось ощущение, что держу в руках попытку зафиксировать новый стандарт индустрии. Google проделала большую работу, чтобы структурировать опыт последних лет: от первых прототипов агентов – к зрелым, управляемым системам. Их посыл я прочитал так: "Путь от прототипа к продакшену – это дисциплинированная инженерия". Спонтанные эксперименты хороши для демо, но будущее за методичным подходом: выверенная архитектура, постоянная связь с данными (grounding), автоматизированное тестирование каждого "шага мысли" и тщательная забота о безопасности.
+The Agent Starter Pack from Google already includes Terraform templates, CI/CD configs, and scripts that bundle monitoring, testing, and deployment following best practices.
 
-Почему этот гайд – больше, чем документация? Потому что он устанавливает общий язык и рамки для всех нас, кто строит AI-агентов. Помните, как когда-то появился термин DevOps и набор практик, без которых сейчас невозможна разработка серьёзных приложений? Похоже, мы наблюдаем рождение аналогичного понятия для AI-агентов – пусть будет AgentOps. И очень вероятно, что через год-другой вопросы из гайда ("А проверил ли ты своего агента на галлюцинации? А логируешь ли ты его решения?") станут рутинной частью код-ревью.
+## Insight 5: Security and Ethics — Now Mandatory Requirements, Not an Option
 
-Лично для себя я решил использовать этот гайд как чеклист и источник лучших практик. Где-то он подтвердил мои догадки (например, про необходимость RAG и memory), а где-то уберёг от набивания шишек на ровном месте (например, сразу внедрив CI для агента и ограничив права инструментов). Впереди у всех нас ещё много работы по оттачиванию этих новых "норм". Но здорово, что появилась отправная точка от самого Google. Дисциплинированный подход к агентам может стать тем самым преимуществом, которое позволит стартапам выстрелить, а пользователям – доверять AI-решениям. Новый стандарт задан – дальше дело за нами.
+![Security and Ethics](images/security-ethics.png)
 
-Источники:
-- Startup Technical Guide: Building AI Agents with Google Cloud https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf
-- Как интегрировать Google ADK с кастомным интерфейсом: пошаговое руководство с примерами https://habr.com/en/articles/933804/
+The guide makes it unequivocally clear: when creating a powerful AI agent, you automatically take responsibility for its safety, data protection, and ethical behavior. It details the risks (toxic content, data leaks, prompt injection attacks) and the necessary countermeasures.
+
+Google proposes a "defense-in-depth" approach:
+
+- **Design with guardrails** — context filters, least-privilege tool restrictions from the start
+- **Infrastructure protection** — isolated agent execution, IAM roles
+- **Monitoring and auditing** — log every action, store logs in BigQuery, configure alerts
+- **Guardrails** — automatic checks on incoming prompts and outgoing responses
+
+The guide references Google's Secure AI Framework (SAIF) — an internal set of rules for secure AI development.
+
+## Conclusion
+
+After thoughtfully reading the guide, I felt like I was holding an attempt to codify a new industry standard. Google has done significant work structuring the experience of recent years: from early agent prototypes to mature, manageable systems.
+
+Their message: "The path from prototype to production is disciplined engineering." Spontaneous experiments are fine for demos, but the future belongs to a methodical approach: well-considered architecture, continuous grounding to data, automated testing of every "thought step," and meticulous attention to security.
+
+Why is this guide more than documentation? Because it establishes a common language and framework for all of us building AI agents. Just as DevOps once emerged as a set of practices, we are witnessing the birth of an analogous concept for AI agents — call it AgentOps.
+
+## Sources
+
+- [Startup Technical Guide: Building AI Agents with Google Cloud](https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf)
+- [How to Integrate Google ADK with a Custom Interface](https://habr.com/en/articles/933804/)
+
+---
+
+*Originally published on [Habr](https://habr.com/en/articles/953592/).*

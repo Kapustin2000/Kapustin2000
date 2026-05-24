@@ -1,48 +1,88 @@
-Мой первый AI & Blockchain хакатон: создание Global Forecasting System на Theta EuroCon в Берлине / Habr
+# My First AI & Blockchain Hackathon: Building the Global Forecasting System at Theta EuroCon in Berlin
 
-Level of difficulty: Easy
-Reading time: 5 min
-Reach and readers: 5.3K
+*September 2025*
 
-Tags: artificial intelligence, forecasting, blockchain, cryptocurrency
-Hubs: Artificial Intelligence, Cryptocurrencies, The future is here
+![Cover](images/cover.jpg)
 
-В сентябре я (Mykhailo Kapustin) впервые принял участие в хакатоне — это был Theta EuroCon Hackathon в Берлине (7–11 сентября 2025 года). Для меня и моей команды Advanced Scientific Research Projects (ASRP) это было больше, чем просто соревнование. Это стало возможностью показать результаты исследований, проверить наши идеи в динамичной среде и познакомиться с новаторами, работающими на стыке искусственного интеллекта и блокчейна.
+> Inside the hackathon: building GFS — the first competitor to BlackRock's Aladdin.
 
-О команде и проекте
+In September 2025, I participated in my first hackathon — the **Theta EuroCon Hackathon in Berlin** (September 7–11, 2025). For me and my team at **Advanced Scientific Research Projects (ASRP)**, it was more than just a competition. It was an opportunity to showcase our research, validate our ideas in a dynamic environment, and connect with innovators working at the intersection of AI and blockchain.
 
-ASRP — это группа компаний, чья география тянется от легендарного космодрома Байконур в Казахстане, где Юрий Гагарин совершил первый полёт человека в космос, до Космического центра Кеннеди во Флориде, стартовой площадки миссий Apollo. Мы объединяем специалистов в области ИИ, биомедицины, аэрокосмических технологий, журналистики и науки, которых объединяет одна миссия — изучение сознания. На хакатоне мы представили наш продукт — Global Forecasting System (GFS). Это система, которая анализирует сны и данные коллективного бессознательного, сопоставляя их с потоками новостей, биржевыми котировками, аномальным поведением животных и даже уровнем DEFCON, чтобы создавать прогнозы не только в финансах, но и в геополитике и социальных процессах.
+---
 
-Эта идея была впервые изложена в нашей публикации 2024 года «Прогнозирование социальных, геополитических и экономических событий с использованием технологии Банченко». В ней мы показали, что система вроде GFS может стать серьёзным конкурентом знаменитой платформы Aladdin от BlackRock. Если Aladdin — это система на базе ИИ, которая анализирует рынки и глобальные тренды для инвестиций и управления рисками, то GFS идёт дальше. Она охватывает куда более широкий спектр данных: от содержания снов и медитативных состояний до биофидбэка ЭЭГ. Наша цель — использовать так называемое «коллективное сознание», агрегируя данные от множества людей, чтобы извлекать сигналы и предсказывать движения рынков, политические события и социальные изменения. Согласно нашим исследованиям, подобная система способна превзойти Aladdin по силе прогнозирования и дать миру инструмент нового уровня для понимания будущего.
+## About the Team and Project
 
-Опыт хакатона
+ASRP is a group of companies spanning from the legendary Baikonur Cosmodrome in Kazakhstan to the Kennedy Space Center in Florida. We bring together specialists in AI, biomedicine, aerospace technology, journalism, and science — united by one mission: **the study of consciousness**.
 
-На протяжении нескольких дней мы жили в атмосфере постоянной энергии, идей и экспериментов, где более двадцати команд со всего мира соревновались за возможность показать свои проекты. Это было уникальное пространство, где блокчейн и искусственный интеллект встречались с креативностью и смелыми концепциями. Мы не просто писали код — мы учились распределять задачи, доверять друг другу и собирать отдельные части работы в единую систему, которая могла бы удивить жюри и участников.
+At the hackathon, we presented our product — the **Global Forecasting System (GFS)**. This system analyzes dreams and collective unconscious data, cross-referencing them with news feeds, stock quotes, anomalous animal behavior, and even DEFCON levels to generate forecasts not only in finance but also in geopolitics and social processes.
 
-Особенно интересным для меня стало совмещение двух ролей: разработчика и медиа-лица проекта. Наша команда оказалась единственной, кто ежедневно записывал TikTok-ролики, обзоры дня, интервью с соучредителями и небольшие планы на завтра. Это позволило не только показать нашу работу в реальном времени, но и создать атмосферу открытости и вовлечённости вокруг проекта. Люди приходили, расспрашивали о GFS, внимательно слушали наши презентации, и мы чувствовали, что идея действительно задевает за живое и выглядит революционной.
+This idea was first outlined in our 2024 publication *"Forecasting Social, Geopolitical, and Economic Events Using the Banchenko-Technology"*. We demonstrated that a system like GFS could become a serious competitor to BlackRock's famous **Aladdin** platform. While Aladdin uses AI to analyze markets and global trends, GFS goes further — incorporating data from dream content, meditative states, and EEG biofeedback. Our goal is to leverage **collective consciousness** by aggregating data from multiple people to extract signals and predict market movements, political events, and social changes.
 
-Ещё одним ярким впечатлением стали бытовые детали: нас вкусно кормили три раза в день, а часть работы я проводил на руфтопе рядом с диско-шаром — атмосфера, которая, казалось, идеально сочетала фокус и вдохновение.
+---
 
-Что мы построили за эти пять дней
+## The Hackathon Experience
 
-За время хакатона наша команда смогла превратить идею в работающий прототип — мы собрали две ключевые версии продукта:
-- Web-интерфейс (Andrii Kryliuk) — визуализация прогнозов, тикеров и событий, позволяющая работать с данными интерактивно.
-- Telegram-бот (Oleksandr Hromyko) — удобный инструмент для загрузки снов, получения интерпретаций и прогнозов прямо в мессенджере.
+For several days, we lived in an atmosphere of constant energy, ideas, and experimentation. Over twenty teams from around the world competed for the chance to present their projects. It was a unique space where blockchain and AI met creativity and bold concepts. We weren't just writing code — we learned to distribute tasks, trust each other, and assemble individual pieces into a unified system that could impress the jury.
 
-Параллельно мы сконструировали ядро системы: AI-модель, которая анализирует сновидения, ищет похожие сюжеты у разных пользователей и извлекает из них ключевые события. Эти события система затем сопоставляет с возможными сферами влияния — экономикой, геополитикой или социальной сферой. Далее определяется, на какие индустрии способны повлиять данные события, и в этих индустриях мы ищем конкретные биржевые тикеры и компании, которые могут оказаться под воздействием.
+![Team Photo](images/team-photo.jpg)
 
-На следующем этапе мы добавили поиск по медиа: модель проверяет, есть ли в СМИ новости, указывающие на то, что события из сновидений начинают воплощаться в реальности. Такой многослойный анализ объединяет субъективные данные с объективными потоками информации, позволяя строить ранние прогнозы.
+What made this experience especially unique was juggling two roles: developer and media face of the project. Our team was the only one recording daily TikTok updates, day reviews, interviews with co-founders, and plans for the next day. This allowed us to showcase our work in real-time and create an atmosphere of openness around the project.
 
-Отдельная благодарность Kyryl Zmiienko, который усилил логику сопоставления индустрий и рынков. Я вместе с Denis Banchenko и Valeri Ovseannicova занимался интеграцией научных наработок и Kapustin Markers Algorithm, позволяющего находить совпадения в сновидениях и выявлять скрытые закономерности.
+![Interview with Theta EuroCon Co-founders](images/interview.jpg)
 
-Презентация и реакция
+> Interview with Theta EuroCon co-founders during a short break. Their insights added depth to my daily updates.
 
-11 сентября мы показали первый демо-ролик системы на сцене. Наша идея вызвала живой интерес — аудитория внимательно слушала, а после многие подходили с вопросами и желанием узнать больше. Но самым ценным стало не только само выступление, а эмоции и мысли внутри команды.
+The little things also made an impression: we were well-fed three times a day, and I spent part of my work on the rooftop next to a disco ball — an atmosphere that perfectly combined focus and inspiration.
 
-Больше всего мне понравилась атмосфера хакатона — ощущение, что вокруг много людей со своими проектами, и с ними нужно соревноваться за лучший результат. Особенно запомнился момент, когда я вечером после нашего звонка сел глубже разбираться в проекте: формат с жёсткими сроками и конкуренцией оказался тяжёлым, но невероятно захватывающим. Думаю, благодаря этому событию мы смогли увидеть себя с разных сторон, узнать что-то новое друг о друге и ещё сильнее сплотиться как команда.
+![Rooftop Workspace](images/rooftop-workspace.jpg)
 
-Вывод
+---
 
-Для меня этот хакатон стал олицетворением решительности, стойкости, внутреннего огня и даже какой-то дерзости, чтобы доказать. Было очень много преград, но мы смогли зарядиться общей энергией, поддержкой друг друга и выйти на сцену, чтобы конкурировать и показывать, на что мы способны. За пять дней мы не только построили первые работающие версии Global Forecasting System (GFS), но и проверили на практике, что наша идея способна заинтересовать людей, вызвать живой отклик и сформировать вокруг себя внимание.
+## What We Built in Five Days
 
-Мы доказали, что команда может работать как единое целое даже на расстоянии, преодолев множество преград и сохранив решимость и внутренний огонь. Для первого хакатона это был колоссальный опыт — сочетание инженерных задач, научных идей и медийной работы, которое вывело нас на новый уровень.
+During the hackathon, our team turned an idea into a working prototype with two key versions:
+
+- **Web Interface** (Andrii Kryliuk) — visualization of forecasts, tickers, and events for interactive data exploration
+- **Telegram Bot** (Oleksandr Hromyko) — a convenient tool for submitting dreams, receiving interpretations and forecasts directly in the messenger
+
+In parallel, we built the system's core: an **AI model that analyzes dreams**, searches for similar narratives across different users, and extracts key events. The system then maps these events to potential areas of impact — economics, geopolitics, or social spheres. It identifies which industries might be affected and searches for specific stock tickers and companies within those industries.
+
+Next, we added **media search**: the model checks whether news outlets are reporting events that suggest dream content is manifesting in reality. This multi-layered analysis combines subjective data with objective information streams to build early forecasts.
+
+Special thanks to **Kyryl Zmiienko**, who strengthened the industry-to-market mapping logic. Together with **Denis Banchenko** and **Valeri Ovseannicova**, I integrated research成果 and the **Kapustin Markers Algorithm**, which identifies dream pattern matches and reveals hidden correlations.
+
+---
+
+## Presentation and Reaction
+
+On September 11, we showed the first demo video of the system on stage. Our idea generated genuine interest — the audience listened attentively, and many approached afterward with questions and a desire to learn more.
+
+![Demo Presentation](images/demo-presentation.jpg)
+
+> The team presenting the GFS prototype on stage at Theta EuroCon.
+
+**Oleksandr Hromyko** shared:
+
+> What I loved most was the hackathon atmosphere — the feeling that so many people around had their own projects, and we were competing for the best result. The format with tight deadlines and competition was challenging but incredibly exciting. Thanks to this event, we saw ourselves from different angles and grew even stronger as a team.
+
+**Kyryl Zmiienko** added:
+
+> I was incredibly inspired by the hackathon's atmosphere. Cohesion, a constant flow of ideas — it kept charging me up and made me want to build something truly great!
+
+**Andrii Kryliuk** reflected:
+
+> Participating in the hackathon was a valuable experience and a real challenge. Under time pressure, I had to think fast, make decisions, and try different approaches. The teamwork, mutual support, and collaborative ideation were especially important. This experience pushed me beyond my usual limits and left me truly inspired.
+
+---
+
+## Conclusion
+
+For me, this hackathon embodied determination, resilience, inner fire, and a certain audacity to prove ourselves. There were many obstacles, but we channeled the collective energy and support to take the stage and compete.
+
+In five days, we not only built the first working versions of the **Global Forecasting System (GFS)** but also validated that our idea can engage people, spark genuine interest, and build momentum.
+
+We proved that a team can function as a unified whole even across distances, overcoming countless obstacles while preserving determination and inner fire. For a first hackathon, this was an immense experience — a combination of engineering challenges, scientific ideas, and media work that elevated us to a new level.
+
+---
+
+*Originally published on [Habr](https://habr.com/en/articles/947040/), [Hashnode](https://kapustinomm.hashnode.dev/my-first-ai-and-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-berlin), and [Medium](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625).*

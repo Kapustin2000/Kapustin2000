@@ -1,45 +1,123 @@
-Создание приложения для сопоставления резюме с помощью tRPC, NLP и Vertex AI / Habr
+# Building a Resume Matcher with tRPC, NLP, and Vertex AI
 
-Level of difficulty: Easy
-Reading time: 6 min
-Reach and readers: 7.5K
+**Author:** Mykhailo Kapustin (@kapustinomm)  
+**Published on Habr:** September 2, 2025  
+**Difficulty:** Easy | **Reading time:** 6 min | **Reach:** 7.5K
 
-Tags: tRPC, tRPC vs REST, tRPC vs GraphQL, type-safe API, resume matcher app, pdf text extraction node.js, NLP, google vertex ai, gemini
-Hubs: Google API, Google Cloud Platform, Google App Engine, Node.JS, JavaScript
+**Tags:** tRPC, Type-Safe API, Resume Matcher, PDF Text Extraction, NLP, Google Vertex AI, Gemini  
+**Hubs:** Google API, Google Cloud Platform, Google App Engine, Node.js, JavaScript
 
-Недавно я сделал небольшое приложение на TypeScript, которое сравнивает PDF-резюме с вакансиями. Мне нужен был быстрый способ прототипировать API, поэтому я выбрал tRPC для бэкенда.
+![Cover](images/cover.png)
 
-tRPC — это RPC-фреймворк с ориентацией на TypeScript, который обещает «end-to-end typesafe APIs» (сквозную типизацию API), то есть я могу делиться типами между клиентом и сервером без написания схем OpenAPI или GraphQL SDL.
+I recently built a small TypeScript application that compares PDF resumes against job descriptions. I needed a quick way to prototype an API, so I chose **tRPC** for the backend.
 
-На практике это означало, что я мог сосредоточиться на написании логики, а не шаблонного кода. В отличие от REST или GraphQL, tRPC не предоставляет универсальную схему — он просто открывает процедуры (по сути функции) на сервере, которые клиент может вызвать, напрямую разделяя типы входа и выхода.
+tRPC is an RPC framework oriented around TypeScript that promises "end-to-end typesafe APIs" — meaning I can share types between client and server without writing OpenAPI or GraphQL SDL schemas. In practice, this meant I could focus on writing logic rather than boilerplate code.
 
-Почему это полезно? В двух словах, я делал внутренний инструмент (MVP) и уже использовал TypeScript с обеих сторон. Модель tRPC без шагов сборки и с типизацией подошла идеально. В официальной документации tRPC даже отмечено: если я изменю вход или выход серверной функции, TypeScript предупредит меня на клиенте ещё до того, как я отправлю запрос. Это сильно помогает ловить баги на ранних стадиях. В отличие от этого, с REST или GraphQL мне пришлось бы вручную синхронизировать или генерировать схемы. С другой стороны, я понимал, что tRPC жёстко связывает мой API и клиентский код (он не является языконезависимым API), поэтому он лучше всего подходит для проектов «TypeScript-first», как этот, а не для публичных кроссплатформенных API.
+## Why tRPC?
 
-С настроенным tRPC я написал простой роутер для основной операции: анализа двух загруженных PDF-файлов (CV и описания вакансии). Используя tRPC с Zod-form-data, я мог легко валидировать загрузку файлов.
+Unlike REST or GraphQL, tRPC doesn't provide a universal schema — it simply exposes procedures (essentially functions) on the server that the client can call, directly sharing input and output types. I was building an internal tool (an MVP) and already using TypeScript on both sides. tRPC's model with no build steps and built-in typing was a perfect fit.
 
-Извлечение навыков с помощью базового NLP
+If I change the input or output of a server function, TypeScript will warn me on the client side before I even send a request. This helps catch bugs early. With REST or GraphQL, I would have to manually synchronize or generate schemas.
 
-Когда у меня был чистый текст CV и описания вакансии, нужно было извлечь из них значимые ключевые слова или навыки. Я сделал это просто: использовал комбинацию natural (для токенизации), compromise (для выделения частей речи, например существительных) и фильтр стоп-слов.
+## Defining the tRPC Router
 
-Интеграция Vertex AI (Gemini 1.5 Flash) для сопоставления
+With tRPC set up, I wrote a simple router for the main operation: analyzing two uploaded PDF files (a CV and a job description). Using tRPC with Zod-form-data, I could easily validate file uploads:
 
-Для основной логики сопоставления я решил обратиться к Google Vertex AI с новой моделью Gemini 1.5 Flash. Это было нужно в основном для получения структурированного результата сравнения (например, оценка и рекомендации), не реализуя сложную NLP-логику самому. В MatcherService, после очистки текста и извлечения навыков, я формирую промпт и делаю fetch к Vertex.
+```typescript
+export const matchRouter = router({
+  analyzePdfs: baseProcedure
+    .input(zfd.formData({
+      vacancyPdf: zfd.file().refine(file => file.type === "application/pdf", {
+        message: "Only PDF files are allowed",
+      }),
+      cvPdf: zfd.file().refine(file => file.type === "application/pdf", {
+        message: "Only PDF files are allowed",
+      }),
+    }))
+    .mutation(async ({ input }) => {
+      const [cvText, vacancyText] = await Promise.all([
+        PDFService.extractText(input.cvPdf),
+        PDFService.extractText(input.vacancyPdf),
+      ]);
+      const result = await MatcherService.match(cvText, vacancyText);
+      return { matchRequestId, ...result };
+    }),
+});
+```
 
-Этот подход оказался очень удобным — Gemini выдавал результат без написания алгоритма ранжирования. Это ощущается как использование модели в роли «чёрного ящика-сравнивателя». Конечно, это значит, что я доверяю ИИ, и иногда результат требовал очистки или валидации. Но в целом интеграция Gemini позволила сосредоточиться на UI и потоках данных, а не на тонкой настройке LLM.
+The `analyzePdfs` mutation accepts a multipart form with two PDF files. After validation, I use `PDFService.extractText()` to extract raw text from each PDF, then call `MatcherService.match()` for analysis. Since tRPC knows the input/output types, the frontend gets fully typed results without writing additional DTOs.
 
-Почему tRPC подошёл (и его ограничения)
+## Extracting Skills with Basic NLP
 
-Использование tRPC определённо ускорило разработку. Без необходимости писать схемы API я мог поднять endpoint за считанные минуты. Full-stack TypeScript означает, что код роутера — это общий код и для клиента (через генератор клиента tRPC), так что у меня есть проверки во время компиляции.
+Once I had clean text from the CV and job description, I needed to extract meaningful keywords or skills. I kept it simple: combined `natural` for tokenization, `compromise` for part-of-speech tagging (nouns), and a stop-word filter:
 
-С другой стороны, я знаю про ограничения tRPC. Он жёстко связывает мой фронтенд с этой серверной реализацией, поэтому если бы мне понадобился публичный REST или мобильный клиент, пришлось бы переосмысливать архитектуру. Мне также пришлось самому думать про кеширование и лимиты запросов (tRPC не даёт готового решения, как GraphQL).
+```typescript
+private static extractSkills(text: string): Set<string> {
+  const doc = nlp(text);
+  const nouns = doc.nouns().out("array");
+  const capitalizedWords = text.match(/\b[A-Z][a-zA-Z0-9.-]+\b/g) || [];
+  return new Set([...nouns, ...capitalizedWords].map(w => w.toLowerCase()));
+}
+```
 
-Уроки
+This code lowercases the text, runs it through the NLP library to get nouns, and uses a regex to find all capitalized words (often technology names). The union of these results gives me a candidate set of "skills" from each document. It's basic keyword extraction — not complex ML — but it works fast and does a decent job highlighting matching skills.
 
-Создание этого проекта с современными API на TypeScript оказалось довольно приятным. Я получил сквозную типизацию (клиент точно знает, что вернётся, например, { score: number }) и не пришлось поддерживать отдельную клиентскую библиотеку.
+## Integrating Vertex AI (Gemini 1.5 Flash) for Matching
 
-На стороне NLP я понял, что даже простые эвристики (существительные + слова с заглавной буквы) могут неплохо справляться с выделением ключевых слов в простых случаях. И наконец, интеграция Vertex AI напомнила, что многое из «магии AI» можно отдать наружным моделям при грамотной постановке промпта.
+For the core matching logic, I turned to Google Vertex AI with the new **Gemini 1.5 Flash** model. This was mainly to get structured comparison results (scores and recommendations) without implementing complex NLP logic myself:
 
-Источники:
-- tRPC Official Site – Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- Viljami Kuosmanen, Comparing REST, GraphQL & tRPC (dev.to, Oct 2023)
-- Bryant Gillespie, REST vs. GraphQL vs. tRPC (Directus blog, Feb 2025)
+```typescript
+const aiPrompt = `
+Analyze the job description and candidate's CV to provide a structured evaluation.
+
+Job Description:
+${cleanedJD}
+
+Candidate CV:
+${cleanedCV}
+
+Provide a structured analysis in JSON format with fields "score", "strengths", and "suggestions".
+`;
+
+const response = await fetch(process.env.AI_API_ENDPOINT!, {
+  method: "POST",
+  headers: {
+    Authorization: process.env.AI_API_TOKEN,
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    contents: [{ role: "user", parts: [{ text: aiPrompt }] }]
+  })
+});
+
+const data = await response.json();
+const rawResponse = data.candidates[0].content.parts[0].text;
+```
+
+This approach was very convenient — Gemini delivered results without writing a ranking algorithm. It felt like using the model as a "black-box comparator." I did need to handle errors and rate limits, but overall the integration let me focus on the UI and data flow rather than fine-tuning an LLM.
+
+## Why tRPC Fit (and Its Limitations)
+
+Using tRPC definitely accelerated development. Without needing to write API schemas, I could spin up an endpoint in minutes. Full-stack TypeScript means the router code is shared code for both the client and server, giving me compile-time checks.
+
+On the other hand, tRPC tightly couples my frontend to this server implementation — if I needed a public REST API or a mobile client, I'd have to rethink the architecture. I also had to handle caching and rate limiting myself (tRPC doesn't provide built-in solutions like GraphQL).
+
+For this project — essentially an internal demo — these limitations were acceptable.
+
+## Lessons Learned
+
+Building this project with modern TypeScript APIs was quite pleasant. I got end-to-end typing and didn't need to maintain a separate client library. The code feels very "SDK-like": I simply call functions in `matchRouter` as if they were local code.
+
+On the NLP side, I learned that even simple heuristics (nouns + capitalized words) can work well for keyword extraction in basic cases. And finally, integrating Vertex AI reminded me that much of the "AI magic" can be outsourced to external models with proper prompt engineering.
+
+But there's no silver bullet. With more time, I would improve error handling around the AI service and add result caching (since PDF-to-text and AI calls are expensive). If the application evolved further, I might replace tRPC with a more conventional REST/GraphQL API for a public interface. But for now, tRPC delivered exactly what was needed: a fast MVP with strict typing and minimal ceremony.
+
+## Sources
+
+- [tRPC Official Site](https://trpc.io/) — Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- Viljami Kuosmanen, [Comparing REST, GraphQL & tRPC](https://dev.to/) (dev.to, Oct 2023)
+- Bryant Gillespie, [REST vs. GraphQL vs. tRPC](https://directus.io/) (Directus blog, Feb 2025)
+
+---
+
+*Originally published on [Habr](https://habr.com/en/articles/943306/). Full source code on [GitHub](https://github.com/Kapustin2000/resume-matcher).*

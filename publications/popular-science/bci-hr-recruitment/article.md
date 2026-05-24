@@ -1,33 +1,53 @@
-Нейроинтерфейсы в HR: как технологии меняют подбор персонала
+# Brain–Computer Interface (BCI) in HR: How Technology is Changing Recruitment
 
-Источник: Tproger
+![Cover](images/cover.jpg)
 
-Авторы: Mykhailo Kapustin, Александра Карл Бернадотт
+You hired a new employee. Their resume is impressive, their professional skills are a perfect match. But a few months later, you realize they don't fit in with the team. Conflicts, misunderstandings, adaptation stress — all leading to additional costs. Recruitment is always a risk, especially when it matters how employees think and react in work situations.
 
-Откройте будущее подбора персонала с нейроинтерфейсами и нейросетями. Узнайте, как когнитивная синхронизация и анализ мозговых сигналов помогают создавать эффективные команды.
+Today, innovative technologies are changing the approach to hiring — neural networks and brain-computer interfaces are being developed that analyze candidate compatibility with the team. One such tool is being developed by the International Research Group "Advanced Scientific Research Projects" (ASRP).
 
-Вы наняли нового сотрудника. Его резюме впечатляет, он идеально подходит по профессиональным навыкам. Но через пару месяцев вы понимаете: он не вписывается в коллектив. Конфликты, недопонимания, стресс адаптации — всё это приводит к дополнительным затратам. Подбор персонала — всегда риск, особенно когда важно учитывать, как сотрудники мыслят и реагируют в рабочих ситуациях.
+## The Problem with Traditional Recruitment Methods
 
-Сейчас инновационные технологии меняют подход к найму — создаются нейросети и нейроинтерфейсы, которые анализируют совместимость кандидатов с командой. Например, один из таких инструментов разрабатывает Международная научно-исследовательская группа «Перспективные Научно-Исследовательские Разработки» (ASRP).
+Traditional approaches — resume analysis, interviews, and references — often fail to reveal the most important factor: how a person will fit into the team. These methods are subject to bias and cannot predict team dynamics in advance.
 
-Александра Карл Бернадотт — кандидат медицинских наук, гендиректор в ООО РЕБИС и ООО Нейроспутник, доцент МИСиС и старший научный сотрудник в ВШЭ и МГУ.
+> "Imagine you spend 3 hours interviewing someone, then they join the team and try to adapt. The first meeting went well — everyone smiled, talked about neutral topics. So you hire them, and then everything goes wrong."
+>
+> — *Alexandra Karl Bernadotte, CEO*
 
-Денис Юрьевич Банченко — основатель и руководитель независимой международной научно-исследовательской группы ASRP, исследователь в области метапсихологии и нейрофизиологии.
+Onboarding costs can reach up to 2 million rubles per employee, followed by difficulties in team integration. Innovative approaches go deeper, analyzing how a person synchronizes with the team at the level of consciousness.
 
-Стандартные методы рекрутинга: в чём проблема?
+## Innovative Approaches to Recruitment
 
-Традиционные подходы к подбору персонала — анализ резюме, собеседования и рекомендации — часто не позволяют увидеть главное: как человек впишется в коллектив. Эти методы подвержены субъективности и не дают возможности заранее предсказать командную динамику.
+Instead of subjective assessments and long interviews, companies are beginning to use neural networks, data analysis, and brain-computer interfaces to objectively evaluate candidate-team compatibility. These approaches minimize errors, save time, and create more harmonious teams.
 
-Инновационные подходы к подбору персонала
+The "bIIryozka" project (by REBIS LLC) uses brain-computer interfaces to analyze candidates' neural signals and assess their cognitive compatibility with the team. Instead of standard interviews, participants complete game tests while their reactions to tasks, jokes, and stressful situations are recorded.
 
-Например, проект "бИИрёзка" (проект компании ООО РЕБИС) использует нейроинтерфейсы для анализа мозговых сигналов кандидатов, чтобы оценить их когнитивную совместимость с командой. Вместо стандартного собеседования участники проходят игровые тесты, во время которых фиксируются их реакции на задачи, шутки и стрессовые ситуации.
+> "Imagine this: a candidate comes for basic testing to confirm their professional skills. But being an excellent specialist doesn't guarantee they will integrate into the team. After checking hard skills, the candidate plays bIIryozka. We see how well they fit the team and whether they synchronize with it."
+>
+> — *Denis Banchenko, CEO*
 
-Создание базы данных когнитивных паттернов (состояний сознания)
+Simply put, the interview takes place in a game room. The candidate and team members wear brain-computer interfaces and participate in a collaborative game.
 
-База данных хранящая профили кандидатов и когнитивные паттерны команд. Это позволяет компаниям автоматизировать подбор: данные, собранные однажды, могут использоваться для анализа совместимости с другими коллективами без необходимости повторного тестирования.
+## Building a Cognitive Pattern Database
 
-Заключение
+The use of brain-computer interfaces in hiring generates vast amounts of data about cognitive activity and candidate reactions. This data not only helps make immediate decisions but also enables long-term analysis and behavior prediction.
 
-Интеграция нейросетей и нейроинтерфейсов в процессы подбора персонала — это больше, чем просто технологическое новшество. Это шаг к созданию гармоничных и продуктивных команд, где каждый сотрудник занимает своё место, а работа становится синхронной и эффективной.
+A database storing candidate profiles and team cognitive patterns allows companies to automate selection: data collected once can be used to analyze compatibility with other teams without repeated testing.
 
-Будущее HR — это сочетание науки о сознании и передовых технологий. И компании, которые первыми интегрируют такие подходы, получат не только конкурентное преимущество, но и заложат основу для новых стандартов взаимодействия в командах.
+> "In the future, with a large database, when a company like Google has several teams and many candidates, we can automatically match rhythms with the database using AI — without inviting the candidate to play again. We could determine that while this candidate wasn't right for Google, they would be a perfect fit for Apple or Starlink."
+>
+> — *Denis Banchenko, CEO*
+
+The concept of the Global Mental System (GMS), described in a ResearchGate paper titled "Technological transformations, formation of GMS (Global Mental System) and GFS (Global Forecasting System)," enables storing candidate profiles and integrating them into larger analysis and recruitment processes.
+
+## Conclusion
+
+The integration of neural networks and brain-computer interfaces into recruitment processes is more than just a technological novelty. It is a step toward creating harmonious and productive teams where every employee finds their place, and work becomes synchronous and efficient.
+
+Innovative technologies are already changing the concept of HR, minimizing subjectivity, reducing costs, and eliminating adaptation problems. The creation of cognitive pattern databases like the Global Mental System opens doors to automated hiring and team success prediction.
+
+The future of HR is the combination of consciousness science and advanced technology. Companies that first integrate these approaches will gain not only a competitive advantage but also lay the foundation for new standards of team interaction.
+
+---
+
+*Originally published on [Tproger](https://tproger.ru/articles/nejroseti-v-hr--budushhee-podbora-personala-cherez-sinhronizaciyu-sostoyanij)*
