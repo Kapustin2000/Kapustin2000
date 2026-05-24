@@ -4,6 +4,8 @@
 
 *April 2021 – July 2023*
 
+**Developed at:** [LAB325](../../experience/lab325/)
+
 **Project Overview:**
 Gazer TV is a mobile application designed to enhance the user experience of Gazer Smart TVs by transforming smartphones and tablets into versatile remote controls. The app offers a range of features that provide users with intuitive and convenient ways to interact with their TVs.
 

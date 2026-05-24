@@ -14,6 +14,10 @@ Worked as a full-stack web developer building client-facing web applications usi
 - Developed full-stack web applications from requirements through deployment
 - Built scalable and maintainable solutions using Laravel best practices
 
+## Related Projects
+
+- [QPQ International — Green Energy Funding Platform](../../projects/qpq/)
+
 ---
 
 [← All Experience](../README.md)

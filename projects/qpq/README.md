@@ -4,6 +4,8 @@
 
 *February 2020 – July 2020*
 
+**Developed at:** [Ephyros](../../experience/ephyros/)
+
 **Project Overview:**
 QPQ International is a digitally-enabled bespoke deal advisory platform dedicated to advancing green energy projects globally. The company focuses on assisting project developers in accelerating development, securing financing, and establishing partnerships to promote sustainable initiatives.
 

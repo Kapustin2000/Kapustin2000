@@ -4,6 +4,8 @@
 
 *September 2018 – February 2020*
 
+**Developed at:** [HYS Enterprise](../../experience/hys-enterprise/)
+
 **Project Overview:**
 The HYS Enterprise corporate website serves as the official digital portal for one of Ukraine's largest IT companies. It provides a comprehensive overview of the company's expertise, services, and values, acting as a primary point of contact for clients, partners, and potential employees.
 

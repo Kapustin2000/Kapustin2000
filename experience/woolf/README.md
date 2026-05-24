@@ -16,6 +16,10 @@ Designed and implemented an MVP LLM-agent prototype for educational assessment a
 - Delivered insights on LLM agent capabilities and limitations in EdTech
 - Contributed to knowledge transfer and partner enablement
 
+## Related Projects
+
+- [AI CV Matcher](../../projects/ai-cv-matcher/)
+
 ---
 
 [← All Experience](../README.md)

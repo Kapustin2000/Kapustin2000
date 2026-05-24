@@ -17,6 +17,10 @@ Worked as a software developer for HYS Enterprise, one of Ukraine's largest IT c
 - Collaborated with designers, marketers, and stakeholders to align the website with company branding
 - Ensured cross-device compatibility and optimized performance and security
 
+## Related Projects
+
+- [HYS Enterprise — Corporate Website](../../projects/hys/)
+
 ---
 
 [← All Experience](../README.md)

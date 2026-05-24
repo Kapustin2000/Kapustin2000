@@ -4,6 +4,8 @@
 
 *October 2021 – January 2022*
 
+**Developed at:** [MOB.325](../../experience/mob325/)
+
 **Project Overview:**
 IzziFit is a mobile application designed to provide users with personalized workout routines and comprehensive fitness tracking tools. The app offers over 500 exercises tailored to individual needs, making it suitable for both beginners and fitness enthusiasts.
 

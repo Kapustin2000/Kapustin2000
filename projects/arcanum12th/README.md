@@ -4,6 +4,8 @@
 
 *April 2023 – Present*
 
+**Developed at:** [ASRP](../../experience/asrp/)
+
 **Project Overview:**
 Arcanum12th is a unique educational platform focused on consciousness studies, cognitive science, and mental training. It offers structured courses, research, and AI-driven analysis tools to help users develop self-awareness, master lucid dreaming, and enhance cognitive abilities. The platform is part of the ASRP ecosystem, integrating scientific research, neurotechnology, and AI-based dream interpretation.
 

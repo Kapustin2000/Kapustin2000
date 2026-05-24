@@ -4,6 +4,8 @@
 
 *January 2022 – March 2022*
 
+**Developed at:** [MOB.325](../../experience/mob325/)
+
 **Project Overview:**
 Hark is a mobile application designed to facilitate anonymous conversations between individuals worldwide. The platform provides a safe space for users to share their thoughts, discuss personal or professional challenges, and connect with others without revealing their identities.
 

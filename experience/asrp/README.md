@@ -22,6 +22,11 @@ Co-founded ASRP, a transatlantic research holding company focused on AI, blockch
 - Launched Kapusta — internal ecosystem cryptocurrency
 - Organized conferences with scientists, recruited and mentored junior developers, managed investor negotiations
 
+## Related Projects
+
+- [Arcanum12th — Consciousness Education Platform](../../projects/arcanum12th/)
+- [ASRP Media — Analytical & Research Platform](../../projects/asrp.media/)
+
 ---
 
 [← All Experience](../README.md)

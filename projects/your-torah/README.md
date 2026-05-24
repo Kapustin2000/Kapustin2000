@@ -4,6 +4,8 @@
 
 *August 2020 – April 2021*
 
+**Developed at:** [Coelix](../../experience/coelix/)
+
 **Project Overview:**
 Your Torah Tutors is an online educational platform dedicated to empowering students to become independent and confident learners in Torah study. The platform offers personalized tutoring sessions focusing on enhancing vocabulary, grammar, and comprehension skills in both Chumash and Gemara. Utilizing unique flashcards and engaging teaching methods, the program makes learning enjoyable and effective. Lessons are conducted via Zoom, making them accessible to students aged 8 and up, regardless of their location.
 

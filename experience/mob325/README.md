@@ -15,6 +15,12 @@ Led development teams and drove technical delivery for client projects at MOB.32
 - Designed and implemented scalable backend architectures
 - Drove technical decisions and mentored junior team members
 
+## Related Projects
+
+- [IzziFit — Smart Workout App](../../projects/izzifit/)
+- [Hark — Global Anonymous Chat](../../projects/hark/)
+- [Lill — Plant Care Assistant](../../projects/lill/)
+
 ---
 
 [← All Experience](../README.md)

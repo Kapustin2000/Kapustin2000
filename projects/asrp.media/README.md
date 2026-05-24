@@ -4,6 +4,8 @@
 
 *May 2023 – September 2025*
 
+**Developed at:** [ASRP](../../experience/asrp/)
+
 **Project Overview:**
 ASRP Media is an analytical and research platform dedicated to neuroscience, AI, cognitive science, and consciousness studies. As part of the ASRP ecosystem, it provides exclusive content, expert insights, and in-depth analyses of emerging technologies. The platform serves scientists, researchers, and technology enthusiasts interested in neurotechnology, lucid dreaming, and cognitive enhancement.
 

@@ -4,6 +4,8 @@
 
 *July 2021 – April 2023*
 
+**Developed at:** [LAB325](../../experience/lab325/)
+
 **Project Overview:**
 Woman Insight is an online educational platform dedicated to personal development, offering courses that cater to various aspects of life, including spirituality, goals and development, business and finance, family and home, hobbies and interests, relationships, and health and beauty. The platform provides concise lessons, each lasting up to 15 minutes, allowing users to engage in learning even with limited free time. The content is designed to be direct and practical, ensuring maximum benefit without unnecessary information.
 

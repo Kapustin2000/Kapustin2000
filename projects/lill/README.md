@@ -4,6 +4,8 @@
 
 *July 2021 – October 2021*
 
+**Developed at:** [MOB.325](../../experience/mob325/)
+
 **Project Overview:**
 Lill is a mobile application designed to assist plant enthusiasts in identifying, diagnosing, and caring for their plants. The app offers a comprehensive suite of features to ensure optimal plant health and growth.
 
