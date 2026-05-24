@@ -43,7 +43,7 @@
 
 ## General
 
-- [ ] Add reference letters from former colleagues
+- [x] Add reference letters from former colleagues (12 recommendations across HYS, LAB325, MOB.325, Coelix)
 - [ ] Create timeline page (work + projects + publications + conferences in chronological order)
 
 ### AI Knowledge Graph

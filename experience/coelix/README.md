@@ -22,6 +22,10 @@ Through these contributions, Coelix evolved into a software development company 
 
 - [Your Torah Tutors — Online Learning Platform](../../projects/your-torah/)
 
+## References
+
+- [Recommendations from colleagues](reference.md) — Sergey Savin, Michael Matveiev, Vadim Biezuhlov, Rami Salo, Oleksandr Kulachynskyi
+
 ---
 
 [← All Experience](../README.md)

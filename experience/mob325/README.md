@@ -21,6 +21,10 @@ Led development teams and drove technical delivery within the MOB.325/LAB325 gro
 - [Hark — Global Anonymous Chat](../../projects/hark/)
 - [Lill — Plant Care Assistant](../../projects/lill/)
 
+## References
+
+- [Recommendations from colleagues](reference.md) — Andriy Sasin
+
 ---
 
 [← All Experience](../README.md)

@@ -20,6 +20,10 @@ Worked as a senior backend engineer within the MOB.325/LAB325 group of companies
 - [Gazer TV — Smart TV Companion App](../../projects/gazer/)
 - [Woman Insight — Educational Platform](../../projects/woman-insight/)
 
+## References
+
+- [Recommendations from colleagues](reference.md) — Oleksandr Dolomatov, Oleg D., Danylo Sahaidak, Oleksandr Sorokolita
+
 ---
 
 [← All Experience](../README.md)
