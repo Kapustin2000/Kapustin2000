@@ -23,7 +23,7 @@ graph.yaml ──→ pick entity ──→ entity/meta.yaml ──→ entity/REA
 ```
 
 ### Step 1: `_graph_/graph.yaml`
-- Understand the full scope: 1 person, 11 companies, 11 projects, 22 publications, 2 conferences, 1 education
+- Understand the full scope: person, companies, projects, publications, conferences, education
 - Follow `relations` to discover connections between entities
 - Use dates to build timelines
 
@@ -40,12 +40,12 @@ Each top-level section has its own `meta.yaml` with navigation:
 
 | Section | Index | Child Entities |
 |---------|-------|----------------|
-| experience | `experience/meta.yaml` | 11 companies with periods |
-| projects | `projects/meta.yaml` | 11 projects with status |
-| publications | `publications/meta.yaml` | 22 articles across 4 categories |
-| conferences | `conferences/meta.yaml` | 2 conferences |
-| skills | `skills/meta.yaml` | Skill categories |
-| education | `education/meta.yaml` | 1 degree |
+| experience | `experience/meta.yaml` | companies with periods |
+| projects | `projects/meta.yaml` | projects with status |
+| publications | `publications/meta.yaml` | articles across categories |
+| conferences | `conferences/meta.yaml` | conferences |
+| skills | `skills/meta.yaml` | skill categories |
+| education | `education/meta.yaml` | education entries |
 
 ## Schema
 
