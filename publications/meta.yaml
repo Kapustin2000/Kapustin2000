@@ -1,0 +1,86 @@
+id: publications
+type: index
+description: "Publications and articles — 22 total across 4 categories"
+categories:
+  - path: technical-articles
+    label: Technical Articles
+    count: 10
+  - path: popular-science
+    label: Popular Science
+    count: 7
+  - path: research-publications
+    label: Research Publications
+    count: 4
+  - path: academic-research
+    label: Academic Research
+    count: 1
+entities:
+  - id: ai-agent-infrastructure
+    type: article
+    date: 2025-10
+  - id: ai-blockchain-hackathon-theta
+    type: article
+    date: 2025-09
+  - id: app-store-review-analysis
+    type: article
+    date: 2025-10
+  - id: docling-text-language
+    type: article
+    date: 2025-08
+  - id: google-adk-custom-interface
+    type: article
+    date: 2025-07
+  - id: google-adk-startup-guide
+    type: article
+    date: 2025-10
+  - id: jambonz-voice-ai
+    type: article
+    date: 2025-10
+  - id: lm-studio-local-llm-guide
+    type: article
+    date: 2026-02
+  - id: mvp-llm-agent-adk
+    type: article
+    date: 2025-09
+  - id: resume-matcher-trpc
+    type: article
+    date: 2025-09
+  - id: ai-lucid-dreaming
+    type: article
+    date: 2023-06
+  - id: bci-hr-recruitment
+    type: article
+    date: 2024-12
+  - id: economics-of-dreams
+    type: article
+    date: 2024-05
+  - id: future-technologies-innovation
+    type: article
+    date: 2023-10
+  - id: lucid-dreams-vr-olympic
+    type: article
+    date: 2024-12
+  - id: pet-project-scientific-research-2023
+    type: article
+    date: 2023-10
+  - id: pet-project-scientific-research-2024
+    type: article
+    date: 2024-10
+  - id: banchenko-dream-synchronization
+    type: research_paper
+    date: 2024-01
+  - id: banchenko-forecasting
+    type: research_paper
+    date: 2024-06
+  - id: gms-gfs-right-brain
+    type: research_paper
+    date: 2025-02
+  - id: grivtsova-stress-management
+    type: research_paper
+    date: 2024-07
+  - id: software-development-tools
+    type: research_paper
+    date: 2018-12
+navigation:
+  parent: /
+  siblings: [experience, projects, conferences, skills, education]

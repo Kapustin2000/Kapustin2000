@@ -61,6 +61,8 @@ tRPC server using Gemini 1.5 Flash for AI-driven CV-to-vacancy matching with sco
 
 `Node.js` (7) · `Vue` (3) · `GraphQL` (5) · `Docker` (7) · `PostgreSQL` (4) · `LangChain` (3) · `Nuxt` (3) · `Nginx` (3) · `Laravel` (2) · `PHP` (2)
 
+Meta: [meta.yaml](meta.yaml)
+
 ---
 
 [← Back to Profile](../README.md)

@@ -62,6 +62,8 @@ Europe's largest developer congress. Explored software development trends, AI ad
 |------------|---------|-------|
 | THETA EuroCon 2025 | [My First AI & Blockchain Hackathon](../publications/technical-articles/ai-blockchain-hackathon-theta/) | [YouTube Pitch](https://www.youtube.com/watch?v=8ubUtSxpi-g) |
 
+Meta: [meta.yaml](meta.yaml)
+
 ---
 
 [← Back to Profile](../README.md)

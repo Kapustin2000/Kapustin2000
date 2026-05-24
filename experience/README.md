@@ -87,6 +87,8 @@ Designed and delivered an MVP LLM-agent prototype for educational assessment usi
 
 PHP (5 yrs) → Laravel (2 yrs) → Node.js (4 yrs) → Vue/Nuxt (3 yrs) → AI/ML (2025)
 
+Meta: [meta.yaml](meta.yaml)
+
 ---
 
 [← Back to Profile](../README.md)

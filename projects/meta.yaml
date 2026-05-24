@@ -1,0 +1,40 @@
+id: projects
+type: index
+description: "Software projects and products — 11 projects (2 active, 9 completed)"
+entities:
+  - id: ai-cv-matcher
+    type: project
+    status: completed
+  - id: arcanum12th
+    type: project
+    status: active
+  - id: asrp-media
+    type: project
+    status: completed
+  - id: gazer
+    type: project
+    status: completed
+  - id: hark
+    type: project
+    status: completed
+  - id: hys
+    type: project
+    status: completed
+  - id: izzifit
+    type: project
+    status: completed
+  - id: lill
+    type: project
+    status: completed
+  - id: qpq
+    type: project
+    status: completed
+  - id: woman-insight
+    type: project
+    status: completed
+  - id: your-torah
+    type: project
+    status: completed
+navigation:
+  parent: /
+  siblings: [experience, publications, conferences, skills, education]

@@ -1,0 +1,40 @@
+id: experience
+type: index
+description: "Professional work experience — 11 roles across 9+ years"
+entities:
+  - id: asrp
+    type: company
+    period: 2023-04 - present
+  - id: coelix
+    type: company
+    period: 2020-08 - 2021-04
+  - id: ephyros
+    type: company
+    period: 2020-02 - 2020-07
+  - id: hys-enterprise
+    type: company
+    period: 2018-09 - 2020-02
+  - id: lab325
+    type: company
+    period: 2021-07 - 2023-04
+  - id: mob325
+    type: company
+    period: 2021-07 - 2023-04
+  - id: php-academy
+    type: company
+    period: 2017-07 - 2017-12
+  - id: provectus
+    type: company
+    period: 2021-04 - 2021-07
+  - id: super-media-ads
+    type: company
+    period: 2016-06 - 2016-11
+  - id: top-agent
+    type: company
+    period: 2018-01 - 2018-09
+  - id: woolf
+    type: company
+    period: 2025-04 - 2025-09
+navigation:
+  parent: /
+  siblings: [projects, publications, conferences, skills, education]

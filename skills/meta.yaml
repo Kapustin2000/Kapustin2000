@@ -1,0 +1,21 @@
+id: skills
+type: index
+description: "Technical skills and competencies — categorized by domain"
+categories:
+  - label: Languages
+    skills: [TypeScript, JavaScript, Python, PHP, SQL, Bash]
+  - label: Frontend
+    skills: [Vue.js, Nuxt, React, HTML, CSS]
+  - label: Backend
+    skills: [Node.js, Laravel, Express, FastAPI]
+  - label: AI/ML
+    skills: [LangChain, Google ADK, Vertex AI, Gemini, OpenAI]
+  - label: DevOps
+    skills: [Docker, Kubernetes, AWS, Nginx, CI/CD]
+  - label: Databases
+    skills: [PostgreSQL, MongoDB, Elasticsearch, ClickHouse, Redis]
+  - label: Tools
+    skills: [Git, GraphQL, tRPC, WebSockets, Linux]
+navigation:
+  parent: /
+  siblings: [experience, projects, publications, conferences, education]

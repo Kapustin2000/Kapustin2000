@@ -53,6 +53,8 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 
+Meta: [meta.yaml](meta.yaml)
+
 ---
 
 [← Back to Profile](../README.md)

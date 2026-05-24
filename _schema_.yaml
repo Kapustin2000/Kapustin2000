@@ -53,3 +53,8 @@ entity_types:
     description: Technology or competency category
     required: [id, type, name]
     optional: [proficiency, tags]
+
+  index:
+    description: Section index page — describes a category and lists its child entities
+    required: [id, type, description]
+    optional: [entities, categories, navigation]

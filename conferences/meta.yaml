@@ -1,0 +1,13 @@
+id: conferences
+type: index
+description: "Conferences and speaking events — 2 events in Berlin"
+entities:
+  - id: theta-eurocon-2025
+    type: conference
+    date: 2025-09
+  - id: wearedevelopers-2024
+    type: conference
+    date: 2024-07
+navigation:
+  parent: /
+  siblings: [experience, projects, publications, skills, education]
