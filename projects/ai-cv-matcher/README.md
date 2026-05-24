@@ -1,0 +1,26 @@
+[← All Projects](../README.md)
+
+# 🤖 AI Curriculum Vitae (CV) Matcher to Vacancy
+*(March 2025)*
+
+**Project Overview:**
+A Node.js server built with tRPC that provides an AI-powered CV and job description matching service. The service analyzes both documents and provides insights about candidate's fit for the position.
+
+**GitHub Repository:** [https://github.com/Kapustin2000/cv-matcher-technical-task-trpc](https://github.com/Kapustin2000/cv-matcher-technical-task-trpc)
+
+**Key Features:**
+- **PDF Processing** – Handles CVs and job descriptions in PDF format
+- **AI-Powered Analysis** – Uses Gemini 1.5 Flash for intelligent document analysis
+- **Candidate Evaluation** – Identifies strengths, weaknesses, and recommendations
+- **Job Fit Scoring** – Numerical score (0-100) for candidate-position compatibility
+- **Type-Safe API** – Built with tRPC for end-to-end type safety
+
+**Technologies Used:**
+- Vertex AI
+- tRPC
+- Node.js
+- Google Cloud Platform (GCP)
+
+---
+
+[← All Projects](../README.md)
