@@ -1,5 +1,7 @@
 # References — LAB325
 
+**PDF:** [reference.pdf](reference.pdf)
+
 ## Oleksandr Dolomatov
 *Head of Marketing and Sales | AI GTM Engineer*
 *Senior to Mykhailo, did not manage directly*

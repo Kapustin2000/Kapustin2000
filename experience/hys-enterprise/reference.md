@@ -1,5 +1,7 @@
 # References — HYS Enterprise
 
+**PDF:** [reference.pdf](reference.pdf)
+
 ## Mariia Zakharova
 *Frontend Engineer | React, TypeScript, Next.js*
 *Worked together on the same team*

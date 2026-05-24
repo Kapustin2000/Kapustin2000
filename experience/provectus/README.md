@@ -15,6 +15,10 @@ Worked as a senior backend engineer at Provectus, delivering backend solutions f
 - Enhanced system performance and scalability through code optimization
 - Collaborated on architecture decisions for client projects
 
+## References
+
+- [Recommendations from colleagues](reference.md)
+
 ---
 
 [← All Experience](../README.md)

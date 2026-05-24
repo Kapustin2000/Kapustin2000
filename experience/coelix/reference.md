@@ -1,5 +1,7 @@
 # References — Coelix
 
+**PDF:** [reference.pdf](reference.pdf)
+
 ## Sergey Savin
 *WordPress Developer – White Label Agency*
 *Worked at same company, different teams*
