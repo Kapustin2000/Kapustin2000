@@ -1,20 +1,21 @@
 [← Back to Profile](../README.md)
 
-# 📖 Publications & Articles
+# Publications & Articles
 
-## 📝 Technical Articles
+## Technical Articles
 
 | # | Article | Date |
 |---|---------|------|
-| 1 | [Building an App Store Review Analysis Pipeline](technical-articles/app-store-review-analysis/) | Oct 2025 |
-| 2 | [Google ADK and Startup Technical Guide](technical-articles/google-adk-startup-guide/) | Oct 2025 |
-| 3 | [My First AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | Sep 2025 |
-| 4 | [Building a Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) | Sep 2025 |
-| 5 | [My Personal Exam: MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | Sep 2025 |
-| 6 | [Docling in Working with Texts](technical-articles/docling-text-language/) | Aug 2025 |
-| 7 | [How to Integrate Google ADK with a Custom Interface](technical-articles/google-adk-custom-interface/) | Jul-Aug 2025 |
+| 1 | [How to Run LLMs Locally with LM Studio: Complete Guide 2026](technical-articles/lm-studio-local-llm-guide/) | Feb 2026 |
+| 2 | [Building an App Store Review Analysis Pipeline](technical-articles/app-store-review-analysis/) | Oct 2025 |
+| 3 | [Google ADK and Startup Technical Guide](technical-articles/google-adk-startup-guide/) | Oct 2025 |
+| 4 | [My First AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | Sep 2025 |
+| 5 | [Building a Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) | Sep 2025 |
+| 6 | [My Personal Exam: MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | Sep 2025 |
+| 7 | [Docling in Working with Texts](technical-articles/docling-text-language/) | Aug 2025 |
+| 8 | [How to Integrate Google ADK with a Custom Interface](technical-articles/google-adk-custom-interface/) | Jul-Aug 2025 |
 
-## 🔬 Research Publications
+## Research Publications
 
 | # | Paper | Date |
 |---|-------|------|
@@ -23,13 +24,13 @@
 | 3 | [Forecasting Events Using Banchenko-Technology](research-publications/banchenko-forecasting/) | Jun 2024 |
 | 4 | [Banchenko's Mnemonic Dream Synchronization Method](research-publications/banchenko-dream-synchronization/) | Jan 2024 |
 
-## 📊 Academic Research
+## Academic Research
 
 | # | Paper | Date |
 |---|-------|------|
 | 1 | [Software Development Tools in the Job Market](academic-research/software-development-tools/) | Dec 2018 |
 
-## 🌐 Popular Science & Technology
+## Popular Science & Technology
 
 | # | Article | Date |
 |---|---------|------|
