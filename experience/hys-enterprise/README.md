@@ -3,7 +3,7 @@
 # Web Full Stack Developer · HYS Enterprise
 *September 2018 – February 2020 · 1 yr 6 mos*
 
-**Location:** Odessa, Ukraine (On-site)
+**Location:** Odesa, Ukraine (On-site)
 **Stack:** WordPress, React.js, PostgreSQL
 
 ## Context

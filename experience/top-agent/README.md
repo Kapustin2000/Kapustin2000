@@ -3,7 +3,7 @@
 # Web Full Stack Developer · Top Agent
 *January 2018 – September 2018 · 9 mos*
 
-**Location:** Odessa, Ukraine
+**Location:** Odesa, Ukraine
 **Stack:** PHP
 
 ## Context

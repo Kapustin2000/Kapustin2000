@@ -6,97 +6,97 @@
 
 | When | What | Type |
 |------|------|------|
-| Jun – Nov | Backend Developer & Manager Account @ SuperMediaAds | Work |
+| Jun – Nov | [Backend Developer & Manager Account @ SuperMediaAds](experience/super-media-ads/) | Work |
 
 ## 2017
 
 | When | What | Type |
 |------|------|------|
-| Jul – Dec | Web Full Stack Developer @ PHP-academy | Work |
-| Sep – 2022 Jun | Master's in Automation & Computer-Integrated Technologies @ SUITT | Education |
+| Jul – Dec | [Web Full Stack Developer @ PHP-academy](experience/php-academy/) | Work |
+| Sep – 2022 Jun | [Master's in Automation & Computer-Integrated Technologies @ SUITT](education/) | Education |
 
 ## 2018
 
 | When | What | Type |
 |------|------|------|
-| Jan – Sep | Web Full Stack Developer @ Top Agent | Work |
-| Sep – 2020 Feb | Web Full Stack Developer @ HYS Enterprise | Work |
-| Dec | Software Development Tools in the Job Market | Publication |
+| Jan – Sep | [Web Full Stack Developer @ Top Agent](experience/top-agent/) | Work |
+| Sep – 2020 Feb | [Web Full Stack Developer @ HYS Enterprise](experience/hys-enterprise/) | Work |
+| Dec | [Software Development Tools in the Job Market](publications/academic-research/software-development-tools/) | Publication |
 
 ## 2020
 
 | When | What | Type |
 |------|------|------|
-| Feb – Jul | Web Full Stack Developer @ Ephyros | Work |
-| Feb – Jul | QPQ International — Green Energy Funding | Project |
-| Aug – 2021 Apr | Team Lead & Senior Back-end Developer @ Coelix | Work |
-| Aug – 2021 Apr | Your Torah Tutors — Online Learning Platform | Project |
+| Feb – Jul | [Web Full Stack Developer @ Ephyros](experience/ephyros/) | Work |
+| Feb – Jul | [QPQ International — Green Energy Funding](projects/qpq/) | Project |
+| Aug – 2021 Apr | [Team Lead & Senior Back-end Developer @ Coelix](experience/coelix/) | Work |
+| Aug – 2021 Apr | [Your Torah Tutors — Online Learning Platform](projects/your-torah/) | Project |
 
 ## 2021
 
 | When | What | Type |
 |------|------|------|
-| Apr – Jul | Senior Back-end Developer @ Provectus | Work |
-| Apr – 2023 Jul | Gazer TV — Smart TV Companion | Project |
-| Jul – 2023 Apr | Senior Back-end Developer @ LAB325 | Work |
-| Jul – 2023 Apr | Team Lead & Senior Back-end Developer @ MOB.325 | Work |
-| Jul – Oct | Lill — Plant Care Assistant | Project |
-| Jul – 2023 Apr | Woman Insight — Educational Platform | Project |
-| Oct – 2022 Jan | IzziFit — Smart Workout App | Project |
+| Apr – Jul | [Senior Back-end Developer @ Provectus](experience/provectus/) | Work |
+| Apr – 2023 Jul | [Gazer TV — Smart TV Companion](projects/gazer/) | Project |
+| Jul – 2023 Apr | [Senior Back-end Developer @ LAB325](experience/lab325/) | Work |
+| Jul – 2023 Apr | [Team Lead & Senior Back-end Developer @ MOB.325](experience/mob325/) | Work |
+| Jul – Oct | [Lill — Plant Care Assistant](projects/lill/) | Project |
+| Jul – 2023 Apr | [Woman Insight — Educational Platform](projects/woman-insight/) | Project |
+| Oct – 2022 Jan | [IzziFit — Smart Workout App](projects/izzifit/) | Project |
 
 ## 2022
 
 | When | What | Type |
 |------|------|------|
-| Jan – Mar | Hark — Global Anonymous Chat | Project |
+| Jan – Mar | [Hark — Global Anonymous Chat](projects/hark/) | Project |
 
 ## 2023
 
 | When | What | Type |
 |------|------|------|
-| Apr – Present | Co-Founder & CTO @ ASRP | Work |
-| Apr – Present | Arcanum12th — Consciousness Education Platform | Project |
-| May – 2025 Sep | ASRP Media — Analytical & Research Media | Project |
-| Jun | AI and Lucid Dreaming: Exploring New Opportunities | Publication |
-| Oct | Future Technologies: A Glimpse into Innovation | Publication |
+| Apr – Present | [Co-Founder & CTO @ ASRP](experience/asrp/) | Work |
+| Apr – Present | [Arcanum12th — Consciousness Education Platform](projects/arcanum12th/) | Project |
+| May – 2025 Sep | [ASRP Media — Analytical & Research Media](projects/asrp.media/) | Project |
+| Jun | [AI and Lucid Dreaming: Exploring New Opportunities](publications/popular-science/ai-lucid-dreaming/) | Publication |
+| Oct | [Future Technologies: A Glimpse into Innovation](publications/popular-science/future-technologies-innovation/) | Publication |
 | Oct | From Pet Project to Scientific Research | Publication |
 
 ## 2024
 
 | When | What | Type |
 |------|------|------|
-| Jan | Banchenko's Mnemonic Dream Synchronization Method | Publication |
-| May | The Economics of Dreams | Publication |
-| Jun | Forecasting Events Using Banchenko-Technology | Publication |
-| Jul | Grivtsova's Stress Management Methodology | Publication |
-| Jul | WeAreDevelopers World Congress Europe | Conference |
+| Jan | [Banchenko's Mnemonic Dream Synchronization Method](publications/research-publications/banchenko-dream-synchronization/) | Publication |
+| May | [The Economics of Dreams](publications/popular-science/economics-of-dreams/) | Publication |
+| Jun | [Forecasting Events Using Banchenko-Technology](publications/research-publications/banchenko-forecasting/) | Publication |
+| Jul | [Grivtsova's Stress Management Methodology](publications/research-publications/grivtsova-stress-management/) | Publication |
+| Jul | [WeAreDevelopers World Congress Europe](conferences/WeAreDevelopers/) | Conference |
 | Oct | From Pet Project to Scientific Research | Publication |
-| Dec | Lucid Dreams and VR: Swiss Olympic Team | Publication |
-| Dec | BCI in HR: Changing Recruitment | Publication |
+| Dec | [Lucid Dreams and VR: Swiss Olympic Team](publications/popular-science/lucid-dreams-vr-olympic/) | Publication |
+| Dec | [BCI in HR: Changing Recruitment](publications/popular-science/bci-hr-recruitment/) | Publication |
 
 ## 2025
 
 | When | What | Type |
 |------|------|------|
-| Feb | Technological Transformations, Formation of GMS and GFS | Publication |
-| Mar | AI CV Matcher | Project |
-| Apr – Sep | Senior AI/ML Engineer @ Woolf | Work |
-| Jul – Aug | How to Integrate Google ADK with a Custom Interface | Publication |
-| Aug | Docling in Working with Texts | Publication |
-| Sep | My Personal Exam: MVP LLM Agent on Google ADK | Publication |
-| Sep | Building a Resume Matcher with tRPC | Publication |
-| Sep | My First AI & Blockchain Hackathon | Publication |
-| Sep | THETA EuroCon — European Conference & Hackathon | Conference |
-| Oct | Building AI Agent Infrastructure | Publication |
-| Oct | Voice AI Systems Powered by Jambonz | Publication |
-| Oct | Building an App Store Review Analysis Pipeline | Publication |
-| Oct | Google ADK and Startup Technical Guide | Publication |
+| Feb | [Technological Transformations, Formation of GMS and GFS](publications/research-publications/gms-gfs-right-brain/) | Publication |
+| Mar | [AI CV Matcher](projects/ai-cv-matcher/) | Project |
+| Apr – Sep | [Senior AI/ML Engineer @ Woolf](experience/woolf/) | Work |
+| Jul – Aug | [How to Integrate Google ADK with a Custom Interface](publications/technical-articles/google-adk-custom-interface/) | Publication |
+| Aug | [Docling in Working with Texts](publications/technical-articles/docling-text-language/) | Publication |
+| Sep | [My Personal Exam: MVP LLM Agent on Google ADK](publications/technical-articles/mvp-llm-agent-adk/) | Publication |
+| Sep | [Building a Resume Matcher with tRPC](publications/technical-articles/resume-matcher-trpc/) | Publication |
+| Sep | [My First AI & Blockchain Hackathon](publications/technical-articles/ai-blockchain-hackathon-theta/) | Publication |
+| Sep | [THETA EuroCon — European Conference & Hackathon](conferences/theta-eurocon-2025/) | Conference |
+| Oct | [Building AI Agent Infrastructure](publications/technical-articles/ai-agent-infrastructure/) | Publication |
+| Oct | [Voice AI Systems Powered by Jambonz](publications/technical-articles/jambonz-voice-ai/) | Publication |
+| Oct | [Building an App Store Review Analysis Pipeline](publications/technical-articles/app-store-review-analysis/) | Publication |
+| Oct | [Google ADK and Startup Technical Guide](publications/technical-articles/google-adk-startup-guide/) | Publication |
 
 ## 2026
 
 | When | What | Type |
 |------|------|------|
-| Feb | How to Run LLMs Locally with LM Studio: Complete Guide | Publication |
+| Feb | [How to Run LLMs Locally with LM Studio: Complete Guide](publications/technical-articles/lm-studio-local-llm-guide/) | Publication |
 
 ---
 

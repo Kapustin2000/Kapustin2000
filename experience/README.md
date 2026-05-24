@@ -22,7 +22,7 @@ Led cross-functional teams building high-load backend systems for consumer produ
 
 ### [Sr. AI/ML Engineer @ Woolf](woolf/) — EdTech AI
 *Apr 2025 – Sep 2025 · 6 mos*
-Designed and delivered an MVP LLM-agent prototype for educational assessment using Google ADK and Vertex AI. First AI/ML role transitioning from web engineering into AI.
+Designed and delivered an LLM-agent for educational assessment using Google ADK and Vertex AI. First AI/ML role transitioning from web engineering into AI.
 `Google ADK` `Vertex AI` `Gemini` `TypeScript` `Python`
 
 ---
@@ -31,16 +31,16 @@ Designed and delivered an MVP LLM-agent prototype for educational assessment usi
 
 | Period | Role | Company | Location | Duration | Stack |
 |--------|------|---------|----------|----------|-------|
-| 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | San Francisco, USA | 6 mos | Google ADK, Vertex AI |
-| 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | USA, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
+| 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | San Francisco, California | 6 mos | Google ADK, Vertex AI |
+| 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | Florida, USA / Baikonur, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
 | 2021-07 – 2023-04 | Team Lead | [MOB.325](mob325/) | Ukraine | 1 yr 10 mos | Node.js, Docker, GraphQL |
 | 2021-07 – 2023-04 | Sr. Backend Dev | [LAB325](lab325/) | Ukraine | 1 yr 10 mos * | Node.js, PostgreSQL, GraphQL |
 | 2020-08 – 2021-04 | Team Lead | [Coelix](coelix/) | Tel Aviv, Israel (Remote) | 9 mos | Laravel, Vue, PHP |
-| 2021-04 – 2021-07 | Sr. Backend Dev | [Provectus](provectus/) | Odessa, Ukraine | 4 mos | PHP, Laravel |
+| 2021-04 – 2021-07 | Sr. Backend Dev | [Provectus](provectus/) | San Francisco, California | 4 mos | PHP, Laravel |
 | 2020-02 – 2020-07 | Full Stack Dev | [Ephyros](ephyros/) | Kyiv, Ukraine | 6 mos | PHP, Laravel, Vue |
-| 2018-09 – 2020-02 | Full Stack Dev | [HYS Enterprise](hys-enterprise/) | Odessa, Ukraine | 1 yr 6 mos | WordPress, React |
-| 2018-01 – 2018-09 | Full Stack Dev | [Top Agent](top-agent/) | Odessa, Ukraine | 9 mos | PHP |
-| 2017-07 – 2017-12 | Full Stack Dev | [PHP-academy](php-academy/) | Odessa, Ukraine | 6 mos | PHP |
+| 2018-09 – 2020-02 | Full Stack Dev | [HYS Enterprise](hys-enterprise/) | Odesa, Ukraine | 1 yr 6 mos | WordPress, React |
+| 2018-01 – 2018-09 | Full Stack Dev | [Top Agent](top-agent/) | Odesa, Ukraine | 9 mos | PHP |
+| 2017-07 – 2017-12 | Full Stack Dev | [PHP-academy](php-academy/) | Odesa, Ukraine | 6 mos | PHP |
 | 2016-06 – 2016-11 | Backend Dev | [SuperMediaAds](super-media-ads/) | — | 6 mos | PHP |
 
 ╳ LAB325 + MOB.325 ran concurrently (dual IC + Lead roles in same company group)
@@ -62,10 +62,10 @@ Designed and delivered an MVP LLM-agent prototype for educational assessment usi
 
 | Country | Companies |
 |---------|-----------|
-| Ukraine | HYS Enterprise (Odessa), Top Agent (Odessa), PHP-academy (Odessa), MOB.325, LAB325, Provectus (Odessa), Ephyros (Kyiv) |
+| Ukraine | HYS Enterprise (Odesa), Top Agent (Odesa), PHP-academy (Kyiv), MOB.325, LAB325, Ephyros (Kyiv) |
 | Israel | Coelix (Tel Aviv) |
-| USA | ASRP, Woolf (San Francisco) |
-| Kazakhstan | ASRP |
+| USA | ASRP (Florida), Provectus (San Francisco), Woolf (San Francisco) |
+| Kazakhstan | ASRP (Baikonur) |
 
 ---
 

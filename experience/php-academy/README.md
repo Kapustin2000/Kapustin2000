@@ -3,7 +3,7 @@
 # Web Full Stack Developer · PHP-academy
 *July 2017 – December 2017 · 6 mos*
 
-**Location:** Odessa, Ukraine
+**Location:** Kyiv, Ukraine
 **Stack:** PHP
 
 ## Context

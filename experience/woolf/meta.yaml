@@ -3,7 +3,7 @@ type: company
 name: Woolf
 role: Senior AI/ML Engineer
 period: 2025-04 - 2025-09
-location: San Francisco, USA
+location: San Francisco, California
 stack: [Google ADK, Vertex AI, Gemini, TypeScript, Python]
 relations:
   projects: [ai-cv-matcher]

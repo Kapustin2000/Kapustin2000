@@ -3,7 +3,7 @@ type: company
 name: HYS Enterprise
 role: Web Full Stack Developer
 period: 2018-09 - 2020-02
-location: Odessa, Ukraine
+location: Odesa, Ukraine
 stack: [WordPress, React.js, PostgreSQL]
 relations:
   projects: [hys]
