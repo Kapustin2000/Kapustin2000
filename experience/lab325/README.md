@@ -22,6 +22,7 @@ Worked as a senior backend engineer within the MOB.325/LAB325 group of companies
 
 ## References
 
+- [Company reference letter](reference.pdf)
 - [Recommendations from colleagues](reference.md) — Oleksandr Dolomatov, Oleg D., Danylo Sahaidak, Oleksandr Sorokolita
 
 ---

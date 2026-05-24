@@ -24,6 +24,7 @@ Through these contributions, Coelix evolved into a software development company 
 
 ## References
 
+- [Company reference letter](reference.pdf)
 - [Recommendations from colleagues](reference.md) — Sergey Savin, Michael Matveiev, Vadim Biezuhlov, Rami Salo, Oleksandr Kulachynskyi
 
 ---

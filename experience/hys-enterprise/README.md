@@ -23,6 +23,7 @@ Worked as a software developer for HYS Enterprise, one of Ukraine's largest IT c
 
 ## References
 
+- [Company reference letter](reference.pdf)
 - [Recommendations from colleagues](reference.md) — Mariia Zakharova, Takhsin Saraira, Natalia Zaharova
 
 ---

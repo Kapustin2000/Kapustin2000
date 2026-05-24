@@ -8,6 +8,8 @@ How to move from a messy AI monorepo to a scalable agent ecosystem — with real
 
 **Links:** [Medium](https://medium.com/@kapustinomm/building-ai-agent-infrastructure-three-paths-from-chaos-to-scalable-systems-35c81a96a41a) | [Habr](https://habr.com/en/articles/960154/)
 
+**Full text:** [article.md](article.md)
+
 ![Cover](images/cover.jpg)
 
 **Tags:** ai, llm, agents

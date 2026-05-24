@@ -17,6 +17,7 @@ Worked as a senior backend engineer at Provectus, delivering backend solutions f
 
 ## References
 
+- [Company reference letter](reference.pdf)
 - [Recommendations from colleagues](reference.md)
 
 ---
