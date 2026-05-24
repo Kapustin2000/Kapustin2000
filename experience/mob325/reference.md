@@ -11,3 +11,7 @@
 > Andrey S
 
 *May 15, 2024*
+
+## Oleksandr Sorokolita
+*Worked at MOB.325, same team*
+[LinkedIn](https://www.linkedin.com/in/oleksandr-sorokolita-4a0709283/)

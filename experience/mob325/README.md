@@ -23,7 +23,7 @@ Led development teams and drove technical delivery within the MOB.325/LAB325 gro
 
 ## References
 
-- [Recommendations from colleagues](reference.md) — Andriy Sasin
+- [Recommendations from colleagues](reference.md) — Andriy Sasin, Oleksandr Sorokolita
 
 ---
 
