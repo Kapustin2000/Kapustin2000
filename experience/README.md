@@ -2,9 +2,9 @@
 
 # Professional Experience
 
-11 roles · 9+ years · 4 leadership positions · 5 countries
+11 roles · 9+ years · 4 leadership positions · 4 countries
 
-Global footprint: USA · Germany · Ukraine · Israel · Kazakhstan
+Global footprint: USA · Ukraine · Israel · Kazakhstan
 
 ---
 
@@ -32,7 +32,7 @@ Designed and delivered an MVP LLM-agent prototype for educational assessment usi
 | Period | Role | Company | Location | Duration | Stack |
 |--------|------|---------|----------|----------|-------|
 | 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | San Francisco, USA | 6 mos | Google ADK, Vertex AI |
-| 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | USA, DE, UA, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
+| 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | USA, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
 | 2021-07 – 2023-04 | Team Lead | [MOB.325](mob325/) | Ukraine | 1 yr 10 mos | Node.js, Docker, GraphQL |
 | 2021-07 – 2023-04 | Sr. Backend Dev | [LAB325](lab325/) | Ukraine | 1 yr 10 mos * | Node.js, PostgreSQL, GraphQL |
 | 2020-08 – 2021-04 | Team Lead | [Coelix](coelix/) | Tel Aviv, Israel (Remote) | 9 mos | Laravel, Vue, PHP |
@@ -65,7 +65,6 @@ Designed and delivered an MVP LLM-agent prototype for educational assessment usi
 | Ukraine | HYS Enterprise (Odessa), Top Agent (Odessa), PHP-academy (Odessa), MOB.325, LAB325, Provectus (Odessa), Ephyros (Kyiv) |
 | Israel | Coelix (Tel Aviv) |
 | USA | ASRP, Woolf (San Francisco) |
-| Germany | ASRP |
 | Kazakhstan | ASRP |
 
 ---
