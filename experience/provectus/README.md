@@ -1,10 +1,19 @@
 [← All Experience](../README.md)
 
-# Senior Back-end Developer at Provectus
+# Senior Back-end Developer · Provectus
 *April 2021 – July 2021 · 4 mos*
 
-- 🔧 Developed backend solutions using PHP and Laravel
-- ⚡ Enhanced system performance and scalability
+**Stack:** PHP, Laravel
+
+## Context
+
+Worked as a senior backend engineer at Provectus, delivering backend solutions for enterprise clients.
+
+## Key Achievements
+
+- Developed backend solutions using PHP and Laravel framework
+- Enhanced system performance and scalability through code optimization
+- Collaborated on architecture decisions for client projects
 
 ---
 

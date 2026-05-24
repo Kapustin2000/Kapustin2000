@@ -1,10 +1,18 @@
 [← All Experience](../README.md)
 
-# Web Full Stack Developer at Ephyros
+# Web Full Stack Developer · Ephyros
 *February 2020 – July 2020 · 6 mos*
 
-- 🌐 Developed full-stack web applications using PHP and Laravel
-- 🔧 Built scalable and maintainable solutions
+**Stack:** PHP, Laravel, Vue.js, PostgreSQL
+
+## Context
+
+Worked as a full-stack web developer building client-facing web applications using PHP and Laravel.
+
+## Key Achievements
+
+- Developed full-stack web applications from requirements through deployment
+- Built scalable and maintainable solutions using Laravel best practices
 
 ---
 

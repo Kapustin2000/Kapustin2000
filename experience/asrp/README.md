@@ -1,26 +1,26 @@
 [← All Experience](../README.md)
 
-# Co-Founder & CTO at Advanced Scientific Research Projects (ASRP.media)
-*April 2023 – Present · 2 yrs 7 mos*
+# Co-Founder & CTO · Advanced Scientific Research Projects (ASRP)
+*April 2023 – Present*
 
-**Key Achievements Over 18 Months:**
-- 🧠 **Kapustin's Marker Algorithm**: Innovative algorithm for analyzing dream content
-- 🎓 **Educational Platform**: Multifunctional platform with diverse courses and programs
-- 🌐 **ASRP.tech Website**: Official website with ecosystem product links
-- 🤖 **Arcanum12thBot**: Telegram bot for dream journal and educational platform access
-- 📱 **Telegram Mini Application**: Lightweight app for quick service access
-- 📝 **Dream Journal**: Tool for recording and analyzing dreams
-- ⚙️ **Microservices Infrastructure**: Event handling, mailing, queues, SMS systems
-- 📰 **ASRP.media**: Information platform for dream research and consciousness studies
-- 🔬 **ASRP.science**: Platform for publishing and sharing research findings
-- 💰 **Kapusta Cryptocurrency**: Internal ecosystem cryptocurrency
+**Stack:** Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL, Nginx
 
-**Additional Responsibilities:**
-- Research processing and client acquisition
-- Organizing conferences with scientists
-- Recruiting and mentoring junior developers
-- Project management and investor negotiations
-- Partner integrations and payment system setups
+## Context
+
+Co-founded ASRP, a transatlantic research holding company focused on AI, blockchain, and consciousness studies. Built the entire product ecosystem from scratch — spanning educational platforms, media, research publishing, AI-powered tools, and internal cryptocurrency.
+
+## Key Achievements
+
+- Developed Kapustin's Marker Algorithm for analyzing dream content
+- Built a multifunctional educational platform with diverse courses and programs (Arcanum12th)
+- Launched ASRP.media — an analytical media platform for neuroscience and AI
+- Created ASRP.science — a platform for publishing and sharing research findings
+- Developed Arcanum12thBot — a Telegram bot for dream journaling and educational platform access
+- Built a Telegram Mini Application for quick service access
+- Implemented a dream journaling tool with AI-powered analysis
+- Designed microservices infrastructure for event handling, mailing, queues, and SMS
+- Launched Kapusta — internal ecosystem cryptocurrency
+- Organized conferences with scientists, recruited and mentored junior developers, managed investor negotiations
 
 ---
 
