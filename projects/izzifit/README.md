@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # IzziFit — Smart Workout and Training Plan Application
 
@@ -37,4 +37,4 @@ As a developer for IzziFit, my responsibilities included:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # Gazer TV — Smart TV Companion Application
 
@@ -50,4 +50,4 @@ As a developer for Gazer TV, my responsibilities included:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

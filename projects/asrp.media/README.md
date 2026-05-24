@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # ASRP Media — Analytical & Research Media Platform
 
@@ -41,4 +41,4 @@ As a developer and strategist, I contributed to:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

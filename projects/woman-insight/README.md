@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # Woman Insight — Online Educational Platform
 
@@ -39,4 +39,4 @@ As a developer for Woman Insight, my responsibilities included:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

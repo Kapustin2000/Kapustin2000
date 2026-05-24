@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # Hark — Global Anonymous Chat Platform
 
@@ -38,4 +38,4 @@ As a developer for Hark, my responsibilities included:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

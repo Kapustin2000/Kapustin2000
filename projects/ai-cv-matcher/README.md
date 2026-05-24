@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # AI Curriculum Vitae (CV) Matcher to Vacancy
 
@@ -35,4 +35,4 @@ As the developer, my responsibilities included:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

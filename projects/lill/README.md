@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # Lill — Intelligent Plant Care Assistant
 
@@ -36,4 +36,4 @@ As a developer for Lill, my responsibilities included:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

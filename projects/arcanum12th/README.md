@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # Arcanum12th — Advanced Educational Platform for Consciousness and Cognitive Studies
 
@@ -39,4 +39,4 @@ As a developer and strategist, I contributed to:
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)

@@ -1,4 +1,4 @@
-[All Projects](../README.md)
+[← All Projects](../README.md)
 
 # HYS Enterprise — Corporate Website
 
@@ -34,4 +34,4 @@ As a Full-Stack Web Developer, I was the key developer responsible for designing
 
 ---
 
-[All Projects](../README.md)
+[← All Projects](../README.md)
