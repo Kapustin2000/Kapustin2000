@@ -1,0 +1,363 @@
+# AI Knowledge Graph — Complete Entity Map
+# All entities, their types, dates, and relations in one machine-readable file.
+# Generated from individual meta.yaml files.
+
+version: 1
+generated: 2026-05-24
+
+person:
+  id: kapustin2000
+  name: "Mykhailo Kapustin"
+  role: "Developer, Researcher, Tech Lead"
+  period: 2016 - present
+  location: Berlin, Germany
+
+companies:
+  - id: asrp
+    name: "Advanced Scientific Research Projects (ASRP)"
+    role: "Co-Founder & CTO"
+    period: 2023-04 - present
+    location: [USA, Germany, Ukraine, Kazakhstan]
+    relations:
+      projects: [arcanum12th, asrp-media]
+      publications: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, grivtsova-stress-management, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]
+
+  - id: coelix
+    name: "Coelix"
+    role: "Team Lead & Senior Back-end Developer"
+    period: 2020-08 - 2021-04
+    location: "Tel Aviv District, Israel"
+    relations:
+      projects: [your-torah]
+
+  - id: ephyros
+    name: "Ephyros"
+    role: "Web Full Stack Developer"
+    period: 2020-02 - 2020-07
+    location: "Kyiv, Ukraine"
+    relations:
+      projects: [qpq]
+
+  - id: hys-enterprise
+    name: "HYS Enterprise"
+    role: "Web Full Stack Developer"
+    period: 2018-09 - 2020-02
+    location: "Odessa, Ukraine"
+    relations:
+      projects: [hys]
+
+  - id: lab325
+    name: "LAB325"
+    role: "Senior Back-end Developer"
+    period: 2021-07 - 2023-04
+    location: "Ukraine"
+    relations:
+      projects: [gazer, woman-insight]
+
+  - id: mob325
+    name: "MOB.325"
+    role: "Team Lead & Senior Back-end Developer"
+    period: 2021-07 - 2023-04
+    location: "Ukraine"
+    relations:
+      projects: [izzifit, hark, lill]
+
+  - id: php-academy
+    name: "PHP-academy"
+    role: "Web Full Stack Developer"
+    period: 2017-07 - 2017-12
+    location: "Odessa, Ukraine"
+
+  - id: provectus
+    name: "Provectus"
+    role: "Senior Back-end Developer"
+    period: 2021-04 - 2021-07
+    location: "Odessa, Ukraine"
+
+  - id: super-media-ads
+    name: "SuperMediaAds"
+    role: "Back-end Developer & Manager Account"
+    period: 2016-06 - 2016-11
+
+  - id: top-agent
+    name: "Top Agent"
+    role: "Web Full Stack Developer"
+    period: 2018-01 - 2018-09
+    location: "Odessa, Ukraine"
+
+  - id: woolf
+    name: "Woolf"
+    role: "Senior AI/ML Engineer"
+    period: 2025-04 - 2025-09
+    location: "San Francisco, USA"
+    relations:
+      projects: [ai-cv-matcher]
+      publications: [mvp-llm-agent-adk, google-adk-custom-interface, google-adk-startup-guide, resume-matcher-trpc, ai-agent-infrastructure]
+
+projects:
+  - id: ai-cv-matcher
+    name: "AI Curriculum Vitae (CV) Matcher to Vacancy"
+    status: completed
+    period: 2025-03
+    company: woolf
+    stack: [Vertex AI, tRPC, Node.js, TypeScript]
+
+  - id: arcanum12th
+    name: "Arcanum12th — Advanced Educational Platform"
+    status: active
+    period: 2023-04 - present
+    company: asrp
+    stack: [Vue, Nuxt, LangChain, Docker, Node.js]
+
+  - id: asrp-media
+    name: "ASRP Media — Analytical & Research Media Platform"
+    status: completed
+    period: 2023-05 - 2025-09
+    company: asrp
+    stack: [Vue, Nuxt, LangChain, Node.js]
+
+  - id: gazer
+    name: "Gazer TV — Smart TV Companion Application"
+    status: completed
+    period: 2021-04 - 2023-07
+    company: lab325
+    stack: [Node.js, GraphQL, K8s, AWS, Docker]
+
+  - id: hark
+    name: "Hark — Global Anonymous Chat Platform"
+    status: completed
+    period: 2022-01 - 2022-03
+    company: mob325
+    stack: [Node.js, GraphQL, Docker]
+
+  - id: hys
+    name: "HYS Enterprise — Corporate Website"
+    status: completed
+    period: 2018-09 - 2020-02
+    company: hys-enterprise
+    stack: [WordPress, React.js]
+
+  - id: izzifit
+    name: "IzziFit — Smart Workout and Training Plan Application"
+    status: completed
+    period: 2021-10 - 2022-01
+    company: mob325
+    stack: [Node.js, GraphQL, ClickHouse, Docker]
+
+  - id: lill
+    name: "Lill — Intelligent Plant Care Assistant"
+    status: completed
+    period: 2021-07 - 2021-10
+    company: mob325
+    stack: [Node.js, GraphQL, Docker]
+
+  - id: qpq
+    name: "QPQ International — Green Energy Platform"
+    status: completed
+    period: 2020-02 - 2020-07
+    company: ephyros
+    stack: [Laravel, Vue.js, PostgreSQL, Docker]
+
+  - id: woman-insight
+    name: "Woman Insight — Online Educational Platform"
+    status: completed
+    period: 2021-07 - 2023-04
+    company: lab325
+    stack: [Node.js, MongoDB, Elasticsearch, Docker]
+
+  - id: your-torah
+    name: "Your Torah Tutors — Online Torah Learning Platform"
+    status: completed
+    period: 2020-08 - 2021-04
+    company: coelix
+    stack: [Laravel, Vue.js, Docker, PostgreSQL]
+
+publications:
+  technical_articles:
+    - id: ai-agent-infrastructure
+      title: "Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems"
+      date: 2025-10
+      company: woolf
+      tags: [ai-agents, architecture, mcp, a2a]
+
+    - id: ai-blockchain-hackathon-theta
+      title: "My First AI & Blockchain Hackathon"
+      date: 2025-09
+      company: asrp
+      tags: [blockchain, ai, hackathon, theta]
+
+    - id: app-store-review-analysis
+      title: "Building an App Store Review Analysis Pipeline with Python NLP & Data Visualization"
+      date: 2025-10
+      tags: [nlp, python, data-visualization]
+
+    - id: docling-text-language
+      title: "Docling in Working with Texts, Languages, and Knowledge"
+      date: 2025-08
+      tags: [docling, nlp, text-analysis]
+
+    - id: google-adk-custom-interface
+      title: "How to Integrate Google ADK with a Custom Interface"
+      date: 2025-07
+      company: woolf
+      tags: [google-adk, vertex-ai, guide]
+
+    - id: google-adk-startup-guide
+      title: "Google ADK and Startup Technical Guide: AI Agents"
+      date: 2025-10
+      company: woolf
+      tags: [google-adk, ai-agents, agentops]
+
+    - id: jambonz-voice-ai
+      title: "Voice AI Systems Powered by Jambonz"
+      date: 2025-10
+      tags: [voice-ai, telephony, jambonz]
+
+    - id: lm-studio-local-llm-guide
+      title: "How to Run LLMs Locally with LM Studio: Complete Guide 2026"
+      date: 2026-02
+      company: asrp
+      tags: [local-ai, llm, lm-studio]
+
+    - id: mvp-llm-agent-adk
+      title: "My Personal Exam: How I Built an MVP LLM Agent on Google ADK"
+      date: 2025-09
+      company: woolf
+      tags: [google-adk, llm-agent, tutorial]
+
+    - id: resume-matcher-trpc
+      title: "Building a Resume Matcher with tRPC, NLP, and Vertex AI"
+      date: 2025-09
+      company: woolf
+      tags: [trpc, vertex-ai, nlp]
+
+  popular_science:
+    - id: ai-lucid-dreaming
+      title: "AI and Lucid Dreaming: Exploring New Opportunities"
+      date: 2023-06
+      company: asrp
+      tags: [ai, lucid-dreaming, consciousness]
+
+    - id: bci-hr-recruitment
+      title: "BCI in HR: How Technology is Changing Recruitment"
+      date: 2024-12
+      company: asrp
+      tags: [bci, hr, neurotechnology]
+
+    - id: economics-of-dreams
+      title: "The Economics of Dreams"
+      date: 2024-05
+      company: asrp
+      tags: [dreams, economics, consciousness]
+
+    - id: future-technologies-innovation
+      title: "Future Technologies: A Glimpse into Innovation"
+      date: 2023-10
+      company: asrp
+      tags: [ai, quantum-computing, neurointerfaces]
+
+    - id: lucid-dreams-vr-olympic
+      title: "Lucid dreams and VR: Swiss Olympic team training"
+      date: 2024-12
+      company: asrp
+      tags: [lucid-dreaming, vr, olympic-training]
+
+    - id: pet-project-scientific-research-2023
+      title: "From Pet Project to Scientific Research"
+      date: 2023-10
+      company: asrp
+      tags: [pet-project, research, innovation]
+
+    - id: pet-project-scientific-research-2024
+      title: "From Pet Project to Scientific Research"
+      date: 2024-10
+      company: asrp
+      tags: [pet-project, research, innovation]
+
+  research_papers:
+    - id: banchenko-dream-synchronization
+      title: "Application of Banchenko's Mnemonic Dream Synchronization Method"
+      date: 2024-01
+      journal: "International Internal Medicine Journal"
+      company: asrp
+      tags: [dream-synchronization, lucid-dreaming]
+
+    - id: banchenko-forecasting
+      title: "Forecasting Events Using Banchenko-Technology"
+      date: 2024-06
+      journal: "Japan Journal of Research"
+      company: asrp
+      tags: [forecasting, banchenko]
+
+    - id: gms-gfs-right-brain
+      title: "Technological Transformations, Formation of GMS and GFS"
+      date: 2025-02
+      journal: "Journal of Investment, Banking and Finance"
+      company: asrp
+      tags: [gms, gfs, right-brain]
+
+    - id: grivtsova-stress-management
+      title: "Grivtsova's Stress Management Methodology"
+      date: 2024-07
+      journal: "American Journal of Medical and Clinical Research & Reviews"
+      company: asrp
+      tags: [stress-management, grivtsova]
+
+    - id: software-development-tools
+      title: "A Study of Software Development Tools in the Job Market"
+      date: 2018-12
+      journal: "Proceedings of the O S Popov ОNAT"
+      tags: [software-development, job-market]
+
+conferences:
+  - id: theta-eurocon-2025
+    name: "THETA EuroCon — European Theta Network Conference & Hackathon"
+    date: 2025-09
+    location: "Berlin, Germany"
+    role: "Speaker & Hackathon Participant"
+    relations:
+      publications: [ai-blockchain-hackathon-theta]
+
+  - id: wearedevelopers-2024
+    name: "WeAreDevelopers World Congress Europe"
+    date: 2024-07
+    location: "Berlin, Germany"
+    role: "Attendee"
+
+education:
+  - id: education
+    institution: "O.S. Popov Odessa National Academy of Telecommunications"
+    degree: "Master's in Telecommunication Technologies"
+    period: 2014 - 2019
+    location: "Odessa, Ukraine"
+
+# Relation Map — bidirectional lookup
+relations:
+  company_to_project:
+    asrp: [arcanum12th, asrp-media]
+    coelix: [your-torah]
+    ephyros: [qpq]
+    hys-enterprise: [hys]
+    lab325: [gazer, woman-insight]
+    mob325: [izzifit, hark, lill]
+    woolf: [ai-cv-matcher]
+
+  company_to_publication:
+    asrp: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, grivtsova-stress-management, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]
+    woolf: [mvp-llm-agent-adk, google-adk-custom-interface, google-adk-startup-guide, resume-matcher-trpc, ai-agent-infrastructure]
+
+  project_to_company:
+    arcanum12th: asrp
+    asrp-media: asrp
+    ai-cv-matcher: woolf
+    gazer: lab325
+    hark: mob325
+    hys: hys-enterprise
+    izzifit: mob325
+    lill: mob325
+    qpq: ephyros
+    woman-insight: lab325
+    your-torah: coelix
+
+  conference_to_publication:
+    theta-eurocon-2025: [ai-blockchain-hackathon-theta]
