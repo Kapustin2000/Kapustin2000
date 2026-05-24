@@ -1,0 +1,9 @@
+id: mob325
+type: company
+name: MOB.325
+role: Team Lead & Senior Back-end Developer
+period: 2021-07 - 2023-04
+location: Ukraine
+stack: [Node.js, Docker, PostgreSQL, GraphQL]
+relations:
+  projects: [izzifit, hark, lill]

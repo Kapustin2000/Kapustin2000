@@ -10,3 +10,5 @@
 **Full text:** [article.md](article.md)
 
 The article delves into how artificial intelligence aids in studying lucid dreams. It presents a model developed by ASRP, which uses AI to analyze and understand dreams deeply. The technology, built on microservice architecture and leveraging tools like Pinecone and Elasticsearch, offers practical applications in therapy and creativity.
+
+Meta: [meta.yaml](meta.yaml)

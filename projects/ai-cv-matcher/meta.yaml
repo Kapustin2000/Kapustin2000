@@ -1,0 +1,7 @@
+id: ai-cv-matcher
+type: project
+name: AI Curriculum Vitae (CV) Matcher to Vacancy
+status: completed
+period: 2025-03
+company: woolf
+stack: [Vertex AI, tRPC, Node.js, TypeScript]

@@ -55,12 +55,12 @@
 
 ### Structured Data (YAML frontmatter)
 
-- [ ] Add YAML frontmatter (`id`, `type`, `date`, `tags`, `relations`) to all entity READMEs — Person, Company, Project, Article, Conference, Course
+- [x] Add `meta.yaml` (`id`, `type`, `date`, `tags`, `relations`) to all 48 entity folders — Person, Company, Project, Article, Conference, Education
 - [ ] Add `status` field to projects (idea / in-progress / completed) and articles (draft / published / archived)
 - [ ] Add `evidence` field — link back to source GitHub pages for verifiability
-- [ ] Create `_schema_.yaml` — canonical entity type definitions with required fields
-- [ ] Keep folder-per-item structure intact (no flat renaming, no date prefixes)
-- [ ] No static site generators, no graph databases — pure YAML + Markdown
+- [x] Create `_schema_.yaml` — canonical entity type definitions with required fields
+- [x] Keep folder-per-item structure intact (no flat renaming, no date prefixes)
+- [x] No static site generators, no graph databases — pure YAML + Markdown
 
 ### Narrative & Architecture
 
@@ -83,3 +83,5 @@
 - [x] ← Back to Profile / ← All Projects / ← All Experience consistent everywhere
 - [x] Conferences sorted by date descending
 - [x] Publications sorted by date descending
+- [x] `_schema_.yaml` created — canonical entity type definitions
+- [x] `meta.yaml` files added to all 48 entity folders (separate from READMEs, linked via `Meta: [meta.yaml](meta.yaml)`)

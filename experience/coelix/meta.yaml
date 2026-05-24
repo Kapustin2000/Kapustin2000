@@ -1,0 +1,9 @@
+id: coelix
+type: company
+name: Coelix
+role: Team Lead & Senior Back-end Developer
+period: 2020-08 - 2021-04
+location: Tel Aviv District, Israel
+stack: [Laravel, Vue.js, PHP, PostgreSQL]
+relations:
+  projects: [your-torah]

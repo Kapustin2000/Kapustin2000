@@ -31,3 +31,5 @@ Designed and implemented an MVP LLM-agent prototype for educational assessment a
 ---
 
 [← All Experience](../README.md)
+
+Meta: [meta.yaml](meta.yaml)

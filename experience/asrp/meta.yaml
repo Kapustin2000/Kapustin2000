@@ -1,0 +1,10 @@
+id: asrp
+type: company
+name: Advanced Scientific Research Projects (ASRP)
+role: Co-Founder & CTO
+period: 2023-04 - present
+location: [USA, Germany, Ukraine, Kazakhstan]
+stack: [Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL, Nginx]
+relations:
+  projects: [arcanum12th, asrp-media]
+  publications: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, grivtsova-stress-management, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]

@@ -38,3 +38,5 @@ As the developer, my responsibilities included:
 ---
 
 [← All Projects](../README.md)
+
+Meta: [meta.yaml](meta.yaml)

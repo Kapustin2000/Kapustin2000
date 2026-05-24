@@ -35,3 +35,5 @@ Based in Dubai, QPQ International operates worldwide, focusing on markets includ
 ---
 
 [← All Projects](../README.md)
+
+Meta: [meta.yaml](meta.yaml)

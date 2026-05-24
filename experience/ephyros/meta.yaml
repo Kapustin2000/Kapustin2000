@@ -1,0 +1,9 @@
+id: ephyros
+type: company
+name: Ephyros
+role: Web Full Stack Developer
+period: 2020-02 - 2020-07
+location: Kyiv, Ukraine
+stack: [PHP, Laravel, Vue.js, PostgreSQL]
+relations:
+  projects: [qpq]

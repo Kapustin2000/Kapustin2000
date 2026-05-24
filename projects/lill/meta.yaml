@@ -1,0 +1,7 @@
+id: lill
+type: project
+name: Lill — Intelligent Plant Care Assistant
+status: completed
+period: 2021-07 - 2021-10
+company: mob325
+stack: [Node.js, GraphQL, Docker]

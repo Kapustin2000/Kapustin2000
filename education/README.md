@@ -17,4 +17,6 @@
 
 ---
 
+Meta: [meta.yaml](meta.yaml)
+
 [← Back to Profile](../README.md)

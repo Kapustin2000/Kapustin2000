@@ -1,0 +1,11 @@
+id: theta-eurocon-2025
+type: conference
+name: "THETA EuroCon — European Theta Network Conference & Hackathon"
+date: 2025-09
+location: Berlin, Germany
+role: Speaker & Hackathon Participant
+links:
+  article: "../publications/technical-articles/ai-blockchain-hackathon-theta/"
+  video: "https://www.youtube.com/watch?v=8ubUtSxpi-g"
+relations:
+  publications: [ai-blockchain-hackathon-theta]

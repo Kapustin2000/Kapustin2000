@@ -1,0 +1,7 @@
+id: your-torah
+type: project
+name: Your Torah Tutors — Online Torah Learning Platform
+status: completed
+period: 2020-08 - 2021-04
+company: coelix
+stack: [Laravel, Vue.js, Docker, PostgreSQL]

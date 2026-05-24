@@ -19,3 +19,5 @@ How to move from a messy AI monorepo to a scalable agent ecosystem — with real
 ---
 
 [← Technical Articles](../README.md)
+
+Meta: [meta.yaml](meta.yaml)

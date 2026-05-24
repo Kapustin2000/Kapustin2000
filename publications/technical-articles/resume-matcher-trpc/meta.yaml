@@ -1,0 +1,6 @@
+id: resume-matcher-trpc
+type: article
+title: "Building a Resume Matcher with tRPC, NLP, and Vertex AI"
+date: 2025-09
+company: woolf
+tags: [trpc, vertex-ai, nlp, resume-matching]

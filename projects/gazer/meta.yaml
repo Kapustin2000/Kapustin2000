@@ -1,0 +1,7 @@
+id: gazer
+type: project
+name: Gazer TV — Smart TV Companion Application
+status: completed
+period: 2021-04 - 2023-07
+company: lab325
+stack: [Node.js, GraphQL, K8s, AWS, Docker]

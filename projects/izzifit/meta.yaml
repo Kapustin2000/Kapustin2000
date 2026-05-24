@@ -1,0 +1,7 @@
+id: izzifit
+type: project
+name: IzziFit — Smart Workout and Training Plan Application
+status: completed
+period: 2021-10 - 2022-01
+company: mob325
+stack: [Node.js, GraphQL, ClickHouse, Docker]

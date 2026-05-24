@@ -1,0 +1,7 @@
+id: asrp-media
+type: project
+name: ASRP Media — Analytical & Research Media Platform
+status: completed
+period: 2023-05 - 2025-09
+company: asrp
+stack: [Vue, Nuxt, LangChain, Node.js]

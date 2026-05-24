@@ -10,3 +10,5 @@
 **Full text:** [article.md](article.md)
 
 Google has released a 64-page Startup Technical Guide: AI Agents — a document that can rightfully be called a roadmap for building agentic systems. I read it cover to cover and pulled out five key ideas: from architecture built on Google ADK to the principles of AgentOps and grounding. This isn't about "chatbots" anymore — it's about a new generation of engineering platforms.
+
+Meta: [meta.yaml](meta.yaml)

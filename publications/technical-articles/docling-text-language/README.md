@@ -8,3 +8,5 @@
 **Full text:** [article.md](article.md)
 
 A professional overview of Docling as an environment for working with linguistic and textual data, presented through the lens of digital humanities and AI research. This comprehensive analysis explores how Docling transforms academic documents into structured, graph-based knowledge representations, enabling better peer review, semantic analysis, and integration with LLM pipelines.
+
+Meta: [meta.yaml](meta.yaml)

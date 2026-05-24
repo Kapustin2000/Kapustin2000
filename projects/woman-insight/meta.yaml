@@ -1,0 +1,7 @@
+id: woman-insight
+type: project
+name: Woman Insight — Online Educational Platform
+status: completed
+period: 2021-07 - 2023-04
+company: lab325
+stack: [Node.js, MongoDB, Elasticsearch, Docker]

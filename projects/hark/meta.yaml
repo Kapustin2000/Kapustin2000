@@ -1,0 +1,7 @@
+id: hark
+type: project
+name: Hark — Global Anonymous Chat Platform
+status: completed
+period: 2022-01 - 2022-03
+company: mob325
+stack: [Node.js, GraphQL, Docker]

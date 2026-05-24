@@ -42,3 +42,5 @@ As a developer and strategist, I contributed to:
 ---
 
 [← All Projects](../README.md)
+
+Meta: [meta.yaml](meta.yaml)

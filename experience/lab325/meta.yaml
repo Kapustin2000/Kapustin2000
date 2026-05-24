@@ -1,0 +1,9 @@
+id: lab325
+type: company
+name: LAB325
+role: Senior Back-end Developer
+period: 2021-07 - 2023-04
+location: Ukraine
+stack: [Node.js, PostgreSQL, GraphQL, Docker, ClickHouse]
+relations:
+  projects: [gazer, woman-insight]

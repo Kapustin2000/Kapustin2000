@@ -20,3 +20,5 @@ Worked on a comprehensive travel management project that streamlined the entire 
 ---
 
 [← All Experience](../README.md)
+
+Meta: [meta.yaml](meta.yaml)

@@ -28,3 +28,5 @@ Led development teams and drove technical delivery within the MOB.325/LAB325 gro
 ---
 
 [← All Experience](../README.md)
+
+Meta: [meta.yaml](meta.yaml)

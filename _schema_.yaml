@@ -1,0 +1,55 @@
+# Canonical Entity Type Definitions
+# Usage:
+#   Each entity folder contains a `meta.yaml` file with its structured data.
+#   The corresponding README.md contains human-readable content and links to meta.yaml.
+#
+#   Fields:
+#     required — must be present in every entity of this type
+#     optional — may be present
+#     relations — comma-separated list of related entity IDs in other folders
+
+entity_types:
+  person:
+    description: The profile subject
+    required: [id, type, name]
+    optional: [role, location, timezone, languages, status]
+
+  company:
+    description: Work experience / employer
+    required: [id, type, name, role, period]
+    optional: [location, duration, stack, url, status]
+    relations: [projects, publications]
+
+  project:
+    description: Software project or product
+    required: [id, type, name, status]
+    optional: [period, stack, company, url]
+    relations: [company, publications]
+
+  article:
+    description: Technical or popular-science article
+    required: [id, type, title, date]
+    optional: [platform, links, company, tags, read_count, status]
+    relations: [company, projects]
+
+  research_paper:
+    description: Academic or scientific publication
+    required: [id, type, title, date, journal]
+    optional: [link, company, tags]
+    relations: [company]
+
+  conference:
+    description: Conference or speaking event
+    required: [id, type, name, date, location, role]
+    optional: [links, company]
+    relations: [company, publications, projects]
+
+  education:
+    description: Academic degree or certification
+    required: [id, type, institution, degree, period]
+    optional: [location, url]
+
+  skill:
+    description: Technology or competency category
+    required: [id, type, name]
+    optional: [proficiency, tags]
