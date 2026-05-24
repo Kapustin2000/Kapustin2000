@@ -1,4 +1,4 @@
-[Back to Profile](../README.md)
+[← Back to Profile](../README.md)
 
 # Skills & Technologies
 
@@ -55,4 +55,4 @@
 
 ---
 
-[Back to Profile](../README.md)
+[← Back to Profile](../README.md)

@@ -1,4 +1,4 @@
-[Back to Profile](../README.md)
+[← Back to Profile](../README.md)
 
 # Projects
 
@@ -18,4 +18,4 @@
 
 ---
 
-[Back to Profile](../README.md)
+[← Back to Profile](../README.md)

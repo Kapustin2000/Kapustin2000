@@ -1,4 +1,4 @@
-[Back to Profile](../README.md)
+[← Back to Profile](../README.md)
 
 # Education
 
@@ -17,4 +17,4 @@
 
 ---
 
-[Back to Profile](../README.md)
+[← Back to Profile](../README.md)

@@ -1,4 +1,4 @@
-[Back to Profile](../README.md)
+[← Back to Profile](../README.md)
 
 # Professional Experience
 
@@ -40,4 +40,4 @@ Global footprint: USA · Germany · Ukraine · Israel · Kazakhstan
 
 ---
 
-[Back to Profile](../README.md)
+[← Back to Profile](../README.md)
