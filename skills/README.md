@@ -1,6 +1,6 @@
-[← Back to Profile](README.md)
+[Back to Profile](../README.md)
 
-# 🛠️ Skills & Technologies
+# Skills & Technologies
 
 ### Languages
 
@@ -41,7 +41,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FCC624?style=for-the-badge&logo=clickhouse&logoColor=black)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Tools & Platforms
@@ -55,4 +55,4 @@
 
 ---
 
-[← Back to Profile](README.md)
+[Back to Profile](../README.md)

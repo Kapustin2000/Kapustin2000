@@ -1,6 +1,6 @@
-[← Back to Profile](README.md)
+[Back to Profile](../README.md)
 
-# 📚 Education
+# Education
 
 ## Master's Degree in Automation and Computer-Integrated Technologies
 
@@ -13,8 +13,8 @@
 - **Level:** Master's Degree
 
 **Academic Documentation:**
-- 📄 **[Diploma & Academic Records](education/telecommunication/telecomunication-education.pdf)** — Complete diploma with grades and academic achievements
+- [Diploma & Academic Records](telecommunication/telecomunication-education.pdf) — Complete diploma with grades and academic achievements
 
 ---
 
-[← Back to Profile](README.md)
+[Back to Profile](../README.md)
