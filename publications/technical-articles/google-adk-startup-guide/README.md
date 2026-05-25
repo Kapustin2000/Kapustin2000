@@ -5,6 +5,8 @@
 
 **Developed at:** [Woolf](../../experience/woolf/)
 
+**Stats:** 5,462 views — Medium: 158, Habr: 5.3K, Hashnode: 7
+
 **Links:** [Habr](https://habr.com/en/articles/953592/) | [Hashnode](https://kapustinomm.hashnode.dev/google-adk-and-startup-technical-guide-ai-agents-how-google-is-redefining-the-way-ai-agents-are-built) | [Medium](https://medium.com/@kapustinomm/google-adk-and-startup-technical-guide-ai-agents-how-google-is-redefining-the-way-ai-agents-are-a0bbceede6bf)
 
 **Full text:** [article.md](article.md)

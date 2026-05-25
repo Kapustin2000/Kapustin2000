@@ -3,6 +3,8 @@
 # Docling in Working with Texts, Languages, and Knowledge
 *August 2025*
 
+**Stats:** 13,913 views — Medium: 8, Habr: 13.9K, Hashnode: 35
+
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/docling-in-working-with-texts-languages-and-knowledge) | [Medium](https://medium.com/@kapustinomm/docling-in-working-with-texts-languages-and-knowledge-87263c51dfeb) | [Habr](https://habr.com/en/articles/935584/)
 
 **Full text:** [article.md](article.md)

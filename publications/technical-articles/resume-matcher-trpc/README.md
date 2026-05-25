@@ -5,6 +5,8 @@
 
 **Developed at:** [Woolf](../../experience/woolf/)
 
+**Stats:** 23,997 views — Medium: 13, Habr: 24K, Hashnode: 4
+
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai) | [Medium](https://medium.com/@kapustinomm/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai-fec6e9896adb) | [Habr](https://habr.com/en/articles/943306/)
 
 **Full text:** [article.md](article.md)

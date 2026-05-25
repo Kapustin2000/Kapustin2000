@@ -11,7 +11,6 @@ Learn more about me:
 - [Conferences](conferences/)
 - [Education](education/)
 - [Work Authorization](work-authorization/)
-- [About](about/)
 - [Timeline](timeline.md)
 
 ---

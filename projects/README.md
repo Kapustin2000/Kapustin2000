@@ -47,13 +47,13 @@ tRPC server using Gemini 1.5 Flash for AI-driven CV-to-vacancy matching with sco
 
 | Company | Projects |
 |---------|----------|
-| [ASRP](../../experience/asrp/) | Arcanum12th, ASRP Media |
-| [MOB.325](../../experience/mob325/) | IzziFit, Hark, Lill |
-| [LAB325](../../experience/lab325/) | Gazer TV, Woman Insight |
-| [Coelix](../../experience/coelix/) | Your Torah Tutors |
-| [Ephyros](../../experience/ephyros/) | QPQ International |
-| [HYS Enterprise](../../experience/hys-enterprise/) | HYS Corporate Website |
-| [Woolf](../../experience/woolf/) | AI CV Matcher |
+| [ASRP](../../experience/asrp/) | [Arcanum12th](arcanum12th/), [ASRP Media](asrp.media/) |
+| [MOB.325](../../experience/mob325/) | [IzziFit](izzifit/), [Hark](hark/), [Lill](lill/) |
+| [LAB325](../../experience/lab325/) | [Gazer TV](gazer/), [Woman Insight](woman-insight/) |
+| [Coelix](../../experience/coelix/) | [Your Torah Tutors](your-torah/) |
+| [Ephyros](../../experience/ephyros/) | [QPQ International](qpq/) |
+| [HYS Enterprise](../../experience/hys-enterprise/) | [HYS Corporate Website](hys/) |
+| [Woolf](../../experience/woolf/) | [AI CV Matcher](ai-cv-matcher/) |
 
 ---
 

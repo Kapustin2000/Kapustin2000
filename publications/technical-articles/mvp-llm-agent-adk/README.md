@@ -5,6 +5,8 @@
 
 **Developed at:** [Woolf](../../experience/woolf/)
 
+**Stats:** 7,801 views — Medium: 27, Habr: 7.8K, Hashnode: 17
+
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk) | [Habr](https://habr.com/en/articles/942696/) | [Medium](https://medium.com/@kapustinomm/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk-90c246ab9c2a)
 
 **Full text:** [article.md](article.md)

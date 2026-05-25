@@ -5,6 +5,8 @@
 
 **Developed at:** [ASRP](../../experience/asrp/)
 
+**Stats:** 5,304 views — Medium: 24, Habr: 5.3K, Hashnode: 8
+
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/my-first-ai-and-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-berlin) | [Habr](https://habr.com/en/articles/947040/) | [Medium](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625)
 
 **Full text:** [article.md](article.md)

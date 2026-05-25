@@ -91,6 +91,26 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | 2023 | 3 |
 | 2018 | 1 |
 
+---
+
+## By Reach
+
+Views across Medium, Habr, and Hashnode for technical articles:
+
+| Article | Medium | Habr | Hashnode | Total |
+|---------|--------|------|----------|-------|
+| [How to Run LLMs Locally with LM Studio](technical-articles/lm-studio-local-llm-guide/) | 1,000 | 37,606 | 6 | **38,612** |
+| [Docling in Working with Texts](technical-articles/docling-text-language/) | 8 | 13,870 | 35 | **13,913** |
+| [How to Integrate Google ADK with a Custom Interface](technical-articles/google-adk-custom-interface/) | 2,600 | 7,780 | 52 | **10,432** |
+| [Building AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) | 149 | 10,167 | 11 | **10,327** |
+| [My Personal Exam: MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | 27 | 7,757 | 17 | **7,801** |
+| [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) | 111 | 7,489 | 3 | **7,603** |
+| [Google ADK and Startup Technical Guide](technical-articles/google-adk-startup-guide/) | 158 | 5,297 | 7 | **5,462** |
+| [My First AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | 24 | 5,272 | 8 | **5,304** |
+| [Building a Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) | 13 | 23,980 | 4 | **23,997** |
+| [Building an App Store Review Analysis Pipeline](technical-articles/app-store-review-analysis/) | 69 | — | 15 | **84** |
+| | | | **Total** | **~124K** |
+
 Meta: [meta.yaml](meta.yaml)
 
 ---
