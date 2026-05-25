@@ -1,7 +1,7 @@
 [← All Experience](../README.md)
 
 # Co-Founder & CTO · Advanced Scientific Research Projects (ASRP)
-*April 2023 – Present*
+*April 2023 – Present · 3+ yrs*
 
 **Stack:** Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL, Nginx
 

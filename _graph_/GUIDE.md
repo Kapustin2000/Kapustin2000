@@ -25,6 +25,7 @@ graph.yaml ──→ pick entity ──→ entity/meta.yaml ──→ entity/REA
 ### Step 1: `_graph_/graph.yaml`
 - Understand the full scope: person, companies, projects, publications, conferences, education
 - Follow `relations` to discover connections between entities
+- Use `concepts.yaml` to understand the intellectual architecture (consciousness → AI → education → economy)
 - Use dates to build timelines
 
 ### Step 2: `<section>/<entity>/meta.yaml`

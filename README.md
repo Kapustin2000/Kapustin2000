@@ -39,4 +39,4 @@ Learn more about me:
 
 ---
 
-Meta: [meta.yaml](meta.yaml) · Graph: [_graph_/graph.yaml](_graph_/graph.yaml) · AI Guide: [_graph_/GUIDE.md](_graph_/GUIDE.md)
+Meta: [meta.yaml](meta.yaml) · Graph: [_graph_/graph.yaml](_graph_/graph.yaml) · Concepts: [_graph_/concepts.yaml](_graph_/concepts.yaml) · AI Guide: [_graph_/GUIDE.md](_graph_/GUIDE.md)

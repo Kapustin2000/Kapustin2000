@@ -1,0 +1,265 @@
+# ASRP Concept Graph — Intellectual Architecture
+# Maps how ideas, technologies, and products connect across the ecosystem.
+# Each concept links to entities in graph.yaml via entity_ids.
+
+meta:
+  description: "Conceptual architecture of the Kapustin2000 intellectual ecosystem — consciousness research, AI systems, education, and the consciousness economy."
+  updated: 2026-05
+
+clusters:
+
+  - id: consciousness-research
+    name: "Consciousness Research"
+    description: "Core research domain spanning lucid dreaming, cognitive enhancement, and mental states. The intellectual foundation of the entire ecosystem."
+    children:
+      - id: lucid-dreaming
+        name: "Lucid Dreaming"
+        description: "Study and practice of conscious awareness during dreams. Entry point for dream data collection and analysis."
+        children:
+          - id: dream-synchronization
+            name: "Dream Synchronization (Banchenko Methodology)"
+            description: "Banchenko's mnemonic method for joint synchronization of dream elements across multiple participants."
+            relates_to:
+              publications: [banchenko-dream-synchronization, banchenko-forecasting]
+          - id: dream-analysis
+            name: "Dream Analysis (AI-Powered)"
+            description: "Kapustin's Marker Algorithm for analyzing dream content using AI. Integrated into Arcanum12th_BOT dream journaling."
+            relates_to:
+              projects: [arcanum12th]
+              publications: [economics-of-dreams]
+          - id: dream-economics
+            name: "Economics of Dreams"
+            description: "How dreams influence global markets and decision-making. Bridges dream research with economic forecasting."
+            relates_to:
+              publications: [economics-of-dreams, lucid-dreams-vr-olympic]
+
+      - id: cognitive-enhancement
+        name: "Cognitive Enhancement"
+        description: "Technologies and methods for augmenting human cognitive capabilities through neurointegration, respiratory control, and hyperbolic fields."
+        children:
+          - id: daat-crystal
+            name: "DAAT Crystal"
+            description: "Premium cognitive-enhancement device combining hyperbolic field crystal technology with Inspira-X respiratory biosensor and neurointerface stack."
+            relates_to:
+              research: [Hyperbolic_Field_DAAT_Crystal_Study]
+          - id: asrp-drift
+            name: "ASRP.drift (PlayOne)"
+            description: "Neurointegration platform for team synchronization using inter-brain synchronization and BCI. Patented (KZ 413554)."
+            relates_to:
+              patents: [asrp-drift]
+          - id: inspira-x
+            name: "Inspira-X"
+            description: "Dual-channel pneumograph with ECG, 22 breathing methodics. Serves as DAAT Crystal module and ASRP.drift module. Patented (KZ 2025/0914.1)."
+            relates_to:
+              patents: [inspira-x]
+          - id: hyperbolic-fields
+            name: "Hyperbolic Field Research"
+            description: "Investigation of hyperbolic field modulation effects on biological systems — blood plasma, yeast fermentation, agriculture, and cognitive function."
+            relates_to:
+              research: [Hyperbolic_Field_BloodPlasma_Study, Hyperbolic_Field_SaccharomycesCerevisiae_Study, Hyperbolic_Field_Agricultural_Study, Hyperbolic_Field_DAAT_Crystal_Study]
+
+      - id: mental-states
+        name: "Mental States & Consciousness Economy"
+        description: "Framework for measuring, certifying, and tokenizing states of consciousness as a new asset class."
+        children:
+          - id: gms
+            name: "Global Mental System (GMS)"
+            description: "Meta-cluster ecosystem binding GFS, Arcanum12th, ASRP.Exchange, ASRP.art, and Kapusta.money into a single consciousness-economy layer."
+            relates_to:
+              projects: [arcanum12th, gfs]
+              publications: [gms-gfs-right-brain]
+          - id: consciousness-marketplace
+            name: "Consciousness Marketplace"
+            description: "ASRP.Exchange — trading platform for unique mental states, dreams, and art created in altered states."
+          - id: kapusta
+            name: "Kapusta.money (Rating Substrate)"
+            description: "Ecosystem cryptocurrency and reputation system. Not just settlement currency — filters low-quality forecasts, rewards accurate contributors, motivates biological sensor data collection."
+            relates_to:
+              projects: [arcanum12th]
+
+  - id: ai-systems
+    name: "AI & Machine Learning Systems"
+    description: "Artificial intelligence infrastructure powering forecasting, education, content, and analysis across the ecosystem."
+    children:
+      - id: llm-agents
+        name: "LLM Agents & Multi-Agent Systems"
+        description: "Large language model agents built with Google ADK, LangChain, and LangGraph for educational assessment, content generation, and autonomous workflows."
+        relates_to:
+          projects: [arcanum12th]
+          publications: [mvp-llm-agent-adk, ai-agent-infrastructure, google-adk-custom-interface, google-adk-startup-guide]
+          skills: [google-adk, langchain, multi-agent-systems]
+      - id: gfs-forecasting
+        name: "Global Foresight System (GFS) — Predictive Analytics"
+        description: "AI-powered forecasting platform analyzing social, geopolitical, and economic trends using dream analysis data, group mnemonic synchronization, and machine learning. Patented (KZ 2025/1096.1)."
+        relates_to:
+          projects: [gfs]
+          publications: [gms-gfs-right-brain, ai-blockchain-hackathon-theta]
+          patents: [gfs]
+      - id: ai-education
+        name: "AI in Education"
+        description: "LLM agents for educational assessment, personalized learning, and automated grading. Powering Arcanum12th's AI-driven course delivery."
+        relates_to:
+          projects: [arcanum12th]
+          publications: [mvp-llm-agent-adk]
+
+  - id: education-layer
+    name: "Education & Knowledge Transfer"
+    description: "Educational platforms and courses that serve as both revenue source and raw biological data collection pipeline."
+    children:
+      - id: arcanum12th-edu
+        name: "Arcanum12th — Consciousness Education"
+        description: "AI-powered educational platform for consciousness studies, lucid dreaming, and cognitive training. Courses on extrasensory perception, expanded cognitive perception, TORO, bodybuilding. Collects raw biological data (EEG, genetic, electrodermal) from enrolled students."
+        relates_to:
+          projects: [arcanum12th]
+      - id: arcanum12th-bot
+        name: "Arcanum12th_BOT"
+        description: "Telegram bot for dream journaling, biosensor data collection, and ecosystem access. Primary data pipeline feeding GFS and GMS."
+        relates_to:
+          projects: [arcanum12th]
+
+  - id: media-science
+    name: "Media & Scientific Publishing"
+    description: "Content and publishing platforms that convert research into public knowledge and generate revenue through ads, subscriptions, and licensing."
+    children:
+      - id: asrp-media
+        name: "ASRP.media"
+        description: "Official media platform for scientific interviews, news, and popular science content. Monetized through CPM/CPC ads, native advertising, and Amazon affiliate program."
+        relates_to:
+          projects: [asrp-media]
+      - id: asrp-science
+        name: "ASRP.science"
+        description: "International peer-reviewed scientific journal publishing interdisciplinary research beyond conventional academic boundaries. Double-blind peer review."
+        relates_to:
+          projects: [asrp-science]
+      - id: publications-layer
+        name: "Technical & Research Publications"
+        description: "22 articles across technical, research, academic, and popular science categories bridging the gap between deep tech and public understanding."
+        relates_to:
+          publications: all
+
+  - id: deep-tech
+    name: "R&D & Deep Technology"
+    description: "Advanced research programs and patented technologies spanning aerospace, biomedical, quantum, and cybersecurity domains."
+    children:
+      - id: hyperbolic-research
+        name: "Hyperbolic Field Studies"
+        description: "Multi-domain research program investigating hyperbolic field effects on biological and material systems. Includes DAAT Crystal, Blood Plasma, Saccharomyces Cerevisiae, and Agricultural studies."
+        relates_to:
+          research: [Hyperbolic_Field_DAAT_Crystal_Study, Hyperbolic_Field_BloodPlasma_Study, Hyperbolic_Field_SaccharomycesCerevisiae_Study, Hyperbolic_Field_Agricultural_Study]
+      - id: uap-research
+        name: "UAP Reverse Engineering"
+        description: "Multidisciplinary research framework for analysis and theoretical reconstruction of UAP technologies. Active research program."
+        relates_to:
+          research: [UAP_Reverse_Engineering_Study]
+      - id: biomedical
+        name: "Biomedical Technologies"
+        description: "Body Food System (personalized nutrition, US Copyright), Biophotonic Optical Neurodiagnostic (contactless brain monitoring, patent pending), Fractal Biomedical Hyperbolic Field System (medical device)."
+        relates_to:
+          patents: [body-food-system, biophotonic-neurodiagnostic, fractal-biomedical]
+      - id: patent-portfolio
+        name: "Patent Portfolio"
+        description: "7 patents across KZ, PCT, and US jurisdictions covering neurotechnology, forecasting, biomedical, and hyperbolic field technologies."
+        relates_to:
+          patents: all
+
+  - id: commerce-lifestyle
+    name: "Commerce & Consciousness Economy"
+    description: "Commercial products and platforms that monetize consciousness research through unique market mechanisms."
+    children:
+      - id: asrp-art
+        name: "ASRP.art"
+        description: "Neurophysiological art valuation platform using EEG, AI, and neural network models for objective measurement of emotional and cognitive reactions to art. Patented (KZ + PCT)."
+        relates_to:
+          patents: [asrp-art]
+      - id: asrp-fashion
+        name: "ASRP.fashion"
+        description: "Living biocompatible textiles grown from plants, bacteria, and fungi under hyperbolic and quantum field exposure. Premium fashion and medical textiles."
+      - id: asrp-dance
+        name: "ASRP.dance"
+        description: "Research platform exploring ancient ritual movements and dances through modern neurotechnologies and biophysical analysis."
+      - id: asrp-exchange
+        name: "ASRP.exchange"
+        description: "World's first platform for trading and exchanging unique consciousness states, dreams, and art created in altered states."
+
+  - id: blockchain-economy
+    name: "Blockchain & Tokenization"
+    description: "Blockchain infrastructure for the consciousness economy — tokenization of cognitive states, decentralized rating systems, and smart contract automation."
+    children:
+      - id: algorand
+        name: "Algorand Smart Contracts"
+        description: "Blockchain platform for Kapusta.money token and ecosystem smart contracts."
+        relates_to:
+          skills: [algorand, smart-contracts]
+      - id: kapusta-money
+        name: "Kapusta.money"
+        description: "Ecosystem cryptocurrency and rating substrate. Centralized and decentralized layers. Status rises with accurate forecasts, falls with inaccurate ones. Produces accurate forecasts, high-precision biological sensors, and system reliability."
+        relates_to:
+          projects: [arcanum12th]
+
+  - id: infrastructure
+    name: "Technical Infrastructure"
+    description: "Core technology stack and architecture patterns powering all ecosystem products."
+    children:
+      - id: microservices
+        name: "Microservices Architecture"
+        description: "Event-driven microservices for handling, mailing, queues, SMS, and async processing across all ASRP products."
+      - id: data-pipeline
+        name: "Data Pipeline (Biosignals → Analytics → Outputs)"
+        description: "End-to-end data flow: Arcanum12th courses + Arcanum12th_BOT → analytical layer → three outputs: scientific publications, GFS forecasts, GMS tokens → Kapusta rating substrate closes the loop."
+      - id: fullstack
+        name: "Full-Stack Development"
+        description: "Vue, Nuxt, Node.js, PostgreSQL, Docker, Nginx — core technology stack for all frontend and backend platforms."
+        relates_to:
+          skills: [vue, nuxt, node, postgresql, docker]
+
+# Relations between clusters
+relations:
+  - from: consciousness-research.lucid-dreaming.dream-synchronization
+    to: ai-systems.gfs-forecasting
+    type: feeds_data
+    description: "Dream synchronization data provides input signals for GFS forecasting models."
+
+  - from: education-layer.arcanum12th-bot
+    to: ai-systems.gfs-forecasting
+    type: supplies_data
+    description: "Arcanum12th_BOT supplies dream journal and biosensor data to GFS."
+
+  - from: education-layer.arcanum12th-edu
+    to: deep-tech.hyperbolic-research
+    type: collects_data
+    description: "Arcanum12th courses collect raw biological data (EEG, genetic, electrodermal) feeding hyperbolic field and cognitive research."
+
+  - from: ai-systems.llm-agents
+    to: education-layer.arcanum12th-edu
+    type: powers
+    description: "LLM agents power AI-driven educational assessment and personalized learning on Arcanum12th."
+
+  - from: blockchain-economy.kapusta-money
+    to: ai-systems.gfs-forecasting
+    type: incentives
+    description: "Kapusta rating substrate incentivizes accurate forecasting and high-quality biosensor data collection."
+
+  - from: consciousness-research.mental-states.gms
+    to: commerce-lifestyle
+    type: umbrella
+    description: "GMS is the meta-cluster binding GFS, Arcanum12th, ASRP.Exchange, ASRP.art, and Kapusta.money."
+
+  - from: consciousness-research.mental-states.gms
+    to: blockchain-economy
+    type: umbrella
+    description: "GMS includes Kapusta.money as its rating and settlement layer."
+
+  - from: media-science.publications-layer
+    to: consciousness-research
+    type: disseminates
+    description: "Publications translate research into public knowledge and scientific credibility."
+
+  - from: deep-tech
+    to: media-science
+    type: produces_content
+    description: "R&D output is converted into media content, scientific articles, and popular science publications."
+
+  - from: infrastructure.data-pipeline
+    to: all
+    type: backbone
+    description: "The data pipeline (biosignals → analytics → outputs) is the infrastructure backbone connecting all clusters."
