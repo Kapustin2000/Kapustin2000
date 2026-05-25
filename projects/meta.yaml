@@ -1,6 +1,6 @@
 id: projects
 type: index
-description: "Software projects and products — 11 projects (2 active, 9 completed)"
+description: "Software projects and products — 14 projects (5 active, 9 completed)"
 entities:
   - id: ai-cv-matcher
     type: project
@@ -35,6 +35,15 @@ entities:
   - id: your-torah
     type: project
     status: completed
+  - id: asrp-tech
+    type: project
+    status: active
+  - id: asrp-science
+    type: project
+    status: active
+  - id: gfs
+    type: project
+    status: active
 navigation:
   parent: /
   siblings: [experience, publications, conferences, skills, education]

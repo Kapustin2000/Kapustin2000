@@ -1,0 +1,7 @@
+id: asrp-science
+type: project
+name: ASRP.science — Peer-Reviewed Scientific Journal
+status: active
+period: 2024 - present
+company: asrp
+stack: [Vue, Nuxt, Node.js, PostgreSQL]

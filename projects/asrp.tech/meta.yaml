@@ -1,0 +1,7 @@
+id: asrp-tech
+type: project
+name: ASRP — R&D Technology Ecosystem
+status: active
+period: 2023-04 - present
+company: asrp
+stack: [Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL, Nginx, Algorand]

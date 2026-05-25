@@ -1,0 +1,9 @@
+id: gfs
+type: project
+name: Global Foresight (Forecasting) System — GFS
+status: active
+period: 2023 - present
+company: asrp
+stack: [LangChain, Node.js, Python, PostgreSQL, Vue]
+relations:
+  publications: [gms-gfs-right-brain, ai-blockchain-hackathon-theta]

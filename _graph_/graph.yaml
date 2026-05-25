@@ -20,7 +20,7 @@ companies:
     period: 2023-04 - present
     location: [Florida, USA, Baikonur, Kazakhstan]
     relations:
-      projects: [arcanum12th, asrp-media]
+      projects: [arcanum12th, asrp-media, asrp-tech, asrp-science, gfs]
       publications: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, grivtsova-stress-management, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]
 
   - id: coelix
@@ -172,6 +172,27 @@ projects:
     period: 2020-08 - 2021-04
     company: coelix
     stack: [Laravel, Vue.js, Docker, PostgreSQL]
+
+  - id: asrp-tech
+    name: "ASRP — R&D Technology Ecosystem"
+    status: active
+    period: 2023-04 - present
+    company: asrp
+    stack: [Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL, Algorand]
+
+  - id: asrp-science
+    name: "ASRP.science — Peer-Reviewed Scientific Journal"
+    status: active
+    period: 2024 - present
+    company: asrp
+    stack: [Vue, Nuxt, Node.js, PostgreSQL]
+
+  - id: gfs
+    name: "Global Foresight (Forecasting) System — GFS"
+    status: active
+    period: 2023 - present
+    company: asrp
+    stack: [LangChain, Node.js, Python, PostgreSQL, Vue]
 
 publications:
   technical_articles:

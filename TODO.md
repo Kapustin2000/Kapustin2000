@@ -56,7 +56,7 @@
 ### Structured Data (YAML frontmatter)
 
 - [x] Add `meta.yaml` (`id`, `type`, `date`, `tags`, `relations`) to all 48 entity folders — Person, Company, Project, Article, Conference, Education
-- [ ] Add `status` field to projects (idea / in-progress / completed) and articles (draft / published / archived)
+- [x] Add `status` field to all projects (active/completed) and articles (published)
 - [ ] Add `evidence` field — link back to source GitHub pages for verifiability
 - [x] Create `_schema_.yaml` — canonical entity type definitions with required fields
 - [x] Keep folder-per-item structure intact (no flat renaming, no date prefixes)

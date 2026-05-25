@@ -7,7 +7,7 @@
 
 ## Context
 
-Co-founded ASRP, a transatlantic research holding company focused on AI, blockchain, and consciousness studies. Built the entire product ecosystem from scratch — spanning educational platforms, media, research publishing, AI-powered tools, and internal cryptocurrency.
+Co-founded ASRP, a transatlantic research holding company focused on AI, neuroscience, blockchain, and consciousness studies. Built the entire product ecosystem from scratch — 14+ products across education, media, scientific publishing, predictive analytics, neurotechnology, art valuation, fashion tech, and internal cryptocurrency. Headquartered in Florida (USA) and Baikonur (Kazakhstan) with a distributed team of 6 engineers.
 
 ## Key Achievements
 
@@ -24,8 +24,11 @@ Co-founded ASRP, a transatlantic research holding company focused on AI, blockch
 
 ## Related Projects
 
+- [ASRP Ecosystem — R&D Technology Holding](../../projects/asrp.tech/)
 - [Arcanum12th — Consciousness Education Platform](../../projects/arcanum12th/)
 - [ASRP Media — Analytical & Research Platform](../../projects/asrp.media/)
+- [ASRP.science — Peer-Reviewed Scientific Journal](../../projects/asrp.science/)
+- [Global Foresight System — Predictive Analytics](../../projects/gfs/)
 
 ## Related Publications
 

@@ -2,7 +2,7 @@
 
 # Projects
 
-11 projects · 2 active · 9 completed · 6 companies · 15+ technologies
+14 projects · 5 active · 9 completed · 6 companies · 15+ technologies
 
 ---
 
@@ -18,6 +18,11 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 Research platform for neuroscience, AI, and cognitive science with expert interviews and scientific reviews.
 `Vue` `Nuxt` `LangChain` `Node.js`
 
+### [Global Foresight System](gfs/) — Predictive Analytics Platform
+*2023 – Present · Active*
+AI-powered predictive analytics for social, geopolitical, and economic forecasting using dream analysis data and mnemonic synchronization. Patented (KZ 2025/1096.1).
+`LangChain` `Node.js` `Python` `Vue`
+
 ### [AI CV Matcher](ai-cv-matcher/) — AI-Powered CV Matching
 *Mar 2025 · Completed*
 tRPC server using Gemini 1.5 Flash for AI-driven CV-to-vacancy matching with scoring and analysis.
@@ -29,6 +34,9 @@ tRPC server using Gemini 1.5 Flash for AI-driven CV-to-vacancy matching with sco
 
 | Project | Period | Status | Stack |
 |---------|--------|--------|-------|
+| [Global Foresight System](gfs/) | 2023 – Present | Active | LangChain, Node.js, Python, Vue |
+| [ASRP Ecosystem](asrp.tech/) | Apr 2023 – Present | Active | Vue, Nuxt, LangChain, Docker |
+| [ASRP.science](asrp.science/) | 2024 – Present | Active | Vue, Nuxt, Node.js, PostgreSQL |
 | [AI CV Matcher](ai-cv-matcher/) | Mar 2025 | Completed | Vertex AI, tRPC, Node.js |
 | [ASRP Media](asrp.media/) | May 2023 – Sep 2025 | Completed | Vue, Nuxt, LangChain, Node.js |
 | [Arcanum12th](arcanum12th/) | Apr 2023 – Present | Active | Vue, Nuxt, LangChain, Docker |
@@ -47,7 +55,7 @@ tRPC server using Gemini 1.5 Flash for AI-driven CV-to-vacancy matching with sco
 
 | Company | Projects |
 |---------|----------|
-| [ASRP](../../experience/asrp/) | [Arcanum12th](arcanum12th/), [ASRP Media](asrp.media/) |
+| [ASRP](../../experience/asrp/) | [Arcanum12th](arcanum12th/), [ASRP Media](asrp.media/), [ASRP.science](asrp.science/), [GFS](gfs/), [ASRP Ecosystem](asrp.tech/) |
 | [MOB.325](../../experience/mob325/) | [IzziFit](izzifit/), [Hark](hark/), [Lill](lill/) |
 | [LAB325](../../experience/lab325/) | [Gazer TV](gazer/), [Woman Insight](woman-insight/) |
 | [Coelix](../../experience/coelix/) | [Your Torah Tutors](your-torah/) |
@@ -59,7 +67,7 @@ tRPC server using Gemini 1.5 Flash for AI-driven CV-to-vacancy matching with sco
 
 ## Tech Distribution
 
-`Node.js` (7) · `Vue` (3) · `GraphQL` (5) · `Docker` (7) · `PostgreSQL` (4) · `LangChain` (3) · `Nuxt` (3) · `Nginx` (3) · `Laravel` (2) · `PHP` (2)
+`Node.js` (7) · `Vue` (4) · `GraphQL` (5) · `Docker` (7) · `PostgreSQL` (5) · `LangChain` (4) · `Nuxt` (4) · `Nginx` (3) · `Laravel` (2) · `PHP` (2)
 
 Meta: [meta.yaml](meta.yaml)
 
