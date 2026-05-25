@@ -36,7 +36,7 @@ Designed and delivered an LLM-agent for educational assessment using Google ADK 
 | 2021-07 – 2023-04 | Team Lead | [MOB.325](mob325/) | Ukraine | 1 yr 10 mos | Node.js, Docker, GraphQL |
 | 2021-07 – 2023-04 | Sr. Backend Dev | [LAB325](lab325/) | Ukraine | 1 yr 10 mos * | Node.js, PostgreSQL, GraphQL |
 | 2020-08 – 2021-04 | Team Lead | [Coelix](coelix/) | Tel Aviv, Israel (Remote) | 9 mos | Laravel, Vue, PHP |
-| 2021-04 – 2021-07 | Sr. Backend Dev | [Provectus](provectus/) | San Francisco, California | 4 mos | PHP, Laravel |
+| 2021-03 – 2021-07 | Sr. Backend Dev | [Provectus](provectus/) | San Francisco, California | 4 mos | PHP, Laravel, Node.js |
 | 2020-02 – 2020-07 | Full Stack Dev | [Ephyros](ephyros/) | Kyiv, Ukraine | 6 mos | PHP, Laravel, Vue |
 | 2018-09 – 2020-02 | Full Stack Dev | [HYS Enterprise](hys-enterprise/) | Odesa, Ukraine | 1 yr 6 mos | WordPress, React |
 | 2018-01 – 2018-09 | Full Stack Dev | [Top Agent](top-agent/) | Odesa, Ukraine | 9 mos | PHP |

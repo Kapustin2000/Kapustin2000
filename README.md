@@ -11,6 +11,8 @@ Learn more about me:
 - [Conferences](conferences/)
 - [Education](education/)
 - [Work Authorization](work-authorization/)
+- [References](references.md)
+- [CV](cvs/)
 - [Timeline](timeline.md)
 
 ---

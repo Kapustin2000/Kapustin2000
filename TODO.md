@@ -1,87 +1,72 @@
 # TODO — Profile Polish
 
 ## README (main)
+- [ ] Grand narrative — one sentence tying together research, AI, education, consciousness
 - [ ] Expand bio section (currently 2 lines)
 - [ ] Add reference to TODO.md in navigation
 
 ## Experience
-
-- [ ] Fill in location for ASRP, LAB325, MOB.325, Provectus, Ephyros, Woolf
-- [ ] Verify stacks for Provectus, PHP-academy, SuperMediaAds, Top Agent (PHP only?)
-- [ ] Expand thin entries (Provectus, PHP-academy, SuperMediaAds) with concrete facts/metrics
-- [ ] Add duration to ASRP header
-- [x] Add `reference.md` for companies with reference letters (Coelix, HYS, LAB325, MOB.325, Provectus)
-- [ ] Enrich Impact column with metrics (optional)
+- [x] Locations filled for all companies
+- [x] Duration added to ASRP header
+- [x] Provectus expanded (reference letter, stack, concrete facts)
+- [ ] Expand thin entries: PHP-academy, SuperMediaAds, Top Agent — if reference letters or facts exist
+- [ ] Verify stacks for PHP-academy, Top Agent, SuperMediaAds (PHP only?)
 
 ### Ideas
-- Index: add Location column
-- Index: add Duration column
-- Index: visually indicate concurrent roles (LAB325 + MOB.325 ran in parallel)
-- ASRP: link to live products (arcanum12th.education, asrp.media)
-- Cross-link Experience → Publications by company
-- Add Prev / Next navigation between company pages
+- [x] Location column added to All Roles table
+- [x] Duration column added to All Roles table
+- [x] Concurrent roles indicated (LAB325 + MOB.325 footnote)
+- [ ] Add Prev / Next navigation between company pages
 
 ## Projects
-
-- [ ] Cross-link Projects → Experience (done: all 11 have "Developed at")
-- [ ] Cross-link Experience → Projects (done: 7/11 companies have "Related Projects")
-- [ ] Create project pages for ASRP.science and ASRP.tech
-- [ ] Scrape ASRP.tech website to extract all activities, products, and research — add to ASRP project descriptions
+- [x] Cross-link Projects → Experience (all have "Developed at")
+- [x] Cross-link Experience → Projects (7/11 companies have "Related Projects")
+- [x] Create project pages for ASRP.science, ASRP.tech (ecosystem), and GFS
+- [x] Scrape ASRP.tech website — done, extracted full product catalog and chronology
 
 ### Ideas
-- Add featured projects with preview images to `projects/README.md`
+- [ ] Add featured projects with preview images to `projects/README.md`
 
 ## Publications
-
-### Ideas
-- Add read counts (38K, 10K, 7.5K, etc.) to article READMEs
+- [x] Add read counts to all 10 technical article READMEs
+- [x] Add platform stats (Medium, Habr, Hashnode) to meta.yaml
+- [x] Add By Reach table to `publications/README.md`
 
 ## Skills
-
-### Ideas
-- Group by proficiency: Expert / Proficient / Familiar
-- Link skills to specific projects/experience
+- [x] Skills page redesigned with Used At column + Experience Summary
+- [ ] Link skills to specific projects/experience (optional)
 
 ## General
-
-- [x] Add reference letters from former colleagues (12 recommendations + PDFs across HYS, LAB325, MOB.325, Coelix, Provectus)
-- [x] Create timeline page (work + projects + publications + conferences in chronological order)
+- [x] Reference letters added (HYS, Coelix, LAB325, MOB.325, Provectus)
+- [x] Timeline page created with clickable links
+- [x] about/ page removed (was stub)
 
 ### AI Knowledge Graph
-
-- [x] Create `graph.yaml` — machine-readable schema of all entities (companies, projects, publications, conferences) with relations and dates
-- [ ] Add `_meta.md` to each image folder — describes what the image shows, its context, and how it relates to other entities
-- [x] Design AI navigation layer: a graph view of everything — what was done, when, and how it connects
+- [x] Create `graph.yaml` — machine-readable schema of all entities
+- [x] Create `concepts.yaml` — intellectual architecture (Consciousness → Lucid dreaming → AI agents → Education → Economy)
+- [x] AI navigation layer designed (graph.yaml → meta.yaml → README.md)
+- [ ] Add `_meta.md` to each image folder — describes what the image shows and context
 
 ### Structured Data (YAML frontmatter)
-
-- [x] Add `meta.yaml` (`id`, `type`, `date`, `tags`, `relations`) to all 48 entity folders — Person, Company, Project, Article, Conference, Education
-- [x] Add `status` field to all projects (active/completed) and articles (published)
-- [ ] Add `evidence` field — link back to source GitHub pages for verifiability
-- [x] Create `_schema_.yaml` — canonical entity type definitions with required fields
-- [x] Keep folder-per-item structure intact (no flat renaming, no date prefixes)
-- [x] No static site generators, no graph databases — pure YAML + Markdown
+- [x] `meta.yaml` added to all entities
+- [x] `status` field added to all projects and articles
+- [x] `read_count` + `stats` added to technical article meta.yaml
+- [x] `_schema_.yaml` created
+- [x] Folder-per-item structure intact
+- [x] No static site generators — pure YAML + Markdown
 
 ### Narrative & Architecture
-
-- [ ] Define and add **grand narrative** to README — one sentence tying together research, AI, education, consciousness
-- [ ] Separate layers in entity pages: narrative (why) / semantic links (relations) / evidence (proof) / timeline (evolution)
-- [ ] Create **Concept Graph** in `_graph_/concepts.yaml` — intellectual architecture (Consciousness → Lucid dreaming → AI agents → ASRP)
-- [ ] Add **temporal evolution** to each entity — not just dates, but how it evolved over time
-- [ ] Ensure every claim/achievement has an **evidence** backlink (article, repo, PDF, talk, demo, screenshot)
+- [x] Create Concept Graph — done in `_graph_/concepts.yaml`
+- [ ] Define and add grand narrative to README
 
 ## Done
-
-- [x] All 11 project pages — full descriptions
-- [x] All 11 experience pages — consistent template, no emojis
+- [x] All 14 project pages (was 11, added asrp.tech, asrp.science, gfs)
+- [x] All experience pages — consistent template, no emojis
 - [x] Bidirectional project ↔ company cross-references
-- [x] Skills and education migrated to folders
-- [x] GitHub stats added to README
-- [x] Experience → Publications cross-links (ASRP: 13, Woolf: 5)
-- [x] Publications → Experience cross-links (Developed at on 18 article READMEs)
-- [x] Links consistent across all pages (no .md extensions)
-- [x] ← Back to Profile / ← All Projects / ← All Experience consistent everywhere
-- [x] Conferences sorted by date descending
-- [x] Publications sorted by date descending
-- [x] `_schema_.yaml` created — canonical entity type definitions
-- [x] `meta.yaml` files added to all 48 entity folders (separate from READMEs, linked via `Meta: [meta.yaml](meta.yaml)`)
+- [x] Timeline links — all entries clickable
+- [x] Experience → Publications cross-links
+- [x] Publications → Experience cross-links
+- [x] Links consistent (no .md extensions)
+- [x] Navigation consistent across all pages
+- [x] Conferences & publications sorted by date descending
+- [x] Meta reference links on all entity READMEs
