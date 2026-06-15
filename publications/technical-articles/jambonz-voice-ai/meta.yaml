@@ -3,6 +3,8 @@ type: article
 title: "Voice AI Systems Powered by Jambonz: From Telephony to Human–Machine Dialogue"
 date: 2025-10
 tags: [voice-ai, telephony, jambonz]
+cluster_ids: [local-and-voice-ai]
+related_publications: [ai-agent-infrastructure, lm-studio-local-llm-guide]
 status: published
 read_count: 7603
 stats:

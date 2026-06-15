@@ -134,6 +134,42 @@ clusters:
       - id: publications-layer
         name: "Technical & Research Publications"
         description: "22 articles across technical, research, academic, and popular science categories bridging the gap between deep tech and public understanding."
+        children:
+          - id: ai-agents-infrastructure
+            name: "AI Agents & Infrastructure"
+            description: "Google ADK, LLM agents, AgentOps, and scalable AI system architecture."
+            relates_to:
+              publications: [google-adk-custom-interface, mvp-llm-agent-adk, google-adk-startup-guide, ai-agent-infrastructure]
+          - id: applied-ai-nlp
+            name: "Applied AI & NLP"
+            description: "Docling, resume matching, app review analysis, and NLP/data pipelines."
+            relates_to:
+              publications: [docling-text-language, resume-matcher-trpc, app-store-review-analysis]
+          - id: local-and-voice-ai
+            name: "Local & Voice AI"
+            description: "Local LLM execution, LM Studio, telephony, Voice AI, and Jambonz."
+            relates_to:
+              publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
+          - id: gfs-forecasting-blockchain
+            name: "GFS, Forecasting & Blockchain"
+            description: "Global Forecasting System, Banchenko forecasting, Theta hackathon, blockchain, and market prediction."
+            relates_to:
+              publications: [banchenko-forecasting, gms-gfs-right-brain, economics-of-dreams, ai-blockchain-hackathon-theta]
+          - id: lucid-dreaming-consciousness
+            name: "Lucid Dreaming & Consciousness"
+            description: "Lucid dreaming, dream synchronization, stress preparation, and dream economy."
+            relates_to:
+              publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, grivtsova-stress-management, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
+          - id: neurotechnology-future-interfaces
+            name: "Neurotechnology & Future Interfaces"
+            description: "BCI, neurointerfaces, VR training, right-brain technologies, and future interface paradigms."
+            relates_to:
+              publications: [future-technologies-innovation, bci-hr-recruitment, lucid-dreams-vr-olympic, gms-gfs-right-brain]
+          - id: software-market-research
+            name: "Software Market Research"
+            description: "Software development tools and labor-market demand research."
+            relates_to:
+              publications: [software-development-tools]
         relates_to:
           publications: all
 

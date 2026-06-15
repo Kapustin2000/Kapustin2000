@@ -1,0 +1,17 @@
+id: fig-1-initial-system-architecture
+type: figure
+article_id: ai-agent-infrastructure
+figure_number: 1
+title: "Initial system architecture"
+caption: "Fig. 1. Initial system architecture: agents and tools within a single monorepository"
+asset: image.webp
+format: webp
+dimensions:
+  width: 644
+  height: 814
+alt: "Diagram of a monolithic repository containing Tool 1, Tool 2, Tool 3, and several agents connected by dotted dependency lines."
+description: "A simple black-and-white architecture diagram titled Monolithic Repository. It shows tools and agents grouped inside one repository folder, with dotted lines indicating ad hoc dependencies between tools and agents, plus a separate agent block connected back to the monorepo."
+placement:
+  article: article.md
+  before: "This approach does not scale:"
+  after: "For quick start, the client created a single large monorepo containing both agents and tools."

@@ -1,0 +1,17 @@
+id: fig-5-filesystem-registry
+type: figure
+article_id: ai-agent-infrastructure
+figure_number: 5
+title: "Filesystem registry"
+caption: "Fig. 5. The filesystem registry is a quick, temporary fix that centralizes tools locally — but it lacks proper version control and long-term scalability."
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 581
+alt: "Wide diagram showing a local library/tools folder feeding a tools_index.json registry, which is then used by Agent 1, Agent 2, and Agent 3."
+description: "A wide architecture diagram of a local filesystem registry. A library/tools directory points to a central tools_index.json file, and three agents consume that local index, illustrating a lightweight centralized registry inside the filesystem."
+placement:
+  article: article.md
+  before: "Pros: No CI/CD needed"
+  after: "Agents can now load only what they need."

@@ -14,6 +14,9 @@ Recently a client approached ASRP with a familiar challenge. Over years of work 
 
 For quick start, the client created a single large **monorepo** containing both agents and tools. Agents could communicate locally and use tools from neighboring directories. When creating a new agent, they simply copied needed tools into its directory.
 
+![Initial system architecture: agents and tools within a single monorepository](images/fig-1-initial-system-architecture/image.webp)
+*Fig. 1. Initial system architecture: agents and tools within a single monorepository*
+
 This approach does not scale:
 
 1. No **unified tool registry** — no way to see what tools exist
@@ -24,6 +27,9 @@ This approach does not scale:
 ## Three Architectural Paths
 
 After detailed analysis of the client's data and project structure, I developed three strategic lines of development:
+
+![Target architecture: centralized management of agents and tools](images/fig-2-target-architecture/image.webp)
+*Fig. 2. Target architecture: centralized management of agents and tools*
 
 ### Path 1: Filesystem Registry with Lazy Loading
 
@@ -89,6 +95,9 @@ pdf_tool = registry.load("extract_pdf")
 pdf_tool.run("document.pdf")
 ```
 
+![Filesystem registry with local tools index shared by agents](images/fig-5-filesystem-registry/image.webp)
+*Fig. 5. The filesystem registry is a quick, temporary fix that centralizes tools locally — but it lacks proper version control and long-term scalability.*
+
 **Pros:** No CI/CD needed, works out of the box for local setups and pilots.  
 **Cons:** Minimal version control — updating a tool instantly affects all agents; rollback is manual.
 
@@ -97,6 +106,9 @@ pdf_tool.run("document.pdf")
 Tools become **packages** — independent modules with their own version, documentation, and lifecycle. Instead of endless copying, tools are extracted into domain-specific packages (`pdf-toolset`, `image-processing`, `data-analysis`) and connected via an internal package manager.
 
 Each agent gets a configuration file (`package.json` or `requirements.txt`) declaring its dependencies. On initialization, the agent pulls the exact versions from the internal package registry.
+
+![Modular tool ecosystem with agent dependencies and internal package registry](images/fig-4-modular-tool-ecosystem/image.webp)
+*Fig. 4. The modular tool ecosystem gives each agent its own dependency list and version control through an internal package manager.*
 
 **Pros:**
 - End of code duplication and manual updates
@@ -113,6 +125,9 @@ The highest maturity level — agents operate not as modules inside a monolith b
 **MCP (Model Context Protocol):** Open standard allowing LLMs and agents to connect to external data sources, tools, and APIs. A unified format for agent-tool communication.
 
 **A2A (Agent-to-Agent):** Enables agents to interact and collaborate — delegate tasks, build joint action chains, even work with agents built on different frameworks.
+
+![AgentOps infrastructure with MCP Registry and A2A agent interaction](images/fig-3-agentops-infrastructure/image.webp)
+*Fig. 3. The AgentOps infrastructure unifies agents and tools: agents connect to the MCP Registry to access shared tools and interact with each other via A2A protocols, forming a dynamic, interconnected ecosystem.*
 
 **Pros:**
 - No need to keep everything in one monolith

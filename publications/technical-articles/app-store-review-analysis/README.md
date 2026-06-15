@@ -9,4 +9,6 @@
 
 An analytical case study on how App Store reviews can be transformed into structured insights using Python, NLP, and data visualization. The article explores how user feedback reflects social sentiment and how such data can help forecast trends within digital ecosystems.
 
+**Full text:** [article.md](article.md)
+
 Meta: [meta.yaml](meta.yaml)

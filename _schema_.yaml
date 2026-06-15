@@ -29,14 +29,14 @@ entity_types:
   article:
     description: Technical or popular-science article
     required: [id, type, title, date]
-    optional: [platform, links, company, tags, read_count, status]
-    relations: [company, projects]
+    optional: [platform, links, company, tags, cluster_ids, related_publications, read_count, status]
+    relations: [company, projects, publications]
 
   research_paper:
     description: Academic or scientific publication
     required: [id, type, title, date, journal]
-    optional: [link, company, tags]
-    relations: [company]
+    optional: [link, company, tags, cluster_ids, related_publications, status]
+    relations: [company, publications]
 
   conference:
     description: Conference or speaking event

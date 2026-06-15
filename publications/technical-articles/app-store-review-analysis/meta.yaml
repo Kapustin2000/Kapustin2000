@@ -3,6 +3,8 @@ type: article
 title: "Building an App Store Review Analysis Pipeline with Python NLP & Data Visualization"
 date: 2025-10
 tags: [nlp, python, data-visualization]
+cluster_ids: [applied-ai-nlp]
+related_publications: [docling-text-language]
 status: published
 read_count: 84
 stats:

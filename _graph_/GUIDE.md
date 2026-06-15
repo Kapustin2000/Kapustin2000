@@ -25,6 +25,7 @@ graph.yaml ──→ pick entity ──→ entity/meta.yaml ──→ entity/REA
 ### Step 1: `_graph_/graph.yaml`
 - Understand the full scope: person, navigation, companies, projects, publications, conferences, education
 - Follow `relations` to discover connections between entities
+- Use `publication_knowledge_map` for publication clusters, tag families, timeline-oriented navigation, and publication-to-publication relationships
 - Use `concepts.yaml` to understand the intellectual architecture (consciousness → AI → education → economy)
 - Use dates to build timelines
 
@@ -79,6 +80,7 @@ company:
 - `company → publications`: articles written during this role
 - `project → company`: where it was built
 - `conference → publications`: articles about the event
+- `publication → publication`: relation edges such as `builds_on`, `same_series`, `shared_method`, `applies_research`, `same_project`, `event_context`, and `contrast`
 - All relationships are mirrored in `graph.yaml` under `relations`
 
 ## Query Patterns

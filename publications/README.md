@@ -25,6 +25,83 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 
 ---
 
+## By Cluster
+
+| Cluster | Publications |
+|---------|--------------|
+| AI Agents & Infrastructure | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) · [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) · [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) · [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) |
+| Applied AI & NLP | [Docling in Working with Texts](technical-articles/docling-text-language/) · [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) · [App Store Review Analysis](technical-articles/app-store-review-analysis/) |
+| Local & Voice AI | [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) |
+| GFS, Forecasting & Blockchain | [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) · [Economics of Dreams](popular-science/economics-of-dreams/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) |
+| Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](popular-science/economics-of-dreams/) · [Grivtsova Stress Management](research-publications/grivtsova-stress-management/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) |
+| Neurotechnology & Future Interfaces | [Future Technologies](popular-science/future-technologies-innovation/) · [BCI in HR](popular-science/bci-hr-recruitment/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
+| Software Market Research | [Software Development Tools in the Job Market](academic-research/software-development-tools/) |
+
+---
+
+## Publication Timeline
+
+| Period | Publications |
+|--------|--------------|
+| Feb 2026 | [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) |
+| Oct 2025 | [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) · [App Store Review Analysis](technical-articles/app-store-review-analysis/) · [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) |
+| Sep 2025 | [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) · [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) |
+| Aug 2025 | [Docling in Working with Texts](technical-articles/docling-text-language/) |
+| Jul 2025 | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) |
+| Feb 2025 | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
+| Dec 2024 | [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [BCI in HR](popular-science/bci-hr-recruitment/) |
+| Oct 2024 | [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) |
+| Jul 2024 | [Grivtsova Stress Management](research-publications/grivtsova-stress-management/) |
+| Jun 2024 | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
+| May 2024 | [Economics of Dreams](popular-science/economics-of-dreams/) |
+| Jan 2024 | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
+| Oct 2023 | [Future Technologies](popular-science/future-technologies-innovation/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) |
+| Jun 2023 | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) |
+| Dec 2018 | [Software Development Tools in the Job Market](academic-research/software-development-tools/) |
+
+---
+
+## Tag Index
+
+| Family | Tags |
+|--------|------|
+| AI Systems | `ai` `ai-agents` `google-adk` `llm` `llm-agent` `local-ai` `voice-ai` `agentops` `mcp` `a2a` `vertex-ai` `lm-studio` |
+| Data & Language | `nlp` `text-analysis` `docling` `data-visualization` `python` `trpc` `resume-matching` |
+| Forecasting & Economy | `forecasting` `gfs` `gms` `economics` `blockchain` `theta` `markets` `hackathon` |
+| Consciousness Research | `lucid-dreaming` `dream-synchronization` `dreams` `consciousness` `mnemonic` `banchenko` `banchenko-extended` `stress-management` `grivtsova` `pet-project` `research` `innovation` |
+| Neurotechnology & Interfaces | `bci` `neurotechnology` `neurointerfaces` `vr` `olympic-training` `right-brain` `hr` `recruitment` `quantum-computing` |
+| Engineering Market | `software-development` `job-market` `ukraine` `architecture` `guide` `tutorial` `infrastructure` `telephony` `jambonz` |
+
+---
+
+## Relationship Map
+
+| Relation | From | To |
+|----------|------|----|
+| builds_on | [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) |
+| builds_on | [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) |
+| builds_on | [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) | [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) |
+| same_project | [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) | [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) |
+| shared_method | [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) |
+| shared_method | [Docling in Working with Texts](technical-articles/docling-text-language/) | [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) |
+| shared_method | [App Store Review Analysis](technical-articles/app-store-review-analysis/) | [Docling in Working with Texts](technical-articles/docling-text-language/) |
+| builds_on | [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) | [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) |
+| contrast | [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) | [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) |
+| shared_method | [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) | [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) |
+| event_context | [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
+| builds_on | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
+| builds_on | [Banchenko Forecasting](research-publications/banchenko-forecasting/) | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
+| applies_research | [Economics of Dreams](popular-science/economics-of-dreams/) | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
+| applies_research | [Economics of Dreams](popular-science/economics-of-dreams/) | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
+| builds_on | [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) |
+| same_series | [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) | [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) |
+| builds_on | [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) |
+| shared_method | [Grivtsova Stress Management](research-publications/grivtsova-stress-management/) | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
+| builds_on | [BCI in HR](popular-science/bci-hr-recruitment/) | [Future Technologies](popular-science/future-technologies-innovation/) |
+| shared_method | [BCI in HR](popular-science/bci-hr-recruitment/) | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
+
+---
+
 ## By Category
 
 ### Technical Articles

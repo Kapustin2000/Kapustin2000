@@ -453,6 +453,110 @@ publications:
       journal: "Proceedings of the O S Popov ОNAT"
       tags: [software-development, job-market]
 
+publication_knowledge_map:
+  source: "publications/meta.yaml"
+  clusters:
+    - id: ai-agents-infrastructure
+      publications: [google-adk-custom-interface, mvp-llm-agent-adk, google-adk-startup-guide, ai-agent-infrastructure]
+    - id: applied-ai-nlp
+      publications: [docling-text-language, resume-matcher-trpc, app-store-review-analysis]
+    - id: local-and-voice-ai
+      publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
+    - id: gfs-forecasting-blockchain
+      publications: [banchenko-forecasting, gms-gfs-right-brain, economics-of-dreams, ai-blockchain-hackathon-theta]
+    - id: lucid-dreaming-consciousness
+      publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, grivtsova-stress-management, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
+    - id: neurotechnology-future-interfaces
+      publications: [future-technologies-innovation, bci-hr-recruitment, lucid-dreams-vr-olympic, gms-gfs-right-brain]
+    - id: software-market-research
+      publications: [software-development-tools]
+  relation_types: [builds_on, same_series, shared_method, applies_research, same_project, event_context, contrast]
+  relations:
+    - from: mvp-llm-agent-adk
+      to: google-adk-custom-interface
+      type: builds_on
+      description: "Extends custom Google ADK integration into a full MVP agent build."
+    - from: google-adk-startup-guide
+      to: google-adk-custom-interface
+      type: builds_on
+      description: "Expands practical ADK integration into startup architecture guidance."
+    - from: ai-agent-infrastructure
+      to: google-adk-startup-guide
+      type: builds_on
+      description: "Extends ADK startup guidance into scalable multi-agent infrastructure."
+    - from: ai-agent-infrastructure
+      to: mvp-llm-agent-adk
+      type: same_project
+      description: "Both reflect Woolf-era LLM agent engineering lessons."
+    - from: resume-matcher-trpc
+      to: google-adk-custom-interface
+      type: shared_method
+      description: "Both cover Vertex AI-backed custom product interfaces."
+    - from: docling-text-language
+      to: resume-matcher-trpc
+      type: shared_method
+      description: "Both convert unstructured text into AI-ready representations."
+    - from: app-store-review-analysis
+      to: docling-text-language
+      type: shared_method
+      description: "Both extract structured knowledge from text-heavy sources."
+    - from: jambonz-voice-ai
+      to: ai-agent-infrastructure
+      type: builds_on
+      description: "Applies agent infrastructure thinking to programmable telephony."
+    - from: lm-studio-local-llm-guide
+      to: ai-agent-infrastructure
+      type: contrast
+      description: "Contrasts local LLM operation with platform-oriented agent infrastructure."
+    - from: lm-studio-local-llm-guide
+      to: jambonz-voice-ai
+      type: shared_method
+      description: "Both explain practical deployment choices for LLM runtime systems."
+    - from: ai-blockchain-hackathon-theta
+      to: gms-gfs-right-brain
+      type: event_context
+      description: "Shows GFS/GMS research prototyped at Theta EuroCon."
+    - from: gms-gfs-right-brain
+      to: banchenko-forecasting
+      type: builds_on
+      description: "Extends Banchenko forecasting into GMS/GFS architecture."
+    - from: banchenko-forecasting
+      to: banchenko-dream-synchronization
+      type: builds_on
+      description: "Uses dream synchronization as an input layer for forecasting."
+    - from: economics-of-dreams
+      to: banchenko-forecasting
+      type: applies_research
+      description: "Translates forecasting research into a public market narrative."
+    - from: economics-of-dreams
+      to: banchenko-dream-synchronization
+      type: applies_research
+      description: "Connects dream synchronization research to market implications."
+    - from: pet-project-scientific-research-2023
+      to: ai-lucid-dreaming
+      type: builds_on
+      description: "Continues the AI-assisted lucid dreaming theme."
+    - from: pet-project-scientific-research-2024
+      to: pet-project-scientific-research-2023
+      type: same_series
+      description: "Revisits the pet-project-to-research theme one year later."
+    - from: lucid-dreams-vr-olympic
+      to: ai-lucid-dreaming
+      type: builds_on
+      description: "Applies lucid dreaming concepts to VR-assisted training."
+    - from: grivtsova-stress-management
+      to: banchenko-dream-synchronization
+      type: shared_method
+      description: "Links stress preparation to Banchenko dream induction."
+    - from: bci-hr-recruitment
+      to: future-technologies-innovation
+      type: builds_on
+      description: "Develops the neurointerface theme into an HR use case."
+    - from: bci-hr-recruitment
+      to: gms-gfs-right-brain
+      type: shared_method
+      description: "Both explore neurotechnology and state synchronization."
+
 conferences:
   - id: theta-eurocon-2025
     name: "THETA EuroCon — European Theta Network Conference & Hackathon"

@@ -81,6 +81,198 @@ entities:
   - id: software-development-tools
     type: research_paper
     date: 2018-12
+clusters:
+  - id: ai-agents-infrastructure
+    label: AI Agents & Infrastructure
+    description: "Google ADK, LLM agents, AgentOps, and scalable AI system architecture."
+    publications: [google-adk-custom-interface, mvp-llm-agent-adk, google-adk-startup-guide, ai-agent-infrastructure]
+  - id: applied-ai-nlp
+    label: Applied AI & NLP
+    description: "Docling, resume matching, app review analysis, and NLP/data pipelines."
+    publications: [docling-text-language, resume-matcher-trpc, app-store-review-analysis]
+  - id: local-and-voice-ai
+    label: Local & Voice AI
+    description: "Local LLM execution, LM Studio, telephony, Voice AI, and Jambonz."
+    publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
+  - id: gfs-forecasting-blockchain
+    label: GFS, Forecasting & Blockchain
+    description: "Global Forecasting System, Banchenko forecasting, Theta hackathon, blockchain, and market prediction."
+    publications: [banchenko-forecasting, gms-gfs-right-brain, economics-of-dreams, ai-blockchain-hackathon-theta]
+  - id: lucid-dreaming-consciousness
+    label: Lucid Dreaming & Consciousness
+    description: "Lucid dreaming, dream synchronization, stress preparation, and dream economy."
+    publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, grivtsova-stress-management, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
+  - id: neurotechnology-future-interfaces
+    label: Neurotechnology & Future Interfaces
+    description: "BCI, neurointerfaces, VR training, right-brain technologies, and future interface paradigms."
+    publications: [future-technologies-innovation, bci-hr-recruitment, lucid-dreams-vr-olympic, gms-gfs-right-brain]
+  - id: software-market-research
+    label: Software Market Research
+    description: "Software development tools and labor-market demand research."
+    publications: [software-development-tools]
+tag_taxonomy:
+  - id: ai-systems
+    label: AI Systems
+    tags: [ai, ai-agents, google-adk, llm, llm-agent, local-ai, voice-ai, agentops, mcp, a2a, vertex-ai, lm-studio]
+    aliases:
+      local-llm: local-ai
+      agents: ai-agents
+      artificial-intelligence: ai
+  - id: data-and-language
+    label: Data & Language
+    tags: [nlp, text-analysis, docling, data-visualization, python, trpc, resume-matching]
+    aliases:
+      text-processing: text-analysis
+      data-viz: data-visualization
+  - id: forecasting-economy
+    label: Forecasting & Economy
+    tags: [forecasting, gfs, gms, economics, blockchain, theta, markets, hackathon]
+    aliases:
+      market-forecasting: forecasting
+      global-forecasting-system: gfs
+  - id: consciousness-research
+    label: Consciousness Research
+    tags: [lucid-dreaming, dream-synchronization, dreams, consciousness, mnemonic, banchenko, banchenko-extended, stress-management, grivtsova, pet-project, research, innovation]
+    aliases:
+      lucid-dreams: lucid-dreaming
+      dream-economy: dreams
+  - id: neurotechnology
+    label: Neurotechnology & Interfaces
+    tags: [bci, neurotechnology, neurointerfaces, vr, olympic-training, right-brain, hr, recruitment, quantum-computing]
+    aliases:
+      brain-computer-interface: bci
+      neuro-interface: neurointerfaces
+  - id: engineering-market
+    label: Engineering Market
+    tags: [software-development, job-market, ukraine, architecture, guide, tutorial, infrastructure, telephony, jambonz]
+    aliases:
+      software-engineering: software-development
+timeline:
+  - year: 2026
+    months:
+      - month: "02"
+        publications: [lm-studio-local-llm-guide]
+  - year: 2025
+    months:
+      - month: "02"
+        publications: [gms-gfs-right-brain]
+      - month: "07"
+        publications: [google-adk-custom-interface]
+      - month: "08"
+        publications: [docling-text-language]
+      - month: "09"
+        publications: [mvp-llm-agent-adk, resume-matcher-trpc, ai-blockchain-hackathon-theta]
+      - month: "10"
+        publications: [ai-agent-infrastructure, jambonz-voice-ai, app-store-review-analysis, google-adk-startup-guide]
+  - year: 2024
+    months:
+      - month: "01"
+        publications: [banchenko-dream-synchronization]
+      - month: "05"
+        publications: [economics-of-dreams]
+      - month: "06"
+        publications: [banchenko-forecasting]
+      - month: "07"
+        publications: [grivtsova-stress-management]
+      - month: "10"
+        publications: [pet-project-scientific-research-2024]
+      - month: "12"
+        publications: [lucid-dreams-vr-olympic, bci-hr-recruitment]
+  - year: 2023
+    months:
+      - month: "06"
+        publications: [ai-lucid-dreaming]
+      - month: "10"
+        publications: [future-technologies-innovation, pet-project-scientific-research-2023]
+  - year: 2018
+    months:
+      - month: "12"
+        publications: [software-development-tools]
+relations:
+  - from: mvp-llm-agent-adk
+    to: google-adk-custom-interface
+    type: builds_on
+    description: "Extends the Google ADK implementation track from custom interface integration into a full MVP agent build."
+  - from: google-adk-startup-guide
+    to: google-adk-custom-interface
+    type: builds_on
+    description: "Turns the practical ADK integration guide into a broader startup architecture guide for agent systems."
+  - from: ai-agent-infrastructure
+    to: google-adk-startup-guide
+    type: builds_on
+    description: "Expands ADK-oriented startup guidance into scalable multi-agent infrastructure patterns."
+  - from: ai-agent-infrastructure
+    to: mvp-llm-agent-adk
+    type: same_project
+    description: "Both articles reflect Woolf-era lessons from building and scaling LLM agent systems."
+  - from: resume-matcher-trpc
+    to: google-adk-custom-interface
+    type: shared_method
+    description: "Both cover Vertex AI-backed application architecture with custom product interfaces."
+  - from: docling-text-language
+    to: resume-matcher-trpc
+    type: shared_method
+    description: "Both center on converting unstructured text into structured AI-ready representations."
+  - from: app-store-review-analysis
+    to: docling-text-language
+    type: shared_method
+    description: "Both use NLP and structured analysis to extract knowledge from text-heavy sources."
+  - from: jambonz-voice-ai
+    to: ai-agent-infrastructure
+    type: builds_on
+    description: "Applies agent infrastructure thinking to programmable telephony and Voice AI workflows."
+  - from: lm-studio-local-llm-guide
+    to: ai-agent-infrastructure
+    type: contrast
+    description: "Contrasts local, offline LLM operation with cloud and platform-oriented agent infrastructure."
+  - from: lm-studio-local-llm-guide
+    to: jambonz-voice-ai
+    type: shared_method
+    description: "Both explain practical deployment choices for LLM-powered runtime systems."
+  - from: ai-blockchain-hackathon-theta
+    to: gms-gfs-right-brain
+    type: event_context
+    description: "Shows the GFS/GMS research direction being prototyped in a Theta EuroCon hackathon setting."
+  - from: gms-gfs-right-brain
+    to: banchenko-forecasting
+    type: builds_on
+    description: "Extends Banchenko forecasting into the larger GMS and GFS right-brain technology architecture."
+  - from: banchenko-forecasting
+    to: banchenko-dream-synchronization
+    type: builds_on
+    description: "Uses dream synchronization methodology as an input layer for event forecasting."
+  - from: economics-of-dreams
+    to: banchenko-forecasting
+    type: applies_research
+    description: "Translates forecasting research into a public-facing market and dream-economy narrative."
+  - from: economics-of-dreams
+    to: banchenko-dream-synchronization
+    type: applies_research
+    description: "Connects dream synchronization research to broader economic and market implications."
+  - from: pet-project-scientific-research-2023
+    to: ai-lucid-dreaming
+    type: builds_on
+    description: "Continues the AI-assisted lucid dreaming theme as a path from exploratory project to research."
+  - from: pet-project-scientific-research-2024
+    to: pet-project-scientific-research-2023
+    type: same_series
+    description: "Revisits the pet-project-to-research theme one year later with a creativity and productivity angle."
+  - from: lucid-dreams-vr-olympic
+    to: ai-lucid-dreaming
+    type: builds_on
+    description: "Applies lucid dreaming concepts to VR-assisted training and athletic performance."
+  - from: grivtsova-stress-management
+    to: banchenko-dream-synchronization
+    type: shared_method
+    description: "Links stress-management preparation to the broader Banchenko lucid dream induction framework."
+  - from: bci-hr-recruitment
+    to: future-technologies-innovation
+    type: builds_on
+    description: "Develops the neurointerface theme from a broad future-tech overview into an HR use case."
+  - from: bci-hr-recruitment
+    to: gms-gfs-right-brain
+    type: shared_method
+    description: "Both explore neurotechnology and state synchronization as interfaces between people and systems."
 navigation:
   parent: /
   siblings: [experience, projects, conferences, skills, education]

@@ -4,6 +4,8 @@ title: "How to Integrate Google ADK with a Custom Interface"
 date: 2025-07
 company: woolf
 tags: [google-adk, vertex-ai, guide, tutorial]
+cluster_ids: [ai-agents-infrastructure]
+related_publications: [mvp-llm-agent-adk, google-adk-startup-guide, resume-matcher-trpc]
 status: published
 read_count: 10432
 stats:

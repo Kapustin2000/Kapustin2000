@@ -3,6 +3,8 @@ type: article
 title: "Docling in Working with Texts, Languages, and Knowledge"
 date: 2025-08
 tags: [docling, nlp, text-analysis]
+cluster_ids: [applied-ai-nlp]
+related_publications: [resume-matcher-trpc, app-store-review-analysis]
 status: published
 read_count: 13913
 stats:

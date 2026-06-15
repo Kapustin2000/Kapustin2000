@@ -4,6 +4,8 @@ title: "Building a Resume Matcher with tRPC, NLP, and Vertex AI"
 date: 2025-09
 company: woolf
 tags: [trpc, vertex-ai, nlp, resume-matching]
+cluster_ids: [applied-ai-nlp]
+related_publications: [google-adk-custom-interface, docling-text-language]
 status: published
 read_count: 23997
 stats:

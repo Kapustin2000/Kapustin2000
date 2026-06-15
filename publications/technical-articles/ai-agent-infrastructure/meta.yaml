@@ -3,7 +3,9 @@ type: article
 title: "Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems"
 date: 2025-10
 company: woolf
-tags: [ai-agents, architecture, mcp, a2a]
+tags: [ai-agents, architecture, infrastructure, mcp, a2a]
+cluster_ids: [ai-agents-infrastructure]
+related_publications: [google-adk-startup-guide, mvp-llm-agent-adk, jambonz-voice-ai, lm-studio-local-llm-guide]
 status: published
 read_count: 10327
 stats:
