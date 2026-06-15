@@ -1,0 +1,17 @@
+id: cover
+type: cover
+article_id: resume-matcher-trpc
+title: Resume matcher tRPC NLP Vertex AI cover
+caption: Cover illustration for a resume matching application built with tRPC, NLP, and Vertex AI.
+asset: image.png
+format: png
+dimensions:
+  width: 1248
+  height: 832
+alt: Painterly cover with a developer and Russian text about creating a resume matching application using tRPC, NLP, and Vertex
+  AI.
+description: A warm painterly cover image. A developer stands beside technical icons and the tRPC logo, with Russian text
+  describing an application for matching resumes using tRPC, NLP, and Vertex AI.
+placement:
+  article: article.md
+  line: 10

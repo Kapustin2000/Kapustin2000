@@ -1,0 +1,14 @@
+id: 1-y-qb-dagdymjtnoey2bqqa
+type: figure
+article_id: lm-studio-local-llm-guide
+title: LM Studio landing page screenshot
+caption: LM Studio website screenshot presenting local and private AI model execution.
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 442
+alt: Dark LM Studio landing page screenshot with the headline Run AI models, locally and privately.
+description: A browser screenshot of the LM Studio landing page in dark mode. The headline says Run AI models, locally and
+  privately, with navigation links and a prominent download button.
+placement: unreferenced

@@ -1,0 +1,18 @@
+id: cover
+type: cover
+article_id: docling-text-language
+title: Docling document conversion cover
+caption: Cover illustration showing Docling converting mixed PDF, PPTX, DOCX, and HTML inputs into structured JSON, Markdown,
+  figures, chunks, and GenAI app outputs.
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 651
+alt: Cartoon-style Docling pipeline cover with document formats entering Docling and structured outputs such as JSON, Markdown,
+  figures, chunks, and GenAI apps.
+description: A black-background illustrated cover for a Docling article. PDF, PPTX, DOCX, and HTML documents flow into a Docling
+  box, then fan out into structured outputs such as JSON, Markdown, figures, chunking, and GenAI application use.
+placement:
+  article: article.md
+  line: 10

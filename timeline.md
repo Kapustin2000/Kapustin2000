@@ -68,7 +68,6 @@
 | Jan | [Banchenko's Mnemonic Dream Synchronization Method](publications/research-publications/banchenko-dream-synchronization/) | Publication |
 | May | [The Economics of Dreams](publications/popular-science/economics-of-dreams/) | Publication |
 | Jun | [Forecasting Events Using Banchenko-Technology](publications/research-publications/banchenko-forecasting/) | Publication |
-| Jul | [Grivtsova's Stress Management Methodology](publications/research-publications/grivtsova-stress-management/) | Publication |
 | Jul | [WeAreDevelopers World Congress Europe](conferences/wearedevelopers-2024/) | Conference |
 | Oct | [From Pet Project to Scientific Research](publications/popular-science/pet-project-scientific-research-2024/) | Publication |
 | Dec | [Lucid Dreams and VR: Swiss Olympic Team](publications/popular-science/lucid-dreams-vr-olympic/) | Publication |

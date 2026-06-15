@@ -1,0 +1,18 @@
+id: grounding-diagram
+type: figure
+article_id: google-adk-startup-guide
+title: Vertex AI RAG Engine grounding workflow
+caption: Vertex AI RAG Engine workflow showing document ingestion, transformation, embedding, indexing, retrieval, ranking,
+  and generated answer flow.
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 579
+alt: Workflow diagram for Vertex AI RAG Engine, moving from source documents through parsing, embeddings, indexing, retrieval,
+  ranking, and response generation.
+description: A technical workflow diagram titled Vertex AI RAG Engine at work. It shows source documents parsed, transformed,
+  embedded, indexed, retrieved, ranked, and passed to a large language model to generate an answer.
+placement:
+  article: article.md
+  line: 42

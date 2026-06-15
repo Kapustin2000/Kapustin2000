@@ -1,0 +1,18 @@
+id: technical-challenges
+type: figure
+article_id: mvp-llm-agent-adk
+title: Technical challenges illustration
+caption: Conceptual illustration of technical challenges in an AI agent project, with a presenter facing engineers and symbolic
+  system diagrams.
+asset: image.png
+format: png
+dimensions:
+  width: 1536
+  height: 1024
+alt: Painterly scene of a person standing at a bridge or podium between groups of people and glowing technical symbols.
+description: A warm painterly scene showing a central figure standing at a bridge-like podium between seated collaborators
+  and a review group, with glowing technical diagrams and icons in the background. It conveys coordination and technical challenge
+  management.
+placement:
+  article: article.md
+  line: 38

@@ -5,6 +5,7 @@ entities:
   - id: software-development-tools
     type: research_paper
     date: 2018-12
+    pdf: "software-development-tools/1102--2185-1-10-20190221.pdf"
 navigation:
   parent: publications
   siblings: [technical-articles, popular-science, research-publications]

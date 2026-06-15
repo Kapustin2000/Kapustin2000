@@ -2,7 +2,7 @@
 
 # Publications & Articles
 
-22 articles · 10 technical · 4 research · 1 academic · 7 popular science · 3 platforms
+21 articles · 10 technical · 3 research · 1 academic · 7 popular science · 3 platforms
 
 ---
 
@@ -33,7 +33,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Applied AI & NLP | [Docling in Working with Texts](technical-articles/docling-text-language/) · [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) · [App Store Review Analysis](technical-articles/app-store-review-analysis/) |
 | Local & Voice AI | [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) |
 | GFS, Forecasting & Blockchain | [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) · [Economics of Dreams](popular-science/economics-of-dreams/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) |
-| Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](popular-science/economics-of-dreams/) · [Grivtsova Stress Management](research-publications/grivtsova-stress-management/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) |
+| Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](popular-science/economics-of-dreams/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) |
 | Neurotechnology & Future Interfaces | [Future Technologies](popular-science/future-technologies-innovation/) · [BCI in HR](popular-science/bci-hr-recruitment/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
 | Software Market Research | [Software Development Tools in the Job Market](academic-research/software-development-tools/) |
 
@@ -51,7 +51,6 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Feb 2025 | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
 | Dec 2024 | [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [BCI in HR](popular-science/bci-hr-recruitment/) |
 | Oct 2024 | [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) |
-| Jul 2024 | [Grivtsova Stress Management](research-publications/grivtsova-stress-management/) |
 | Jun 2024 | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
 | May 2024 | [Economics of Dreams](popular-science/economics-of-dreams/) |
 | Jan 2024 | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
@@ -68,7 +67,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | AI Systems | `ai` `ai-agents` `google-adk` `llm` `llm-agent` `local-ai` `voice-ai` `agentops` `mcp` `a2a` `vertex-ai` `lm-studio` |
 | Data & Language | `nlp` `text-analysis` `docling` `data-visualization` `python` `trpc` `resume-matching` |
 | Forecasting & Economy | `forecasting` `gfs` `gms` `economics` `blockchain` `theta` `markets` `hackathon` |
-| Consciousness Research | `lucid-dreaming` `dream-synchronization` `dreams` `consciousness` `mnemonic` `banchenko` `banchenko-extended` `stress-management` `grivtsova` `pet-project` `research` `innovation` |
+| Consciousness Research | `lucid-dreaming` `dream-synchronization` `dreams` `consciousness` `mnemonic` `banchenko` `pet-project` `research` `innovation` |
 | Neurotechnology & Interfaces | `bci` `neurotechnology` `neurointerfaces` `vr` `olympic-training` `right-brain` `hr` `recruitment` `quantum-computing` |
 | Engineering Market | `software-development` `job-market` `ukraine` `architecture` `guide` `tutorial` `infrastructure` `telephony` `jambonz` |
 
@@ -96,7 +95,6 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | builds_on | [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) |
 | same_series | [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) | [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) |
 | builds_on | [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) |
-| shared_method | [Grivtsova Stress Management](research-publications/grivtsova-stress-management/) | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
 | builds_on | [BCI in HR](popular-science/bci-hr-recruitment/) | [Future Technologies](popular-science/future-technologies-innovation/) |
 | shared_method | [BCI in HR](popular-science/bci-hr-recruitment/) | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
 
@@ -121,18 +119,17 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 
 ### Research Publications
 
-| # | Paper | Date |
-|---|-------|------|
-| 1 | [Technological Transformations, Formation of GMS and GFS](research-publications/gms-gfs-right-brain/) | Feb 2025 |
-| 2 | [Grivtsova's Stress Management Methodology](research-publications/grivtsova-stress-management/) | Jul 2024 |
-| 3 | [Forecasting Events Using Banchenko-Technology](research-publications/banchenko-forecasting/) | Jun 2024 |
-| 4 | [Banchenko's Mnemonic Dream Synchronization Method](research-publications/banchenko-dream-synchronization/) | Jan 2024 |
+| # | Paper | Date | PDF |
+|---|-------|------|-----|
+| 1 | [Technological Transformations, Formation of GMS and GFS](research-publications/gms-gfs-right-brain/) | Feb 2025 | [PDF](research-publications/gms-gfs-right-brain/technological-transformations-formation-of-gms-global-mental-system-and-gfs-global-forecasting-systemrightbrain-technolo.pdf) |
+| 2 | [Forecasting Events Using Banchenko-Technology](research-publications/banchenko-forecasting/) | Jun 2024 | [PDF](research-publications/banchenko-forecasting/ForecastingSocialJapanJournalofResearchGeopoliticalandEconomic_EventsUsingtheBanchenko-Technology.pdf) |
+| 3 | [Banchenko's Mnemonic Dream Synchronization Method](research-publications/banchenko-dream-synchronization/) | Jan 2024 | [PDF](research-publications/banchenko-dream-synchronization/the-application-of-the-banchenkos-mnemonic-dream-synchronization-method-for-the-joint-synchronization-of-dream-elements-.pdf) |
 
 ### Academic Research
 
-| # | Paper | Date |
-|---|-------|------|
-| 1 | [Software Development Tools in the Job Market](academic-research/software-development-tools/) | Dec 2018 |
+| # | Paper | Date | PDF |
+|---|-------|------|-----|
+| 1 | [Software Development Tools in the Job Market](academic-research/software-development-tools/) | Dec 2018 | [PDF](academic-research/software-development-tools/1102--2185-1-10-20190221.pdf) |
 
 ### Popular Science & Technology
 
@@ -164,7 +161,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 |------|-------|
 | 2026 | 1 |
 | 2025 | 13 |
-| 2024 | 7 |
+| 2024 | 6 |
 | 2023 | 3 |
 | 2018 | 1 |
 

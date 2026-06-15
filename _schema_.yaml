@@ -35,7 +35,7 @@ entity_types:
   research_paper:
     description: Academic or scientific publication
     required: [id, type, title, date, journal]
-    optional: [link, company, tags, cluster_ids, related_publications, status]
+    optional: [link, pdf, company, tags, cluster_ids, related_publications, status]
     relations: [company, publications]
 
   conference:

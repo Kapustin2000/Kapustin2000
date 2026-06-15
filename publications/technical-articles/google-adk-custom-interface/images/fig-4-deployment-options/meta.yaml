@@ -1,0 +1,20 @@
+id: fig-4-deployment-options
+type: figure
+article_id: google-adk-custom-interface
+figure_number: 4
+title: ADK deployment options diagram
+caption: 'Figure 4: Google ADK agent deployment diagram: container build and launch on Vertex AI Agent Engine, Cloud Run,
+  or custom infrastructure via Docker/GKE.'
+asset: image.png
+format: png
+dimensions:
+  width: 1426
+  height: 986
+alt: Deployment diagram showing an agent packaged into a container and deployed to Vertex AI Agent Engine, Cloud Run, or custom
+  infrastructure.
+description: A deployment architecture diagram. It shows an agent being built into a package and container, then deployed
+  through Google Cloud options such as Vertex AI Agent Engine and Cloud Run, or run on self-managed custom infrastructure.
+placement:
+  article: article.md
+  before: I chose Vertex AI Agent Engine
+  after: Google offers three official deployment methods

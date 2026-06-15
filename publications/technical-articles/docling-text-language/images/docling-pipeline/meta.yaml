@@ -1,0 +1,19 @@
+id: docling-pipeline
+type: figure
+article_id: docling-text-language
+title: Docling PDF and document processing pipeline
+caption: Docling pipeline diagram showing document parsing, OCR, layout analysis, table structure extraction, document assembly,
+  and export formats.
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 678
+alt: Diagram of the Docling processing pipeline from input PDFs and images through parsing, OCR, layout analysis, table extraction,
+  assembly, and export.
+description: A technical pipeline diagram for Docling. It shows PDF and image inputs moving through parse pages, OCR, layout
+  analysis, table structure extraction, and document assembly, then exporting a Docling document to formats such as JSON,
+  Markdown, HTML, figures, and chunks for RAG.
+placement:
+  article: article.md
+  line: 84

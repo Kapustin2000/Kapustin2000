@@ -1,0 +1,20 @@
+id: fig-5-frequency-vs-importance
+type: figure
+article_id: app-store-review-analysis
+figure_number: 5
+title: Issue frequency versus TF-IDF importance
+caption: Fig. 5. Scatter plot mapping issue frequency versus TF-IDF importance; functionality and scam issues appear in the
+  upper-right quadrant as both frequent and highly important.
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 1006
+alt: Scatter plot comparing issue frequency in negative reviews with TF-IDF importance for App X issue categories.
+description: A scatter plot titled Issue Analysis - Frequency vs Importance. The x-axis shows frequency in negative reviews,
+  the y-axis shows TF-IDF importance, and labeled points identify general app functionality, scam allegations, subscription
+  model, money or charging, and cancellation difficulty issues.
+placement:
+  article: article.md
+  before: Each issue's frequency and TF-IDF importance align closely.
+  after: Together, they paint a consistent picture.

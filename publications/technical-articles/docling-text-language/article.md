@@ -7,7 +7,7 @@
 **Tags:** Docling, LLM, IBM, AI, Python, Backend, NLP  
 **Hubs:** Python, Artificial Intelligence, PDF, Image Processing
 
-![Cover](images/cover.png)
+![Cover](images/cover/image.png)
 
 Hi everyone. In the context of our research project, we were solving the problem of automating academic submission workflows, which led us to discover a platform called **Docling**.
 
@@ -81,7 +81,7 @@ The agent returns structured metadata like:
 
 ## Docling's Internal Structure: JSON, Nodes, and Knowledge Graphs
 
-![Docling Pipeline](images/docling-pipeline.webp)
+![Docling Pipeline](images/docling-pipeline/image.webp)
 
 ### Everything is a Node
 

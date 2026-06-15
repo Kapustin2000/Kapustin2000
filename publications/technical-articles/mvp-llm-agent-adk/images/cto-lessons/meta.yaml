@@ -1,0 +1,17 @@
+id: cto-lessons
+type: figure
+article_id: mvp-llm-agent-adk
+title: CTO lessons from agent feedback
+caption: Conceptual illustration of a developer learning from a glowing AI agent, representing CTO lessons and feedback loops.
+asset: image.png
+format: png
+dimensions:
+  width: 1536
+  height: 1024
+alt: Illustration of a developer writing in a notebook while a glowing humanoid AI figure gestures nearby, surrounded by learning
+  symbols.
+description: A painterly illustration of a developer taking notes while a glowing human-like AI figure explains or gestures.
+  Mathematical, book, and question symbols surround them, suggesting lessons learned from AI agent feedback.
+placement:
+  article: article.md
+  line: 48

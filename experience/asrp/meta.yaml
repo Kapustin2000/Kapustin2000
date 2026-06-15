@@ -7,4 +7,4 @@ location: [Florida, USA, Baikonur, Kazakhstan]
 stack: [Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL, Nginx]
 relations:
   projects: [arcanum12th, asrp-media, asrp-tech, asrp-science, gfs]
-  publications: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, grivtsova-stress-management, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]
+  publications: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]

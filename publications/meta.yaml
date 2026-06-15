@@ -1,6 +1,6 @@
 id: publications
 type: index
-description: "Publications and articles — 22 total across 4 categories"
+description: "Publications and articles — 21 total across 4 categories"
 categories:
   - path: technical-articles
     label: Technical Articles
@@ -10,7 +10,7 @@ categories:
     count: 7
   - path: research-publications
     label: Research Publications
-    count: 4
+    count: 3
   - path: academic-research
     label: Academic Research
     count: 1
@@ -69,18 +69,19 @@ entities:
   - id: banchenko-dream-synchronization
     type: research_paper
     date: 2024-01
+    pdf: "research-publications/banchenko-dream-synchronization/the-application-of-the-banchenkos-mnemonic-dream-synchronization-method-for-the-joint-synchronization-of-dream-elements-.pdf"
   - id: banchenko-forecasting
     type: research_paper
     date: 2024-06
+    pdf: "research-publications/banchenko-forecasting/ForecastingSocialJapanJournalofResearchGeopoliticalandEconomic_EventsUsingtheBanchenko-Technology.pdf"
   - id: gms-gfs-right-brain
     type: research_paper
     date: 2025-02
-  - id: grivtsova-stress-management
-    type: research_paper
-    date: 2024-07
+    pdf: "research-publications/gms-gfs-right-brain/technological-transformations-formation-of-gms-global-mental-system-and-gfs-global-forecasting-systemrightbrain-technolo.pdf"
   - id: software-development-tools
     type: research_paper
     date: 2018-12
+    pdf: "academic-research/software-development-tools/1102--2185-1-10-20190221.pdf"
 clusters:
   - id: ai-agents-infrastructure
     label: AI Agents & Infrastructure
@@ -100,8 +101,8 @@ clusters:
     publications: [banchenko-forecasting, gms-gfs-right-brain, economics-of-dreams, ai-blockchain-hackathon-theta]
   - id: lucid-dreaming-consciousness
     label: Lucid Dreaming & Consciousness
-    description: "Lucid dreaming, dream synchronization, stress preparation, and dream economy."
-    publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, grivtsova-stress-management, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
+    description: "Lucid dreaming, dream synchronization, and dream economy."
+    publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
   - id: neurotechnology-future-interfaces
     label: Neurotechnology & Future Interfaces
     description: "BCI, neurointerfaces, VR training, right-brain technologies, and future interface paradigms."
@@ -132,7 +133,7 @@ tag_taxonomy:
       global-forecasting-system: gfs
   - id: consciousness-research
     label: Consciousness Research
-    tags: [lucid-dreaming, dream-synchronization, dreams, consciousness, mnemonic, banchenko, banchenko-extended, stress-management, grivtsova, pet-project, research, innovation]
+    tags: [lucid-dreaming, dream-synchronization, dreams, consciousness, mnemonic, banchenko, pet-project, research, innovation]
     aliases:
       lucid-dreams: lucid-dreaming
       dream-economy: dreams
@@ -172,8 +173,6 @@ timeline:
         publications: [economics-of-dreams]
       - month: "06"
         publications: [banchenko-forecasting]
-      - month: "07"
-        publications: [grivtsova-stress-management]
       - month: "10"
         publications: [pet-project-scientific-research-2024]
       - month: "12"
@@ -261,10 +260,6 @@ relations:
     to: ai-lucid-dreaming
     type: builds_on
     description: "Applies lucid dreaming concepts to VR-assisted training and athletic performance."
-  - from: grivtsova-stress-management
-    to: banchenko-dream-synchronization
-    type: shared_method
-    description: "Links stress-management preparation to the broader Banchenko lucid dream induction framework."
   - from: bci-hr-recruitment
     to: future-technologies-innovation
     type: builds_on

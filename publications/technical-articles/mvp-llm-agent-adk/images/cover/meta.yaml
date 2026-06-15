@@ -1,0 +1,17 @@
+id: cover
+type: cover
+article_id: mvp-llm-agent-adk
+title: MVP LLM agent exam cover
+caption: Cover illustration for a personal exam story about building an MVP LLM agent on Google ADK.
+asset: image.png
+format: png
+dimensions:
+  width: 1248
+  height: 832
+alt: Painterly cover with a developer at a laptop, Google ADK-style icon, and Russian text about building an MVP LLM agent
+  on Google ADK.
+description: A warm painterly cover image. A developer sits at a laptop beside a cup, with technical icons and a Google ADK-style
+  logo in the background. Russian text describes a personal exam story about developing an MVP LLM agent on Google ADK.
+placement:
+  article: article.md
+  line: 10

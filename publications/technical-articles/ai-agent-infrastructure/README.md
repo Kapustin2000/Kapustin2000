@@ -14,7 +14,7 @@ How to move from a messy AI monorepo to a scalable agent ecosystem — with real
 
 **Full text:** [article.md](article.md)
 
-![Cover](images/cover.jpg)
+![Cover](images/cover/image.jpg)
 
 **Tags:** ai, llm, agents
 

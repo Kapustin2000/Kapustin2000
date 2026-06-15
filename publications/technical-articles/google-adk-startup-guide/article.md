@@ -7,7 +7,7 @@
 **Tags:** Google ADK, AI, Vertex AI, Google Cloud, Google App Engine  
 **Hub:** Artificial Intelligence
 
-![Cover](images/cover.png)
+![Cover](images/cover/image.png)
 
 When Google Cloud releases the "Startup Technical Guide: AI Agents" — this is not just another documentation drop, but a landmark event. Why? Because there is a lot of hype around AI agents right now, but until now there has been no comprehensive technical reference point.
 
@@ -19,7 +19,7 @@ After reading the entire document, I distilled five key insights.
 
 ## Insight 1: AI Agents Are Not Chatbots — A New Paradigm for Working with AI
 
-![AI Agents Paradigm Shift](images/ai-agents-paradigm.png)
+![AI Agents Paradigm Shift](images/ai-agents-paradigm/image.png)
 
 The main point the guide drives home from the start: the "ask and receive an answer" approach is becoming a thing of the past. AI agents are the next step, where we give the model a complex goal, not a specific question. The agent plans and executes multi-step tasks, leveraging tools and external data.
 
@@ -29,7 +29,7 @@ As a developer, this emphasis is important. We often call any script with GPT wi
 
 ## Insight 2: One LLM Is Not Enough — You Need the Full Stack of Infrastructure and Tools
 
-![Full Stack Infrastructure](images/full-stack-infrastructure.png)
+![Full Stack Infrastructure](images/full-stack-infrastructure/image.png)
 
 Google emphasizes: you cannot build a serious AI agent by simply choosing a large language model. You need scalable infrastructure, data integration, and a well-thought-out architecture. Creating a production-grade agent requires far more than selecting an LLM.
 
@@ -39,7 +39,7 @@ The guide emphasizes "Automate workflows, not just conversations." For a small s
 
 ## Insight 3: Grounding — Teaching the Agent to Rely on Knowledge, Not Hallucinations
 
-![Grounding Diagram](images/grounding-diagram.png)
+![Grounding Diagram](images/grounding-diagram/image.png)
 
 One of the favorite topics among LLM developers is how to combat model hallucinations and limited world knowledge. Google's answer: **Grounding**. The guide clearly distinguishes: fine-tuning is not grounding. Fine-tuning does not guarantee the accuracy and factuality of responses. Grounding connects the model to up-to-date, reliable data sources.
 
@@ -49,7 +49,7 @@ Google is essentially moving toward making the agent a proactive researcher — 
 
 ## Insight 4: AgentOps — Testing and Monitoring Instead of "Hope for the Best"
 
-![AgentOps Workflow](images/agentops-workflow.png)
+![AgentOps Workflow](images/agentops-workflow/image.png)
 
 The strongest impression was made by the section on AgentOps — essentially MLOps for agents. Google honestly states: most agents fail in production not because of bad models, but because nobody does the "tedious" operational work.
 
@@ -66,7 +66,7 @@ The Agent Starter Pack from Google already includes Terraform templates, CI/CD c
 
 ## Insight 5: Security and Ethics — Now Mandatory Requirements, Not an Option
 
-![Security and Ethics](images/security-ethics.png)
+![Security and Ethics](images/security-ethics/image.png)
 
 The guide makes it unequivocally clear: when creating a powerful AI agent, you automatically take responsibility for its safety, data protection, and ethical behavior. It details the risks (toxic content, data leaks, prompt injection attacks) and the necessary countermeasures.
 

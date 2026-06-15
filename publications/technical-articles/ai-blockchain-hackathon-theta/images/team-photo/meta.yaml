@@ -1,0 +1,16 @@
+id: team-photo
+type: figure
+article_id: ai-blockchain-hackathon-theta
+title: Participant portrait at Theta EuroCon
+caption: Portrait of Mykhailo Kapustin at the Theta EuroCon event backdrop.
+asset: image.jpg
+format: jpg
+dimensions:
+  width: 1280
+  height: 855
+alt: A single participant wearing a black shirt and yellow lanyard stands in front of a Theta EuroCon backdrop.
+description: A portrait-style event photo showing one participant in a black shirt with a yellow lanyard, standing in front
+  of a dark Theta EuroCon branded backdrop.
+placement:
+  article: article.md
+  line: 27

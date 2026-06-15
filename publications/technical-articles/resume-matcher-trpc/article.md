@@ -7,7 +7,7 @@
 **Tags:** tRPC, Type-Safe API, Resume Matcher, PDF Text Extraction, NLP, Google Vertex AI, Gemini  
 **Hubs:** Google API, Google Cloud Platform, Google App Engine, Node.js, JavaScript
 
-![Cover](images/cover.png)
+![Cover](images/cover/image.png)
 
 I recently built a small TypeScript application that compares PDF resumes against job descriptions. I needed a quick way to prototype an API, so I chose **tRPC** for the backend.
 

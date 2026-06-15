@@ -1,0 +1,16 @@
+id: circuit-schematics-practice
+type: figure
+article_id: jambonz-voice-ai
+title: "Circuit schematics practice"
+caption: "Photo: Circuit schematics — a traditional practice of engineering signal analysis"
+asset: image.webp
+format: webp
+dimensions:
+  width: 800
+  height: 600
+alt: "Photo of large circuit schematic sheets pinned on a board in an engineering classroom or laboratory."
+description: "Photo of several large printed circuit schematic sheets pinned to a wooden-framed board. The diagrams show detailed signal, switching, and circuit layouts, representing traditional hands-on engineering analysis practice."
+placement:
+  article: article.md
+  before: "The principles, however, remain the same"
+  after: "Photo: Laboratory millivoltmeter V3–38A, Odesa National Academy of Telecommunications"

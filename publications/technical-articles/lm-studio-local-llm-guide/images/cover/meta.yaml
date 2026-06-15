@@ -1,0 +1,16 @@
+id: cover
+type: cover
+article_id: lm-studio-local-llm-guide
+title: LM Studio local LLM guide cover
+caption: Cover image for a complete 2026 guide to running LLMs locally with LM Studio.
+asset: image.png
+format: png
+dimensions:
+  width: 1376
+  height: 768
+alt: LM Studio cover reading How to Run LLMs Locally, with a glowing brain hologram above a small desktop device.
+description: A cover image with the LM Studio logo, the text How to Run LLMs Locally and Complete Guide 2026, and a glowing
+  neural brain projection above a compact computer-like device.
+placement:
+  article: README.md
+  line: 17

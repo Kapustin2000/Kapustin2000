@@ -1,0 +1,20 @@
+id: fig-1-app-store-reviews-social-signals
+type: figure
+article_id: app-store-review-analysis
+figure_number: 1
+title: App Store reviews as social signals
+caption: Fig. 1. Monochrome conceptual sketch showing interconnected human figures linked by flowing data lines and star icons,
+  symbolizing collective intelligence and shared consciousness within digital ecosystems.
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 933
+alt: Monochrome sketch of human figures connected by flowing data lines, star ratings, app icons, and review snippets such
+  as Great app, update please, and bug.
+description: A pencil-style conceptual illustration. Human silhouettes, a large head profile, star ratings, Apple and App
+  Store icons, and short review snippets are connected by flowing lines, representing app reviews as collective digital feedback.
+placement:
+  article: article.md
+  before: Perhaps most importantly, star ratings alone can be misleading.
+  after: The App Store is a vast, real-time repository of human sentiment.

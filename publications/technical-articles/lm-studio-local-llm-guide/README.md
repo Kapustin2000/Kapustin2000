@@ -14,7 +14,7 @@ Run Large Language Models Offline on Your Computer — No API Keys, No Cloud Dep
 
 **Full text:** [article.md](article.md)
 
-![Cover](images/cover.png)
+![Cover](images/cover/image.png)
 
 **Tags:** local ai, local llm, llm, lm studio, artificial intelligence
 

@@ -1,0 +1,16 @@
+id: interview
+type: figure
+article_id: ai-blockchain-hackathon-theta
+title: Theta EuroCon group scene
+caption: Interview with Theta EuroCon co-founders during a short break. Their insights added depth to my daily updates.
+asset: image.jpg
+format: jpg
+dimensions:
+  width: 1280
+  height: 855
+alt: Hackathon participants gathered indoors for a group photo at the Theta EuroCon venue.
+description: The image shows a large hackathon group gathered indoors in front of Theta EuroCon branding. Although the asset
+  name says interview, the visible content is a full group photo rather than an interview setup.
+placement:
+  article: article.md
+  line: 31

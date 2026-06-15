@@ -82,7 +82,7 @@ publication_categories:
     label: "Research Publications"
     path: "publications/research-publications/"
     parent: publications
-    count: 4
+    count: 3
 
   - id: academic-research
     type: index
@@ -99,7 +99,7 @@ companies:
     location: [Florida, USA, Baikonur, Kazakhstan]
     relations:
       projects: [arcanum12th, asrp-media, asrp-tech, asrp-science, gfs]
-      publications: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, grivtsova-stress-management, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]
+      publications: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]
 
   - id: coelix
     name: "Coelix"
@@ -423,6 +423,7 @@ publications:
       title: "Application of Banchenko's Mnemonic Dream Synchronization Method"
       date: 2024-01
       journal: "International Internal Medicine Journal"
+      pdf: "publications/research-publications/banchenko-dream-synchronization/the-application-of-the-banchenkos-mnemonic-dream-synchronization-method-for-the-joint-synchronization-of-dream-elements-.pdf"
       company: asrp
       tags: [dream-synchronization, lucid-dreaming]
 
@@ -430,6 +431,7 @@ publications:
       title: "Forecasting Events Using Banchenko-Technology"
       date: 2024-06
       journal: "Japan Journal of Research"
+      pdf: "publications/research-publications/banchenko-forecasting/ForecastingSocialJapanJournalofResearchGeopoliticalandEconomic_EventsUsingtheBanchenko-Technology.pdf"
       company: asrp
       tags: [forecasting, banchenko]
 
@@ -437,20 +439,15 @@ publications:
       title: "Technological Transformations, Formation of GMS and GFS"
       date: 2025-02
       journal: "Journal of Investment, Banking and Finance"
+      pdf: "publications/research-publications/gms-gfs-right-brain/technological-transformations-formation-of-gms-global-mental-system-and-gfs-global-forecasting-systemrightbrain-technolo.pdf"
       company: asrp
       tags: [gms, gfs, right-brain]
-
-    - id: grivtsova-stress-management
-      title: "Grivtsova's Stress Management Methodology"
-      date: 2024-07
-      journal: "American Journal of Medical and Clinical Research & Reviews"
-      company: asrp
-      tags: [stress-management, grivtsova]
 
     - id: software-development-tools
       title: "A Study of Software Development Tools in the Job Market"
       date: 2018-12
       journal: "Proceedings of the O S Popov ОNAT"
+      pdf: "publications/academic-research/software-development-tools/1102--2185-1-10-20190221.pdf"
       tags: [software-development, job-market]
 
 publication_knowledge_map:
@@ -465,7 +462,7 @@ publication_knowledge_map:
     - id: gfs-forecasting-blockchain
       publications: [banchenko-forecasting, gms-gfs-right-brain, economics-of-dreams, ai-blockchain-hackathon-theta]
     - id: lucid-dreaming-consciousness
-      publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, grivtsova-stress-management, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
+      publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
     - id: neurotechnology-future-interfaces
       publications: [future-technologies-innovation, bci-hr-recruitment, lucid-dreams-vr-olympic, gms-gfs-right-brain]
     - id: software-market-research
@@ -544,10 +541,6 @@ publication_knowledge_map:
       to: ai-lucid-dreaming
       type: builds_on
       description: "Applies lucid dreaming concepts to VR-assisted training."
-    - from: grivtsova-stress-management
-      to: banchenko-dream-synchronization
-      type: shared_method
-      description: "Links stress preparation to Banchenko dream induction."
     - from: bci-hr-recruitment
       to: future-technologies-innovation
       type: builds_on
@@ -591,7 +584,7 @@ relations:
     woolf: [ai-cv-matcher]
 
   company_to_publication:
-    asrp: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, grivtsova-stress-management, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]
+    asrp: [ai-lucid-dreaming, economics-of-dreams, lucid-dreams-vr-olympic, bci-hr-recruitment, pet-project-scientific-research-2024, pet-project-scientific-research-2023, future-technologies-innovation, gms-gfs-right-brain, banchenko-forecasting, banchenko-dream-synchronization, ai-blockchain-hackathon-theta, lm-studio-local-llm-guide]
     woolf: [mvp-llm-agent-adk, google-adk-custom-interface, google-adk-startup-guide, resume-matcher-trpc, ai-agent-infrastructure]
 
   project_to_company:

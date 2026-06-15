@@ -157,9 +157,9 @@ clusters:
               publications: [banchenko-forecasting, gms-gfs-right-brain, economics-of-dreams, ai-blockchain-hackathon-theta]
           - id: lucid-dreaming-consciousness
             name: "Lucid Dreaming & Consciousness"
-            description: "Lucid dreaming, dream synchronization, stress preparation, and dream economy."
+            description: "Lucid dreaming, dream synchronization, and dream economy."
             relates_to:
-              publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, grivtsova-stress-management, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
+              publications: [ai-lucid-dreaming, pet-project-scientific-research-2023, banchenko-dream-synchronization, banchenko-forecasting, economics-of-dreams, pet-project-scientific-research-2024, lucid-dreams-vr-olympic]
           - id: neurotechnology-future-interfaces
             name: "Neurotechnology & Future Interfaces"
             description: "BCI, neurointerfaces, VR training, right-brain technologies, and future interface paradigms."

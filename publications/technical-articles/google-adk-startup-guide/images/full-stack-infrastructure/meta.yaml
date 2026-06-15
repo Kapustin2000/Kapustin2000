@@ -1,0 +1,17 @@
+id: full-stack-infrastructure
+type: figure
+article_id: google-adk-startup-guide
+title: Agent build and interoperability options
+caption: Diagram showing build-your-own, Google Cloud, and partner agent options connected by MCP and A2A interoperability.
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 600
+alt: Diagram with three boxes for building your own agents, using Google Cloud agents, and bringing partner agents, connected
+  by MCP and A2A interoperability.
+description: 'A simplified Google Cloud diagram showing three agent strategy options: build your own agents, use Google Cloud
+  agents, or bring partner agents. A shared interoperability layer references MCP and A2A protocol.'
+placement:
+  article: article.md
+  line: 32

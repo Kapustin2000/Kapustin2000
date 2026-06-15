@@ -1,0 +1,20 @@
+id: fig-6-risk-assessment-heatmap
+type: figure
+article_id: app-store-review-analysis
+figure_number: 6
+title: Risk assessment heatmap
+caption: Fig. 6. Heatmap matrix plotting probability against impact for major issues; scam allegations and functionality issues
+  appear in red high-risk zones, while subscription and billing issues remain green or yellow.
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 1170
+alt: Risk assessment heatmap for App X issues, with probability and impact columns and green-to-red risk coloring.
+description: A heatmap titled Risk Assessment Matrix. Rows include scam allegations, app functionality issues, subscription
+  backlash, billing and payment issues, and customer service problems. Red cells mark the highest risk area for scam allegations,
+  while green cells mark lower-risk items.
+placement:
+  article: article.md
+  before: A heatmap of probability versus impact shows only two red zones.
+  after: Functionality and scam-related issues dominate both axes.

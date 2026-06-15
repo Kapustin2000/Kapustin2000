@@ -1,0 +1,19 @@
+id: fig-2-sessions-interface
+type: figure
+article_id: google-adk-custom-interface
+figure_number: 2
+title: ADK sessions interface
+caption: 'Figure 2: Vertex AI Agent Development Kit Sessions tab with an active `exam-builder` agent session. Sessions allow
+  tracking interaction progress, saving state, and restoring dialogue by session_id.'
+asset: image.png
+format: png
+dimensions:
+  width: 994
+  height: 660
+alt: Dark themed ADK Sessions tab showing an exam-builder agent and a selected session identifier.
+description: A screenshot of the Agent Development Kit interface focused on the Sessions tab. The selected app is exam-builder,
+  and a session row with a UUID and timestamp is highlighted.
+placement:
+  article: article.md
+  before: Within each session, the agent maintains its own internal state
+  after: Google ADK automatically creates a unique session

@@ -1,0 +1,14 @@
+id: 1-eh2n6kjqjnbp6wokgb9yxq
+type: figure
+article_id: lm-studio-local-llm-guide
+title: LM Studio model browser screenshot
+caption: LM Studio model browser showing local model search results and download options.
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 945
+alt: LM Studio model search interface listing community models and download controls.
+description: A screenshot of LM Studio in a model discovery or download view. It shows a search/list panel of models on the
+  left and model details with download or compatibility controls on the right.
+placement: unreferenced

@@ -1,0 +1,16 @@
+id: laboratory-millivoltmeter-v3-38a
+type: figure
+article_id: jambonz-voice-ai
+title: "Laboratory millivoltmeter V3-38A"
+caption: "Photo: Laboratory millivoltmeter V3–38A, Odesa National Academy of Telecommunications"
+asset: image.webp
+format: webp
+dimensions:
+  width: 960
+  height: 1280
+alt: "Close-up photo of a Soviet-style laboratory millivoltmeter V3-38A with analog scale, knobs, and connected cable."
+description: "Vertical laboratory photo showing a V3-38A analog millivoltmeter. The front panel includes a needle scale, Cyrillic label, input connector, range selector, and control knobs, illustrating the analog measurement instruments used in telecommunications labs."
+placement:
+  article: article.md
+  before: "The principles, however, remain the same"
+  after: "Today, these same principles live in digital form"

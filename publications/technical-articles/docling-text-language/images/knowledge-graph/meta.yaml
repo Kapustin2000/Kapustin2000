@@ -1,0 +1,14 @@
+id: knowledge-graph
+type: figure
+article_id: docling-text-language
+title: Portrait photo asset
+caption: Portrait photo of a young man in a black hoodie against a light background.
+asset: image.jpg
+format: jpg
+dimensions:
+  width: 960
+  height: 1280
+alt: Portrait of a young man wearing a black hoodie, photographed against a pale indoor background.
+description: A vertical portrait photo. The visible content is a young man in a black hoodie looking toward the camera against
+  a light wall. Although the folder name is knowledge-graph, the image itself is not a graph or diagram.
+placement: unreferenced

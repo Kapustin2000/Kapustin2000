@@ -1,0 +1,14 @@
+id: 1-foo5dg8nbjsk1r8krevdpw
+type: figure
+article_id: lm-studio-local-llm-guide
+title: LM Studio chat interface screenshot
+caption: LM Studio local chat interface with a selected model and message input.
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 948
+alt: Dark LM Studio chat interface showing a local model selector, chat area, and message input field.
+description: A screenshot of the LM Studio desktop chat interface in dark mode. It shows a selected local model in the left
+  sidebar, a central chat area, and a prompt input box at the bottom.
+placement: unreferenced

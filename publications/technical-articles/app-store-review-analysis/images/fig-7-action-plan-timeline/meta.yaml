@@ -1,0 +1,20 @@
+id: fig-7-action-plan-timeline
+type: figure
+article_id: app-store-review-analysis
+figure_number: 7
+title: Action plan timeline
+caption: 'Fig. 7. Horizontal timeline chart showing prioritized fixes for App X: scam allegations as immediate (1-2 weeks),
+  functionality and subscription improvements short-term (2-4 weeks), billing and cancellation fixes medium-term (1-2 months).'
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 999
+alt: Horizontal action plan timeline for App X fixes across immediate, short-term, and medium-term windows.
+description: A horizontal timeline chart titled Action Plan Timeline. It prioritizes scam allegations for immediate work,
+  general app functionality and subscription model issues for short-term work, and money, charging, and cancellation problems
+  for medium-term work.
+placement:
+  article: article.md
+  before: 'The roadmap organizes fixes by urgency:'
+  after: Others fall in the medium or low range, suitable for gradual optimization.

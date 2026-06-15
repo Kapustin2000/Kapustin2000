@@ -2,16 +2,15 @@
 
 # Research Publications
 
-4 peer-reviewed research publications covering forecasting, lucid dreaming, stress diagnostics, and consciousness-oriented methodologies.
+3 peer-reviewed research publications covering forecasting, lucid dreaming, and consciousness-oriented methodologies.
 
 ---
 
-| # | Paper | Date |
-|---|-------|------|
-| 1 | [Technological Transformations, Formation of GMS and GFS](gms-gfs-right-brain/) | Feb 2025 |
-| 2 | [Grivtsova's Stress Management Methodology](grivtsova-stress-management/) | Jul 2024 |
-| 3 | [Forecasting Events Using Banchenko-Technology](banchenko-forecasting/) | Jun 2024 |
-| 4 | [Banchenko's Mnemonic Dream Synchronization Method](banchenko-dream-synchronization/) | Jan 2024 |
+| # | Paper | Date | PDF |
+|---|-------|------|-----|
+| 1 | [Technological Transformations, Formation of GMS and GFS](gms-gfs-right-brain/) | Feb 2025 | [PDF](gms-gfs-right-brain/technological-transformations-formation-of-gms-global-mental-system-and-gfs-global-forecasting-systemrightbrain-technolo.pdf) |
+| 2 | [Forecasting Events Using Banchenko-Technology](banchenko-forecasting/) | Jun 2024 | [PDF](banchenko-forecasting/ForecastingSocialJapanJournalofResearchGeopoliticalandEconomic_EventsUsingtheBanchenko-Technology.pdf) |
+| 3 | [Banchenko's Mnemonic Dream Synchronization Method](banchenko-dream-synchronization/) | Jan 2024 | [PDF](banchenko-dream-synchronization/the-application-of-the-banchenkos-mnemonic-dream-synchronization-method-for-the-joint-synchronization-of-dream-elements-.pdf) |
 
 ---
 

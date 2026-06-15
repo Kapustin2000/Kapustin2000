@@ -40,7 +40,6 @@ Co-founded ASRP, a transatlantic research holding company focused on AI, neurosc
 - [From Pet Project to Scientific Research](../../publications/popular-science/pet-project-scientific-research-2023/)
 - [Future Technologies: A Glimpse into Innovation](../../publications/popular-science/future-technologies-innovation/)
 - [Technological Transformations, GMS and GFS](../../publications/research-publications/gms-gfs-right-brain/)
-- [Grivtsova's Stress Management Methodology](../../publications/research-publications/grivtsova-stress-management/)
 - [Forecasting Events Using Banchenko-Technology](../../publications/research-publications/banchenko-forecasting/)
 - [Banchenko's Mnemonic Dream Synchronization Method](../../publications/research-publications/banchenko-dream-synchronization/)
 - [My First AI & Blockchain Hackathon](../../publications/technical-articles/ai-blockchain-hackathon-theta/)

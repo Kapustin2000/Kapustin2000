@@ -1,0 +1,19 @@
+id: fig-3-rating-distribution
+type: figure
+article_id: app-store-review-analysis
+figure_number: 3
+title: App X rating distribution
+caption: 'Fig. 3. Bar chart displaying the distribution of 500 App X reviews: 68% five-star, 10% four-star, 3% three-star,
+  1% two-star, and 18% one-star ratings, illustrating strong polarization between love and dissatisfaction.'
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 931
+alt: Bar chart showing App X rating distribution, with a dominant five-star bar and a smaller but visible one-star bar.
+description: A vertical bar chart titled Rating Distribution for App X. The five-star bar is by far the largest, the one-star
+  bar is the second largest, and the two-, three-, and four-star bars are much smaller, indicating polarized user feedback.
+placement:
+  article: article.md
+  before: 'The distribution is polarized: 68% of users give 5 stars and 18% give 1 star.'
+  after: The dashboard summarizes sentiment, average ratings, and main issues.

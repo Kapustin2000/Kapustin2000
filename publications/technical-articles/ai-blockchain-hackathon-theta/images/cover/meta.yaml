@@ -1,0 +1,16 @@
+id: cover
+type: cover
+article_id: ai-blockchain-hackathon-theta
+title: Theta EuroCon hackathon group photo
+caption: "Inside the hackathon: building GFS \u2014 the first competitor to BlackRock's Aladdin."
+asset: image.jpg
+format: jpg
+dimensions:
+  width: 780
+  height: 521
+alt: Large group of hackathon participants posing indoors in front of Theta EuroCon branding.
+description: A wide indoor group photo from the Theta EuroCon hackathon. Dozens of participants and organizers stand and sit
+  together near tables, chairs, plants, hanging lights, and a Theta EuroCon branded backdrop.
+placement:
+  article: article.md
+  line: 5

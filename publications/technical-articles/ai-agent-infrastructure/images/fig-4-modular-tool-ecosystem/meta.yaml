@@ -2,16 +2,19 @@ id: fig-4-modular-tool-ecosystem
 type: figure
 article_id: ai-agent-infrastructure
 figure_number: 4
-title: "Modular tool ecosystem"
-caption: "Fig. 4. The modular tool ecosystem gives each agent its own dependency list and version control through an internal package manager."
+title: Modular package-based tool ecosystem
+caption: Fig. 4. The modular tool ecosystem gives each agent its own dependency list and version control through an internal
+  package manager.
 asset: image.webp
 format: webp
 dimensions:
   width: 1400
   height: 423
-alt: "Wide diagram showing Agent A using tool-pdf, Agent B using tool-image, and Agent C using tool-pdf plus tool-data, all connected to an Internal Package Registry with versioned tool packages."
-description: "A wide architecture diagram of a modular package-based tool ecosystem. Agents declare their own tool dependencies, such as tool-pdf, tool-image, and tool-data, and resolve specific package versions from an internal registry that stores versioned tool packages."
+alt: Diagram showing Agent A, Agent B, and Agent C declaring tool dependencies resolved from an Internal Package Registry.
+description: A wide package registry diagram. Agent A uses tool-pdf, Agent B uses tool-image, and Agent C uses tool-pdf plus
+  tool-data. All dependencies resolve from an Internal Package Registry that stores versioned packages such as tool-pdf v1.2.0
+  and tool-data v0.9.8.
 placement:
   article: article.md
-  before: "Pros:"
-  after: "Each agent gets a configuration file declaring its dependencies."
+  before: 'Pros:'
+  after: Each agent gets a configuration file declaring its dependencies.

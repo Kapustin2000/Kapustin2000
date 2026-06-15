@@ -7,7 +7,7 @@
 **Tags:** Google ADK, AI Agent, AI Agent Tutorial, Google Agent Engine, Python  
 **Hubs:** Cloud Services, Google API, Google Cloud Platform, Artificial Intelligence, Python
 
-![Cover](images/cover.png)
+![Cover](images/cover/image.png)
 
 Hello everyone!
 
@@ -42,14 +42,14 @@ You describe the instruction, connect a tool (`google_search`), and that's it. T
 
 To launch the agent, run: `adk web` — this starts a ready-made web interface where you can immediately chat with the agent.
 
-![Agent Demo in ADK Web Interface](images/agent-demo.png)
+![Agent Demo in ADK Web Interface](images/fig-1-agent-demo/image.png)
 *Figure 1: Agent demonstration in the Agent Development Kit web interface. Session initialization and the first message from the agent are visible.*
 
 ## Google ADK Agent Architecture: Sessions, Reasoning, State
 
 When you send the first message through the "Type a message..." field in the `adk web` interface, Google ADK automatically creates a unique session for the current dialogue. From that moment on, everything that happens between you and the LLM is stored in the context of this session.
 
-![Vertex AI Sessions Interface](images/sessions-interface.png)
+![Vertex AI Sessions Interface](images/fig-2-sessions-interface/image.png)
 *Figure 2: Vertex AI Agent Development Kit Sessions tab with an active `exam-builder` agent session. Sessions allow tracking interaction progress, saving state, and restoring dialogue by session_id.*
 
 Within each session, the agent maintains its own internal state, which includes:
@@ -80,7 +80,7 @@ INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 
 You can open the Google ADK API documentation at `http://127.0.0.1:8000/docs`.
 
-![OpenAPI Documentation for ADK FastAPI Server](images/openapi-docs.png)
+![OpenAPI Documentation for ADK FastAPI Server](images/fig-3-openapi-docs/image.png)
 *Figure 3: OpenAPI documentation with the full list of available FastAPI server endpoints, including sessions, tracing, evaluations, and artifacts.*
 
 The available routes include:
@@ -101,7 +101,7 @@ Google offers three official deployment methods, each involving containerizing t
 2. **Cloud Run** — simple way to run a container in the cloud
 3. **Custom Infrastructure** — self-managed via Docker, GKE, or on-premise
 
-![Agent Deployment Options](images/deploy-schema.png)
+![Agent Deployment Options](images/fig-4-deployment-options/image.png)
 *Figure 4: Google ADK agent deployment diagram: container build and launch on Vertex AI Agent Engine, Cloud Run, or custom infrastructure via Docker/GKE.*
 
 I chose Vertex AI Agent Engine — a fully managed platform designed specifically for production deployment of LLM agents. The deployment process is very concise:
@@ -154,7 +154,7 @@ The workflow:
 5. Backend queries `state` by `session_id`
 6. Final result goes to the frontend
 
-![Architecture Diagram for Custom Google ADK Interface](images/architecture-diagram.png)
+![Architecture Diagram for Custom Google ADK Interface](images/fig-5-custom-interface-architecture/image.png)
 *Figure 5: Interaction architecture diagram for a custom Google ADK-based interface.*
 
 The only nuance is streaming: you need to proxy `stream_query` through WebSocket (or SSE) for real-time responses.

@@ -1,0 +1,22 @@
+id: fig-2-analysis-dashboard
+type: figure
+article_id: app-store-review-analysis
+figure_number: 2
+title: App X review analysis dashboard
+caption: Fig. 2. Dashboard summarizing App X review analysis with sentiment pie chart showing 79% positive and 21% negative
+  reviews, a bar chart comparing official App Store rating (4.6) to sample average (3.9), and top three critical issues listed
+  below.
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 1040
+alt: Dashboard for App X review analysis showing sentiment overview, rating comparison, top three critical issues, and key
+  metrics.
+description: A four-panel dashboard titled App X (astrology/lifestyle) Analysis Dashboard. It includes a sentiment pie chart,
+  official-versus-sample rating comparison, a horizontal bar chart of top critical issues, and a key metrics box with review
+  and priority counts.
+placement:
+  article: article.md
+  before: The dashboard summarizes sentiment, average ratings, and main issues.
+  after: Below are key charts from the App X astrology/lifestyle review analysis.

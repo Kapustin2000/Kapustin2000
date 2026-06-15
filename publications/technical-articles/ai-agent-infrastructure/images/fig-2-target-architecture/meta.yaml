@@ -2,16 +2,17 @@ id: fig-2-target-architecture
 type: figure
 article_id: ai-agent-infrastructure
 figure_number: 2
-title: "Target architecture"
-caption: "Fig. 2. Target architecture: centralized management of agents and tools"
+title: Target centralized tool registry architecture
+caption: 'Fig. 2. Target architecture: centralized management of agents and tools'
 asset: image.webp
 format: webp
 dimensions:
   width: 604
   height: 832
-alt: "Diagram of a decoupled and centralized architecture with a Tool Registry above Tool 1, Tool 2, Tool 3, and a separate Agents block containing Agent A, Agent B, and Agent C."
-description: "A simple black-and-white architecture diagram titled Decoupled & Centralized. It shows a central Tool Registry managing three tools, with agents grouped in a separate block below to emphasize centralized tool management and decoupled agent execution."
+alt: Diagram of a decoupled centralized architecture with a Tool Registry above shared tools and a separate Agents block.
+description: A diagram titled Decoupled & Centralized. A Tool Registry manages Tool 1, Tool 2, and Tool 3, while Agent A,
+  Agent B, and Agent C sit in a separate agents block below, showing centralized tool access without copying.
 placement:
   article: article.md
-  before: "Path 1: Filesystem Registry with Lazy Loading"
-  after: "After detailed analysis of the client's data and project structure, I developed three strategic lines of development:"
+  before: 'Path 1: Filesystem Registry with Lazy Loading'
+  after: 'After detailed analysis of the client''s data and project structure, I developed three strategic lines of development:'

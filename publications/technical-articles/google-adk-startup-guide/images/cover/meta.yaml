@@ -1,0 +1,16 @@
+id: cover
+type: cover
+article_id: google-adk-startup-guide
+title: Google Cloud startup technical guide cover
+caption: Google Cloud Startup Technical Guide cover for AI agents.
+asset: image.png
+format: png
+dimensions:
+  width: 1536
+  height: 1024
+alt: Google Cloud startup technical guide cover with the title AI agents and a colorful abstract mesh shape.
+description: A Google Cloud branded cover image reading Startup technical guide AI agents. It uses a white background, Google
+  Cloud logo, and a colorful abstract blue-red mesh form.
+placement:
+  article: article.md
+  line: 10

@@ -2,7 +2,7 @@
 
 *September 2025*
 
-![Cover](images/cover.jpg)
+![Cover](images/cover/image.jpg)
 
 > Inside the hackathon: building GFS — the first competitor to BlackRock's Aladdin.
 
@@ -24,17 +24,17 @@ This idea was first outlined in our 2024 publication *"Forecasting Social, Geopo
 
 For several days, we lived in an atmosphere of constant energy, ideas, and experimentation. Over twenty teams from around the world competed for the chance to present their projects. It was a unique space where blockchain and AI met creativity and bold concepts. We weren't just writing code — we learned to distribute tasks, trust each other, and assemble individual pieces into a unified system that could impress the jury.
 
-![Team Photo](images/team-photo.jpg)
+![Team Photo](images/team-photo/image.jpg)
 
 What made this experience especially unique was juggling two roles: developer and media face of the project. Our team was the only one recording daily TikTok updates, day reviews, interviews with co-founders, and plans for the next day. This allowed us to showcase our work in real-time and create an atmosphere of openness around the project.
 
-![Interview with Theta EuroCon Co-founders](images/interview.jpg)
+![Interview with Theta EuroCon Co-founders](images/interview/image.jpg)
 
 > Interview with Theta EuroCon co-founders during a short break. Their insights added depth to my daily updates.
 
 The little things also made an impression: we were well-fed three times a day, and I spent part of my work on the rooftop next to a disco ball — an atmosphere that perfectly combined focus and inspiration.
 
-![Rooftop Workspace](images/rooftop-workspace.jpg)
+![Rooftop Workspace](images/rooftop-workspace/image.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Special thanks to **Kyryl Zmiienko**, who strengthened the industry-to-market ma
 
 On September 11, we showed the first demo video of the system on stage. Our idea generated genuine interest — the audience listened attentively, and many approached afterward with questions and a desire to learn more.
 
-![Demo Presentation](images/demo-presentation.jpg)
+![Demo Presentation](images/demo-presentation/image.jpg)
 
 > The team presenting the GFS prototype on stage at Theta EuroCon.
 

@@ -1,0 +1,17 @@
+id: voice-call-flow
+type: figure
+article_id: jambonz-voice-ai
+figure_number: 1
+title: "Voice call flow through Jambonz"
+caption: "Figure 1. Voice call flow — from the caller to the AI response through SIP, Jambonz, and the backend system."
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 933
+alt: "Diagram showing a caller connected through PSTN/SIP to a SIP trunk, Jambonz, backend, and Jambonz execution for AI response."
+description: "Minimal black-and-white call flow diagram. A caller connects through PSTN/SIP into a SIP trunk, then to Jambonz, then to the backend, and finally back into Jambonz execution, with HTTP/WebSocket and STT/TTS/RTP protocol layers shown below."
+placement:
+  article: article.md
+  before: "What is Jambonz and Why It Matters"
+  after: "The diagram below shows how these components interact"

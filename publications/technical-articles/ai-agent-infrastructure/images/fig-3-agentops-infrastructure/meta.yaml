@@ -2,16 +2,20 @@ id: fig-3-agentops-infrastructure
 type: figure
 article_id: ai-agent-infrastructure
 figure_number: 3
-title: "AgentOps infrastructure"
-caption: "Fig. 3. The AgentOps infrastructure unifies agents and tools: agents connect to the MCP Registry to access shared tools and interact with each other via A2A protocols, forming a dynamic, interconnected ecosystem."
+title: AgentOps infrastructure with MCP and A2A
+caption: 'Fig. 3. The AgentOps infrastructure unifies agents and tools: agents connect to the MCP Registry to access shared
+  tools and interact with each other via A2A protocols, forming a dynamic, interconnected ecosystem.'
 asset: image.webp
 format: webp
 dimensions:
   width: 1400
   height: 333
-alt: "Wide diagram showing Agent A for document processing, Agent B for semantic analysis, and Agent C for reporting and visualization connected to an MCP Registry containing PDF Extractor, Data Analyzer, and Image Processor tools."
-description: "A wide architecture diagram of an AgentOps setup. Three domain agents interact through directed connections and connect to a shared MCP Registry that exposes reusable tools for PDF extraction, data analysis, and image processing, illustrating A2A collaboration and centralized tool access."
+alt: Wide diagram showing document processing, semantic analysis, and reporting agents connected to an MCP Registry with PDF,
+  data, and image tools.
+description: A horizontal AgentOps architecture diagram. Agent A handles document processing, Agent B handles semantic analysis,
+  and Agent C handles reporting and visualization. They communicate with each other and connect to an MCP Registry containing
+  PDF Extractor, Data Analyzer, and Image Processor tools.
 placement:
   article: article.md
-  before: "Pros:"
-  after: "A2A (Agent-to-Agent): Enables agents to interact and collaborate."
+  before: 'Pros:'
+  after: 'A2A (Agent-to-Agent): Enables agents to interact and collaborate.'

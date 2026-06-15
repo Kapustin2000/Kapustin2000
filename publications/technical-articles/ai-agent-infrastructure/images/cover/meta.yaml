@@ -1,0 +1,19 @@
+id: cover
+type: cover
+article_id: ai-agent-infrastructure
+title: AI agent infrastructure migration map
+caption: Cover image showing the transition from chaotic, unversioned tools in a monorepo toward package management, registries,
+  MCP/A2A, and lazy-loading agent infrastructure.
+asset: image.jpg
+format: jpg
+dimensions:
+  width: 1560
+  height: 819
+alt: Isometric black-and-white architecture sketch showing chaotic unversioned tools, a monorepository, package manager, tool
+  registry, MCP/A2A, and agents.
+description: 'The image visualizes the article thesis: a messy AI agent monorepo can evolve into organized infrastructure.
+  It shows chaos and unversioned tools on one side, then package management, registries, MCP/A2A, agents, and lazy loading
+  as a more structured system.'
+placement:
+  article: README.md
+  line: 17

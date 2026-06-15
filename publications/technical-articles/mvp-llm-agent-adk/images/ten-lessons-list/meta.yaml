@@ -1,0 +1,17 @@
+id: ten-lessons-list
+type: figure
+article_id: mvp-llm-agent-adk
+title: Ten lessons list illustration
+caption: Conceptual illustration of ten AI and CTO lessons gathered around a glowing book of knowledge.
+asset: image.png
+format: png
+dimensions:
+  width: 1536
+  height: 1024
+alt: Warm illustration of a person holding a glowing open book, surrounded by icons for code, learning, time, architecture,
+  and evaluation.
+description: A symbolic illustration of a person holding a glowing open book. Around the figure are icons representing programming,
+  learning, architecture, time, evaluation, and collaboration, with small groups of people in the background.
+placement:
+  article: article.md
+  line: 70

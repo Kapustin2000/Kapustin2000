@@ -1,0 +1,17 @@
+id: cover
+type: cover
+article_id: jambonz-voice-ai
+title: Voice AI telephony cover
+caption: Conceptual cover linking radio, telephony, SIP, Jambonz, and AI dialogue.
+asset: image.png
+format: png
+dimensions:
+  width: 1536
+  height: 1024
+alt: Sepia technical illustration connecting radio hardware, telephony, SIP, Jambonz, and AI dialogue with circuit and waveform
+  lines.
+description: A sepia-toned conceptual technical illustration. It shows vintage radio equipment, telephony and SIP labels,
+  Jambonz, speech bubbles, waveform lines, and a neural-network-like AI dialogue node map.
+placement:
+  article: README.md
+  line: 15

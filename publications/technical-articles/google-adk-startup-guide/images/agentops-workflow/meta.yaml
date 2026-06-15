@@ -1,0 +1,19 @@
+id: agentops-workflow
+type: figure
+article_id: google-adk-startup-guide
+title: Agent Starter Pack high-level architecture
+caption: High-level architecture diagram of the Agent Starter Pack, covering evaluation, LLMs, data, observability, orchestration,
+  and IaC/CI-CD.
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 905
+alt: High-level architecture diagram with blocks for evaluation, LLMs, data, observability, LLM orchestration, and infrastructure
+  automation.
+description: A high-level architecture diagram for an Agent Starter Pack. It shows a user prompt entering LLM orchestration
+  and connects to evaluation, LLM model access, data stores, observability, tracing/logging, and infrastructure automation
+  components.
+placement:
+  article: article.md
+  line: 52

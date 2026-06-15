@@ -1,0 +1,16 @@
+id: cover
+type: cover
+article_id: google-adk-custom-interface
+title: Agent Development Kit cover
+caption: Google Agent Development Kit cover image with the ADK icon and wordmark on a white background.
+asset: image.png
+format: png
+dimensions:
+  width: 1200
+  height: 630
+alt: Google Agent Development Kit logo and text on a white background.
+description: A clean cover image showing the Agent Development Kit icon at left and the words Agent Development Kit in large
+  black text on a white background.
+placement:
+  article: article.md
+  after: 'Hubs: Cloud Services, Google API, Google Cloud Platform, Artificial Intelligence, Python'

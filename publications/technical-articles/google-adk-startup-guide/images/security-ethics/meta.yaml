@@ -1,0 +1,17 @@
+id: security-ethics
+type: figure
+article_id: google-adk-startup-guide
+title: AI agent security and ethics risk table
+caption: Security and ethics matrix listing AI agent risks and corresponding safety defenses.
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 662
+alt: Table-style slide with red warning icons for AI risks and blue shield icons for safety defenses.
+description: A table-like visual that pairs red warning items with blue safety controls. It covers risks such as hallucination,
+  misinformation, prompt injection, unsafe outputs, and data exposure, with corresponding defenses such as monitoring, guardrails,
+  and validation.
+placement:
+  article: article.md
+  line: 69

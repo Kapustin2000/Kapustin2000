@@ -1,0 +1,19 @@
+id: fig-3-openapi-docs
+type: figure
+article_id: google-adk-custom-interface
+figure_number: 3
+title: FastAPI OpenAPI documentation
+caption: 'Figure 3: OpenAPI documentation with the full list of available FastAPI server endpoints, including sessions, tracing,
+  evaluations, and artifacts.'
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 885
+alt: FastAPI Swagger UI page listing ADK API endpoints with colored HTTP method rows.
+description: A screenshot of FastAPI OpenAPI documentation. It lists API endpoints for ADK server operations, grouped in expandable
+  rows with HTTP methods such as GET, POST, and DELETE.
+placement:
+  article: article.md
+  before: 'The available routes include:'
+  after: You can open the Google ADK API documentation

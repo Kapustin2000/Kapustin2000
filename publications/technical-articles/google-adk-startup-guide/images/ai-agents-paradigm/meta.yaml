@@ -1,0 +1,16 @@
+id: ai-agents-paradigm
+type: figure
+article_id: google-adk-startup-guide
+title: Core concepts of AI agents
+caption: Image introducing the core concepts of AI agents with a dark background and abstract green-blue mesh.
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 916
+alt: Dark slide reading Core concepts of AI agents beside an abstract green and blue mesh shape.
+description: A presentation-style image with large text reading Core concepts of AI agents on a dark background, paired with
+  a green-blue abstract mesh form.
+placement:
+  article: article.md
+  line: 22

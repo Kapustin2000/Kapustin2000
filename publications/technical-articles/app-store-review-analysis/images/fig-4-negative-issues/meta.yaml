@@ -1,0 +1,20 @@
+id: fig-4-negative-issues
+type: figure
+article_id: app-store-review-analysis
+figure_number: 4
+title: Top negative issues by TF-IDF importance
+caption: 'Fig. 4. Horizontal bar chart ranking the five main negative issues for App X by TF-IDF importance: functionality
+  problems, scam allegations, subscription model complaints, billing issues, and cancellation difficulties.'
+asset: image.webp
+format: webp
+dimensions:
+  width: 1400
+  height: 798
+alt: Horizontal TF-IDF bar chart ranking negative App X issues including general functionality, scam allegations, subscription
+  complaints, charging problems, and cancellation difficulties.
+description: A horizontal bar chart titled Top Negative Issues by Importance. General app functionality problems are the strongest
+  issue, followed by scam allegations, subscription model complaints, money or charging problems, and cancellation difficulties.
+placement:
+  article: article.md
+  before: 'The leading complaints cluster around five categories:'
+  after: 'The distribution is polarized: 68% of users give 5 stars and 18% give 1 star.'

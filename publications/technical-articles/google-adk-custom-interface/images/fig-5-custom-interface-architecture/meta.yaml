@@ -1,0 +1,18 @@
+id: fig-5-custom-interface-architecture
+type: figure
+article_id: google-adk-custom-interface
+figure_number: 5
+title: Custom ADK interface interaction architecture
+caption: 'Figure 5: Interaction architecture diagram for a custom Google ADK-based interface.'
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 775
+alt: Box-and-arrow architecture diagram connecting frontend, backend, LLM, API, and session state for a custom ADK interface.
+description: A black-and-white interaction architecture diagram. The frontend sends a user message to the backend, the backend
+  exchanges requests with an LLM/API layer, and session state is queried and returned as part of the final response flow.
+placement:
+  article: article.md
+  before: The only nuance is streaming
+  after: Final result goes to the frontend

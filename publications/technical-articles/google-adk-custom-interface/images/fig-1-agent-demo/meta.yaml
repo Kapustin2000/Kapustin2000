@@ -1,0 +1,19 @@
+id: fig-1-agent-demo
+type: figure
+article_id: google-adk-custom-interface
+figure_number: 1
+title: ADK web interface agent demo
+caption: 'Figure 1: Agent demonstration in the Agent Development Kit web interface. Session initialization and the first message
+  from the agent are visible.'
+asset: image.png
+format: png
+dimensions:
+  width: 1560
+  height: 892
+alt: Dark themed Agent Development Kit web UI showing an agent session, chat area, and message input.
+description: A screenshot of the ADK web interface in dark mode. It shows the left navigation and an active agent chat screen,
+  including a user prompt, agent response area, and message input controls.
+placement:
+  article: article.md
+  before: 'Google ADK Agent Architecture: Sessions, Reasoning, State'
+  after: 'To launch the agent, run: `adk web`'

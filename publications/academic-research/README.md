@@ -6,9 +6,9 @@
 
 ---
 
-| # | Paper | Date |
-|---|-------|------|
-| 1 | [Software Development Tools in the Job Market](software-development-tools/) | Dec 2018 |
+| # | Paper | Date | PDF |
+|---|-------|------|-----|
+| 1 | [Software Development Tools in the Job Market](software-development-tools/) | Dec 2018 | [PDF](software-development-tools/1102--2185-1-10-20190221.pdf) |
 
 ---
 

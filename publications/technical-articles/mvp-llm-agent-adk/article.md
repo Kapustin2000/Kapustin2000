@@ -7,7 +7,7 @@
 **Tags:** MVP, Artificial Intelligence, Google ADK, Python, LLM Agent  
 **Hubs:** Artificial Intelligence, Google App Engine, Google API, Python, Google Cloud Platform
 
-![Cover](images/cover.png)
+![Cover](images/cover/image.png)
 
 I've been working as CTO of ASRP, a company developing educational projects and exploring new approaches in EdTech. One of our focus areas became testing Google ADK capabilities in educational scenarios and building a prototype intelligent knowledge assessment system.
 
@@ -25,7 +25,7 @@ In the first version, I tried to fit all business logic inside a single `LlmAgen
 - Token costs per request grew
 - Debugging this "monolithic" solution was difficult
 
-![Architecture Evolution](images/architecture-evolution.png)
+![Architecture Evolution](images/architecture-evolution/image.png)
 
 I gradually moved to a more modular architecture, splitting the system into multiple agents and stages. For example, one `LlmAgent` handles question generation, another checks and analyzes answers, and a third forms comments and hints. I used `SequentialAgent` and `ParallelAgent` for stage coordination — the former guarantees execution order, the latter enables parallel independent tasks.
 
@@ -35,7 +35,7 @@ This multi-agent approach reduced the load on each individual agent and made pro
 
 The model sometimes produced unexpected or incomplete answers, so I added extra validation. For instance, I wrote specific format checks in the instructions: after receiving an evaluator agent's response, I verified it matched the expected format (JSON or a clear structure). If the format was broken, the script re-prompted the model with clarifying hints.
 
-![Technical Challenges](images/technical-challenges.png)
+![Technical Challenges](images/technical-challenges/image.png)
 
 I also implemented a feedback mechanism: a dedicated reviewer agent that checks response quality before delivering the final result. This caught errors before the user saw them and improved system reliability.
 
@@ -45,7 +45,7 @@ For generation optimization, I used streaming where appropriate and tuned model 
 
 ## 10 Lessons from the AI Exam
 
-![CTO Lessons](images/cto-lessons.png)
+![CTO Lessons](images/cto-lessons/image.png)
 
 1. **Delegate tasks through agents.** Don't try to cram all logic into one "super-agent" — such systems often collapse under their own weight. Break the project into stages and wrap functionality in individual agents.
 
@@ -67,7 +67,7 @@ For generation optimization, I used streaming where appropriate and tuned model 
 
 10. **The future belongs to learning.** Invest in knowledge and experience sharing. Continuous learning and the ability to teach others are what keep you in step with technology.
 
-![Ten Lessons List](images/ten-lessons-list.png)
+![Ten Lessons List](images/ten-lessons-list/image.png)
 
 ## Evolution of the CTO Role
 

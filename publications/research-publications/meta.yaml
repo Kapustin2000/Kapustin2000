@@ -1,19 +1,19 @@
 id: research-publications
 type: index
-description: "Peer-reviewed research publications on forecasting, lucid dreaming, stress diagnostics, and consciousness-oriented methodologies"
+description: "Peer-reviewed research publications on forecasting, lucid dreaming, and consciousness-oriented methodologies"
 entities:
   - id: gms-gfs-right-brain
     type: research_paper
     date: 2025-02
-  - id: grivtsova-stress-management
-    type: research_paper
-    date: 2024-07
+    pdf: "gms-gfs-right-brain/technological-transformations-formation-of-gms-global-mental-system-and-gfs-global-forecasting-systemrightbrain-technolo.pdf"
   - id: banchenko-forecasting
     type: research_paper
     date: 2024-06
+    pdf: "banchenko-forecasting/ForecastingSocialJapanJournalofResearchGeopoliticalandEconomic_EventsUsingtheBanchenko-Technology.pdf"
   - id: banchenko-dream-synchronization
     type: research_paper
     date: 2024-01
+    pdf: "banchenko-dream-synchronization/the-application-of-the-banchenkos-mnemonic-dream-synchronization-method-for-the-joint-synchronization-of-dream-elements-.pdf"
 navigation:
   parent: publications
   siblings: [technical-articles, popular-science, academic-research]

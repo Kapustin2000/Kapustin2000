@@ -20,7 +20,8 @@ User reviews on the App Store might seem product-specific, but their significanc
 
 In the context of GFS, these app review signals could be one piece of a larger puzzle. Imagine correlating rising negativity in gig-economy app reviews with broader labor market trends, or analyzing sentiment in travel app reviews as a proxy for consumer confidence. The App Store is a vast, real-time repository of human sentiment. Our challenge is to systematically extract and interpret those signals.
 
-<!-- Image placeholder: Monochrome conceptual sketch showing interconnected human figures linked by flowing data lines and star icons, symbolizing collective intelligence and shared consciousness within digital ecosystems. -->
+![App Store reviews as interconnected human feedback signals](images/fig-1-app-store-reviews-social-signals/image.webp)
+*Fig. 1. Monochrome conceptual sketch showing interconnected human figures linked by flowing data lines and star icons, symbolizing collective intelligence and shared consciousness within digital ecosystems.*
 
 Perhaps most importantly, star ratings alone can be misleading. An app might maintain a high 4.5-star average rating overall, yet hide a pocket of serious discontent in recent reviews. By digging into textual feedback, we uncover nuances that star averages mask. In the case study below, App X, an astrology/lifestyle app, has a high official rating, but the analysis exposed clear friction points that warranted attention. This underscores why a dedicated review analysis system matters for any data-driven product strategy.
 
@@ -94,15 +95,18 @@ The final output summarized overall sentiment, top five issues, and trends, each
 
 Numbers tell part of the story, but visuals make insights immediate. Below are key charts from the App X astrology/lifestyle review analysis, based on approximately 500 reviews, showing sentiment, rating distribution, and top issues.
 
-<!-- Image placeholder: Dashboard summarizing App X review analysis with sentiment pie chart showing 79% positive and 21% negative reviews, a bar chart comparing official App Store rating (4.6) to sample average (3.9), and top three critical issues listed below. -->
+![App X review analysis dashboard with sentiment, rating comparison, and critical issues](images/fig-2-analysis-dashboard/image.webp)
+*Fig. 2. Dashboard summarizing App X review analysis with sentiment pie chart showing 79% positive and 21% negative reviews, a bar chart comparing official App Store rating (4.6) to sample average (3.9), and top three critical issues listed below.*
 
 The dashboard summarizes sentiment, average ratings, and main issues. About 79% of reviews are positive and 21% are negative. Overall satisfaction is strong but not flawless. The sample's average rating, 3.9, is lower than the official App Store rating, 4.6, hinting at a recent dip or bias toward newer, more critical reviews. The top three problem areas highlight where improvement matters most.
 
-<!-- Image placeholder: Bar chart displaying the distribution of 500 App X reviews: 68% five-star, 10% four-star, 3% three-star, 1% two-star, and 18% one-star ratings, illustrating strong polarization between love and dissatisfaction. -->
+![App X review rating distribution bar chart](images/fig-3-rating-distribution/image.webp)
+*Fig. 3. Bar chart displaying the distribution of 500 App X reviews: 68% five-star, 10% four-star, 3% three-star, 1% two-star, and 18% one-star ratings, illustrating strong polarization between love and dissatisfaction.*
 
 The distribution is polarized: 68% of users give 5 stars and 18% give 1 star, with almost no middle ground. The app clearly delights most users but frustrates a smaller, vocal minority. This imbalance suggests strong value perception mixed with serious friction points for some.
 
-<!-- Image placeholder: Horizontal bar chart ranking the five main negative issues for App X by TF-IDF importance: functionality problems, scam allegations, subscription model complaints, billing issues, and cancellation difficulties. -->
+![Top negative App X issues ranked by TF-IDF importance](images/fig-4-negative-issues/image.webp)
+*Fig. 4. Horizontal bar chart ranking the five main negative issues for App X by TF-IDF importance: functionality problems, scam allegations, subscription model complaints, billing issues, and cancellation difficulties.*
 
 The leading complaints cluster around five categories:
 
@@ -114,15 +118,18 @@ The leading complaints cluster around five categories:
 
 Together, they paint a consistent picture: technical reliability and trust in monetization drive user sentiment more than content quality.
 
-<!-- Image placeholder: Scatter plot mapping issue frequency versus TF-IDF importance; functionality and scam issues appear in the upper-right quadrant as both frequent and highly important. -->
+![Issue frequency versus TF-IDF importance scatter plot](images/fig-5-frequency-vs-importance/image.webp)
+*Fig. 5. Scatter plot mapping issue frequency versus TF-IDF importance; functionality and scam issues appear in the upper-right quadrant as both frequent and highly important.*
 
 Each issue's frequency and TF-IDF importance align closely, confirming the prioritization. Functionality and scam-related issues dominate both axes, signaling where attention should go first.
 
-<!-- Image placeholder: Heatmap matrix plotting probability against impact for major issues; scam allegations and functionality issues appear in red high-risk zones, while subscription and billing issues remain green or yellow. -->
+![Risk assessment heatmap for App X review issues](images/fig-6-risk-assessment-heatmap/image.webp)
+*Fig. 6. Heatmap matrix plotting probability against impact for major issues; scam allegations and functionality issues appear in red high-risk zones, while subscription and billing issues remain green or yellow.*
 
 A heatmap of probability versus impact shows only two red zones: scam allegations, a critical trust risk, and functionality issues, a core experience risk. Others fall in the medium or low range, suitable for gradual optimization.
 
-<!-- Image placeholder: Horizontal timeline chart showing prioritized fixes for App X: scam allegations as immediate (1-2 weeks), functionality and subscription improvements short-term (2-4 weeks), billing and cancellation fixes medium-term (1-2 months). -->
+![App X action plan timeline for prioritized fixes](images/fig-7-action-plan-timeline/image.webp)
+*Fig. 7. Horizontal timeline chart showing prioritized fixes for App X: scam allegations as immediate (1-2 weeks), functionality and subscription improvements short-term (2-4 weeks), billing and cancellation fixes medium-term (1-2 months).*
 
 The roadmap organizes fixes by urgency:
 
