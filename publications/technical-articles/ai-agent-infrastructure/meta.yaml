@@ -2,7 +2,7 @@ id: ai-agent-infrastructure
 type: article
 title: "Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems"
 date: 2025-10
-company: woolf
+company: osnova
 tags: [ai-agents, architecture, infrastructure, mcp, a2a]
 cluster_ids: [ai-agents-infrastructure]
 related_publications: [google-adk-startup-guide, mvp-llm-agent-adk, jambonz-voice-ai, lm-studio-local-llm-guide]

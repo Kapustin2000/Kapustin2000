@@ -188,4 +188,4 @@ Docling isn't just another digital tool — it's a philosophical shift in how we
 
 ---
 
-*Originally published on [Habr](https://habr.com/en/articles/935584/).*
+[← Back to articles](../README.md)

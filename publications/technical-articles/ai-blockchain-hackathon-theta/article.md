@@ -85,4 +85,4 @@ We proved that a team can function as a unified whole even across distances, ove
 
 ---
 
-*Originally published on [Habr](https://habr.com/en/articles/947040/), [Hashnode](https://kapustinomm.hashnode.dev/my-first-ai-and-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-berlin), and [Medium](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625).*
+[← Back to articles](../README.md)

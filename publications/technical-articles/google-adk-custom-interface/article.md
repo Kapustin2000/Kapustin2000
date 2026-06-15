@@ -198,4 +198,4 @@ The most important thing is that you are not limited. The LLM interface is not a
 
 ---
 
-*Originally published on [Habr](https://habr.com/en/articles/933804/).*
+[← Back to articles](../README.md)

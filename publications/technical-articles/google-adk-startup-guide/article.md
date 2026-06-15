@@ -94,4 +94,4 @@ Why is this guide more than documentation? Because it establishes a common langu
 
 ---
 
-*Originally published on [Habr](https://habr.com/en/articles/953592/).*
+[← Back to articles](../README.md)

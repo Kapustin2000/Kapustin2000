@@ -11,6 +11,8 @@
 
 **Full text:** [article.md](article.md)
 
+![Cover](images/cover/image.png)
+
 A comprehensive guide to integrating Google ADK into custom interfaces: code examples, session management, FastAPI integration, deployment on Vertex AI, and agent architecture. This step-by-step tutorial covers everything from basic agent creation to production-ready implementations with custom backends and state management.
 
 Meta: [meta.yaml](meta.yaml)

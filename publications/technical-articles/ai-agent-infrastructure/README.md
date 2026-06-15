@@ -4,7 +4,7 @@
 
 *October 2025*
 
-**Developed at:** [Woolf](../../../experience/woolf/)
+**Developed at:** [Osnova GmbH](../../../experience/osnova/)
 
 **Stats:** 10,327 views — Medium: 149, Habr: 10.2K, Hashnode: 11
 

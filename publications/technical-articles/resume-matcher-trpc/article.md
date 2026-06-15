@@ -120,4 +120,4 @@ But there's no silver bullet. With more time, I would improve error handling aro
 
 ---
 
-*Originally published on [Habr](https://habr.com/en/articles/943306/). Full source code on [GitHub](https://github.com/Kapustin2000/resume-matcher).*
+[← Back to articles](../README.md)

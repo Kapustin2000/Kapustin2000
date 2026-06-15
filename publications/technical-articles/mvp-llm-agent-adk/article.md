@@ -91,4 +91,4 @@ But it's important to remember: humans remain at the center of the process. An e
 
 ---
 
-*Originally published on [Habr](https://habr.com/en/articles/942696/).*
+[← Back to articles](../README.md)
