@@ -1,4 +1,4 @@
-[← All Experience](README.md)
+[← All Experience](../README.md)
 
 # Role · Company
 *Start Month Year – End Month Year · Duration*
@@ -20,10 +20,16 @@
 
 - [Project Name](../../projects/project-folder/)
 
+## Related Publications
+
+- [Publication Title](../../publications/category/publication-folder/)
+
 ## References
 
 - [Recommendations from colleagues](reference.md)
 
 ---
 
-[← All Experience](README.md)
+Meta: [meta.yaml](meta.yaml)
+
+[← All Experience](../README.md)

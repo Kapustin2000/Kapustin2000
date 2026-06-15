@@ -3,7 +3,7 @@ type: company
 name: Advanced Scientific Research Projects (ASRP)
 role: Co-Founder & CTO
 period: 2023-04 - present
-location: [Florida, USA, Baikonur, Kazakhstan]
+location: ["Florida, USA", "Baikonur, Kazakhstan"]
 stack: [Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL, Nginx]
 relations:
   projects: [arcanum12th, asrp-media, asrp-tech, asrp-science, gfs]

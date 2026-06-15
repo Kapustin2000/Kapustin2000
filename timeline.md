@@ -66,7 +66,7 @@
 | When | What | Type |
 |------|------|------|
 | Jan | [Banchenko's Mnemonic Dream Synchronization Method](publications/research-publications/banchenko-dream-synchronization/) | Publication |
-| May | [The Economics of Dreams](publications/popular-science/economics-of-dreams/) | Publication |
+| May | [The Economics of Dreams](publications/media-mentions/economics-of-dreams/) | Media mention |
 | Jun | [Forecasting Events Using Banchenko-Technology](publications/research-publications/banchenko-forecasting/) | Publication |
 | Jul | [WeAreDevelopers World Congress Europe](conferences/wearedevelopers-2024/) | Conference |
 | Oct | [From Pet Project to Scientific Research](publications/popular-science/pet-project-scientific-research-2024/) | Publication |

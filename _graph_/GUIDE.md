@@ -61,6 +61,7 @@ Publication subcategories also have their own `meta.yaml`:
 |----------|-------|
 | technical articles | `publications/technical-articles/meta.yaml` |
 | popular science | `publications/popular-science/meta.yaml` |
+| media mentions | `publications/media-mentions/meta.yaml` |
 | research publications | `publications/research-publications/meta.yaml` |
 | academic research | `publications/academic-research/meta.yaml` |
 

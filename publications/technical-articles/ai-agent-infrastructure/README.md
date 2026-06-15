@@ -1,10 +1,4 @@
-[← Technical Articles](../README.md)
-
 # Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems
-
-*October 2025*
-
-**Developed at:** [Osnova GmbH](../../../experience/osnova/)
 
 **Stats:** 10,327 views — Medium: 149, Habr: 10.2K, Hashnode: 11
 
@@ -15,11 +9,3 @@ How to move from a messy AI monorepo to a scalable agent ecosystem — with real
 **Full text:** [article.md](article.md)
 
 ![Cover](images/cover/image.jpg)
-
-**Tags:** ai, llm, agents
-
----
-
-Meta: [meta.yaml](meta.yaml)
-
-[← Technical Articles](../README.md)

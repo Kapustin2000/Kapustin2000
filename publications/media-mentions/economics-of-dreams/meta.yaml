@@ -1,0 +1,13 @@
+id: economics-of-dreams
+type: media_mention
+title: "The Economics of Dreams: How Our Dreams Influence Global Markets"
+date: 2024-05
+outlet: "Аргументы и факты — Самара"
+source_url: "https://samara.aif.ru/society/ekonomika-snovideniy-kak-nashi-sny-vliyayut-na-mirovye-rynki"
+language: ru
+company: asrp
+mention_context: "External media interview with Denis Banchenko that mentions Mykhailo Kapustin as ASRP technical director and co-developer of an AI model for finding shared elements in synchronized dreams."
+tags: [media-mention, dreams, economics, consciousness, dream-synchronization]
+cluster_ids: [lucid-dreaming-consciousness, gfs-forecasting-blockchain]
+related_publications: [banchenko-forecasting, banchenko-dream-synchronization]
+status: published

@@ -3,6 +3,7 @@
 # Senior Back-end Developer · Provectus
 *March 2021 – July 2021 · 4 mos (Contract)*
 
+**Location:** San Francisco, California
 **Stack:** PHP, Laravel, Node.js, JavaScript, Docker, JIRA
 
 ## Context

@@ -1,0 +1,10 @@
+id: media-mentions
+type: index
+description: "External media coverage and third-party articles mentioning Mykhailo Kapustin or his work"
+entities:
+  - id: economics-of-dreams
+    type: media_mention
+    date: 2024-05
+navigation:
+  parent: publications
+  siblings: [technical-articles, popular-science, research-publications, academic-research]

@@ -20,15 +20,15 @@ Personally designed and built the NetSapiens and Ultravox platform layers end to
 Built core AI platform and SaaS operations layers for dynamic agents, email workflows, scheduling, and tenant-safe execution.
 `Python` `FastAPI` `React` `PostgreSQL` `Azure`
 
-### [Co-Founder & CTO @ ASRP](asrp/) — AI × Consciousness Research
-*Apr 2023 – Present · 3+ yrs*
-Built a transatlantic research holding from scratch: 10+ products across EdTech, AI, media, and blockchain. Led end-to-end architecture, team building, and product strategy.
-`Vue` `Nuxt` `LangChain` `Docker` `Node.js`
-
 ### [Sr. AI/ML Engineer @ Woolf](woolf/) — EdTech AI
 *Apr 2025 – Sep 2025 · 6 mos*
 Designed and delivered an LLM-agent for educational assessment using Google ADK and Vertex AI. First AI/ML role transitioning from web engineering into AI.
 `Google ADK` `Vertex AI` `Gemini` `TypeScript` `Python`
+
+### [Co-Founder & CTO @ ASRP](asrp/) — AI × Consciousness Research
+*Apr 2023 – Present · 3+ yrs*
+Built a transatlantic research holding from scratch: 10+ products across EdTech, AI, media, and blockchain. Led end-to-end architecture, team building, and product strategy.
+`Vue` `Nuxt` `LangChain` `Docker` `Node.js`
 
 ---
 
@@ -47,7 +47,7 @@ Designed and delivered an LLM-agent for educational assessment using Google ADK 
 | 2020-02 – 2020-07 | Full Stack Dev | [Ephyros](ephyros/) | Kyiv, Ukraine | 6 mos | PHP, Laravel, Vue |
 | 2018-09 – 2020-02 | Full Stack Dev | [HYS Enterprise](hys-enterprise/) | Odesa, Ukraine | 1 yr 6 mos | WordPress, React |
 | 2018-01 – 2018-09 | Full Stack Dev | [Top Agent](top-agent/) | Odesa, Ukraine | 9 mos | PHP |
-| 2017-07 – 2017-12 | Full Stack Dev | [PHP-academy](php-academy/) | Odesa, Ukraine | 6 mos | PHP |
+| 2017-07 – 2017-12 | Full Stack Dev | [PHP-academy](php-academy/) | Kyiv, Ukraine | 6 mos | PHP |
 | 2016-06 – 2016-11 | Backend Dev | [SuperMediaAds](super-media-ads/) | — | 6 mos | PHP |
 
 ╳ LAB325 + MOB.325 ran concurrently (dual IC + Lead roles in same company group)

@@ -3,6 +3,7 @@
 # Senior Back-end Developer · LAB325
 *July 2021 – April 2023 · 1 yr 10 mos*
 
+**Location:** Ukraine
 **Stack:** Node.js, PostgreSQL, GraphQL, Docker, ClickHouse
 
 ## Context

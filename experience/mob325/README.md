@@ -3,6 +3,7 @@
 # Team Lead & Senior Back-end Developer · MOB.325
 *July 2021 – April 2023 · 1 yr 10 mos*
 
+**Location:** Ukraine
 **Stack:** Node.js, Docker, PostgreSQL, GraphQL
 
 ## Context

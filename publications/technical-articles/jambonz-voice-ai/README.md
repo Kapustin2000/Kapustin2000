@@ -1,8 +1,4 @@
-[← Technical Articles](../README.md)
-
 # Voice AI Systems Powered by Jambonz: From Telephony to Human–Machine Dialogue
-
-*October 2025*
 
 **Stats:** 7,603 views — Medium: 111, Habr: 7.5K, Hashnode: 3
 
@@ -13,11 +9,3 @@ An exploration of how telephony evolves into programmable Voice AI. This article
 **Full text:** [article.md](article.md)
 
 ![Cover](images/cover/image.png)
-
-**Tags:** llm, communication, agents, ai, jambonz
-
----
-
-Meta: [meta.yaml](meta.yaml)
-
-[← Technical Articles](../README.md)

@@ -3,6 +3,7 @@
 # Web Full Stack Developer · Ephyros
 *February 2020 – July 2020 · 6 mos*
 
+**Location:** Kyiv, Ukraine
 **Stack:** PHP, Laravel, Vue.js, PostgreSQL
 
 ## Context

@@ -3,6 +3,7 @@
 # Co-Founder & CTO · Advanced Scientific Research Projects (ASRP)
 *April 2023 – Present · 3+ yrs*
 
+**Location:** Florida, USA / Baikonur, Kazakhstan
 **Stack:** Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL, Nginx
 
 ## Context
@@ -33,7 +34,7 @@ Co-founded ASRP, a transatlantic research holding company focused on AI, neurosc
 ## Related Publications
 
 - [AI and Lucid Dreaming: Exploring New Opportunities](../../publications/popular-science/ai-lucid-dreaming/)
-- [The Economics of Dreams](../../publications/popular-science/economics-of-dreams/)
+- [The Economics of Dreams](../../publications/media-mentions/economics-of-dreams/) — media mention
 - [Lucid Dreams and VR: Swiss Olympic Team](../../publications/popular-science/lucid-dreams-vr-olympic/)
 - [BCI in HR: Changing Recruitment](../../publications/popular-science/bci-hr-recruitment/)
 - [From Pet Project to Scientific Research](../../publications/popular-science/pet-project-scientific-research-2024/)

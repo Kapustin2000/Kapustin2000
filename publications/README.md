@@ -2,7 +2,7 @@
 
 # Publications & Articles
 
-21 articles · 10 technical · 3 research · 1 academic · 7 popular science · 3 platforms
+21 entries · 10 technical articles · 6 popular science articles · 3 research papers · 1 academic paper · 1 media mention
 
 ---
 
@@ -32,8 +32,8 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | AI Agents & Infrastructure | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) · [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) · [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) · [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) |
 | Applied AI & NLP | [Docling in Working with Texts](technical-articles/docling-text-language/) · [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) · [App Store Review Analysis](technical-articles/app-store-review-analysis/) |
 | Local & Voice AI | [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) |
-| GFS, Forecasting & Blockchain | [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) · [Economics of Dreams](popular-science/economics-of-dreams/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) |
-| Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](popular-science/economics-of-dreams/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) |
+| GFS, Forecasting & Blockchain | [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) · [Economics of Dreams](media-mentions/economics-of-dreams/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) |
+| Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](media-mentions/economics-of-dreams/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) |
 | Neurotechnology & Future Interfaces | [Future Technologies](popular-science/future-technologies-innovation/) · [BCI in HR](popular-science/bci-hr-recruitment/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
 | Software Market Research | [Software Development Tools in the Job Market](academic-research/software-development-tools/) |
 
@@ -52,7 +52,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Dec 2024 | [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [BCI in HR](popular-science/bci-hr-recruitment/) |
 | Oct 2024 | [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) |
 | Jun 2024 | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
-| May 2024 | [Economics of Dreams](popular-science/economics-of-dreams/) |
+| May 2024 | [Economics of Dreams](media-mentions/economics-of-dreams/) |
 | Jan 2024 | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
 | Oct 2023 | [Future Technologies](popular-science/future-technologies-innovation/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) |
 | Jun 2023 | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) |
@@ -90,8 +90,8 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | event_context | [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
 | builds_on | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
 | builds_on | [Banchenko Forecasting](research-publications/banchenko-forecasting/) | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
-| applies_research | [Economics of Dreams](popular-science/economics-of-dreams/) | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
-| applies_research | [Economics of Dreams](popular-science/economics-of-dreams/) | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
+| applies_research | [Economics of Dreams](media-mentions/economics-of-dreams/) | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
+| applies_research | [Economics of Dreams](media-mentions/economics-of-dreams/) | [Dream Synchronization](research-publications/banchenko-dream-synchronization/) |
 | builds_on | [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) |
 | same_series | [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) | [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) |
 | builds_on | [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) |
@@ -138,10 +138,15 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | 1 | [Lucid Dreams and VR: Swiss Olympic Team](popular-science/lucid-dreams-vr-olympic/) | Dec 2024 |
 | 2 | [BCI in HR: Changing Recruitment](popular-science/bci-hr-recruitment/) | Dec 2024 |
 | 3 | [From Pet Project to Scientific Research](popular-science/pet-project-scientific-research-2024/) | Oct 2024 |
-| 4 | [The Economics of Dreams](popular-science/economics-of-dreams/) | May 2024 |
-| 5 | [From Pet Project to Scientific Research](popular-science/pet-project-scientific-research-2023/) | Oct 2023 |
-| 6 | [Future Technologies: A Glimpse into Innovation](popular-science/future-technologies-innovation/) | Oct 2023 |
-| 7 | [AI and Lucid Dreaming: Exploring New Opportunities](popular-science/ai-lucid-dreaming/) | Jun 2023 |
+| 4 | [From Pet Project to Scientific Research](popular-science/pet-project-scientific-research-2023/) | Oct 2023 |
+| 5 | [Future Technologies: A Glimpse into Innovation](popular-science/future-technologies-innovation/) | Oct 2023 |
+| 6 | [AI and Lucid Dreaming: Exploring New Opportunities](popular-science/ai-lucid-dreaming/) | Jun 2023 |
+
+### Media Mentions
+
+| # | Mention | Outlet | Date |
+|---|---------|--------|------|
+| 1 | [The Economics of Dreams](media-mentions/economics-of-dreams/) | Аргументы и факты — Самара | May 2024 |
 
 ---
 

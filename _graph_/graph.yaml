@@ -4,7 +4,7 @@
 # Navigation protocol: see GUIDE.md in this directory.
 
 version: 1
-generated: 2026-06-12
+generated: 2026-06-15
 
 person:
   id: kapustin2000
@@ -75,7 +75,14 @@ publication_categories:
     label: "Popular Science"
     path: "publications/popular-science/"
     parent: publications
-    count: 7
+    count: 6
+
+  - id: media-mentions
+    type: index
+    label: "Media Mentions"
+    path: "publications/media-mentions/"
+    parent: publications
+    count: 1
 
   - id: research-publications
     type: index
@@ -388,12 +395,6 @@ publications:
       company: asrp
       tags: [bci, hr, neurotechnology]
 
-    - id: economics-of-dreams
-      title: "The Economics of Dreams"
-      date: 2024-05
-      company: asrp
-      tags: [dreams, economics, consciousness]
-
     - id: future-technologies-innovation
       title: "Future Technologies: A Glimpse into Innovation"
       date: 2023-10
@@ -417,6 +418,14 @@ publications:
       date: 2024-10
       company: asrp
       tags: [pet-project, research, innovation]
+
+  media_mentions:
+    - id: economics-of-dreams
+      title: "The Economics of Dreams"
+      date: 2024-05
+      outlet: "Аргументы и факты — Самара"
+      company: asrp
+      tags: [media-mention, dreams, economics, consciousness, dream-synchronization]
 
   research_papers:
     - id: banchenko-dream-synchronization

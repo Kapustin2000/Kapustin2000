@@ -32,6 +32,12 @@ entity_types:
     optional: [platform, links, company, tags, cluster_ids, related_publications, read_count, status]
     relations: [company, projects, publications]
 
+  media_mention:
+    description: External media coverage or third-party article mentioning the profile subject
+    required: [id, type, title, date, outlet]
+    optional: [source_url, language, mention_context, company, tags, cluster_ids, related_publications, status]
+    relations: [company, publications]
+
   research_paper:
     description: Academic or scientific publication
     required: [id, type, title, date, journal]

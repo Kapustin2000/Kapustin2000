@@ -133,7 +133,7 @@ clusters:
           projects: [asrp-science]
       - id: publications-layer
         name: "Technical & Research Publications"
-        description: "22 articles across technical, research, academic, and popular science categories bridging the gap between deep tech and public understanding."
+        description: "21 entries across technical, research, academic, popular science, and media mention categories bridging deep tech and public understanding."
         children:
           - id: ai-agents-infrastructure
             name: "AI Agents & Infrastructure"

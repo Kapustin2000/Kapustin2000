@@ -8,39 +8,39 @@ entities:
   - id: osnova
     type: company
     period: 2025-10 - 2026-03
+  - id: woolf
+    type: company
+    period: 2025-04 - 2025-09
   - id: asrp
     type: company
     period: 2023-04 - present
+  - id: mob325
+    type: company
+    period: 2021-07 - 2023-04
+  - id: lab325
+    type: company
+    period: 2021-07 - 2023-04
   - id: coelix
     type: company
     period: 2020-08 - 2021-04
+  - id: provectus
+    type: company
+    period: 2021-03 - 2021-07
   - id: ephyros
     type: company
     period: 2020-02 - 2020-07
   - id: hys-enterprise
     type: company
     period: 2018-09 - 2020-02
-  - id: lab325
-    type: company
-    period: 2021-07 - 2023-04
-  - id: mob325
-    type: company
-    period: 2021-07 - 2023-04
-  - id: php-academy
-    type: company
-    period: 2017-07 - 2017-12
-  - id: provectus
-    type: company
-    period: 2021-04 - 2021-07
-  - id: super-media-ads
-    type: company
-    period: 2016-06 - 2016-11
   - id: top-agent
     type: company
     period: 2018-01 - 2018-09
-  - id: woolf
+  - id: php-academy
     type: company
-    period: 2025-04 - 2025-09
+    period: 2017-07 - 2017-12
+  - id: super-media-ads
+    type: company
+    period: 2016-06 - 2016-11
 navigation:
   parent: /
   siblings: [projects, publications, conferences, skills, education]

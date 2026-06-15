@@ -3,6 +3,7 @@
 # Senior AI/ML Engineer · Woolf
 *April 2025 – September 2025 · 6 mos (Contract)*
 
+**Location:** San Francisco, California
 **Stack:** Google ADK, Vertex AI, Gemini, TypeScript, Python
 
 ## Context

@@ -1,13 +1,16 @@
 id: publications
 type: index
-description: "Publications and articles — 21 total across 4 categories"
+description: "Publications, articles, research papers, and media mentions — 21 total across 5 categories"
 categories:
   - path: technical-articles
     label: Technical Articles
     count: 10
   - path: popular-science
     label: Popular Science
-    count: 7
+    count: 6
+  - path: media-mentions
+    label: Media Mentions
+    count: 1
   - path: research-publications
     label: Research Publications
     count: 3
@@ -52,7 +55,7 @@ entities:
     type: article
     date: 2024-12
   - id: economics-of-dreams
-    type: article
+    type: media_mention
     date: 2024-05
   - id: future-technologies-innovation
     type: article
