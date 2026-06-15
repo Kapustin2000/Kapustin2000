@@ -1,7 +1,19 @@
 id: projects
 type: index
-description: "Software projects and products — 14 projects (5 active, 9 completed)"
+description: "Software projects and products — 18 projects (5 active, 13 completed)"
 entities:
+  - id: wirebee-phone-platform
+    type: project
+    status: completed
+  - id: ai-org
+    type: project
+    status: completed
+  - id: cogit-saas
+    type: project
+    status: completed
+  - id: proorder-ai
+    type: project
+    status: completed
   - id: ai-cv-matcher
     type: project
     status: completed

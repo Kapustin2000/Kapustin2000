@@ -2,23 +2,28 @@
 
 # Professional Experience
 
-11 roles · 9+ years · 4 leadership positions · 4 countries
+13 roles · 10+ years · 4 leadership positions · 5 countries
 
-Global footprint: USA · Ukraine · Israel · Kazakhstan
+Global footprint: Germany · USA · Ukraine · Israel · Kazakhstan
 
 ---
 
 ## Featured
 
+### [Realtime Communications Engineer @ WireBee](wirebee/) — Telephony, Voice AI, Realtime Ops
+*Nov 2025 – Jun 2026 · 8 mos*
+Personally designed and built the NetSapiens and Ultravox platform layers end to end inside a realtime phone system, including queue, device, supervisor, and voice-agent flows.
+`TypeScript` `Node.js` `Redis` `WebSocket` `Jambonz`
+
+### [AI Platform Engineer @ Osnova](osnova/) — Multi-Tenant Agent SaaS
+*Oct 2025 – Mar 2026 · 6 mos*
+Built core AI platform and SaaS operations layers for dynamic agents, email workflows, scheduling, and tenant-safe execution.
+`Python` `FastAPI` `React` `PostgreSQL` `Azure`
+
 ### [Co-Founder & CTO @ ASRP](asrp/) — AI × Consciousness Research
 *Apr 2023 – Present · 3+ yrs*
 Built a transatlantic research holding from scratch: 10+ products across EdTech, AI, media, and blockchain. Led end-to-end architecture, team building, and product strategy.
 `Vue` `Nuxt` `LangChain` `Docker` `Node.js`
-
-### [Team Lead @ MOB.325](mob325/) — Smart TV & Entertainment
-*Jul 2021 – Apr 2023 · 1 yr 10 mos*
-Led cross-functional teams building high-load backend systems for consumer products. Delivered 3 projects concurrently (IzziFit, Hark, Lill). Ran concurrently with LAB325 IC role.
-`Node.js` `GraphQL` `Docker` `PostgreSQL`
 
 ### [Sr. AI/ML Engineer @ Woolf](woolf/) — EdTech AI
 *Apr 2025 – Sep 2025 · 6 mos*
@@ -31,6 +36,8 @@ Designed and delivered an LLM-agent for educational assessment using Google ADK 
 
 | Period | Role | Company | Location | Duration | Stack |
 |--------|------|---------|----------|----------|-------|
+| 2025-11 – 2026-06 | Realtime Comms Engineer | [WireBee](wirebee/) | Shaker Heights, Ohio | 8 mos | TypeScript, Node.js, NetSapiens |
+| 2025-10 – 2026-03 | AI Platform Engineer | [Osnova](osnova/) | Leipzig, Germany | 6 mos | Python, FastAPI, Azure |
 | 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | San Francisco, California | 6 mos | Google ADK, Vertex AI |
 | 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | Florida, USA / Baikonur, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
 | 2021-07 – 2023-04 | Team Lead | [MOB.325](mob325/) | Ukraine | 1 yr 10 mos | Node.js, Docker, GraphQL |
@@ -44,6 +51,7 @@ Designed and delivered an LLM-agent for educational assessment using Google ADK 
 | 2016-06 – 2016-11 | Backend Dev | [SuperMediaAds](super-media-ads/) | — | 6 mos | PHP |
 
 ╳ LAB325 + MOB.325 ran concurrently (dual IC + Lead roles in same company group)
+╳ OSNOVA + WireBee were client engagements delivered alongside the ongoing ASRP founder role
 
 ---
 
@@ -51,7 +59,8 @@ Designed and delivered an LLM-agent for educational assessment using Google ADK 
 
 | Domain | Companies | Key Stack |
 |--------|-----------|-----------|
-| AI / EdTech / Research | ASRP, Woolf | ADK, Vertex AI, LangChain, Gemini |
+| AI Platforms / SaaS / EdTech | Osnova, Woolf, ASRP | FastAPI, OpenAI, ADK, LangChain, Azure |
+| Realtime Communications / Voice AI | WireBee | Node.js, Redis, NATS, WebSocket, Jambonz |
 | Tech Leadership & Consulting | MOB.325, LAB325, Coelix | Node.js, GraphQL, Docker, Laravel |
 | Enterprise Software | Provectus, Ephyros, HYS Enterprise | PHP, Laravel, WordPress, React |
 | Early Career / Freelance | Top Agent, PHP-academy, SuperMediaAds | PHP |
@@ -62,9 +71,10 @@ Designed and delivered an LLM-agent for educational assessment using Google ADK 
 
 | Country | Companies |
 |---------|-----------|
+| Germany | Osnova (Leipzig) |
 | Ukraine | HYS Enterprise (Odesa), Top Agent (Odesa), PHP-academy (Kyiv), MOB.325, LAB325, Ephyros (Kyiv) |
 | Israel | Coelix (Tel Aviv) |
-| USA | ASRP (Florida), Provectus (San Francisco), Woolf (San Francisco) |
+| USA | WireBee (Ohio), ASRP (Florida), Provectus (San Francisco), Woolf (San Francisco) |
 | Kazakhstan | ASRP (Baikonur) |
 
 ---
@@ -82,6 +92,7 @@ Designed and delivered an LLM-agent for educational assessment using Google ADK 
 2023 ── Vue, Nuxt, LangChain, Docker, Node.js, PostgreSQL
 2024 ── Vue, Nuxt, LangChain, Docker
 2025 ── Google ADK, Vertex AI, Gemini, TypeScript, Python
+2026 ── FastAPI, OpenAI, Azure, Redis, NATS, WebSocket, Jambonz, NetSapiens, Ultravox
 ```
 
 PHP (5 yrs) → Laravel (2 yrs) → Node.js (4 yrs) → Vue/Nuxt (3 yrs) → AI/ML (2025)

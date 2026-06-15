@@ -3,7 +3,7 @@
 # AI and Lucid Dreaming: Exploring New Opportunities
 *June 2023 — Tproger*
 
-**Developed at:** [ASRP](../../experience/asrp/)
+**Developed at:** [ASRP](../../../experience/asrp/)
 
 **Link:** [Tproger](https://tproger.ru/articles/otkrojte-dver-v-mir-snovidenij-iskusstvennyj-intellekt-osoznannye-snovideniya-i-novyj-rynok-vozmozhnostej)
 

@@ -11,7 +11,7 @@
 
 When Google Cloud releases the "Startup Technical Guide: AI Agents" — this is not just another documentation drop, but a landmark event. Why? Because there is a lot of hype around AI agents right now, but until now there has been no comprehensive technical reference point.
 
-This summer I already dove into the topic and even wrote an article on Habr about Google ADK and integrating an AI agent into a custom UI. But the new guide from Google is on a completely different level: 64 pages covering the entire journey from idea to production.
+This summer I already dove into the topic and even wrote [an article about Google ADK and integrating an AI agent into a custom UI](../google-adk-custom-interface/). But the new guide from Google is on a completely different level: 64 pages covering the entire journey from idea to production.
 
 What makes it stand out? First, scale and depth — Google has invested the expertise of its teams to describe everything from architecture to AgentOps. Second, a focus on practical reliability — step by step, it describes how to turn an agent prototype into a robust system with monitoring, testing, and security. Third, a focus on the Google Cloud ecosystem — the guide shows how to use Vertex AI, Gemini, the Agent Development Kit (ADK), and other tools. The principles are also applicable more broadly — they will be useful to any LLM agent developer, even on alternative platforms.
 
@@ -90,7 +90,7 @@ Why is this guide more than documentation? Because it establishes a common langu
 ## Sources
 
 - [Startup Technical Guide: Building AI Agents with Google Cloud](https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf)
-- [How to Integrate Google ADK with a Custom Interface](https://habr.com/en/articles/933804/)
+- [How to Integrate Google ADK with a Custom Interface](../google-adk-custom-interface/)
 
 ---
 

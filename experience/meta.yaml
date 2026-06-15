@@ -1,7 +1,13 @@
 id: experience
 type: index
-description: "Professional work experience — 11 roles across 9+ years"
+description: "Professional work experience — 13 roles across 10+ years"
 entities:
+  - id: wirebee
+    type: company
+    period: 2025-11 - 2026-06
+  - id: osnova
+    type: company
+    period: 2025-10 - 2026-03
   - id: asrp
     type: company
     period: 2023-04 - present

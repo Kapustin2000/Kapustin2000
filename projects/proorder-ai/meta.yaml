@@ -1,0 +1,7 @@
+id: proorder-ai
+type: project
+name: ProOrder AI — Email-to-ERP Order Automation
+status: completed
+period: 2025-12 - 2026-03
+company: osnova
+stack: [Python, FastAPI, SQLite, Microsoft Graph API, Business Central API]

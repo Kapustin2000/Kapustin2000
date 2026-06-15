@@ -15,8 +15,8 @@ ASRP is an international research group building a technology ecosystem across A
 | Project | Type | Status |
 |---------|------|--------|
 | [Arcanum12th](../arcanum12th/) | Education platform | Active |
-| [ASRP Media](../asrp.media/) | Media & analytics | Completed |
-| [ASRP.science](../asrp.science/) | Scientific journal | Active |
+| [ASRP Media](../asrp-media/) | Media & analytics | Completed |
+| [ASRP.science](../asrp-science/) | Scientific journal | Active |
 | Global Foresight System | Predictive analytics | Active |
 | Global Mental System | Cognitive synchronization | Development |
 | ASRP.drift (PlayOne) | Neurointegration platform | Development |

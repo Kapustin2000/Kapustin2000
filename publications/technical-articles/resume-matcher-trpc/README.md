@@ -3,7 +3,7 @@
 # Building a Resume Matcher with tRPC, NLP, and Vertex AI
 *September 2025*
 
-**Developed at:** [Woolf](../../experience/woolf/)
+**Developed at:** [Woolf](../../../experience/woolf/)
 
 **Stats:** 23,997 views — Medium: 13, Habr: 24K, Hashnode: 4
 

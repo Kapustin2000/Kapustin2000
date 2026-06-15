@@ -4,7 +4,7 @@
 
 *February 2026*
 
-**Developed at:** [ASRP](../../experience/asrp/)
+**Developed at:** [ASRP](../../../experience/asrp/)
 
 **Stats:** 38,612 views — Medium: 1K, Habr: 37.6K, Hashnode: 6
 

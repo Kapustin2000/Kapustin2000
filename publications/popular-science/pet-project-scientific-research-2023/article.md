@@ -20,6 +20,8 @@ At first, this seemed like an idea that would remain within the realm of amateur
 
 They developed a new computer model — the "Kapustin Dream Match Search AI Model" — for identifying correspondences between dreams based on artificial intelligence. This model became the key element of their research.
 
+For a closer look at the model's principles, see the earlier article [AI and Lucid Dreaming: Exploring New Opportunities](../ai-lucid-dreaming/).
+
 ## Hypotheses and Results
 
 The researchers formulated several hypotheses. The first, non-directional hypothesis proposed that dream synchronization through shared synchronous actions and neuroprocesses would lead to a higher degree of similarity in individual dream content compared to random coincidence.

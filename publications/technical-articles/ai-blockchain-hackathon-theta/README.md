@@ -3,7 +3,7 @@
 # My First AI & Blockchain Hackathon: Building the Global Forecasting System at Theta EuroCon in Berlin
 *September 2025*
 
-**Developed at:** [ASRP](../../experience/asrp/)
+**Developed at:** [ASRP](../../../experience/asrp/)
 
 **Stats:** 5,304 views — Medium: 24, Habr: 5.3K, Hashnode: 8
 

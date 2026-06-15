@@ -1,0 +1,37 @@
+id: technical-articles
+type: index
+description: "Technical articles — AI agents, infrastructure, NLP, local LLMs, and applied engineering case studies"
+entities:
+  - id: lm-studio-local-llm-guide
+    type: article
+    date: 2026-02
+  - id: ai-agent-infrastructure
+    type: article
+    date: 2025-10
+  - id: jambonz-voice-ai
+    type: article
+    date: 2025-10
+  - id: app-store-review-analysis
+    type: article
+    date: 2025-10
+  - id: google-adk-startup-guide
+    type: article
+    date: 2025-10
+  - id: ai-blockchain-hackathon-theta
+    type: article
+    date: 2025-09
+  - id: resume-matcher-trpc
+    type: article
+    date: 2025-09
+  - id: mvp-llm-agent-adk
+    type: article
+    date: 2025-09
+  - id: docling-text-language
+    type: article
+    date: 2025-08
+  - id: google-adk-custom-interface
+    type: article
+    date: 2025-07
+navigation:
+  parent: publications
+  siblings: [popular-science, research-publications, academic-research]

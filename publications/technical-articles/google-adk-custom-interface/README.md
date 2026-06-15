@@ -3,7 +3,7 @@
 # How to Integrate Google ADK with a Custom Interface
 *July-August 2025*
 
-**Developed at:** [Woolf](../../experience/woolf/)
+**Developed at:** [Woolf](../../../experience/woolf/)
 
 **Stats:** 10,432 views — Medium: 2.6K, Habr: 7.8K, Hashnode: 52
 

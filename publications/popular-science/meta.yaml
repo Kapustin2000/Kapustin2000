@@ -1,0 +1,28 @@
+id: popular-science
+type: index
+description: "Popular science and technology articles translating research into public-facing narratives"
+entities:
+  - id: lucid-dreams-vr-olympic
+    type: article
+    date: 2024-12
+  - id: bci-hr-recruitment
+    type: article
+    date: 2024-12
+  - id: pet-project-scientific-research-2024
+    type: article
+    date: 2024-10
+  - id: economics-of-dreams
+    type: article
+    date: 2024-05
+  - id: pet-project-scientific-research-2023
+    type: article
+    date: 2023-10
+  - id: future-technologies-innovation
+    type: article
+    date: 2023-10
+  - id: ai-lucid-dreaming
+    type: article
+    date: 2023-06
+navigation:
+  parent: publications
+  siblings: [technical-articles, research-publications, academic-research]

@@ -13,7 +13,7 @@
 Live pitch presentation on AI + blockchain at the European Theta Network Conference. Built a Global Forecasting System during the hackathon.
 `blockchain` `ai` `hackathon`
 
-### [WeAreDevelopers World Congress 2024](WeAreDevelopers/) — Attendee
+### [WeAreDevelopers World Congress 2024](wearedevelopers-2024/) — Attendee
 *Jul 2024 · Berlin, Germany*
 Europe's largest developer congress. Explored software development trends, AI advancements, and developer community insights.
 `software-development` `ai` `community`
@@ -25,7 +25,7 @@ Europe's largest developer congress. Explored software development trends, AI ad
 | Conference | Location | Date | Type |
 |------------|----------|------|------|
 | [THETA EuroCon](theta-eurocon-2025/) | Berlin, Germany | Sep 2025 | Speaker, Hackathon |
-| [WeAreDevelopers](WeAreDevelopers/) | Berlin, Germany | Jul 2024 | Attendee |
+| [WeAreDevelopers](wearedevelopers-2024/) | Berlin, Germany | Jul 2024 | Attendee |
 
 ---
 

@@ -118,4 +118,6 @@ Graduate research: optimal control system for a vacuum evaporation plant in the 
 
 ---
 
+Meta: [meta.yaml](meta.yaml)
+
 [← Back to Profile](../README.md)

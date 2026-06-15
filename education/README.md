@@ -13,7 +13,7 @@
 - **Level:** Master's Degree
 
 **Academic Documentation:**
-- [Diploma & Academic Records](telecommunication/telecomunication-education.pdf) — Complete diploma with grades and academic achievements
+- [Diploma & Academic Records](telecommunication/telecommunication-education.pdf) — Complete diploma with grades and academic achievements
 
 ---
 

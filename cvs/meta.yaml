@@ -1,0 +1,6 @@
+id: cvs
+type: index
+description: "Curriculum vitae and resume downloads"
+navigation:
+  parent: /
+  siblings: [experience, projects, publications, conferences, skills, education]

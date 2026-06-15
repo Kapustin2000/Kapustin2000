@@ -1,0 +1,9 @@
+id: osnova
+type: company
+name: Osnova GmbH
+role: AI Platform Engineer
+period: 2025-10 - 2026-03
+location: "Leipzig, Germany"
+stack: [Python, FastAPI, TypeScript, React, PostgreSQL, Azure, OpenAI]
+relations:
+  projects: [ai-org, cogit-saas, proorder-ai]

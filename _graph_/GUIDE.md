@@ -23,7 +23,7 @@ graph.yaml ──→ pick entity ──→ entity/meta.yaml ──→ entity/REA
 ```
 
 ### Step 1: `_graph_/graph.yaml`
-- Understand the full scope: person, companies, projects, publications, conferences, education
+- Understand the full scope: person, navigation, companies, projects, publications, conferences, education
 - Follow `relations` to discover connections between entities
 - Use `concepts.yaml` to understand the intellectual architecture (consciousness → AI → education → economy)
 - Use dates to build timelines
@@ -34,6 +34,10 @@ graph.yaml ──→ pick entity ──→ entity/meta.yaml ──→ entity/REA
 
 ### Step 3: `<section>/<entity>/README.md`
 - Read human context: achievements, descriptions, cross-links
+
+### Step 4: Root Documents
+- Use `navigation.root_documents` in `graph.yaml` for standalone files exposed from the root README
+- These documents live at root paths such as `timeline.md` and `references.md` and do not have folder-local `meta.yaml`
 
 ## Section Indexes
 
@@ -47,6 +51,17 @@ Each top-level section has its own `meta.yaml` with navigation:
 | conferences | `conferences/meta.yaml` | conferences |
 | skills | `skills/meta.yaml` | skill categories |
 | education | `education/meta.yaml` | education entries |
+| cvs | `cvs/meta.yaml` | downloadable CV assets |
+| work-authorization | `work-authorization/meta.yaml` | work-eligibility summary |
+
+Publication subcategories also have their own `meta.yaml`:
+
+| Category | Index |
+|----------|-------|
+| technical articles | `publications/technical-articles/meta.yaml` |
+| popular science | `publications/popular-science/meta.yaml` |
+| research publications | `publications/research-publications/meta.yaml` |
+| academic research | `publications/academic-research/meta.yaml` |
 
 ## Schema
 
@@ -74,5 +89,5 @@ company:
 | What was built at company X? | `companies[].relations.projects` |
 | What was written at company X? | `companies[].relations.publications` |
 | Full detail on entity Y | `entity/meta.yaml` + `entity/README.md` |
-| Timeline of all activity | `timeline.md` |
+| Timeline of all activity | `graph.yaml` → `navigation.root_documents[]` → `timeline.md` |
 | Tech stack evolution | `experience/README.md` → Skills Evolution section |

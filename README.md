@@ -4,16 +4,16 @@ Berlin-based developer and researcher with over 10 years of experience in techno
 
 Learn more about me:
 
-- [Skills & Technologies](skills/)
 - [Experience](experience/)
 - [Projects](projects/)
 - [Publications](publications/)
+- [Skills & Technologies](skills/)
 - [Conferences](conferences/)
-- [Education](education/)
-- [Work Authorization](work-authorization/)
 - [References](references.md)
 - [CV](cvs/)
 - [Timeline](timeline.md)
+- [Education](education/)
+- [Work Authorization](work-authorization/)
 
 ---
 

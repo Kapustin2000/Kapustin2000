@@ -56,10 +56,10 @@
 |------|------|------|
 | Apr – Present | [Co-Founder & CTO @ ASRP](experience/asrp/) | Work |
 | Apr – Present | [Arcanum12th — Consciousness Education Platform](projects/arcanum12th/) | Project |
-| May – 2025 Sep | [ASRP Media — Analytical & Research Media](projects/asrp.media/) | Project |
+| May – 2025 Sep | [ASRP Media — Analytical & Research Media](projects/asrp-media/) | Project |
 | Jun | [AI and Lucid Dreaming: Exploring New Opportunities](publications/popular-science/ai-lucid-dreaming/) | Publication |
 | Oct | [Future Technologies: A Glimpse into Innovation](publications/popular-science/future-technologies-innovation/) | Publication |
-| Oct | From Pet Project to Scientific Research | Publication |
+| Oct | [From Pet Project to Scientific Research](publications/popular-science/pet-project-scientific-research-2023/) | Publication |
 
 ## 2024
 
@@ -69,8 +69,8 @@
 | May | [The Economics of Dreams](publications/popular-science/economics-of-dreams/) | Publication |
 | Jun | [Forecasting Events Using Banchenko-Technology](publications/research-publications/banchenko-forecasting/) | Publication |
 | Jul | [Grivtsova's Stress Management Methodology](publications/research-publications/grivtsova-stress-management/) | Publication |
-| Jul | [WeAreDevelopers World Congress Europe](conferences/WeAreDevelopers/) | Conference |
-| Oct | From Pet Project to Scientific Research | Publication |
+| Jul | [WeAreDevelopers World Congress Europe](conferences/wearedevelopers-2024/) | Conference |
+| Oct | [From Pet Project to Scientific Research](publications/popular-science/pet-project-scientific-research-2024/) | Publication |
 | Dec | [Lucid Dreams and VR: Swiss Olympic Team](publications/popular-science/lucid-dreams-vr-olympic/) | Publication |
 | Dec | [BCI in HR: Changing Recruitment](publications/popular-science/bci-hr-recruitment/) | Publication |
 
@@ -87,10 +87,16 @@
 | Sep | [Building a Resume Matcher with tRPC](publications/technical-articles/resume-matcher-trpc/) | Publication |
 | Sep | [My First AI & Blockchain Hackathon](publications/technical-articles/ai-blockchain-hackathon-theta/) | Publication |
 | Sep | [THETA EuroCon — European Conference & Hackathon](conferences/theta-eurocon-2025/) | Conference |
+| Oct – 2026 Mar | [AI Platform Engineer @ Osnova GmbH](experience/osnova/) | Work |
+| Oct – 2026 Mar | [AI_ORG — Multi-Tenant AI Agent Platform](projects/ai-org/) | Project |
+| Oct – 2026 Mar | [Cogit SaaS — Agent Operations Platform](projects/cogit-saas/) | Project |
 | Oct | [Building AI Agent Infrastructure](publications/technical-articles/ai-agent-infrastructure/) | Publication |
 | Oct | [Voice AI Systems Powered by Jambonz](publications/technical-articles/jambonz-voice-ai/) | Publication |
 | Oct | [Building an App Store Review Analysis Pipeline](publications/technical-articles/app-store-review-analysis/) | Publication |
 | Oct | [Google ADK and Startup Technical Guide](publications/technical-articles/google-adk-startup-guide/) | Publication |
+| Nov – 2026 Jun | [Realtime Communications Engineer @ WireBee Inc.](experience/wirebee/) | Work |
+| Nov – 2026 Jun | [WireBee Phone Platform — Realtime Telephony & Voice AI](projects/wirebee-phone-platform/) | Project |
+| Dec – 2026 Mar | [ProOrder AI — Email-to-ERP Order Automation](projects/proorder-ai/) | Project |
 
 ## 2026
 

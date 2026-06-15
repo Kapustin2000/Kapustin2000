@@ -3,7 +3,7 @@
 # Google ADK and "Startup Technical Guide: AI Agents": how Google is redefining the way AI agents are built
 *October 2025*
 
-**Developed at:** [Woolf](../../experience/woolf/)
+**Developed at:** [Woolf](../../../experience/woolf/)
 
 **Stats:** 5,462 views — Medium: 158, Habr: 5.3K, Hashnode: 7
 

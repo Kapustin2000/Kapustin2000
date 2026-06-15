@@ -3,7 +3,7 @@
 # My Personal Exam: How I Built an MVP LLM Agent on Google ADK
 *September 2025*
 
-**Developed at:** [Woolf](../../experience/woolf/)
+**Developed at:** [Woolf](../../../experience/woolf/)
 
 **Stats:** 7,801 views — Medium: 27, Habr: 7.8K, Hashnode: 17
 

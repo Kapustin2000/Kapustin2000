@@ -4,7 +4,7 @@
 # Navigation protocol: see GUIDE.md in this directory.
 
 version: 1
-generated: 2026-05-24
+generated: 2026-06-12
 
 person:
   id: kapustin2000
@@ -12,6 +12,84 @@ person:
   role: "Developer, Researcher, Tech Lead"
   period: 2016 - present
   location: Berlin, Germany
+
+navigation:
+  top_level_sections:
+    - id: experience
+      type: index
+      path: "experience/"
+      label: "Experience"
+    - id: projects
+      type: index
+      path: "projects/"
+      label: "Projects"
+    - id: publications
+      type: index
+      path: "publications/"
+      label: "Publications"
+    - id: skills
+      type: index
+      path: "skills/"
+      label: "Skills & Technologies"
+    - id: conferences
+      type: index
+      path: "conferences/"
+      label: "Conferences"
+    - id: cvs
+      type: index
+      path: "cvs/"
+      label: "CV"
+    - id: education
+      type: education
+      path: "education/"
+      label: "Education"
+    - id: work-authorization
+      type: index
+      path: "work-authorization/"
+      label: "Work Authorization"
+
+  root_documents:
+    - id: references
+      type: document
+      title: "Recommendations"
+      path: "references.md"
+      label: "References"
+      format: markdown
+    - id: timeline
+      type: document
+      title: "Timeline"
+      path: "timeline.md"
+      label: "Timeline"
+      format: markdown
+
+publication_categories:
+  - id: technical-articles
+    type: index
+    label: "Technical Articles"
+    path: "publications/technical-articles/"
+    parent: publications
+    count: 10
+
+  - id: popular-science
+    type: index
+    label: "Popular Science"
+    path: "publications/popular-science/"
+    parent: publications
+    count: 7
+
+  - id: research-publications
+    type: index
+    label: "Research Publications"
+    path: "publications/research-publications/"
+    parent: publications
+    count: 4
+
+  - id: academic-research
+    type: index
+    label: "Academic Research"
+    path: "publications/academic-research/"
+    parent: publications
+    count: 1
 
 companies:
   - id: asrp
@@ -94,6 +172,22 @@ companies:
     relations:
       projects: [ai-cv-matcher]
       publications: [mvp-llm-agent-adk, google-adk-custom-interface, google-adk-startup-guide, resume-matcher-trpc, ai-agent-infrastructure]
+
+  - id: osnova
+    name: "Osnova GmbH"
+    role: "AI Platform Engineer"
+    period: 2025-10 - 2026-03
+    location: "Leipzig, Germany"
+    relations:
+      projects: [ai-org, cogit-saas, proorder-ai]
+
+  - id: wirebee
+    name: "WireBee Inc."
+    role: "Realtime Communications Engineer"
+    period: 2025-11 - 2026-06
+    location: "Shaker Heights, Ohio"
+    relations:
+      projects: [wirebee-phone-platform]
 
 projects:
   - id: ai-cv-matcher
@@ -193,6 +287,34 @@ projects:
     period: 2023 - present
     company: asrp
     stack: [LangChain, Node.js, Python, PostgreSQL, Vue]
+
+  - id: ai-org
+    name: "AI_ORG — Multi-Tenant AI Agent Platform"
+    status: completed
+    period: 2025-10 - 2026-03
+    company: osnova
+    stack: [Python, FastAPI, PostgreSQL, OpenAI, Anthropic Claude, Vertex AI]
+
+  - id: cogit-saas
+    name: "Cogit SaaS — Agent Operations Platform"
+    status: completed
+    period: 2025-10 - 2026-03
+    company: osnova
+    stack: [TypeScript, React, NestJS, PostgreSQL, Azure]
+
+  - id: proorder-ai
+    name: "ProOrder AI — Email-to-ERP Order Automation"
+    status: completed
+    period: 2025-12 - 2026-03
+    company: osnova
+    stack: [Python, FastAPI, SQLite, Microsoft Graph API, Business Central API]
+
+  - id: wirebee-phone-platform
+    name: "WireBee Phone Platform — Realtime Telephony & Voice AI"
+    status: completed
+    period: 2025-11 - 2026-06
+    company: wirebee
+    stack: [TypeScript, Node.js, React, MySQL, Redis, NATS, WebSocket, Jambonz, NetSapiens, Ultravox]
 
 publications:
   technical_articles:

@@ -1,0 +1,7 @@
+id: ai-org
+type: project
+name: AI_ORG — Multi-Tenant AI Agent Platform
+status: completed
+period: 2025-10 - 2026-03
+company: osnova
+stack: [Python, FastAPI, PostgreSQL, OpenAI, Anthropic Claude, Vertex AI]

@@ -1,0 +1,19 @@
+id: research-publications
+type: index
+description: "Peer-reviewed research publications on forecasting, lucid dreaming, stress diagnostics, and consciousness-oriented methodologies"
+entities:
+  - id: gms-gfs-right-brain
+    type: research_paper
+    date: 2025-02
+  - id: grivtsova-stress-management
+    type: research_paper
+    date: 2024-07
+  - id: banchenko-forecasting
+    type: research_paper
+    date: 2024-06
+  - id: banchenko-dream-synchronization
+    type: research_paper
+    date: 2024-01
+navigation:
+  parent: publications
+  siblings: [technical-articles, popular-science, academic-research]

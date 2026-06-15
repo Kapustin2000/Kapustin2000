@@ -58,3 +58,8 @@ entity_types:
     description: Section index page — describes a category and lists its child entities
     required: [id, type, description]
     optional: [entities, categories, navigation]
+
+  document:
+    description: Standalone markdown or file-backed document exposed in root navigation
+    required: [id, type, title, path]
+    optional: [description, parent, format]

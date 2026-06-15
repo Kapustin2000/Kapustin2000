@@ -3,7 +3,7 @@
 # Future Technologies: A Glimpse into Innovation
 *October 2023 — Tproger*
 
-**Developed at:** [ASRP](../../experience/asrp/)
+**Developed at:** [ASRP](../../../experience/asrp/)
 
 **Link:** [Tproger](https://tproger.ru/articles/tehnologii-budushhego-vzglyad-v-mir-innovacij)
 
