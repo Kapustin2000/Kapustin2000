@@ -13,5 +13,5 @@ alt: Diagram with three boxes for building your own agents, using Google Cloud a
 description: 'A simplified Google Cloud diagram showing three agent strategy options: build your own agents, use Google Cloud
   agents, or bring partner agents. A shared interoperability layer references MCP and A2A protocol.'
 placement:
-  article: article.md
+  article: article.en.md
   line: 32

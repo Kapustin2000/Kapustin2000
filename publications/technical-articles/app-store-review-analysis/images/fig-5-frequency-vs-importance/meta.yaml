@@ -15,6 +15,6 @@ description: A scatter plot titled Issue Analysis - Frequency vs Importance. The
   the y-axis shows TF-IDF importance, and labeled points identify general app functionality, scam allegations, subscription
   model, money or charging, and cancellation difficulty issues.
 placement:
-  article: article.md
+  article: article.en.md
   before: Each issue's frequency and TF-IDF importance align closely.
   after: Together, they paint a consistent picture.

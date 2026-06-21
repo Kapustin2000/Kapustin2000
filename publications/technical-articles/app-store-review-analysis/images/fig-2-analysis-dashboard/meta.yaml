@@ -17,6 +17,6 @@ description: A four-panel dashboard titled App X (astrology/lifestyle) Analysis 
   official-versus-sample rating comparison, a horizontal bar chart of top critical issues, and a key metrics box with review
   and priority counts.
 placement:
-  article: article.md
+  article: article.en.md
   before: The dashboard summarizes sentiment, average ratings, and main issues.
   after: Below are key charts from the App X astrology/lifestyle review analysis.

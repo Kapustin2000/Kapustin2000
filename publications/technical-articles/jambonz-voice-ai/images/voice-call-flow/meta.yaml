@@ -12,6 +12,6 @@ dimensions:
 alt: "Diagram showing a caller connected through PSTN/SIP to a SIP trunk, Jambonz, backend, and Jambonz execution for AI response."
 description: "Minimal black-and-white call flow diagram. A caller connects through PSTN/SIP into a SIP trunk, then to Jambonz, then to the backend, and finally back into Jambonz execution, with HTTP/WebSocket and STT/TTS/RTP protocol layers shown below."
 placement:
-  article: article.md
+  article: article.en.md
   before: "What is Jambonz and Why It Matters"
   after: "The diagram below shows how these components interact"

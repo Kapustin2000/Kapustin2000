@@ -15,6 +15,6 @@ description: A horizontal timeline chart titled Action Plan Timeline. It priorit
   general app functionality and subscription model issues for short-term work, and money, charging, and cancellation problems
   for medium-term work.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'The roadmap organizes fixes by urgency:'
   after: Others fall in the medium or low range, suitable for gradual optimization.

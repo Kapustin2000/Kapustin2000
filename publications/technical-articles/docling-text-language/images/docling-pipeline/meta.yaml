@@ -15,5 +15,5 @@ description: A technical pipeline diagram for Docling. It shows PDF and image in
   analysis, table structure extraction, and document assembly, then exporting a Docling document to formats such as JSON,
   Markdown, HTML, figures, and chunks for RAG.
 placement:
-  article: article.md
+  article: article.en.md
   line: 84

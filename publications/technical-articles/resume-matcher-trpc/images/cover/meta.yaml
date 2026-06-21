@@ -13,5 +13,5 @@ alt: Painterly cover with a developer and Russian text about creating a resume m
 description: A warm painterly cover image. A developer stands beside technical icons and the tRPC logo, with Russian text
   describing an application for matching resumes using tRPC, NLP, and Vertex AI.
 placement:
-  article: article.md
+  article: article.en.md
   line: 10

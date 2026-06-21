@@ -49,7 +49,7 @@ In parallel, we built the system's core: an **AI model that analyzes dreams**, s
 
 Next, we added **media search**: the model checks whether news outlets are reporting events that suggest dream content is manifesting in reality. This multi-layered analysis combines subjective data with objective information streams to build early forecasts.
 
-Special thanks to **Kyryl Zmiienko**, who strengthened the industry-to-market mapping logic. Together with **Denis Banchenko** and **Valeri Ovseannicova**, I integrated research成果 and the **Kapustin Markers Algorithm**, which identifies dream pattern matches and reveals hidden correlations.
+Special thanks to **Kyryl Zmiienko**, who strengthened the industry-to-market mapping logic. Together with **Denis Banchenko** and **Valeri Ovseannicova**, I integrated research results and the **Kapustin Markers Algorithm**, which identifies dream pattern matches and reveals hidden correlations.
 
 ---
 

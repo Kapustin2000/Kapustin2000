@@ -12,5 +12,5 @@ alt: Google Agent Development Kit logo and text on a white background.
 description: A clean cover image showing the Agent Development Kit icon at left and the words Agent Development Kit in large
   black text on a white background.
 placement:
-  article: article.md
+  article: article.en.md
   after: 'Hubs: Cloud Services, Google API, Google Cloud Platform, Artificial Intelligence, Python'

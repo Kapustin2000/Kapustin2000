@@ -14,5 +14,5 @@ alt: Cartoon-style Docling pipeline cover with document formats entering Docling
 description: A black-background illustrated cover for a Docling article. PDF, PPTX, DOCX, and HTML documents flow into a Docling
   box, then fan out into structured outputs such as JSON, Markdown, figures, chunking, and GenAI application use.
 placement:
-  article: article.md
+  article: article.en.md
   line: 10

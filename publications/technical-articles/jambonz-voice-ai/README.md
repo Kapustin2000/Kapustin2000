@@ -6,6 +6,6 @@ An exploration of how telephony evolves into programmable Voice AI. This article
 
 **Links:** [Medium](https://medium.com/@kapustinomm/voice-ai-systems-powered-by-jambonz-from-telephony-to-human-machine-dialogue-37f31796fae2) | [Habr](https://habr.com/en/articles/958670/) | [Original on Arcanum12th](https://arcanum12th.education/ru/documents/b84ee790-effe-42f8-8ae8-dba899b3650e)
 
-**Full text:** [article.md](article.md)
+**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
 
 ![Cover](images/cover/image.png)

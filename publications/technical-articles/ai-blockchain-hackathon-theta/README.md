@@ -6,6 +6,6 @@ In September 2025, I joined my first hackathon — Theta EuroCon Hackathon in Be
 
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/my-first-ai-and-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-berlin) | [Habr](https://habr.com/en/articles/947040/) | [Medium](https://medium.com/@kapustinomm/my-first-ai-blockchain-hackathon-building-the-global-forecasting-system-at-theta-eurocon-in-aab842d63625)
 
-**Full text:** [article.md](article.md)
+**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
 
 ![Cover](images/cover/image.jpg)

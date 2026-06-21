@@ -15,6 +15,6 @@ alt: Deployment diagram showing an agent packaged into a container and deployed 
 description: A deployment architecture diagram. It shows an agent being built into a package and container, then deployed
   through Google Cloud options such as Vertex AI Agent Engine and Cloud Run, or run on self-managed custom infrastructure.
 placement:
-  article: article.md
+  article: article.en.md
   before: I chose Vertex AI Agent Engine
   after: Google offers three official deployment methods

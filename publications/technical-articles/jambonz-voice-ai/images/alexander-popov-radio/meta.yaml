@@ -11,6 +11,6 @@ dimensions:
 alt: "Portrait of Alexander Stepanovich Popov beside a radio schematic, antenna, and early radio receiver apparatus."
 description: "Historical collage showing Alexander Stepanovich Popov on the right, an early radio schematic in the background, and radio receiver equipment with an antenna on the left, connecting the article's telephony discussion to the origins of radio communication."
 placement:
-  article: article.md
+  article: article.en.md
   before: "Before moving on to the practical part"
   after: "Telephony already performs this role today"

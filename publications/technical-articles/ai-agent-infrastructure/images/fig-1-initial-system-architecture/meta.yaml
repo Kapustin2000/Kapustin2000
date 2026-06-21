@@ -14,6 +14,6 @@ alt: Diagram of a monolithic repository containing Tool 1, Tool 2, Tool 3, and s
 description: A simple diagram titled Monolithic Repository. Tools and agents sit inside one repository folder, with dotted
   dependency lines showing ad hoc tool sharing and copied agents outside the main monorepo boundary.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'This approach does not scale:'
   after: For quick start, the client created a single large monorepo containing both agents and tools.

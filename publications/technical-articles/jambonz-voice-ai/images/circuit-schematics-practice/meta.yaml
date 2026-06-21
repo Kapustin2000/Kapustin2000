@@ -11,6 +11,6 @@ dimensions:
 alt: "Photo of large circuit schematic sheets pinned on a board in an engineering classroom or laboratory."
 description: "Photo of several large printed circuit schematic sheets pinned to a wooden-framed board. The diagrams show detailed signal, switching, and circuit layouts, representing traditional hands-on engineering analysis practice."
 placement:
-  article: article.md
+  article: article.en.md
   before: "The principles, however, remain the same"
   after: "Photo: Laboratory millivoltmeter V3–38A, Odesa National Academy of Telecommunications"

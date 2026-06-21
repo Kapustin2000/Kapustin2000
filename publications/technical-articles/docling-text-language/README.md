@@ -6,6 +6,6 @@ A professional overview of Docling as an environment for working with linguistic
 
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/docling-in-working-with-texts-languages-and-knowledge) | [Medium](https://medium.com/@kapustinomm/docling-in-working-with-texts-languages-and-knowledge-87263c51dfeb) | [Habr](https://habr.com/en/articles/935584/)
 
-**Full text:** [article.md](article.md)
+**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
 
 ![Cover](images/cover/image.png)

@@ -13,6 +13,6 @@ alt: Diagram of a decoupled centralized architecture with a Tool Registry above 
 description: A diagram titled Decoupled & Centralized. A Tool Registry manages Tool 1, Tool 2, and Tool 3, while Agent A,
   Agent B, and Agent C sit in a separate agents block below, showing centralized tool access without copying.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'Path 1: Filesystem Registry with Lazy Loading'
   after: 'After detailed analysis of the client''s data and project structure, I developed three strategic lines of development:'

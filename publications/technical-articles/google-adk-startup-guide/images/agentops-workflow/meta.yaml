@@ -15,5 +15,5 @@ description: A high-level architecture diagram for an Agent Starter Pack. It sho
   and connects to evaluation, LLM model access, data stores, observability, tracing/logging, and infrastructure automation
   components.
 placement:
-  article: article.md
+  article: article.en.md
   line: 52

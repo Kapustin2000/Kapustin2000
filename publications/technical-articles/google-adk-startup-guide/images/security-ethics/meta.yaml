@@ -13,5 +13,5 @@ description: A table-like visual that pairs red warning items with blue safety c
   misinformation, prompt injection, unsafe outputs, and data exposure, with corresponding defenses such as monitoring, guardrails,
   and validation.
 placement:
-  article: article.md
+  article: article.en.md
   line: 69

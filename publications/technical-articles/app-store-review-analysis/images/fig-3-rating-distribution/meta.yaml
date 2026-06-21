@@ -14,6 +14,6 @@ alt: Bar chart showing App X rating distribution, with a dominant five-star bar 
 description: A vertical bar chart titled Rating Distribution for App X. The five-star bar is by far the largest, the one-star
   bar is the second largest, and the two-, three-, and four-star bars are much smaller, indicating polarized user feedback.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'The distribution is polarized: 68% of users give 5 stars and 18% give 1 star.'
   after: The dashboard summarizes sentiment, average ratings, and main issues.

@@ -15,6 +15,6 @@ description: A heatmap titled Risk Assessment Matrix. Rows include scam allegati
   backlash, billing and payment issues, and customer service problems. Red cells mark the highest risk area for scam allegations,
   while green cells mark lower-risk items.
 placement:
-  article: article.md
+  article: article.en.md
   before: A heatmap of probability versus impact shows only two red zones.
   after: Functionality and scam-related issues dominate both axes.

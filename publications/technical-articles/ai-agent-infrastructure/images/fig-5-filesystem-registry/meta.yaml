@@ -16,6 +16,6 @@ description: A filesystem registry diagram. A local library/tools directory poin
   agents. It illustrates a lightweight local centralization pattern that helps discovery but does not solve versioning or
   distribution.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'Pros: No CI/CD needed'
   after: Agents can now load only what they need.

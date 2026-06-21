@@ -6,6 +6,6 @@ A comprehensive guide to integrating Google ADK into custom interfaces: code exa
 
 **Links:** [Medium](https://medium.com/@kapustinomm/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples-04f01ab501ca) | [Hashnode](https://kapustinomm.hashnode.dev/how-to-integrate-google-adk-with-a-custom-interface-a-step-by-step-guide-with-examples) | [Habr](https://habr.com/en/articles/933804/)
 
-**Full text:** [article.md](article.md)
+**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
 
 ![Cover](images/cover/image.png)

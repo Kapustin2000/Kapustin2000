@@ -14,5 +14,5 @@ alt: Workflow diagram for Vertex AI RAG Engine, moving from source documents thr
 description: A technical workflow diagram titled Vertex AI RAG Engine at work. It shows source documents parsed, transformed,
   embedded, indexed, retrieved, ranked, and passed to a large language model to generate an answer.
 placement:
-  article: article.md
+  article: article.en.md
   line: 42

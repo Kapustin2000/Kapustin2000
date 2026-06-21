@@ -14,6 +14,6 @@ alt: Dark themed Agent Development Kit web UI showing an agent session, chat are
 description: A screenshot of the ADK web interface in dark mode. It shows the left navigation and an active agent chat screen,
   including a user prompt, agent response area, and message input controls.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'Google ADK Agent Architecture: Sessions, Reasoning, State'
   after: 'To launch the agent, run: `adk web`'

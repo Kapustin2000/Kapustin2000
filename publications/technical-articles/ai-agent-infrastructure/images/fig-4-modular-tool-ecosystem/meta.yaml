@@ -15,6 +15,6 @@ description: A wide package registry diagram. Agent A uses tool-pdf, Agent B use
   tool-data. All dependencies resolve from an Internal Package Registry that stores versioned packages such as tool-pdf v1.2.0
   and tool-data v0.9.8.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'Pros:'
   after: Each agent gets a configuration file declaring its dependencies.

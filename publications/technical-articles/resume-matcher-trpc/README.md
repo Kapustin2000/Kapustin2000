@@ -6,6 +6,6 @@ In this article, I share how I built a resume matcher app using tRPC, TypeScript
 
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai) | [Medium](https://medium.com/@kapustinomm/building-a-resume-matcher-with-trpc-nlp-and-vertex-ai-fec6e9896adb) | [Habr](https://habr.com/en/articles/943306/)
 
-**Full text:** [article.md](article.md)
+**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
 
 ![Cover](images/cover/image.png)

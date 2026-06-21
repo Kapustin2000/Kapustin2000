@@ -13,6 +13,6 @@ alt: Box-and-arrow architecture diagram connecting frontend, backend, LLM, API, 
 description: A black-and-white interaction architecture diagram. The frontend sends a user message to the backend, the backend
   exchanges requests with an LLM/API layer, and session state is queried and returned as part of the final response flow.
 placement:
-  article: article.md
+  article: article.en.md
   before: The only nuance is streaming
   after: Final result goes to the frontend

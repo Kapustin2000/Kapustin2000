@@ -11,6 +11,6 @@ dimensions:
 alt: "Exterior view of the Odesa National Academy of Telecommunications building with columns, trees, and a Ukrainian flag."
 description: "Photograph of the Odesa National Academy of Telecommunications building. The facade shows a rounded entrance section with columns, stonework, Cyrillic lettering, surrounding trees, and a Ukrainian flag near the courtyard."
 placement:
-  article: article.md
+  article: article.en.md
   before: "My name is Mykhailo Kapustin"
   after: "But today, those same principles form the foundation of Voice AI systems"

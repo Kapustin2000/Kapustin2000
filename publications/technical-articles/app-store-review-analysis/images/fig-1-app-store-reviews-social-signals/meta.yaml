@@ -15,6 +15,6 @@ alt: Monochrome sketch of human figures connected by flowing data lines, star ra
 description: A pencil-style conceptual illustration. Human silhouettes, a large head profile, star ratings, Apple and App
   Store icons, and short review snippets are connected by flowing lines, representing app reviews as collective digital feedback.
 placement:
-  article: article.md
+  article: article.en.md
   before: Perhaps most importantly, star ratings alone can be misleading.
   after: The App Store is a vast, real-time repository of human sentiment.

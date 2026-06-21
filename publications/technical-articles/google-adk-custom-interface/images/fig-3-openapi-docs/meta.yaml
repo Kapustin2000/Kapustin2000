@@ -14,6 +14,6 @@ alt: FastAPI Swagger UI page listing ADK API endpoints with colored HTTP method 
 description: A screenshot of FastAPI OpenAPI documentation. It lists API endpoints for ADK server operations, grouped in expandable
   rows with HTTP methods such as GET, POST, and DELETE.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'The available routes include:'
   after: You can open the Google ADK API documentation

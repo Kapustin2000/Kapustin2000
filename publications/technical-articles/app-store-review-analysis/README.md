@@ -6,4 +6,4 @@ An analytical case study on how App Store reviews can be transformed into struct
 
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/building-an-app-store-review-analysis-pipeline-with-python-nlp-and-data-visualization) | [Medium](https://medium.com/@kapustinomm/from-star-ratings-to-insights-building-an-app-store-review-analysis-pipeline-with-python-nlp-56002731e661)
 
-**Full text:** [article.md](article.md)
+**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)

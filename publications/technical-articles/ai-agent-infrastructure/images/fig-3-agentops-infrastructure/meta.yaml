@@ -16,6 +16,6 @@ description: A horizontal AgentOps architecture diagram. Agent A handles documen
   and Agent C handles reporting and visualization. They communicate with each other and connect to an MCP Registry containing
   PDF Extractor, Data Analyzer, and Image Processor tools.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'Pros:'
   after: 'A2A (Agent-to-Agent): Enables agents to interact and collaborate.'

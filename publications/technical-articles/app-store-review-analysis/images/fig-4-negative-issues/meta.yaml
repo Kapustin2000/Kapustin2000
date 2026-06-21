@@ -15,6 +15,6 @@ alt: Horizontal TF-IDF bar chart ranking negative App X issues including general
 description: A horizontal bar chart titled Top Negative Issues by Importance. General app functionality problems are the strongest
   issue, followed by scam allegations, subscription model complaints, money or charging problems, and cancellation difficulties.
 placement:
-  article: article.md
+  article: article.en.md
   before: 'The leading complaints cluster around five categories:'
   after: 'The distribution is polarized: 68% of users give 5 stars and 18% give 1 star.'
