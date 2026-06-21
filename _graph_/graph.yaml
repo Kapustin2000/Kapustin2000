@@ -68,7 +68,7 @@ publication_categories:
     label: "Technical Articles"
     path: "publications/technical-articles/"
     parent: publications
-    count: 10
+    count: 11
 
   - id: popular-science
     type: index
@@ -325,6 +325,11 @@ projects:
 
 publications:
   technical_articles:
+    - id: anatomy-of-a-phone-call
+      title: "Как работает звонок в программируемой телефонии: inbound, outbound, Leg A и Leg B"
+      date: 2026-06
+      tags: [telephony, sip, jambonz, cpaas, call-state]
+
     - id: ai-agent-infrastructure
       title: "Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems"
       date: 2025-10
@@ -467,7 +472,7 @@ publication_knowledge_map:
     - id: applied-ai-nlp
       publications: [docling-text-language, resume-matcher-trpc, app-store-review-analysis]
     - id: local-and-voice-ai
-      publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
+      publications: [anatomy-of-a-phone-call, lm-studio-local-llm-guide, jambonz-voice-ai]
     - id: gfs-forecasting-blockchain
       publications: [banchenko-forecasting, gms-gfs-right-brain, economics-of-dreams, ai-blockchain-hackathon-theta]
     - id: lucid-dreaming-consciousness
@@ -478,6 +483,10 @@ publication_knowledge_map:
       publications: [software-development-tools]
   relation_types: [builds_on, same_series, shared_method, applies_research, same_project, event_context, contrast]
   relations:
+    - from: anatomy-of-a-phone-call
+      to: jambonz-voice-ai
+      type: builds_on
+      description: "Continues the Jambonz and Voice AI track by focusing on one production telephony call."
     - from: mvp-llm-agent-adk
       to: google-adk-custom-interface
       type: builds_on

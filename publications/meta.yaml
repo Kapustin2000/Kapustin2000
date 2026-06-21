@@ -1,10 +1,10 @@
 id: publications
 type: index
-description: "Publications, articles, research papers, and media mentions — 21 total across 5 categories"
+description: "Publications, articles, research papers, and media mentions — 22 total across 5 categories"
 categories:
   - path: technical-articles
     label: Technical Articles
-    count: 10
+    count: 11
   - path: popular-science
     label: Popular Science
     count: 6
@@ -18,6 +18,9 @@ categories:
     label: Academic Research
     count: 1
 entities:
+  - id: anatomy-of-a-phone-call
+    type: article
+    date: 2026-06
   - id: ai-agent-infrastructure
     type: article
     date: 2025-10
@@ -97,7 +100,7 @@ clusters:
   - id: local-and-voice-ai
     label: Local & Voice AI
     description: "Local LLM execution, LM Studio, telephony, Voice AI, and Jambonz."
-    publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
+    publications: [anatomy-of-a-phone-call, lm-studio-local-llm-guide, jambonz-voice-ai]
   - id: gfs-forecasting-blockchain
     label: GFS, Forecasting & Blockchain
     description: "Global Forecasting System, Banchenko forecasting, Theta hackathon, blockchain, and market prediction."
@@ -148,12 +151,14 @@ tag_taxonomy:
       neuro-interface: neurointerfaces
   - id: engineering-market
     label: Engineering Market
-    tags: [software-development, job-market, ukraine, architecture, guide, tutorial, infrastructure, telephony, jambonz]
+    tags: [software-development, job-market, ukraine, architecture, guide, tutorial, infrastructure, telephony, sip, jambonz, cpaas, call-state]
     aliases:
       software-engineering: software-development
 timeline:
   - year: 2026
     months:
+      - month: "06"
+        publications: [anatomy-of-a-phone-call]
       - month: "02"
         publications: [lm-studio-local-llm-guide]
   - year: 2025
@@ -191,6 +196,10 @@ timeline:
       - month: "12"
         publications: [software-development-tools]
 relations:
+  - from: anatomy-of-a-phone-call
+    to: jambonz-voice-ai
+    type: builds_on
+    description: "Continues the Jambonz and Voice AI track by focusing on one production telephony call: inbound and outbound legs, bridge state, provider IDs, timestamps, and backend call state."
   - from: mvp-llm-agent-adk
     to: google-adk-custom-interface
     type: builds_on

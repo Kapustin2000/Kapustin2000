@@ -1,7 +1,10 @@
 id: technical-articles
 type: index
-description: "Technical articles — AI agents, infrastructure, NLP, local LLMs, and applied engineering case studies"
+description: "Technical articles — AI agents, infrastructure, NLP, local LLMs, telephony, and applied engineering case studies"
 entities:
+  - id: anatomy-of-a-phone-call
+    type: article
+    date: 2026-06
   - id: lm-studio-local-llm-guide
     type: article
     date: 2026-02

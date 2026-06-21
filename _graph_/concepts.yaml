@@ -133,7 +133,7 @@ clusters:
           projects: [asrp-science]
       - id: publications-layer
         name: "Technical & Research Publications"
-        description: "21 entries across technical, research, academic, popular science, and media mention categories bridging deep tech and public understanding."
+        description: "22 entries across technical, research, academic, popular science, and media mention categories bridging deep tech and public understanding."
         children:
           - id: ai-agents-infrastructure
             name: "AI Agents & Infrastructure"
@@ -149,7 +149,7 @@ clusters:
             name: "Local & Voice AI"
             description: "Local LLM execution, LM Studio, telephony, Voice AI, and Jambonz."
             relates_to:
-              publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
+              publications: [anatomy-of-a-phone-call, lm-studio-local-llm-guide, jambonz-voice-ai]
           - id: gfs-forecasting-blockchain
             name: "GFS, Forecasting & Blockchain"
             description: "Global Forecasting System, Banchenko forecasting, Theta hackathon, blockchain, and market prediction."

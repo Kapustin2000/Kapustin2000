@@ -102,6 +102,7 @@
 | When | What | Type |
 |------|------|------|
 | Feb | [How to Run LLMs Locally with LM Studio: Complete Guide](publications/technical-articles/lm-studio-local-llm-guide/) | Publication |
+| Jun | [Как работает звонок в программируемой телефонии](publications/technical-articles/anatomy-of-a-phone-call/) | Publication |
 
 ---
 
