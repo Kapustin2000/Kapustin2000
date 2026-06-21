@@ -326,7 +326,7 @@ projects:
 publications:
   technical_articles:
     - id: anatomy-of-a-phone-call
-      title: "Как работает звонок в программируемой телефонии: inbound, outbound, Leg A и Leg B"
+      title: "How a Call Works in Programmable Telephony: Inbound, Outbound, Leg A, and Leg B"
       date: 2026-06
       tags: [telephony, sip, jambonz, cpaas, call-state]
 

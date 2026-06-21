@@ -8,7 +8,7 @@
 
 | # | Article | Date | Platforms |
 |---|---------|------|-----------|
-| 1 | [Как работает звонок в программируемой телефонии](anatomy-of-a-phone-call/) | Jun 2026 | Kapustin2000 |
+| 1 | [How a Call Works in Programmable Telephony](anatomy-of-a-phone-call/) | Jun 2026 | Kapustin2000 |
 | 2 | [How to Run LLMs Locally with LM Studio](lm-studio-local-llm-guide/) | Feb 2026 | Medium, Habr |
 | 3 | [Building AI Agent Infrastructure](ai-agent-infrastructure/) | Oct 2025 | Medium, Habr |
 | 4 | [Voice AI Systems Powered by Jambonz](jambonz-voice-ai/) | Oct 2025 | Habr |
