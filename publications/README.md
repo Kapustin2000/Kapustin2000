@@ -113,7 +113,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 
 | # | Article | Date | Platforms |
 |---|---------|------|-----------|
-| 1 | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) | Jun 2026 | Kapustin2000 |
+| 1 | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) | Jun 2026 | Medium, Kapustin2000 |
 | 2 | [How to Run LLMs Locally with LM Studio](technical-articles/lm-studio-local-llm-guide/) | Feb 2026 | Medium, Habr |
 | 3 | [Building AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) | Oct 2025 | Medium, Habr |
 | 4 | [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) | Oct 2025 | Habr |
@@ -164,7 +164,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 |----------|----------|
 | Kapustin2000 | 1 article |
 | Habr | 9 articles |
-| Medium | 9 articles |
+| Medium | 10 articles |
 | Hashnode | 7 articles |
 
 ---
