@@ -7,7 +7,7 @@
 
 **Link:** [Tproger](https://tproger.ru/articles/ot-pet-proekta-do-nauchnogo-issledovaniya-put-k-nastoyashhej-innovacii)
 
-**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
+**Translations:** [English](article.en.md) | [Deutsch](article.de.md) | [Español](article.es.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
 
 The article explores how vivid dreams can inspire programmers, enhancing their creativity and problem-solving abilities. It discusses the significance of sleep in forming creative neural connections and how programmers often experience lucid dreaming. The article highlights the importance of balancing work and sleep to maintain productivity and innovation.
 

@@ -6,6 +6,6 @@ Run Large Language Models Offline on Your Computer — No API Keys, No Cloud Dep
 
 **Links:** [Medium](https://medium.com/@kapustinomm/how-to-run-llms-locally-with-lm-studio-complete-guide-2026-c941843e000e) | [Habr](https://habr.com/en/articles/1005054/)
 
-**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
+**Translations:** [English](article.en.md) | [Deutsch](article.de.md) | [Español](article.es.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
 
 ![Cover](images/cover/image.png)

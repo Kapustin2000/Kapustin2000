@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "33565478d78fdbba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89e38384ac987ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4500eb05ea7f965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "publications/technical-articles/anatomy-of-a-phone-call/article.en.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "article.en"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9bc1423b8bf0aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b781ccf952bcff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0c962af0fd75043",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82ad68ba40933f30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "318aab462ab1819e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8d93c8ce16feeb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a2e504ffbb4a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "307e6339ec1db33f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "publications/technical-articles/anatomy-of-a-phone-call/article.en.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for article.en"
+            }
+          },
+          {
+            "id": "9589d7435f6147ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "publications/technical-articles/anatomy-of-a-phone-call/article.en.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from article.en"
+            }
+          },
+          {
+            "id": "1aed8eb53583dfd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff8ff43aca8ccd22",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "51f28c7f84e456a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "publications/technical-articles/anatomy-of-a-phone-call/article.en.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of article.en"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d4500eb05ea7f965",
+  "lastOpenFiles": [
+    "share/linkedin-featured-preview.png",
+    "share/linkedin-featured-preview.html",
+    "share/linkedin-preview.jpg",
+    "share/linkedin-preview.png",
+    "share/linkedin-preview.html",
+    "share",
+    "publications/technical-articles/anatomy-of-a-phone-call/article.hashnode.en.md"
+  ]
+}

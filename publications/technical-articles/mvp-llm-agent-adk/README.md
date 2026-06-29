@@ -6,6 +6,6 @@ In this article, I share my personal experience of developing an MVP LLM agent w
 
 **Links:** [Hashnode](https://kapustinomm.hashnode.dev/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk) | [Habr](https://habr.com/en/articles/942696/) | [Medium](https://medium.com/@kapustinomm/my-personal-exam-how-i-built-an-mvp-llm-agent-on-google-adk-90c246ab9c2a)
 
-**Translations:** [English](article.en.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
+**Translations:** [English](article.en.md) | [Deutsch](article.de.md) | [Español](article.es.md) | [Русский](article.ru.md) | [Українська](article.uk.md)
 
 ![Cover](images/cover/image.png)
