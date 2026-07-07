@@ -7,6 +7,7 @@ cluster_ids: [applied-ai-nlp]
 related_publications: [docling-text-language]
 status: published
 read_count: 84
+stats_as_of: 2026-05-25
 stats:
   medium: { views: 69, reads: 17 }
   hashnode: { views: 15 }

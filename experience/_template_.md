@@ -18,15 +18,15 @@
 
 ## Related Projects
 
-- [Project Name](../../projects/project-folder/)
+- `[Project Name](../../projects/project-folder/)`
 
 ## Related Publications
 
-- [Publication Title](../../publications/category/publication-folder/)
+- `[Publication Title](../../publications/category/publication-folder/)`
 
 ## References
 
-- [Recommendations from colleagues](reference.md)
+- `[Recommendations from colleagues](reference.md)`
 
 ---
 

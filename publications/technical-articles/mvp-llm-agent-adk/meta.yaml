@@ -8,6 +8,7 @@ cluster_ids: [ai-agents-infrastructure]
 related_publications: [google-adk-custom-interface, ai-agent-infrastructure]
 status: published
 read_count: 7801
+stats_as_of: 2026-05-25
 stats:
   medium: { views: 27, reads: 10 }
   hashnode: { views: 17 }

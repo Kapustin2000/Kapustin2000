@@ -45,7 +45,7 @@
 - [x] Create `graph.yaml` — machine-readable schema of all entities
 - [x] Create `concepts.yaml` — intellectual architecture (Consciousness → Lucid dreaming → AI agents → Education → Economy)
 - [x] AI navigation layer designed (graph.yaml → meta.yaml → README.md)
-- [ ] Add `_meta.md` to each image folder — describes what the image shows and context
+- [x] Add `_meta.md` to each image folder — describes what the image shows and context (23 files; technical-article images already had per-image meta.yaml)
 
 ### Structured Data (YAML frontmatter)
 - [x] `meta.yaml` added to all entities
@@ -58,6 +58,14 @@
 ### Narrative & Architecture
 - [x] Create Concept Graph — done in `_graph_/concepts.yaml`
 - [ ] Define and add grand narrative to README
+
+### Housekeeping
+- [x] WireBee end date updated to Jul 2026 across all pages (2026-07-10)
+- [x] `.obsidian/` untracked and gitignored
+- [x] Template placeholder links wrapped in backticks (no false positives in link checkers)
+- [x] `stats_as_of: 2026-05-25` added to article read counts (+ `_schema_.yaml`)
+- [x] GitHub Action: lychee link check (push, PR, monthly cron)
+- [ ] Update CV PDFs — current one is 04-09-2025, missing Osnova, WireBee, ProOrder AI, 2026 articles
 
 ## Done
 - [x] All 14 project pages (was 11, added asrp.tech, asrp.science, gfs)

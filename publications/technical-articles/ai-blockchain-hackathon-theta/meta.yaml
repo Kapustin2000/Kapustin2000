@@ -8,6 +8,7 @@ cluster_ids: [gfs-forecasting-blockchain]
 related_publications: [gms-gfs-right-brain]
 status: published
 read_count: 5304
+stats_as_of: 2026-05-25
 stats:
   medium: { views: 24, reads: 3 }
   hashnode: { views: 8 }

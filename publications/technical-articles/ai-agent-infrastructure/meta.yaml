@@ -8,6 +8,7 @@ cluster_ids: [ai-agents-infrastructure]
 related_publications: [google-adk-startup-guide, mvp-llm-agent-adk, jambonz-voice-ai, lm-studio-local-llm-guide]
 status: published
 read_count: 10327
+stats_as_of: 2026-05-25
 stats:
   medium: { views: 149, reads: 48 }
   hashnode: { views: 11 }

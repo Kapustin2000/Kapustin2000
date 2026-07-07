@@ -7,6 +7,7 @@ cluster_ids: [applied-ai-nlp]
 related_publications: [resume-matcher-trpc, app-store-review-analysis]
 status: published
 read_count: 13913
+stats_as_of: 2026-05-25
 stats:
   medium: { views: 8, reads: 4 }
   hashnode: { views: 35 }

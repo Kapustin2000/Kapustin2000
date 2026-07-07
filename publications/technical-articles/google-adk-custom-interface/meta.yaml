@@ -8,6 +8,7 @@ cluster_ids: [ai-agents-infrastructure]
 related_publications: [mvp-llm-agent-adk, google-adk-startup-guide, resume-matcher-trpc]
 status: published
 read_count: 10432
+stats_as_of: 2026-05-25
 stats:
   medium: { views: 2600, reads: 1600 }
   hashnode: { views: 52 }
