@@ -93,8 +93,8 @@
 | Oct | [Voice AI Systems Powered by Jambonz](publications/technical-articles/jambonz-voice-ai/) | Publication |
 | Oct | [Building an App Store Review Analysis Pipeline](publications/technical-articles/app-store-review-analysis/) | Publication |
 | Oct | [Google ADK and Startup Technical Guide](publications/technical-articles/google-adk-startup-guide/) | Publication |
-| Nov – 2026 Jun | [Realtime Communications Engineer @ WireBee Inc.](experience/wirebee/) | Work |
-| Nov – 2026 Jun | [WireBee Phone Platform — Realtime Telephony & Voice AI](projects/wirebee-phone-platform/) | Project |
+| Nov – 2026 Jul | [Realtime Communications Engineer @ WireBee Inc.](experience/wirebee/) | Work |
+| Nov – 2026 Jul | [WireBee Phone Platform — Realtime Telephony & Voice AI](projects/wirebee-phone-platform/) | Project |
 | Dec – 2026 Mar | [ProOrder AI — Email-to-ERP Order Automation](projects/proorder-ai/) | Project |
 
 ## 2026

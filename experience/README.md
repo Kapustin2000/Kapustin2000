@@ -11,7 +11,7 @@ Global footprint: Germany · USA · Ukraine · Israel · Kazakhstan
 ## Featured
 
 ### [Realtime Communications Engineer @ WireBee](wirebee/) — Telephony, Voice AI, Realtime Ops
-*Nov 2025 – Jun 2026 · 8 mos*
+*Nov 2025 – Jul 2026 · 9 mos*
 Personally designed and built the NetSapiens and Ultravox platform layers end to end inside a realtime phone system, including queue, device, supervisor, and voice-agent flows.
 `TypeScript` `Node.js` `Redis` `WebSocket` `Jambonz`
 
@@ -36,7 +36,7 @@ Built a transatlantic research holding from scratch: 10+ products across EdTech,
 
 | Period | Role | Company | Location | Duration | Stack |
 |--------|------|---------|----------|----------|-------|
-| 2025-11 – 2026-06 | Realtime Comms Engineer | [WireBee](wirebee/) | Shaker Heights, Ohio | 8 mos | TypeScript, Node.js, NetSapiens |
+| 2025-11 – 2026-07 | Realtime Comms Engineer | [WireBee](wirebee/) | Shaker Heights, Ohio | 9 mos | TypeScript, Node.js, NetSapiens |
 | 2025-10 – 2026-03 | AI Platform Engineer | [Osnova](osnova/) | Leipzig, Germany | 6 mos | Python, FastAPI, Azure |
 | 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | San Francisco, California | 6 mos | Google ADK, Vertex AI |
 | 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | Florida, USA / Baikonur, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |

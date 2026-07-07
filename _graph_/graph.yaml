@@ -4,7 +4,7 @@
 # Navigation protocol: see GUIDE.md in this directory.
 
 version: 1
-generated: 2026-06-15
+generated: 2026-07-07
 
 person:
   id: kapustin2000
@@ -191,7 +191,7 @@ companies:
   - id: wirebee
     name: "WireBee Inc."
     role: "Realtime Communications Engineer"
-    period: 2025-11 - 2026-06
+    period: 2025-11 - 2026-07
     location: "Shaker Heights, Ohio"
     relations:
       projects: [wirebee-phone-platform]
@@ -319,7 +319,7 @@ projects:
   - id: wirebee-phone-platform
     name: "WireBee Phone Platform — Realtime Telephony & Voice AI"
     status: completed
-    period: 2025-11 - 2026-06
+    period: 2025-11 - 2026-07
     company: wirebee
     stack: [TypeScript, Node.js, React, MySQL, Redis, NATS, WebSocket, Jambonz, NetSapiens, Ultravox]
 

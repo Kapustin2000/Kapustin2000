@@ -4,7 +4,7 @@ description: "Professional work experience — 13 roles across 10+ years"
 entities:
   - id: wirebee
     type: company
-    period: 2025-11 - 2026-06
+    period: 2025-11 - 2026-07
   - id: osnova
     type: company
     period: 2025-10 - 2026-03

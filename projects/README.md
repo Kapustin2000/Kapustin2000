@@ -9,7 +9,7 @@
 ## Featured
 
 ### [WireBee Phone Platform](wirebee-phone-platform/) — Realtime Telephony & Voice AI
-*Nov 2025 – Jun 2026 · Completed*
+*Nov 2025 – Jul 2026 · Completed*
 Telephony operations platform with NetSapiens queues, Jambonz call handling, Ultravox voice AI, and realtime supervisor tooling, where I designed and built the NetSapiens and Ultravox layers end to end.
 `TypeScript` `Node.js` `Redis` `WebSocket`
 
@@ -37,7 +37,7 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 | [Global Foresight System](gfs/) | 2023 – Present | Active | LangChain, Node.js, Python, Vue |
 | [ASRP Ecosystem](asrp-tech/) | Apr 2023 – Present | Active | Vue, Nuxt, LangChain, Docker |
 | [ASRP.science](asrp-science/) | 2024 – Present | Active | Vue, Nuxt, Node.js, PostgreSQL |
-| [WireBee Phone Platform](wirebee-phone-platform/) | Nov 2025 – Jun 2026 | Completed | TypeScript, Node.js, NetSapiens, Ultravox |
+| [WireBee Phone Platform](wirebee-phone-platform/) | Nov 2025 – Jul 2026 | Completed | TypeScript, Node.js, NetSapiens, Ultravox |
 | [AI_ORG](ai-org/) | Oct 2025 – Mar 2026 | Completed | Python, FastAPI, PostgreSQL, OpenAI |
 | [Cogit SaaS](cogit-saas/) | Oct 2025 – Mar 2026 | Completed | TypeScript, React, NestJS, Azure |
 | [ProOrder AI](proorder-ai/) | Dec 2025 – Mar 2026 | Completed | Python, FastAPI, SQLite, Business Central API |
