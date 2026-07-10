@@ -43,6 +43,7 @@ Co-founded ASRP, a transatlantic research holding company focused on AI, neurosc
 - [Technological Transformations, GMS and GFS](../../publications/research-publications/gms-gfs-right-brain/)
 - [Forecasting Events Using Banchenko-Technology](../../publications/research-publications/banchenko-forecasting/)
 - [Banchenko's Mnemonic Dream Synchronization Method](../../publications/research-publications/banchenko-dream-synchronization/)
+- [Clinical Validation of the Inspira-X System](../../publications/research-publications/inspira-x-clinical-validation/)
 - [My First AI & Blockchain Hackathon](../../publications/technical-articles/ai-blockchain-hackathon-theta/)
 - [How to Run LLMs Locally with LM Studio](../../publications/technical-articles/lm-studio-local-llm-guide/)
 

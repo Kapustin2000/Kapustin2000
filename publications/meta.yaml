@@ -1,6 +1,6 @@
 id: publications
 type: index
-description: "Publications, articles, research papers, and media mentions — 22 total across 5 categories"
+description: "Publications, articles, research papers, and media mentions — 23 total across 5 categories"
 categories:
   - path: technical-articles
     label: Technical Articles
@@ -13,7 +13,7 @@ categories:
     count: 1
   - path: research-publications
     label: Research Publications
-    count: 3
+    count: 4
   - path: academic-research
     label: Academic Research
     count: 1
@@ -76,6 +76,10 @@ entities:
     type: research_paper
     date: 2024-01
     pdf: "research-publications/banchenko-dream-synchronization/the-application-of-the-banchenkos-mnemonic-dream-synchronization-method-for-the-joint-synchronization-of-dream-elements-.pdf"
+  - id: inspira-x-clinical-validation
+    type: research_paper
+    date: 2025-09
+    pdf: "research-publications/inspira-x-clinical-validation/ClinicalValidationoftheInspira-XSystem.pdf"
   - id: banchenko-forecasting
     type: research_paper
     date: 2024-06
@@ -117,6 +121,10 @@ clusters:
     label: Software Market Research
     description: "Software development tools and labor-market demand research."
     publications: [software-development-tools]
+  - id: health-biofeedback-research
+    label: Health & Biofeedback Research
+    description: "Clinical validation of biofeedback devices and breathing-pattern correction methodologies."
+    publications: [inspira-x-clinical-validation]
 tag_taxonomy:
   - id: ai-systems
     label: AI Systems
@@ -154,6 +162,12 @@ tag_taxonomy:
     tags: [software-development, job-market, ukraine, architecture, guide, tutorial, infrastructure, telephony, sip, jambonz, cpaas, call-state]
     aliases:
       software-engineering: software-development
+  - id: health-biofeedback
+    label: Health & Biofeedback
+    tags: [biofeedback, breathing, respiratory-health, clinical-study, diaphragmatic-breathing]
+    aliases:
+      breathwork: breathing
+      clinical-trial: clinical-study
 timeline:
   - year: 2026
     months:
@@ -170,7 +184,7 @@ timeline:
       - month: "08"
         publications: [docling-text-language]
       - month: "09"
-        publications: [mvp-llm-agent-adk, resume-matcher-trpc, ai-blockchain-hackathon-theta]
+        publications: [mvp-llm-agent-adk, resume-matcher-trpc, ai-blockchain-hackathon-theta, inspira-x-clinical-validation]
       - month: "10"
         publications: [ai-agent-infrastructure, jambonz-voice-ai, app-store-review-analysis, google-adk-startup-guide]
   - year: 2024

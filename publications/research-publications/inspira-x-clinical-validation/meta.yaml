@@ -1,0 +1,19 @@
+id: inspira-x-clinical-validation
+type: research_paper
+title: "Clinical Validation of the Inspira-X System: A Methodology for Correcting Breathing Patterns via Biofeedback"
+date: 2025-09
+journal: "ASRP.Science — Clinical Study, Issue No. 1"
+doi: "10.66082/asrp-2026-001"
+link: "https://doi.org/10.66082/asrp-2026-001"
+pdf: "ClinicalValidationoftheInspira-XSystem.pdf"
+images:
+  - "images/figure-1-physiological-parameters.png"
+  - "images/figure-2-mmrc-qol.png"
+  - "images/figure-3-elderly-group.png"
+  - "images/figure-4-comparative-effectiveness.png"
+company: asrp
+authors: [Valeria Ovseannicova, Alexandr Ovseannicov, Galina Ovseannicova, Denis Banchenko, Ivan Savelev, Mykhailo Kapustin]
+tags: [biofeedback, breathing, respiratory-health, clinical-study, diaphragmatic-breathing]
+cluster_ids: [health-biofeedback-research]
+related_publications: []
+status: published

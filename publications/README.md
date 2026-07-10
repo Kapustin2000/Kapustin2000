@@ -2,7 +2,7 @@
 
 # Publications & Articles
 
-22 entries · 11 technical articles · 6 popular science articles · 3 research papers · 1 academic paper · 1 media mention
+23 entries · 11 technical articles · 6 popular science articles · 4 research papers · 1 academic paper · 1 media mention
 
 ---
 
@@ -41,6 +41,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](media-mentions/economics-of-dreams/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) |
 | Neurotechnology & Future Interfaces | [Future Technologies](popular-science/future-technologies-innovation/) · [BCI in HR](popular-science/bci-hr-recruitment/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
 | Software Market Research | [Software Development Tools in the Job Market](academic-research/software-development-tools/) |
+| Health & Biofeedback Research | [Clinical Validation of the Inspira-X System](research-publications/inspira-x-clinical-validation/) |
 
 ---
 
@@ -51,7 +52,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Jun 2026 | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) |
 | Feb 2026 | [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) |
 | Oct 2025 | [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) · [App Store Review Analysis](technical-articles/app-store-review-analysis/) · [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) |
-| Sep 2025 | [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) · [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) |
+| Sep 2025 | [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) · [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) · [Clinical Validation of the Inspira-X System](research-publications/inspira-x-clinical-validation/) |
 | Aug 2025 | [Docling in Working with Texts](technical-articles/docling-text-language/) |
 | Jul 2025 | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) |
 | Feb 2025 | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
@@ -76,6 +77,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Consciousness Research | `lucid-dreaming` `dream-synchronization` `dreams` `consciousness` `mnemonic` `banchenko` `pet-project` `research` `innovation` |
 | Neurotechnology & Interfaces | `bci` `neurotechnology` `neurointerfaces` `vr` `olympic-training` `right-brain` `hr` `recruitment` `quantum-computing` |
 | Engineering Market | `software-development` `job-market` `ukraine` `architecture` `guide` `tutorial` `infrastructure` `telephony` `sip` `jambonz` `cpaas` `call-state` |
+| Health & Biofeedback | `biofeedback` `breathing` `respiratory-health` `clinical-study` `diaphragmatic-breathing` |
 
 ---
 
@@ -129,9 +131,10 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 
 | # | Paper | Date | PDF |
 |---|-------|------|-----|
-| 1 | [Technological Transformations, Formation of GMS and GFS](research-publications/gms-gfs-right-brain/) | Feb 2025 | [PDF](research-publications/gms-gfs-right-brain/technological-transformations-formation-of-gms-global-mental-system-and-gfs-global-forecasting-systemrightbrain-technolo.pdf) |
-| 2 | [Forecasting Events Using Banchenko-Technology](research-publications/banchenko-forecasting/) | Jun 2024 | [PDF](research-publications/banchenko-forecasting/ForecastingSocialJapanJournalofResearchGeopoliticalandEconomic_EventsUsingtheBanchenko-Technology.pdf) |
-| 3 | [Banchenko's Mnemonic Dream Synchronization Method](research-publications/banchenko-dream-synchronization/) | Jan 2024 | [PDF](research-publications/banchenko-dream-synchronization/the-application-of-the-banchenkos-mnemonic-dream-synchronization-method-for-the-joint-synchronization-of-dream-elements-.pdf) |
+| 1 | [Clinical Validation of the Inspira-X System](research-publications/inspira-x-clinical-validation/) | Sep 2025 | [PDF](research-publications/inspira-x-clinical-validation/ClinicalValidationoftheInspira-XSystem.pdf) |
+| 2 | [Technological Transformations, Formation of GMS and GFS](research-publications/gms-gfs-right-brain/) | Feb 2025 | [PDF](research-publications/gms-gfs-right-brain/technological-transformations-formation-of-gms-global-mental-system-and-gfs-global-forecasting-systemrightbrain-technolo.pdf) |
+| 3 | [Forecasting Events Using Banchenko-Technology](research-publications/banchenko-forecasting/) | Jun 2024 | [PDF](research-publications/banchenko-forecasting/ForecastingSocialJapanJournalofResearchGeopoliticalandEconomic_EventsUsingtheBanchenko-Technology.pdf) |
+| 4 | [Banchenko's Mnemonic Dream Synchronization Method](research-publications/banchenko-dream-synchronization/) | Jan 2024 | [PDF](research-publications/banchenko-dream-synchronization/the-application-of-the-banchenkos-mnemonic-dream-synchronization-method-for-the-joint-synchronization-of-dream-elements-.pdf) |
 
 ### Academic Research
 
@@ -174,7 +177,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Year | Count |
 |------|-------|
 | 2026 | 2 |
-| 2025 | 13 |
+| 2025 | 14 |
 | 2024 | 6 |
 | 2023 | 3 |
 | 2018 | 1 |

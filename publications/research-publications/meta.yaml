@@ -1,7 +1,11 @@
 id: research-publications
 type: index
-description: "Peer-reviewed research publications on forecasting, lucid dreaming, and consciousness-oriented methodologies"
+description: "Peer-reviewed research publications on forecasting, lucid dreaming, consciousness-oriented methodologies, and clinical biofeedback"
 entities:
+  - id: inspira-x-clinical-validation
+    type: research_paper
+    date: 2025-09
+    pdf: "inspira-x-clinical-validation/ClinicalValidationoftheInspira-XSystem.pdf"
   - id: gms-gfs-right-brain
     type: research_paper
     date: 2025-02
