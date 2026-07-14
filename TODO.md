@@ -23,6 +23,7 @@
 - [x] Cross-link Experience → Projects (7/11 companies have "Related Projects")
 - [x] Create project pages for ASRP.science, ASRP.tech (ecosystem), and GFS
 - [x] Scrape ASRP.tech website — done, extracted full product catalog and chronology
+- [x] Pulled 3 WireBee deep-dive project pages from asrp-portfolio (ai-voice-agent, pbx-integration, smart-queue), rewritten first-person; enriched cogit-saas + proorder-ai with the same source (2026-07-14)
 
 ### Ideas
 - [ ] Add featured projects with preview images to `projects/README.md`

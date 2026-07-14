@@ -1,8 +1,17 @@
 id: projects
 type: index
-description: "Software projects and products — 18 projects (5 active, 13 completed)"
+description: "Software projects and products — 21 projects (5 active, 16 completed)"
 entities:
   - id: wirebee-phone-platform
+    type: project
+    status: completed
+  - id: ai-voice-agent
+    type: project
+    status: completed
+  - id: pbx-integration
+    type: project
+    status: completed
+  - id: smart-queue
     type: project
     status: completed
   - id: ai-org

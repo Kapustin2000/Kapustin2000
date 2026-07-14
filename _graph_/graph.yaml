@@ -4,7 +4,7 @@
 # Navigation protocol: see GUIDE.md in this directory.
 
 version: 1
-generated: 2026-07-07
+generated: 2026-07-14
 
 person:
   id: kapustin2000
@@ -194,7 +194,7 @@ companies:
     period: 2025-11 - 2026-07
     location: "Shaker Heights, Ohio"
     relations:
-      projects: [wirebee-phone-platform]
+      projects: [wirebee-phone-platform, ai-voice-agent, pbx-integration, smart-queue]
 
 projects:
   - id: ai-cv-matcher
@@ -322,6 +322,27 @@ projects:
     period: 2025-11 - 2026-07
     company: wirebee
     stack: [TypeScript, Node.js, React, MySQL, Redis, NATS, WebSocket, Jambonz, NetSapiens, Ultravox]
+
+  - id: ai-voice-agent
+    name: "AI Voice Agent — Inbound Carrier Call Handling"
+    status: completed
+    period: 2025-12 - 2026-04
+    company: wirebee
+    stack: [TypeScript, Node.js, Hono, MySQL, Redis, NATS, WebSocket, Jambonz, Bandwidth, Ultravox]
+
+  - id: pbx-integration
+    name: "Cloud PBX Integration — Contact-Center Queues & Agents"
+    status: completed
+    period: 2026-03 - 2026-07
+    company: wirebee
+    stack: [TypeScript, Node.js, Bun, Drizzle, MySQL, Redis, NATS, NetSapiens]
+
+  - id: smart-queue
+    name: "In-House Ring-All Call Routing (Smart Queue)"
+    status: completed
+    period: 2026-03 - 2026-07
+    company: wirebee
+    stack: [TypeScript, Hono, Bun, MySQL, Drizzle, Redis, NATS, Jambonz, Bandwidth, tRPC]
 
 publications:
   technical_articles:
