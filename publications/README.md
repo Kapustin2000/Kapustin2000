@@ -36,7 +36,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 |---------|--------------|
 | AI Agents & Infrastructure | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) · [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) · [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) · [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) |
 | Applied AI & NLP | [Docling in Working with Texts](technical-articles/docling-text-language/) · [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) · [App Store Review Analysis](technical-articles/app-store-review-analysis/) |
-| Local & Voice AI | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) · [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) · [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) · [The Voice AI Agent That Doesn't Own the Call](technical-articles/voice-ai-agent-call-control/) |
+| Local & Voice AI | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) · [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) · [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) · [The Voice AI Agent That Doesn't Own the Phone Call](technical-articles/voice-ai-agent-call-control/) |
 | GFS, Forecasting & Blockchain | [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) · [Economics of Dreams](media-mentions/economics-of-dreams/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) |
 | Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](media-mentions/economics-of-dreams/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) |
 | Neurotechnology & Future Interfaces | [Future Technologies](popular-science/future-technologies-innovation/) · [BCI in HR](popular-science/bci-hr-recruitment/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
@@ -49,7 +49,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 
 | Period | Publications |
 |--------|--------------|
-| Jul 2026 | [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) · [The Voice AI Agent That Doesn't Own the Call](technical-articles/voice-ai-agent-call-control/) |
+| Jul 2026 | [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) · [The Voice AI Agent That Doesn't Own the Phone Call](technical-articles/voice-ai-agent-call-control/) |
 | Jun 2026 | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) |
 | Feb 2026 | [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) |
 | Oct 2025 | [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) · [App Store Review Analysis](technical-articles/app-store-review-analysis/) · [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) |
@@ -89,8 +89,8 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | builds_on | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) | [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) |
 | builds_on | [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) |
 | shared_method | [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) | [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) |
-| builds_on | [The Voice AI Agent That Doesn't Own the Call](technical-articles/voice-ai-agent-call-control/) | [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) |
-| builds_on | [The Voice AI Agent That Doesn't Own the Call](technical-articles/voice-ai-agent-call-control/) | [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) |
+| builds_on | [The Voice AI Agent That Doesn't Own the Phone Call](technical-articles/voice-ai-agent-call-control/) | [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) |
+| builds_on | [The Voice AI Agent That Doesn't Own the Phone Call](technical-articles/voice-ai-agent-call-control/) | [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) |
 | builds_on | [MVP LLM Agent on Google ADK](technical-articles/mvp-llm-agent-adk/) | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) |
 | builds_on | [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) |
 | builds_on | [AI Agent Infrastructure](technical-articles/ai-agent-infrastructure/) | [Google ADK Startup Guide](technical-articles/google-adk-startup-guide/) |
@@ -120,7 +120,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 
 | # | Article | Date | Platforms |
 |---|---------|------|-----------|
-| 1 | [The Voice AI Agent That Doesn't Own the Call](technical-articles/voice-ai-agent-call-control/) | Jul 2026 | Kapustin2000 |
+| 1 | [The Voice AI Agent That Doesn't Own the Phone Call](technical-articles/voice-ai-agent-call-control/) | Jul 2026 | Kapustin2000 |
 | 2 | [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) | Jul 2026 | Kapustin2000 |
 | 3 | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) | Jun 2026 | Medium, Kapustin2000 |
 | 4 | [How to Run LLMs Locally with LM Studio](technical-articles/lm-studio-local-llm-guide/) | Feb 2026 | Medium, Habr |

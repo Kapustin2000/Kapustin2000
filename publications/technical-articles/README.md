@@ -8,7 +8,7 @@
 
 | # | Article | Date | Platforms |
 |---|---------|------|-----------|
-| 1 | [The Voice AI Agent That Doesn't Own the Call](voice-ai-agent-call-control/) | Jul 2026 | Kapustin2000 |
+| 1 | [The Voice AI Agent That Doesn't Own the Phone Call](voice-ai-agent-call-control/) | Jul 2026 | Kapustin2000 |
 | 2 | [Why Production Telephony Breaks Not on the API](telephony-state-reconciliation/) | Jul 2026 | Kapustin2000 |
 | 3 | [How a Call Works in Programmable Telephony](anatomy-of-a-phone-call/) | Jun 2026 | Medium, Kapustin2000 |
 | 4 | [How to Run LLMs Locally with LM Studio](lm-studio-local-llm-guide/) | Feb 2026 | Medium, Habr |
