@@ -2,6 +2,12 @@ id: technical-articles
 type: index
 description: "Technical articles — AI agents, infrastructure, NLP, local LLMs, telephony, and applied engineering case studies"
 entities:
+  - id: voice-ai-agent-call-control
+    type: article
+    date: 2026-07
+  - id: telephony-state-reconciliation
+    type: article
+    date: 2026-07
   - id: anatomy-of-a-phone-call
     type: article
     date: 2026-06
