@@ -1,6 +1,39 @@
 id: cvs
 type: index
-description: "Curriculum vitae and resume downloads"
+description: "Curriculum vitae and resume downloads, organized by year and role track"
+structure:
+  layout: "one folder per year (YYYY/), role-track subfolders (backend/ ai/ fullstack/ general/), files named mykhailo-kapustin-cv-YYYY-MM[-DD]-<variant>.{pdf,md}"
+  tracks: [backend, ai, fullstack, general]
+  years:
+    - year: 2026
+      entries:
+        - id: 2026-07-backend-nodejs
+          track: backend
+          title: "Backend Engineer (Node.js / TypeScript)"
+          date: 2026-07
+          files: [2026/backend/mykhailo-kapustin-cv-2026-07-backend-nodejs.pdf, 2026/backend/mykhailo-kapustin-cv-2026-07-backend-nodejs.md]
+        - id: 2026-07-ai-engineer
+          track: ai
+          title: "AI Engineer (LLM / Multi-Agent Systems)"
+          date: 2026-07
+          files: [2026/ai/mykhailo-kapustin-cv-2026-07-ai-engineer.pdf, 2026/ai/mykhailo-kapustin-cv-2026-07-ai-engineer.md]
+        - id: 2026-07-fullstack
+          track: fullstack
+          title: "Full Stack Engineer (Node.js / Vue / React)"
+          date: 2026-07
+          files: [2026/fullstack/mykhailo-kapustin-cv-2026-07-fullstack.pdf, 2026/fullstack/mykhailo-kapustin-cv-2026-07-fullstack.md]
+        - id: 2026-05-europass
+          track: general
+          title: "Europass CV (full detailed version)"
+          date: 2026-05
+          files: [2026/general/mykhailo-kapustin-cv-2026-05-europass.pdf]
+    - year: 2025
+      entries:
+        - id: 2025-09-04-short
+          track: general
+          title: "Short CV (condensed 1-page version)"
+          date: 2025-09-04
+          files: [2025/general/mykhailo-kapustin-cv-2025-09-04-short.pdf]
 navigation:
   parent: /
   siblings: [experience, projects, publications, conferences, skills, education]
