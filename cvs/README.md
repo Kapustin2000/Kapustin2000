@@ -121,12 +121,12 @@ Organized by year.
 |------|----|------|-------|
 | 2026 | Backend Engineer | [PDF](2026/Mykhailo%20Kapustin%20-%20Backend%20Engineer%20-%20Europass%20CV.pdf) | Role-specific, Europass format |
 | 2026 | AI Engineer | [PDF](2026/Mykhailo%20Kapustin%20-%20AI%20Engineer%20-%20Europass%20CV.pdf) | Role-specific, Europass format |
+| May 2026 | Europass CV | [PDF](2026/general/mykhailo-kapustin-cv-2026-05-europass.pdf) | Full detailed version, Europass format |
 
 ### 2025
 
 | Date | CV | File | Notes |
 |------|----|------|-------|
-| May 2026 | Europass CV | [PDF](2025/general/mykhailo-kapustin-cv-2026-05-europass.pdf) | Full detailed version, Europass format |
 | Sep 2025 | Short CV | [PDF](2025/general/mykhailo-kapustin-cv-2025-09-04-short.pdf) | Condensed 1-page version |
 
 ---

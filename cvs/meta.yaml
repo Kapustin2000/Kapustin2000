@@ -14,12 +14,12 @@ structure:
           title: "AI Engineer (Europass)"
           date: 2026
           files: ["2026/Mykhailo Kapustin - AI Engineer - Europass CV.pdf"]
-    - year: 2025
-      entries:
         - id: 2026-05-europass
           title: "Europass CV (full detailed version)"
           date: 2026-05
-          files: [2025/general/mykhailo-kapustin-cv-2026-05-europass.pdf]
+          files: [2026/general/mykhailo-kapustin-cv-2026-05-europass.pdf]
+    - year: 2025
+      entries:
         - id: 2025-09-04-short
           title: "Short CV (condensed 1-page version)"
           date: 2025-09-04
