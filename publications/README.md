@@ -2,7 +2,7 @@
 
 # Publications & Articles
 
-25 entries · 13 technical articles · 6 popular science articles · 4 research papers · 1 academic paper · 1 media mention
+26 entries · 13 technical articles · 7 popular science articles · 4 research papers · 1 academic paper · 1 media mention
 
 ---
 
@@ -38,7 +38,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Applied AI & NLP | [Docling in Working with Texts](technical-articles/docling-text-language/) · [Resume Matcher with tRPC](technical-articles/resume-matcher-trpc/) · [App Store Review Analysis](technical-articles/app-store-review-analysis/) |
 | Local & Voice AI | [How a Call Works in Programmable Telephony](technical-articles/anatomy-of-a-phone-call/) · [LM Studio Local LLM Guide](technical-articles/lm-studio-local-llm-guide/) · [Voice AI Systems Powered by Jambonz](technical-articles/jambonz-voice-ai/) · [Why Production Telephony Breaks Not on the API](technical-articles/telephony-state-reconciliation/) · [The Voice AI Agent That Doesn't Own the Phone Call](technical-articles/voice-ai-agent-call-control/) |
 | GFS, Forecasting & Blockchain | [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) · [Economics of Dreams](media-mentions/economics-of-dreams/) · [AI & Blockchain Hackathon](technical-articles/ai-blockchain-hackathon-theta/) |
-| Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](media-mentions/economics-of-dreams/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) |
+| Lucid Dreaming & Consciousness | [AI and Lucid Dreaming](popular-science/ai-lucid-dreaming/) · [Pet Project to Research 2023](popular-science/pet-project-scientific-research-2023/) · [Dream Synchronization](research-publications/banchenko-dream-synchronization/) · [Banchenko Forecasting](research-publications/banchenko-forecasting/) · [Economics of Dreams](media-mentions/economics-of-dreams/) · [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [Practicing Lucid Dreaming: My Experience in a Scientific Study](popular-science/lucid-dreaming-personal-experience/) |
 | Neurotechnology & Future Interfaces | [Future Technologies](popular-science/future-technologies-innovation/) · [BCI in HR](popular-science/bci-hr-recruitment/) · [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
 | Software Market Research | [Software Development Tools in the Job Market](academic-research/software-development-tools/) |
 | Health & Biofeedback Research | [Clinical Validation of the Inspira-X System](research-publications/inspira-x-clinical-validation/) |
@@ -57,6 +57,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Aug 2025 | [Docling in Working with Texts](technical-articles/docling-text-language/) |
 | Jul 2025 | [Google ADK Custom Interface](technical-articles/google-adk-custom-interface/) |
 | Feb 2025 | [GMS and GFS Right-Brain Technologies](research-publications/gms-gfs-right-brain/) |
+| Jan 2025 | [Practicing Lucid Dreaming: My Experience in a Scientific Study](popular-science/lucid-dreaming-personal-experience/) |
 | Dec 2024 | [Lucid Dreams and VR](popular-science/lucid-dreams-vr-olympic/) · [BCI in HR](popular-science/bci-hr-recruitment/) |
 | Oct 2024 | [Pet Project to Research 2024](popular-science/pet-project-scientific-research-2024/) |
 | Jun 2024 | [Banchenko Forecasting](research-publications/banchenko-forecasting/) |
@@ -75,7 +76,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | AI Systems | `ai` `ai-agents` `google-adk` `llm` `llm-agent` `local-ai` `voice-ai` `agentops` `mcp` `a2a` `vertex-ai` `lm-studio` |
 | Data & Language | `nlp` `text-analysis` `docling` `data-visualization` `python` `trpc` `resume-matching` |
 | Forecasting & Economy | `forecasting` `gfs` `gms` `economics` `blockchain` `theta` `markets` `hackathon` |
-| Consciousness Research | `lucid-dreaming` `dream-synchronization` `dreams` `consciousness` `mnemonic` `banchenko` `pet-project` `research` `innovation` |
+| Consciousness Research | `lucid-dreaming` `dream-synchronization` `dreams` `consciousness` `mnemonic` `banchenko` `pet-project` `research` `innovation` `personal-narrative` |
 | Neurotechnology & Interfaces | `bci` `neurotechnology` `neurointerfaces` `vr` `olympic-training` `right-brain` `hr` `recruitment` `quantum-computing` |
 | Engineering Market | `software-development` `job-market` `ukraine` `architecture` `guide` `tutorial` `infrastructure` `telephony` `sip` `jambonz` `cpaas` `call-state` `pbx` `state-reconciliation` `distributed-systems` `redis` `call-control` `agent-testing` `llm-agent` |
 | Health & Biofeedback | `biofeedback` `breathing` `respiratory-health` `clinical-study` `diaphragmatic-breathing` |
@@ -153,12 +154,13 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 
 | # | Article | Date |
 |---|---------|------|
-| 1 | [Lucid Dreams and VR: Swiss Olympic Team](popular-science/lucid-dreams-vr-olympic/) | Dec 2024 |
-| 2 | [BCI in HR: Changing Recruitment](popular-science/bci-hr-recruitment/) | Dec 2024 |
-| 3 | [From Pet Project to Scientific Research](popular-science/pet-project-scientific-research-2024/) | Oct 2024 |
-| 4 | [From Pet Project to Scientific Research](popular-science/pet-project-scientific-research-2023/) | Oct 2023 |
-| 5 | [Future Technologies: A Glimpse into Innovation](popular-science/future-technologies-innovation/) | Oct 2023 |
-| 6 | [AI and Lucid Dreaming: Exploring New Opportunities](popular-science/ai-lucid-dreaming/) | Jun 2023 |
+| 1 | [Practicing Lucid Dreaming: My Experience in a Scientific Study](popular-science/lucid-dreaming-personal-experience/) | Jan 2025 |
+| 2 | [Lucid Dreams and VR: Swiss Olympic Team](popular-science/lucid-dreams-vr-olympic/) | Dec 2024 |
+| 3 | [BCI in HR: Changing Recruitment](popular-science/bci-hr-recruitment/) | Dec 2024 |
+| 4 | [From Pet Project to Scientific Research](popular-science/pet-project-scientific-research-2024/) | Oct 2024 |
+| 5 | [From Pet Project to Scientific Research](popular-science/pet-project-scientific-research-2023/) | Oct 2023 |
+| 6 | [Future Technologies: A Glimpse into Innovation](popular-science/future-technologies-innovation/) | Oct 2023 |
+| 7 | [AI and Lucid Dreaming: Exploring New Opportunities](popular-science/ai-lucid-dreaming/) | Jun 2023 |
 
 ### Media Mentions
 
@@ -184,7 +186,7 @@ From PSTN to SIP to Jambonz — building programmable Voice AI agents with telep
 | Year | Count |
 |------|-------|
 | 2026 | 4 |
-| 2025 | 14 |
+| 2025 | 15 |
 | 2024 | 6 |
 | 2023 | 3 |
 | 2018 | 1 |

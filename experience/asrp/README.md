@@ -33,6 +33,7 @@ Co-founded ASRP, a transatlantic research holding company focused on AI, neurosc
 
 ## Related Publications
 
+- [Practicing Lucid Dreaming: My Experience in a Scientific Study](../../publications/popular-science/lucid-dreaming-personal-experience/)
 - [AI and Lucid Dreaming: Exploring New Opportunities](../../publications/popular-science/ai-lucid-dreaming/)
 - [The Economics of Dreams](../../publications/media-mentions/economics-of-dreams/) — media mention
 - [Lucid Dreams and VR: Swiss Olympic Team](../../publications/popular-science/lucid-dreams-vr-olympic/)

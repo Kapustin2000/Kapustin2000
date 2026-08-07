@@ -2,6 +2,9 @@ id: popular-science
 type: index
 description: "Popular science and technology articles translating research into public-facing narratives"
 entities:
+  - id: lucid-dreaming-personal-experience
+    type: article
+    date: 2025-01
   - id: lucid-dreams-vr-olympic
     type: article
     date: 2024-12

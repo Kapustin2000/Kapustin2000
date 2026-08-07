@@ -1,0 +1,40 @@
+id: school-106
+type: secondary_education
+institution: "Odesa General Education School №106"
+period: 2006-08 - 2017-05
+location: Odesa, Ukraine
+credentials:
+  - title: "Свідоцтво про базову загальну середню освіту"
+    issued: 2015
+  - title: "Атестат про повну загальну середню освіту"
+    number: "2361454"
+    issued: 2017
+  - title: "Додаток до атестата (Diploma Supplement)"
+    number: "КС 49364585"
+    average_grade: 6.9
+    state_exams:
+      - subject: "Українська мова та література"
+        grade: 8
+      - subject: "Математика"
+        grade: 5
+      - subject: "Англійська мова"
+        grade: 9
+zno_2017:
+  certificate_no: "0323024"
+  pin: "5243"
+  results:
+    - subject: "Українська мова і література"
+      raw_score: "65/104"
+      zno_score: 158.0
+    - subject: "Математика"
+      raw_score: "18/62"
+      zno_score: 121.0
+    - subject: "Англійська мова"
+      raw_score: "40/56"
+      zno_score: 167.0
+images:
+  - "attestat.jpg"
+  - "svidoctvo.jpg"
+  - "zno-certificate.jpg"
+  - "zno-info-card.jpg"
+  - "diploma-supplement.jpg"
