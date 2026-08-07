@@ -16,6 +16,11 @@ Worked on a project focused on developing a robust website engine and creating w
 - Designed and developed fully functional websites meeting client requirements
 - Provided ongoing support and maintenance to ensure optimal performance and security
 
+## References
+
+- [Reference letter (PDF)](reference.pdf) — Oleg Shumar, company director and course instructor
+- [Reference details](reference.md)
+
 ---
 
 Meta: [meta.yaml](meta.yaml)
