@@ -30,7 +30,14 @@ Specialized in advanced control systems and automation solutions. Graduate resea
 Hands-on work in the automation laboratory — calibrating sensors, testing circuit stability, and diagnosing automation systems on classic analog bench instruments such as the В3-38А millivoltmeter (a Soviet-era AC voltmeter, unit no. 1242, 1983) alongside DC power supplies and signal sources.
 
 <div align="center">
-  <img src="images/lab-millivoltmeter.jpg" alt="В3-38А millivoltmeter on the lab bench" width="380" />
+  <img src="images/lab-millivoltmeter.jpg" alt="В3-38А millivoltmeter on the lab bench" width="360" />
+</div>
+
+The department classrooms where most of this happened — long shared benches, a wall of workstations, and chalkboards that did the heavy lifting for control-theory derivations.
+
+<div align="center">
+  <img src="images/lab-classroom-workstations.jpg" alt="Classroom with workstations along the wall" width="330" />
+  <img src="images/lab-classroom-blackboard.jpg" alt="Classroom with blackboard and shared benches" width="248" />
 </div>
 
 ---

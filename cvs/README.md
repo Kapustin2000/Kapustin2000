@@ -4,7 +4,7 @@
 
 Berlin, Germany · [kapustinomm@gmail.com](mailto:kapustinomm@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mykhailo-kapustin-55885612a) · German work permit
 
-**Latest (Jul 2026):** [Backend / Node.js (PDF)](2026/backend/mykhailo-kapustin-cv-2026-07-backend-nodejs.pdf) · [AI Engineer (PDF)](2026/ai/mykhailo-kapustin-cv-2026-07-ai-engineer.pdf) · [Full Stack (PDF)](2026/fullstack/mykhailo-kapustin-cv-2026-07-fullstack.pdf) — all versions in [Downloads](#downloads)
+**Latest (2026):** [Backend Engineer (PDF)](2026/Mykhailo%20Kapustin%20-%20Backend%20Engineer%20-%20Europass%20CV.pdf) · [AI Engineer (PDF)](2026/Mykhailo%20Kapustin%20-%20AI%20Engineer%20-%20Europass%20CV.pdf) — all versions in [Downloads](#downloads)
 
 ---
 
@@ -113,22 +113,21 @@ Graduate research: optimal control system for a vacuum evaporation plant in the 
 
 ## Downloads
 
-Organized by year, then by role track (`backend/` · `ai/` · `fullstack/` · `general/`). Filenames carry the date (`YYYY-MM[-DD]`) so versions sort chronologically.
+Organized by year.
 
 ### 2026
 
-| Date | Track | CV | Files | Notes |
-|------|-------|----|-------|-------|
-| Jul 2026 | `backend/` | Backend Engineer (Node.js / TypeScript) | [PDF](2026/backend/mykhailo-kapustin-cv-2026-07-backend-nodejs.pdf) · [md](2026/backend/mykhailo-kapustin-cv-2026-07-backend-nodejs.md) | Role-specific 1-pager: realtime telephony, multi-tenant SaaS backends |
-| Jul 2026 | `ai/` | AI Engineer (LLM / Multi-Agent Systems) | [PDF](2026/ai/mykhailo-kapustin-cv-2026-07-ai-engineer.pdf) · [md](2026/ai/mykhailo-kapustin-cv-2026-07-ai-engineer.md) | Role-specific 1-pager: agent platforms, voice AI, LLM pipelines |
-| Jul 2026 | `fullstack/` | Full Stack Engineer (Node.js / Vue / React) | [PDF](2026/fullstack/mykhailo-kapustin-cv-2026-07-fullstack.pdf) · [md](2026/fullstack/mykhailo-kapustin-cv-2026-07-fullstack.md) | Role-specific 1-pager: end-to-end AI products |
-| May 2026 | `general/` | Europass CV | [PDF](2026/general/mykhailo-kapustin-cv-2026-05-europass.pdf) | Full detailed version, Europass format |
+| Date | CV | File | Notes |
+|------|----|------|-------|
+| 2026 | Backend Engineer | [PDF](2026/Mykhailo%20Kapustin%20-%20Backend%20Engineer%20-%20Europass%20CV.pdf) | Role-specific, Europass format |
+| 2026 | AI Engineer | [PDF](2026/Mykhailo%20Kapustin%20-%20AI%20Engineer%20-%20Europass%20CV.pdf) | Role-specific, Europass format |
 
 ### 2025
 
-| Date | Track | CV | Files | Notes |
-|------|-------|----|-------|-------|
-| Sep 2025 | `general/` | Short CV | [PDF](2025/general/mykhailo-kapustin-cv-2025-09-04-short.pdf) | Condensed 1-page version |
+| Date | CV | File | Notes |
+|------|----|------|-------|
+| May 2026 | Europass CV | [PDF](2025/general/mykhailo-kapustin-cv-2026-05-europass.pdf) | Full detailed version, Europass format |
+| Sep 2025 | Short CV | [PDF](2025/general/mykhailo-kapustin-cv-2025-09-04-short.pdf) | Condensed 1-page version |
 
 ---
 
