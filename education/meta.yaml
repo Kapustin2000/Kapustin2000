@@ -4,16 +4,38 @@ secondary_education:
   - id: school-106
     institution: "Odesa General Education School №106"
     period: 2006-08 - 2017-05
-institution: "O.S. Popov Odesa National Academy of Telecommunications"
+institution: "State University of Intellectual Technologies and Communications"
+institution_note: "Formerly O.S. Popov Odesa National Academy of Telecommunications"
 location: Odesa, Ukraine
 degrees:
   - level: "Bachelor's"
     program: "Automation and Computer-Integrated Technologies"
+    field_of_study: "Automation and instrumentation"
     period: 2017-09 - 2021-07
+    diploma_no: "B21 204484"
+    issued: 2021-07-12
   - level: "Master's"
     program: "Automation and Computer-Integrated Technologies"
+    field_of_study: "Automation and instrumentation"
+    specialty_code: 151
     period: 2021-08 - 2022-12
+    diploma_no: "M22 075962"
+    issued: 2022-12-31
+    ects_credits: 90
     thesis: "Optimal control system for a vacuum evaporation plant in the sugar industry"
+    pdf: "telecommunication/telecommunication-education.pdf"
+theses:
+  path: theses/
+  entries:
+    - id: vacuum-evaporation-control
+      level: "Master's"
+      title: "Дослідження та розробка оптимальної системи керування вакуум-випарною установкою"
+    - id: cogeneration-automation
+      level: "Bachelor's"
+      title: "Розробка системи автоматизації когенераційної енергетичної установки"
+coursework:
+  path: coursework/
+  group: "KT-4.19"
 certifications:
   - id: chkalov-english
     title: "Chkalov Courses in Foreign Languages — English, B2"

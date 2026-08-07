@@ -1,0 +1,16 @@
+id: coursework
+type: index
+description: "University course projects — specialty 151, Automation and Computer-Integrated Technologies"
+group: "KT-4.19"
+supervisor: "Тігарєв А.М."
+entities:
+  - id: automation-systems-design-cogeneration
+    title: "Розробка системи автоматизації когенераційної енергетичної установки"
+    course: "Проектування систем автоматизації"
+    docx: "automation-systems-design-cogeneration.docx"
+  - id: process-automation-cogeneration-model
+    title: "Розробка моделі системи автоматизації ділянки технологічного процесу для когенераційної енергетичної установки"
+    course: "Автоматизація технологічних процесів і апаратів"
+    docx: "process-automation-cogeneration-model.docx"
+navigation:
+  parent: education

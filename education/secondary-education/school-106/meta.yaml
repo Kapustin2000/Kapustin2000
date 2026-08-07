@@ -7,10 +7,11 @@ credentials:
   - title: "Свідоцтво про базову загальну середню освіту"
     issued: 2015
   - title: "Атестат про повну загальну середню освіту"
-    number: "2361454"
-    issued: 2017
+    number: "CK 49364585"
+    issued: 2017-06-27
+    pdf: "attestat-digital-record.pdf"
   - title: "Додаток до атестата (Diploma Supplement)"
-    number: "КС 49364585"
+    number: "49364585"
     average_grade: 6.9
     state_exams:
       - subject: "Українська мова та література"
@@ -33,7 +34,6 @@ zno_2017:
       raw_score: "40/56"
       zno_score: 167.0
 images:
-  - "attestat.jpg"
   - "svidoctvo.jpg"
   - "zno-certificate.jpg"
   - "zno-info-card.jpg"

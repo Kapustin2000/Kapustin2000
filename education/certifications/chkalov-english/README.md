@@ -19,10 +19,13 @@
 | Reading | Pass | 97 |
 
 **Documentation:**
-- [Certificate](chkalov-certificate.jpg) — completion record with exam grades
-- [Certificate cover](chkalov-certificate-cover.jpg)
+- [Certificate (PDF)](chkalov-certificate.pdf) — completion record with exam grades
 
-<!-- TODO: сохранить присланные фото сертификата как chkalov-certificate.jpg и chkalov-certificate-cover.jpg -->
+<div align="center">
+  <img src="chkalov-certificate.jpg" alt="Chkalov English B2 certificate" width="600" />
+  <br />
+  <img src="chkalov-certificate-cover.jpg" alt="Certificate cover" width="240" />
+</div>
 
 ---
 

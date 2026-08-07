@@ -4,6 +4,7 @@ Berlin-based developer and researcher with over 10 years of experience in techno
 
 Learn more about me:
 
+- [How I Got Here](how-i-got-here/) — the story behind the CV
 - [Experience](experience/)
 - [Projects](projects/)
 - [Publications](publications/)

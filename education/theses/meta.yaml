@@ -1,0 +1,26 @@
+id: theses
+type: index
+description: "University theses — bachelor's and master's"
+supervisor: "Тігарєв А.М."
+department: "Комп'ютерно-інтегрованих технологічних процесів і виробництв"
+entities:
+  - id: vacuum-evaporation-control
+    level: "Master's"
+    title: "Дослідження та розробка оптимальної системи керування вакуум-випарною установкою"
+    title_en: "Research and Development of an Optimal Control System for a Vacuum Evaporation Plant"
+    year: 2022
+    group: "601кт"
+    pptx: "masters-thesis-defense-presentation.pptx"
+    topics: [control-systems, optimal-control, mathematical-modeling, sugar-industry, process-automation]
+  - id: cogeneration-automation
+    level: "Bachelor's"
+    title: "Розробка системи автоматизації когенераційної енергетичної установки"
+    title_en: "Automation System for a Cogeneration Power Plant"
+    year: 2021
+    group: "KT-4.19"
+    pages: 52
+    pdf: "cogeneration-automation-thesis.pdf"
+    docx: "cogeneration-automation-thesis.docx"
+    topics: [cogeneration, automation, control-systems, mathematical-modeling, rs485, sensor-networks]
+navigation:
+  parent: education

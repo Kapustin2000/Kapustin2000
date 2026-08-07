@@ -13,7 +13,7 @@
 | When | What | Type |
 |------|------|------|
 | Jul – Dec | [Web Full Stack Developer @ PHP-academy](experience/php-academy/) | Work |
-| Sep – 2021 Jul | [Bachelor's in Automation & Computer-Integrated Technologies @ O.S. Popov Academy](education/) | Education |
+| Sep – 2021 Jul | [Bachelor's in Automation & Computer-Integrated Technologies @ SUITC](education/) | Education |
 
 ## 2018
 
@@ -37,7 +37,7 @@
 | When | What | Type |
 |------|------|------|
 | Apr – Jul | [Senior Back-end Developer @ Provectus](experience/provectus/) | Work |
-| Aug – 2022 Dec | [Master's in Automation & Computer-Integrated Technologies @ O.S. Popov Academy](education/) | Education |
+| Aug – 2022 Dec | [Master's in Automation & Computer-Integrated Technologies @ SUITC](education/) | Education |
 | Apr – 2023 Jul | [Gazer TV — Smart TV Companion](projects/gazer/) | Project |
 | Jul – 2023 Apr | [Senior Back-end Developer @ LAB325](experience/lab325/) | Work |
 | Jul – 2023 Apr | [Team Lead & Senior Back-end Developer @ MOB.325](experience/mob325/) | Work |
