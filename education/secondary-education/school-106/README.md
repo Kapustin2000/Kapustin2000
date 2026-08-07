@@ -20,7 +20,7 @@ Studied a wide range of subjects including Ukrainian language and literature, fo
 
 ## ZNO 2017 (External Independent Testing)
 
-The state exam used for university admission — see [How I Got Here, chapter 4](../../../how-i-got-here/chapters/04-all-in-on-math-and-popov-academy.md) for the story behind the math score.
+The state exam used for university admission — see [How I Got Here, chapter 4](../../../how-i-got-here/chapters/04-all-in-on-math-and-popov-academy/) for the story behind the math score.
 
 | Subject | Raw score | ZNO result |
 |---|---|---|
