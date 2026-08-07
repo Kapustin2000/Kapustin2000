@@ -66,6 +66,7 @@
 
 | When | What | Type |
 |------|------|------|
+| — | Relocated to Berlin, Germany | Life |
 | Apr – Present | [Co-Founder & CTO @ ASRP](experience/asrp/) | Work |
 | Apr – Present | [Arcanum12th — Consciousness Education Platform](projects/arcanum12th/) | Project |
 | May – 2025 Sep | [ASRP Media — Analytical & Research Media](projects/asrp-media/) | Project |
