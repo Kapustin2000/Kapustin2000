@@ -22,7 +22,6 @@ credentials:
         grade: 9
 zno_2017:
   certificate_no: "0323024"
-  pin: "5243"
   results:
     - subject: "Українська мова і література"
       raw_score: "65/104"
@@ -36,5 +35,4 @@ zno_2017:
 images:
   - "svidoctvo.jpg"
   - "zno-certificate.jpg"
-  - "zno-info-card.jpg"
   - "diploma-supplement.jpg"

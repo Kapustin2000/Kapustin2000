@@ -20,19 +20,13 @@ Studied a wide range of subjects including Ukrainian language and literature, fo
 
 ## ZNO 2017 (External Independent Testing)
 
-The state exam used for university admission — see [How I Got Here, chapter 3](../../../how-i-got-here/chapters/03-all-in-on-math-and-popov-academy.md) for the story behind the math score.
-
-**[ZNO Certificate №0323024](zno-certificate.jpg)** · **[Information Card](zno-info-card.jpg)**, PIN 5243
+The state exam used for university admission — see [How I Got Here, chapter 4](../../../how-i-got-here/chapters/04-all-in-on-math-and-popov-academy.md) for the story behind the math score.
 
 | Subject | Raw score | ZNO result |
 |---|---|---|
 | Ukrainian Language & Literature | 65 / 104 | **158.0** |
 | Mathematics | 18 / 62 | **121.0** |
 | English | 40 / 56 | **167.0** |
-
-<div align="center">
-  <img src="zno-info-card.jpg" alt="ZNO 2017 information card with results" width="520" />
-</div>
 
 ---
 
