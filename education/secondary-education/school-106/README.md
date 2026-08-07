@@ -11,7 +11,7 @@ Studied a wide range of subjects including Ukrainian language and literature, fo
 ## Credentials
 
 - **[Свідоцтво про базову загальну середню освіту](svidoctvo.jpg)** — basic general secondary education certificate (issued 2015, on completion of 9th grade)
-- **[Атестат про повну загальну середню освіту](attestat.jpg), №CK 49364585** — full general secondary education certificate, issued 27 June 2017. [Digital record (Diia extract)](attestat-digital-record.pdf)
+- **[Атестат про повну загальну середню освіту](attestat.jpg), №CK 49364585** — full general secondary education certificate, issued 27 June 2017
 - **[Diploma Supplement (Додаток до атестата)](diploma-supplement.jpg)** — №49364585 (paired with the Attestat, not valid without it): full subject grades, average grade **6.9** (out of 12), state final exam results — Ukrainian language & literature 8, Mathematics 5, English 9
 
 <div align="center">

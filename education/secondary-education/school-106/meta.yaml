@@ -9,7 +9,6 @@ credentials:
   - title: "Атестат про повну загальну середню освіту"
     number: "CK 49364585"
     issued: 2017-06-27
-    pdf: "attestat-digital-record.pdf"
   - title: "Додаток до атестата (Diploma Supplement)"
     number: "49364585"
     average_grade: 6.9
@@ -34,5 +33,4 @@ zno_2017:
       zno_score: 167.0
 images:
   - "svidoctvo.jpg"
-  - "zno-certificate.jpg"
   - "diploma-supplement.jpg"
