@@ -19,10 +19,6 @@ The hard part isn't calling an LLM on a PDF — it's the enterprise reality in b
 - **Customer matching** – A graceful-degradation cascade (VAT → postcode+country → fuzzy name) tuned with different confidence thresholds per tier, since a false-positive customer match is worse than a clean escalation
 - **Multi-plant support** – One deployment serves several Business Central company entities, plus one plant routed to a SharePoint Excel workbook instead of the ERP
 
-## Engineering highlight — the blocked-item write-time recovery
-
-Business Central stores customer article references, and the *same* reference can exist as both a blocked (retired) record and a live one. The import API accepts only the customer's reference number — not the internal item number — so even when the pipeline has correctly identified the live item, it can't tell the ERP "use this exact record": Business Central re-resolves the reference at write time and can still pick the blocked one, failing the whole order. The fix layers resolution (exact match → formatting variations → core-identifier search, each preferring unblocked hits) and adds a write-time recovery path: if creation still fails on a recognized blocked-item error, the code parses the offending reference out of the German error text, finds an unblocked sibling sharing the same internal item number, swaps it into the order payload, and retries the create exactly once — never blindly, and never more than once.
-
 ## My Role and Contributions
 
 - #1 contributor in the productionization-and-accuracy window (Dec 2025 – Mar 2026) — 28 of 28 commits, the only development activity in that window
