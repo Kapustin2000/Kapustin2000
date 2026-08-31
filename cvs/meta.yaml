@@ -6,18 +6,10 @@ structure:
   years:
     - year: 2026
       entries:
-        - id: 2026-backend-engineer
-          title: "Backend Engineer (Europass)"
-          date: 2026
-          files: ["2026/Mykhailo Kapustin - Backend Engineer - Europass CV.pdf"]
         - id: 2026-ai-engineer
           title: "AI Engineer (Europass)"
           date: 2026
-          files: ["2026/Mykhailo Kapustin - AI Engineer - Europass CV.pdf"]
-        - id: 2026-05-europass
-          title: "Europass CV (full detailed version)"
-          date: 2026-05
-          files: [2026/general/mykhailo-kapustin-cv-2026-05-europass.pdf]
+          files: ["2026/AI Engineer.pdf"]
     - year: 2025
       entries:
         - id: 2025-09-04-short
