@@ -14,7 +14,6 @@ Learn more about me:
 - [Timeline](timeline.md)
 - [Education](education/)
 - [Work Authorization](work-authorization/)
-- [How I Got Here](how-i-got-here/) — the story behind the CV
 
 ---
 

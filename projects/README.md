@@ -2,16 +2,11 @@
 
 # Projects
 
-21 projects · 5 active · 16 completed · 9 companies · 20+ technologies
+17 projects · 5 active · 12 completed · 8 companies · 20+ technologies
 
 ---
 
 ## Featured
-
-### [WireBee Phone Platform](wirebee-phone-platform/) — Realtime Telephony & Voice AI
-*Nov 2025 – Jul 2026 · Completed*
-Telephony operations platform with NetSapiens queues, Jambonz call handling, Ultravox voice AI, and realtime supervisor tooling, where I designed and built the NetSapiens and Ultravox layers end to end.
-`TypeScript` `Node.js` `Redis` `WebSocket`
 
 ### [AI_ORG](ai-org/) — Multi-Tenant AI Agent Platform
 *Oct 2025 – Mar 2026 · Completed*
@@ -37,10 +32,6 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 | [Global Foresight System](gfs/) | 2023 – Present | Active | LangChain, Node.js, Python, Vue |
 | [ASRP Ecosystem](asrp-tech/) | Apr 2023 – Present | Active | Vue, Nuxt, LangChain, Docker |
 | [ASRP.science](asrp-science/) | 2024 – Present | Active | Vue, Nuxt, Node.js, PostgreSQL |
-| [WireBee Phone Platform](wirebee-phone-platform/) | Nov 2025 – Jul 2026 | Completed | TypeScript, Node.js, NetSapiens, Ultravox |
-| [AI Voice Agent](ai-voice-agent/) | Dec 2025 – Apr 2026 | Completed | TypeScript, Hono, Ultravox, Jambonz |
-| [Cloud PBX Integration](pbx-integration/) | Mar 2026 – Jul 2026 | Completed | TypeScript, Bun, Drizzle, NetSapiens |
-| [Smart Queue](smart-queue/) | Mar 2026 – Jul 2026 | Completed | TypeScript, Hono, Jambonz, tRPC |
 | [AI_ORG](ai-org/) | Oct 2025 – Mar 2026 | Completed | Python, FastAPI, PostgreSQL, OpenAI |
 | [Cogit SaaS](cogit-saas/) | Oct 2025 – Mar 2026 | Completed | TypeScript, React, NestJS, Azure |
 | [ProOrder AI](proorder-ai/) | Dec 2025 – Mar 2026 | Completed | Python, FastAPI, SQLite, Business Central API |
@@ -64,7 +55,6 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 |---------|----------|
 | [ASRP](../experience/asrp/) | [Arcanum12th](arcanum12th/), [ASRP Media](asrp-media/), [ASRP.science](asrp-science/), [GFS](gfs/), [ASRP Ecosystem](asrp-tech/) |
 | [Osnova](../experience/osnova/) | [AI_ORG](ai-org/), [Cogit SaaS](cogit-saas/), [ProOrder AI](proorder-ai/) |
-| [WireBee](../experience/wirebee/) | [WireBee Phone Platform](wirebee-phone-platform/), [AI Voice Agent](ai-voice-agent/), [Cloud PBX Integration](pbx-integration/), [Smart Queue](smart-queue/) |
 | [MOB.325](../experience/mob325/) | [IzziFit](izzifit/), [Hark](hark/), [Lill](lill/) |
 | [LAB325](../experience/lab325/) | [Gazer TV](gazer/), [Woman Insight](woman-insight/) |
 | [Coelix](../experience/coelix/) | [Your Torah Tutors](your-torah/) |
@@ -76,7 +66,7 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 
 ## Key Technologies
 
-`Node.js` · `TypeScript` · `Python` · `FastAPI` · `React` · `Vue` · `NestJS` · `tRPC` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `WebSocket` · `Azure` · `Docker` · `OpenAI` · `NetSapiens` · `Jambonz` · `Ultravox`
+`Node.js` · `TypeScript` · `Python` · `FastAPI` · `React` · `Vue` · `NestJS` · `tRPC` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `WebSocket` · `Azure` · `Docker` · `OpenAI`
 
 Meta: [meta.yaml](meta.yaml)
 

@@ -1,10 +1,10 @@
 id: publications
 type: index
-description: "Publications, articles, research papers, and media mentions — 26 total across 5 categories"
+description: "Publications, articles, research papers, and media mentions — 23 total across 5 categories"
 categories:
   - path: technical-articles
     label: Technical Articles
-    count: 13
+    count: 10
   - path: popular-science
     label: Popular Science
     count: 7
@@ -21,15 +21,6 @@ entities:
   - id: lucid-dreaming-personal-experience
     type: article
     date: 2025-01
-  - id: voice-ai-agent-call-control
-    type: article
-    date: 2026-07
-  - id: telephony-state-reconciliation
-    type: article
-    date: 2026-07
-  - id: anatomy-of-a-phone-call
-    type: article
-    date: 2026-06
   - id: ai-agent-infrastructure
     type: article
     date: 2025-10
@@ -113,7 +104,7 @@ clusters:
   - id: local-and-voice-ai
     label: Local & Voice AI
     description: "Local LLM execution, LM Studio, telephony, Voice AI, and Jambonz."
-    publications: [anatomy-of-a-phone-call, lm-studio-local-llm-guide, jambonz-voice-ai, telephony-state-reconciliation, voice-ai-agent-call-control]
+    publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
   - id: gfs-forecasting-blockchain
     label: GFS, Forecasting & Blockchain
     description: "Global Forecasting System, Banchenko forecasting, Theta hackathon, blockchain, and market prediction."
@@ -168,7 +159,7 @@ tag_taxonomy:
       neuro-interface: neurointerfaces
   - id: engineering-market
     label: Engineering Market
-    tags: [software-development, job-market, ukraine, architecture, guide, tutorial, infrastructure, telephony, sip, jambonz, cpaas, call-state, pbx, state-reconciliation, distributed-systems, redis, call-control, agent-testing, llm-agent]
+    tags: [software-development, job-market, ukraine, architecture, guide, tutorial, infrastructure, telephony, jambonz, llm-agent]
     aliases:
       software-engineering: software-development
   - id: health-biofeedback
@@ -180,10 +171,6 @@ tag_taxonomy:
 timeline:
   - year: 2026
     months:
-      - month: "07"
-        publications: [telephony-state-reconciliation, voice-ai-agent-call-control]
-      - month: "06"
-        publications: [anatomy-of-a-phone-call]
       - month: "02"
         publications: [lm-studio-local-llm-guide]
   - year: 2025
@@ -223,26 +210,6 @@ timeline:
       - month: "12"
         publications: [software-development-tools]
 relations:
-  - from: anatomy-of-a-phone-call
-    to: jambonz-voice-ai
-    type: builds_on
-    description: "Continues the Jambonz and Voice AI track by focusing on one production telephony call: inbound and outbound legs, bridge state, provider IDs, timestamps, and backend call state."
-  - from: telephony-state-reconciliation
-    to: anatomy-of-a-phone-call
-    type: builds_on
-    description: "Picks up where the single-call anatomy ends: what happens when a call enters a queue with multiple agents and an external PBX, and how two systems reconcile state."
-  - from: telephony-state-reconciliation
-    to: jambonz-voice-ai
-    type: shared_method
-    description: "Both dissect production telephony reliability lessons learned from operating a real Jambonz-based call platform."
-  - from: voice-ai-agent-call-control
-    to: telephony-state-reconciliation
-    type: builds_on
-    description: "Moves from PBX/backend state reconciliation to the voice AI agent itself as a bounded participant in the same call-control architecture."
-  - from: voice-ai-agent-call-control
-    to: jambonz-voice-ai
-    type: builds_on
-    description: "Extends the introductory Jambonz Voice AI walkthrough into a full production architecture: four communication channels, agent decomposition, and self-testing."
   - from: mvp-llm-agent-adk
     to: google-adk-custom-interface
     type: builds_on

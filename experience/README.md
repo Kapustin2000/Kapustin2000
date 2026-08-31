@@ -2,18 +2,13 @@
 
 # Professional Experience
 
-13 roles · 10+ years · 4 leadership positions · 5 countries
+12 roles · 10+ years · 4 leadership positions · 5 countries
 
 Global footprint: Germany · USA · Ukraine · Israel · Kazakhstan
 
 ---
 
 ## Featured
-
-### [Realtime Communications Engineer @ WireBee](wirebee/) — Telephony, Voice AI, Realtime Ops
-*Nov 2025 – Jul 2026 · 9 mos*
-Personally designed and built the NetSapiens and Ultravox platform layers end to end inside a realtime phone system, including queue, device, supervisor, and voice-agent flows.
-`TypeScript` `Node.js` `Redis` `WebSocket` `Jambonz`
 
 ### [AI Platform Engineer @ Osnova](osnova/) — Multi-Tenant Agent SaaS
 *Oct 2025 – Mar 2026 · 6 mos*
@@ -36,7 +31,6 @@ Built a transatlantic research holding from scratch: 10+ products across EdTech,
 
 | Period | Role | Company | Location | Duration | Stack |
 |--------|------|---------|----------|----------|-------|
-| 2025-11 – 2026-07 | Realtime Comms Engineer | [WireBee](wirebee/) | Shaker Heights, Ohio | 9 mos | TypeScript, Node.js, NetSapiens |
 | 2025-10 – 2026-03 | AI Platform Engineer | [Osnova](osnova/) | Leipzig, Germany | 6 mos | Python, FastAPI, Azure |
 | 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | San Francisco, California | 6 mos | Google ADK, Vertex AI |
 | 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | Florida, USA / Baikonur, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
@@ -51,7 +45,7 @@ Built a transatlantic research holding from scratch: 10+ products across EdTech,
 | 2016-06 – 2016-11 | Backend Dev | [SuperMediaAds](super-media-ads/) | — | 6 mos | PHP |
 
 ╳ LAB325 + MOB.325 ran concurrently (dual IC + Lead roles in same company group)
-╳ OSNOVA + WireBee were client engagements delivered alongside the ongoing ASRP founder role
+╳ OSNOVA was a client engagement delivered alongside the ongoing ASRP founder role
 
 ---
 
@@ -60,7 +54,6 @@ Built a transatlantic research holding from scratch: 10+ products across EdTech,
 | Domain | Companies | Key Stack |
 |--------|-----------|-----------|
 | AI Platforms / SaaS / EdTech | Osnova, Woolf, ASRP | FastAPI, OpenAI, ADK, LangChain, Azure |
-| Realtime Communications / Voice AI | WireBee | Node.js, Redis, NATS, WebSocket, Jambonz |
 | Tech Leadership & Consulting | MOB.325, LAB325, Coelix | Node.js, GraphQL, Docker, Laravel |
 | Enterprise Software | Provectus, Ephyros, HYS Enterprise | PHP, Laravel, WordPress, React |
 | Early Career / Freelance | Top Agent, PHP-academy, SuperMediaAds | PHP |
@@ -74,7 +67,7 @@ Built a transatlantic research holding from scratch: 10+ products across EdTech,
 | Germany | Osnova (Leipzig) |
 | Ukraine | HYS Enterprise (Odesa), Top Agent (Odesa), PHP-academy (Kyiv), MOB.325, LAB325, Ephyros (Kyiv) |
 | Israel | Coelix (Tel Aviv) |
-| USA | WireBee (Ohio), ASRP (Florida), Provectus (San Francisco), Woolf (San Francisco) |
+| USA | ASRP (Florida), Provectus (San Francisco), Woolf (San Francisco) |
 | Kazakhstan | ASRP (Baikonur) |
 
 ---

@@ -23,7 +23,7 @@
 - [x] Cross-link Experience → Projects (7/11 companies have "Related Projects")
 - [x] Create project pages for ASRP.science, ASRP.tech (ecosystem), and GFS
 - [x] Scrape ASRP.tech website — done, extracted full product catalog and chronology
-- [x] Pulled 3 WireBee deep-dive project pages from asrp-portfolio (ai-voice-agent, pbx-integration, smart-queue), rewritten first-person; enriched cogit-saas + proorder-ai with the same source (2026-07-14)
+- [x] Enriched cogit-saas + proorder-ai from asrp-portfolio source (2026-07-14)
 
 ### Ideas
 - [ ] Add featured projects with preview images to `projects/README.md`
@@ -61,12 +61,11 @@
 - [ ] Define and add grand narrative to README
 
 ### Housekeeping
-- [x] WireBee end date updated to Jul 2026 across all pages (2026-07-10)
 - [x] `.obsidian/` untracked and gitignored
 - [x] Template placeholder links wrapped in backticks (no false positives in link checkers)
 - [x] `stats_as_of: 2026-05-25` added to article read counts (+ `_schema_.yaml`)
 - [x] GitHub Action: lychee link check (push, PR, monthly cron)
-- [ ] Update CV PDFs — current one is 04-09-2025, missing Osnova, WireBee, ProOrder AI, 2026 articles
+- [ ] Update CV PDFs — current one is 04-09-2025, missing Osnova, ProOrder AI, 2026 articles
 
 ## Done
 - [x] All 14 project pages (was 11, added asrp.tech, asrp.science, gfs)

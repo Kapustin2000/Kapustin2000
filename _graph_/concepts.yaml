@@ -149,7 +149,7 @@ clusters:
             name: "Local & Voice AI"
             description: "Local LLM execution, LM Studio, telephony, Voice AI, and Jambonz."
             relates_to:
-              publications: [anatomy-of-a-phone-call, lm-studio-local-llm-guide, jambonz-voice-ai]
+              publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
           - id: gfs-forecasting-blockchain
             name: "GFS, Forecasting & Blockchain"
             description: "Global Forecasting System, Banchenko forecasting, Theta hackathon, blockchain, and market prediction."

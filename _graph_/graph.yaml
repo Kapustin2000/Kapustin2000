@@ -188,14 +188,6 @@ companies:
     relations:
       projects: [ai-org, cogit-saas, proorder-ai]
 
-  - id: wirebee
-    name: "WireBee Inc."
-    role: "Realtime Communications Engineer"
-    period: 2025-11 - 2026-07
-    location: "Shaker Heights, Ohio"
-    relations:
-      projects: [wirebee-phone-platform, ai-voice-agent, pbx-integration, smart-queue]
-
 projects:
   - id: ai-cv-matcher
     name: "AI Curriculum Vitae (CV) Matcher to Vacancy"
@@ -316,41 +308,8 @@ projects:
     company: osnova
     stack: [Python, FastAPI, SQLite, Microsoft Graph API, Business Central API]
 
-  - id: wirebee-phone-platform
-    name: "WireBee Phone Platform — Realtime Telephony & Voice AI"
-    status: completed
-    period: 2025-11 - 2026-07
-    company: wirebee
-    stack: [TypeScript, Node.js, React, MySQL, Redis, NATS, WebSocket, Jambonz, NetSapiens, Ultravox]
-
-  - id: ai-voice-agent
-    name: "AI Voice Agent — Inbound Carrier Call Handling"
-    status: completed
-    period: 2025-12 - 2026-04
-    company: wirebee
-    stack: [TypeScript, Node.js, Hono, MySQL, Redis, NATS, WebSocket, Jambonz, Bandwidth, Ultravox]
-
-  - id: pbx-integration
-    name: "Cloud PBX Integration — Contact-Center Queues & Agents"
-    status: completed
-    period: 2026-03 - 2026-07
-    company: wirebee
-    stack: [TypeScript, Node.js, Bun, Drizzle, MySQL, Redis, NATS, NetSapiens]
-
-  - id: smart-queue
-    name: "In-House Ring-All Call Routing (Smart Queue)"
-    status: completed
-    period: 2026-03 - 2026-07
-    company: wirebee
-    stack: [TypeScript, Hono, Bun, MySQL, Drizzle, Redis, NATS, Jambonz, Bandwidth, tRPC]
-
 publications:
   technical_articles:
-    - id: anatomy-of-a-phone-call
-      title: "How a Call Works in Programmable Telephony: Inbound, Outbound, Leg A, and Leg B"
-      date: 2026-06
-      tags: [telephony, sip, jambonz, cpaas, call-state]
-
     - id: ai-agent-infrastructure
       title: "Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems"
       date: 2025-10
@@ -493,7 +452,7 @@ publication_knowledge_map:
     - id: applied-ai-nlp
       publications: [docling-text-language, resume-matcher-trpc, app-store-review-analysis]
     - id: local-and-voice-ai
-      publications: [anatomy-of-a-phone-call, lm-studio-local-llm-guide, jambonz-voice-ai]
+      publications: [lm-studio-local-llm-guide, jambonz-voice-ai]
     - id: gfs-forecasting-blockchain
       publications: [banchenko-forecasting, gms-gfs-right-brain, economics-of-dreams, ai-blockchain-hackathon-theta]
     - id: lucid-dreaming-consciousness
@@ -504,10 +463,6 @@ publication_knowledge_map:
       publications: [software-development-tools]
   relation_types: [builds_on, same_series, shared_method, applies_research, same_project, event_context, contrast]
   relations:
-    - from: anatomy-of-a-phone-call
-      to: jambonz-voice-ai
-      type: builds_on
-      description: "Continues the Jambonz and Voice AI track by focusing on one production telephony call."
     - from: mvp-llm-agent-adk
       to: google-adk-custom-interface
       type: builds_on
