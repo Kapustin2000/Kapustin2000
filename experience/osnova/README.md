@@ -1,7 +1,7 @@
 [← All Experience](../README.md)
 
 # AI Platform Engineer · Osnova GmbH
-*October 2025 – March 2026 · 6 mos*
+*October 2025 – July 2026 · 10 mos*
 
 **Location:** Leipzig, Germany (Remote)  
 **Stack:** Python, FastAPI, TypeScript, React, PostgreSQL, Azure, OpenAI
@@ -18,12 +18,11 @@ The main scope spanned both platform and product work: backend agent systems, ad
 - Built core pieces of a multi-tenant AI stack with JWT-based tenant scoping, Row-Level Security, background email processing, and execution logging
 - Delivered product-facing management surfaces for agent creation, configuration editing, scheduling, template management, and reporting
 - Improved deployment and runtime reliability through environment separation, async processing, retry-aware flows, and cleaner operational boundaries
-- Contributed across several connected products: the `ai_org` backend, Cogit SaaS admin and widget flows, and ProOrder email-to-order automation
+- Contributed across several connected products: the `ai_org` backend and Cogit admin/widget flows, and ProOrder email-to-order automation
 
 ## Related Projects
 
-- [AI_ORG — Multi-Tenant AI Agent Platform](../../projects/ai-org/)
-- [Cogit SaaS — Agent Operations Platform](../../projects/cogit-saas/)
+- [Cogit — Multi-Tenant AI Agent Platform](../../projects/cogit/)
 - [ProOrder AI — Email-to-ERP Automation](../../projects/proorder-ai/)
 
 ---

@@ -99,9 +99,8 @@
 | Sep | [Building a Resume Matcher with tRPC](publications/technical-articles/resume-matcher-trpc/) | Publication |
 | Sep | [My First AI & Blockchain Hackathon](publications/technical-articles/ai-blockchain-hackathon-theta/) | Publication |
 | Sep | [THETA EuroCon — European Conference & Hackathon](conferences/theta-eurocon-2025/) | Conference |
-| Oct – 2026 Mar | [AI Platform Engineer @ Osnova GmbH](experience/osnova/) | Work |
-| Oct – 2026 Mar | [AI_ORG — Multi-Tenant AI Agent Platform](projects/ai-org/) | Project |
-| Oct – 2026 Mar | [Cogit SaaS — Agent Operations Platform](projects/cogit-saas/) | Project |
+| Oct – 2026 Jul | [AI Platform Engineer @ Osnova GmbH](experience/osnova/) | Work |
+| Oct – 2026 Jul | [Cogit — Multi-Tenant AI Agent Platform](projects/cogit/) | Project |
 | Oct | [Building AI Agent Infrastructure](publications/technical-articles/ai-agent-infrastructure/) | Publication |
 | Oct | [Voice AI Systems Powered by Jambonz](publications/technical-articles/jambonz-voice-ai/) | Publication |
 | Oct | [Building an App Store Review Analysis Pipeline](publications/technical-articles/app-store-review-analysis/) | Publication |

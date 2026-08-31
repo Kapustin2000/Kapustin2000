@@ -4,7 +4,7 @@ description: "Professional work experience — 12 roles across 10+ years"
 entities:
   - id: osnova
     type: company
-    period: 2025-10 - 2026-03
+    period: 2025-10 - 2026-07
   - id: woolf
     type: company
     period: 2025-04 - 2025-09

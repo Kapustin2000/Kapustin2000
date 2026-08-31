@@ -183,10 +183,10 @@ companies:
   - id: osnova
     name: "Osnova GmbH"
     role: "AI Platform Engineer"
-    period: 2025-10 - 2026-03
+    period: 2025-10 - 2026-07
     location: "Leipzig, Germany"
     relations:
-      projects: [ai-org, cogit-saas, proorder-ai]
+      projects: [cogit, proorder-ai]
 
 projects:
   - id: ai-cv-matcher
@@ -287,19 +287,12 @@ projects:
     company: asrp
     stack: [LangChain, Node.js, Python, PostgreSQL, Vue]
 
-  - id: ai-org
-    name: "AI_ORG — Multi-Tenant AI Agent Platform"
+  - id: cogit
+    name: "Cogit — Multi-Tenant AI Agent Platform"
     status: completed
-    period: 2025-10 - 2026-03
+    period: 2025-10 - 2026-07
     company: osnova
-    stack: [Python, FastAPI, PostgreSQL, OpenAI, Anthropic Claude, Vertex AI]
-
-  - id: cogit-saas
-    name: "Cogit SaaS — Agent Operations Platform"
-    status: completed
-    period: 2025-10 - 2026-03
-    company: osnova
-    stack: [TypeScript, React, NestJS, PostgreSQL, Azure]
+    stack: [TypeScript, NestJS, React, PostgreSQL, Python, FastAPI, OpenAI, Anthropic Claude, Gemini, Vertex AI, Azure]
 
   - id: proorder-ai
     name: "ProOrder AI — Email-to-ERP Order Automation"

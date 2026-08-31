@@ -1,0 +1,7 @@
+id: cogit
+type: project
+name: "Cogit — Multi-Tenant AI Agent Platform"
+status: completed
+period: 2025-10 - 2026-07
+company: osnova
+stack: [TypeScript, NestJS, React, PostgreSQL, Python, FastAPI, OpenAI, Anthropic Claude, Gemini, Vertex AI, Azure]

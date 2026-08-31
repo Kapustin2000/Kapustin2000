@@ -1,7 +1,0 @@
-id: cogit-saas
-type: project
-name: Cogit SaaS — Agent Operations Platform
-status: completed
-period: 2025-10 - 2026-03
-company: osnova
-stack: [TypeScript, React, NestJS, PostgreSQL, Python, FastAPI, Gemini, Claude, Azure]

@@ -2,21 +2,16 @@
 
 # Projects
 
-17 projects · 5 active · 12 completed · 8 companies · 20+ technologies
+16 projects · 5 active · 11 completed · 8 companies · 20+ technologies
 
 ---
 
 ## Featured
 
-### [AI_ORG](ai-org/) — Multi-Tenant AI Agent Platform
-*Oct 2025 – Mar 2026 · Completed*
-Backend platform for dynamic agents, tool registries, email workflows, and tenant-safe AI operations.
-`Python` `FastAPI` `PostgreSQL` `OpenAI`
-
-### [Cogit SaaS](cogit-saas/) — Agent Operations Platform
-*Oct 2025 – Mar 2026 · Completed*
-Customer-facing SaaS layer for agent creation, deployment, scheduling, execution visibility, and RAG-oriented operations.
-`TypeScript` `React` `NestJS` `Azure`
+### [Cogit](cogit/) — Multi-Tenant AI Agent Platform
+*Oct 2025 – Jul 2026 · Completed*
+Multi-tenant SaaS platform for building and running AI agents — natural-language agent authoring, tenant-isolated data, and a three-channel deployment layer (web widget, mail add-in, autonomous email agent).
+`TypeScript` `NestJS` `Python` `FastAPI` `PostgreSQL` `Azure`
 
 ### [Arcanum12th](arcanum12th/) — Consciousness Education Platform
 *Apr 2023 – Present · Active*
@@ -32,8 +27,7 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 | [Global Foresight System](gfs/) | 2023 – Present | Active | LangChain, Node.js, Python, Vue |
 | [ASRP Ecosystem](asrp-tech/) | Apr 2023 – Present | Active | Vue, Nuxt, LangChain, Docker |
 | [ASRP.science](asrp-science/) | 2024 – Present | Active | Vue, Nuxt, Node.js, PostgreSQL |
-| [AI_ORG](ai-org/) | Oct 2025 – Mar 2026 | Completed | Python, FastAPI, PostgreSQL, OpenAI |
-| [Cogit SaaS](cogit-saas/) | Oct 2025 – Mar 2026 | Completed | TypeScript, React, NestJS, Azure |
+| [Cogit](cogit/) | Oct 2025 – Jul 2026 | Completed | TypeScript, NestJS, Python, FastAPI, PostgreSQL, Azure |
 | [ProOrder AI](proorder-ai/) | Dec 2025 – Mar 2026 | Completed | Python, FastAPI, SQLite, Business Central API |
 | [AI CV Matcher](ai-cv-matcher/) | Mar 2025 | Completed | Vertex AI, tRPC, Node.js |
 | [ASRP Media](asrp-media/) | May 2023 – Sep 2025 | Completed | Vue, Nuxt, LangChain, Node.js |
@@ -54,7 +48,7 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 | Company | Projects |
 |---------|----------|
 | [ASRP](../experience/asrp/) | [Arcanum12th](arcanum12th/), [ASRP Media](asrp-media/), [ASRP.science](asrp-science/), [GFS](gfs/), [ASRP Ecosystem](asrp-tech/) |
-| [Osnova](../experience/osnova/) | [AI_ORG](ai-org/), [Cogit SaaS](cogit-saas/), [ProOrder AI](proorder-ai/) |
+| [Osnova](../experience/osnova/) | [Cogit](cogit/), [ProOrder AI](proorder-ai/) |
 | [MOB.325](../experience/mob325/) | [IzziFit](izzifit/), [Hark](hark/), [Lill](lill/) |
 | [LAB325](../experience/lab325/) | [Gazer TV](gazer/), [Woman Insight](woman-insight/) |
 | [Coelix](../experience/coelix/) | [Your Torah Tutors](your-torah/) |

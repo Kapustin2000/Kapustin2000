@@ -11,7 +11,7 @@ Global footprint: Germany · USA · Ukraine · Israel · Kazakhstan
 ## Featured
 
 ### [AI Platform Engineer @ Osnova](osnova/) — Multi-Tenant Agent SaaS
-*Oct 2025 – Mar 2026 · 6 mos*
+*Oct 2025 – Jul 2026 · 10 mos*
 Built core AI platform and SaaS operations layers for dynamic agents, email workflows, scheduling, and tenant-safe execution.
 `Python` `FastAPI` `React` `PostgreSQL` `Azure`
 
@@ -31,7 +31,7 @@ Built a transatlantic research holding from scratch: 10+ products across EdTech,
 
 | Period | Role | Company | Location | Duration | Stack |
 |--------|------|---------|----------|----------|-------|
-| 2025-10 – 2026-03 | AI Platform Engineer | [Osnova](osnova/) | Leipzig, Germany | 6 mos | Python, FastAPI, Azure |
+| 2025-10 – 2026-07 | AI Platform Engineer | [Osnova](osnova/) | Leipzig, Germany | 10 mos | Python, FastAPI, Azure |
 | 2025-04 – 2025-09 | Sr. AI/ML Engineer | [Woolf](woolf/) | San Francisco, California | 6 mos | Google ADK, Vertex AI |
 | 2023-04 – Present | Co-Founder & CTO | [ASRP](asrp/) | Florida, USA / Baikonur, KZ | 3+ yrs | Vue, Nuxt, LangChain, Docker |
 | 2021-07 – 2023-04 | Team Lead | [MOB.325](mob325/) | Ukraine | 1 yr 10 mos | Node.js, Docker, GraphQL |
