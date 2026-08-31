@@ -2,7 +2,7 @@
 
 # Projects
 
-16 projects · 5 active · 11 completed · 8 companies · 20+ technologies
+15 projects · 5 active · 10 completed · 8 companies · 20+ technologies
 
 ---
 
@@ -28,7 +28,6 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 | [ASRP Ecosystem](asrp-tech/) | Apr 2023 – Present | Active | Vue, Nuxt, LangChain, Docker |
 | [ASRP.science](asrp-science/) | 2024 – Present | Active | Vue, Nuxt, Node.js, PostgreSQL |
 | [Cogit](cogit/) | Oct 2025 – Jul 2026 | Completed | TypeScript, NestJS, Python, FastAPI, PostgreSQL, Azure |
-| [ProOrder AI](proorder-ai/) | Dec 2025 – Mar 2026 | Completed | Python, FastAPI, SQLite, Business Central API |
 | [AI CV Matcher](ai-cv-matcher/) | Mar 2025 | Completed | Vertex AI, tRPC, Node.js |
 | [ASRP Media](asrp-media/) | May 2023 – Sep 2025 | Completed | Vue, Nuxt, LangChain, Node.js |
 | [Arcanum12th](arcanum12th/) | Apr 2023 – Present | Active | Vue, Nuxt, LangChain, Docker |
@@ -48,7 +47,7 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 | Company | Projects |
 |---------|----------|
 | [ASRP](../experience/asrp/) | [Arcanum12th](arcanum12th/), [ASRP Media](asrp-media/), [ASRP.science](asrp-science/), [GFS](gfs/), [ASRP Ecosystem](asrp-tech/) |
-| [Osnova](../experience/osnova/) | [Cogit](cogit/), [ProOrder AI](proorder-ai/) |
+| [Osnova](../experience/osnova/) | [Cogit](cogit/) |
 | [MOB.325](../experience/mob325/) | [IzziFit](izzifit/), [Hark](hark/), [Lill](lill/) |
 | [LAB325](../experience/lab325/) | [Gazer TV](gazer/), [Woman Insight](woman-insight/) |
 | [Coelix](../experience/coelix/) | [Your Torah Tutors](your-torah/) |
@@ -60,7 +59,7 @@ AI-powered platform for consciousness studies, lucid dreaming, and cognitive tra
 
 ## Key Technologies
 
-`Node.js` · `TypeScript` · `Python` · `FastAPI` · `React` · `Vue` · `NestJS` · `tRPC` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `WebSocket` · `Azure` · `Docker` · `OpenAI`
+`Node.js` · `TypeScript` · `Python` · `FastAPI` · `React` · `Vue` · `NestJS` · `tRPC` · `PostgreSQL` · `MySQL` · `Redis` · `WebSocket` · `Azure` · `Docker` · `OpenAI`
 
 Meta: [meta.yaml](meta.yaml)
 

@@ -105,7 +105,6 @@
 | Oct | [Voice AI Systems Powered by Jambonz](publications/technical-articles/jambonz-voice-ai/) | Publication |
 | Oct | [Building an App Store Review Analysis Pipeline](publications/technical-articles/app-store-review-analysis/) | Publication |
 | Oct | [Google ADK and Startup Technical Guide](publications/technical-articles/google-adk-startup-guide/) | Publication |
-| Dec – 2026 Mar | [ProOrder AI — Email-to-ERP Order Automation](projects/proorder-ai/) | Project |
 
 ## 2026
 

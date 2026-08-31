@@ -18,12 +18,11 @@ The main scope spanned both platform and product work: backend agent systems, ad
 - Built core pieces of a multi-tenant AI stack with JWT-based tenant scoping, Row-Level Security, background email processing, and execution logging
 - Delivered product-facing management surfaces for agent creation, configuration editing, scheduling, template management, and reporting
 - Improved deployment and runtime reliability through environment separation, async processing, retry-aware flows, and cleaner operational boundaries
-- Contributed across several connected products: the `ai_org` backend and Cogit admin/widget flows, and ProOrder email-to-order automation
+- Contributed across the `ai_org` backend and Cogit admin/widget flows
 
 ## Related Projects
 
 - [Cogit — Multi-Tenant AI Agent Platform](../../projects/cogit/)
-- [ProOrder AI — Email-to-ERP Automation](../../projects/proorder-ai/)
 
 ---
 

@@ -186,7 +186,7 @@ companies:
     period: 2025-10 - 2026-07
     location: "Leipzig, Germany"
     relations:
-      projects: [cogit, proorder-ai]
+      projects: [cogit]
 
 projects:
   - id: ai-cv-matcher
@@ -293,13 +293,6 @@ projects:
     period: 2025-10 - 2026-07
     company: osnova
     stack: [TypeScript, NestJS, React, PostgreSQL, Python, FastAPI, OpenAI, Anthropic Claude, Gemini, Vertex AI, Azure]
-
-  - id: proorder-ai
-    name: "ProOrder AI — Email-to-ERP Order Automation"
-    status: completed
-    period: 2025-12 - 2026-03
-    company: osnova
-    stack: [Python, FastAPI, SQLite, Microsoft Graph API, Business Central API]
 
 publications:
   technical_articles:

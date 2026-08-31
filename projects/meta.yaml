@@ -1,11 +1,8 @@
 id: projects
 type: index
-description: "Software projects and products — 16 projects (5 active, 11 completed)"
+description: "Software projects and products — 15 projects (5 active, 10 completed)"
 entities:
   - id: cogit
-    type: project
-    status: completed
-  - id: proorder-ai
     type: project
     status: completed
   - id: ai-cv-matcher

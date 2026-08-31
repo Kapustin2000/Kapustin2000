@@ -6,4 +6,4 @@ period: 2025-10 - 2026-07
 location: "Leipzig, Germany"
 stack: [Python, FastAPI, TypeScript, React, PostgreSQL, Azure, OpenAI]
 relations:
-  projects: [cogit, proorder-ai]
+  projects: [cogit]
