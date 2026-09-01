@@ -1,4 +1,4 @@
-[← Education](../README.md)
+[← Education](../../README.md)
 
 # Coursework Projects
 
@@ -15,4 +15,4 @@ Both projects fed into the [cogeneration automation thesis](../theses/).
 
 Meta: [meta.yaml](meta.yaml)
 
-[← Education](../README.md)
+[← Education](../../README.md)

@@ -1,4 +1,4 @@
-[← Education](../README.md)
+[← Education](../../README.md)
 
 # Theses
 
@@ -47,4 +47,4 @@ Related: [coursework projects](../coursework/) on the same cogeneration topic.
 
 Meta: [meta.yaml](meta.yaml)
 
-[← Education](../README.md)
+[← Education](../../README.md)

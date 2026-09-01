@@ -9,7 +9,6 @@ Learn more about me:
 - [Publications](publications/)
 - [Skills & Technologies](skills/)
 - [Conferences](conferences/)
-- [References](references.md)
 - [CV](cvs/)
 - [Timeline](timeline.md)
 - [Education](education/)

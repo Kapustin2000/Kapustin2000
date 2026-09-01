@@ -21,23 +21,23 @@ Strong foundation in designing and developing automation systems, integrating co
 Specialized in advanced control systems and automation solutions. Graduate research focused on developing an optimal control system for a vacuum evaporation plant in the sugar industry — mathematical modeling, dynamic process analysis, and the design of decentralized control systems. Presented research at international conferences, conducted research in the automation laboratory with faculty and peers, and co-organized student scientific events.
 
 **Academic Documentation:**
-- [Diploma & Academic Records](telecommunication/telecommunication-education.pdf) — Complete diploma with grades and academic achievements
-- [Theses](theses/) — Master's (vacuum evaporation plant control) and Bachelor's (cogeneration plant automation)
-- [Coursework Projects](coursework/) — Course projects in automation systems design and process automation
+- [Diploma & Academic Records](higher-education/diploma-transcript.pdf) — Complete diploma with grades and academic achievements
+- [Theses](higher-education/theses/) — Master's (vacuum evaporation plant control) and Bachelor's (cogeneration plant automation)
+- [Coursework Projects](higher-education/coursework/) — Course projects in automation systems design and process automation
 
 ### Laboratory Work
 
 Hands-on work in the automation laboratory — calibrating sensors, testing circuit stability, and diagnosing automation systems on classic analog bench instruments such as the В3-38А millivoltmeter (a Soviet-era AC voltmeter, unit no. 1242, 1983) alongside DC power supplies and signal sources.
 
 <div align="center">
-  <img src="images/lab-millivoltmeter.jpg" alt="В3-38А millivoltmeter on the lab bench" width="360" />
+  <img src="higher-education/images/lab-millivoltmeter.jpg" alt="В3-38А millivoltmeter on the lab bench" width="360" />
 </div>
 
 The department classrooms where most of this happened — long shared benches, a wall of workstations, and chalkboards that did the heavy lifting for control-theory derivations.
 
 <div align="center">
-  <img src="images/lab-classroom-workstations.jpg" alt="Classroom with workstations along the wall" width="330" />
-  <img src="images/lab-classroom-blackboard.jpg" alt="Classroom with blackboard and shared benches" width="248" />
+  <img src="higher-education/images/lab-classroom-workstations.jpg" alt="Classroom with workstations along the wall" width="330" />
+  <img src="higher-education/images/lab-classroom-blackboard.jpg" alt="Classroom with blackboard and shared benches" width="248" />
 </div>
 
 ---

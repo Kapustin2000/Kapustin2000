@@ -23,4 +23,4 @@ entities:
     docx: "cogeneration-automation-thesis.docx"
     topics: [cogeneration, automation, control-systems, mathematical-modeling, rs485, sensor-networks]
 navigation:
-  parent: education
+  parent: higher-education

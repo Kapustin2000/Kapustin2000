@@ -38,7 +38,7 @@ graph.yaml ──→ pick entity ──→ entity/meta.yaml ──→ entity/REA
 
 ### Step 4: Root Documents
 - Use `navigation.root_documents` in `graph.yaml` for standalone files exposed from the root README
-- These documents live at root paths such as `timeline.md` and `references.md` and do not have folder-local `meta.yaml`
+- These documents live at root paths such as `timeline.md` and do not have folder-local `meta.yaml`
 
 ## Section Indexes
 

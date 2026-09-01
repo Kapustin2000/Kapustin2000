@@ -49,12 +49,6 @@ navigation:
       label: "Work Authorization"
 
   root_documents:
-    - id: references
-      type: document
-      title: "Recommendations"
-      path: "references.md"
-      label: "References"
-      format: markdown
     - id: timeline
       type: document
       title: "Timeline"

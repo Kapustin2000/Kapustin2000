@@ -23,19 +23,21 @@ degrees:
     issued: 2022-12-31
     ects_credits: 90
     thesis: "Optimal control system for a vacuum evaporation plant in the sugar industry"
-    pdf: "telecommunication/telecommunication-education.pdf"
-theses:
-  path: theses/
-  entries:
-    - id: vacuum-evaporation-control
-      level: "Master's"
-      title: "Дослідження та розробка оптимальної системи керування вакуум-випарною установкою"
-    - id: cogeneration-automation
-      level: "Bachelor's"
-      title: "Розробка системи автоматизації когенераційної енергетичної установки"
-coursework:
-  path: coursework/
-  group: "KT-4.19"
+    pdf: "higher-education/diploma-transcript.pdf"
+higher_education:
+  path: higher-education/
+  theses:
+    path: higher-education/theses/
+    entries:
+      - id: vacuum-evaporation-control
+        level: "Master's"
+        title: "Дослідження та розробка оптимальної системи керування вакуум-випарною установкою"
+      - id: cogeneration-automation
+        level: "Bachelor's"
+        title: "Розробка системи автоматизації когенераційної енергетичної установки"
+  coursework:
+    path: higher-education/coursework/
+    group: "KT-4.19"
 certifications:
   - id: chkalov-english
     title: "Chkalov Courses in Foreign Languages — English, B2"

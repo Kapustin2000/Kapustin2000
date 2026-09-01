@@ -13,4 +13,4 @@ entities:
     course: "Автоматизація технологічних процесів і апаратів"
     docx: "process-automation-cogeneration-model.docx"
 navigation:
-  parent: education
+  parent: higher-education
