@@ -46,7 +46,7 @@
 | When | What | Type |
 |------|------|------|
 | Apr – Jul | [Senior Back-end Developer @ Provectus](experience/provectus/) | Work |
-| Jul | [Bachelor's thesis defense — cogeneration plant automation](education/theses/) | Education |
+| Jul | [Bachelor's thesis defense — cogeneration plant automation](education/higher-education/theses/) | Education |
 | Aug – 2022 Dec | [Master's in Automation & Computer-Integrated Technologies @ SUITC](education/) | Education |
 | Apr – 2023 Jul | [Gazer TV — Smart TV Companion](projects/gazer/) | Project |
 | Jul – 2023 Apr | [Senior Back-end Developer @ LAB325](experience/lab325/) | Work |
@@ -60,7 +60,7 @@
 | When | What | Type |
 |------|------|------|
 | Jan – Mar | [Hark — Global Anonymous Chat](projects/hark/) | Project |
-| Dec | [Master's thesis defense — vacuum evaporation plant control](education/theses/) | Education |
+| Dec | [Master's thesis defense — vacuum evaporation plant control](education/higher-education/theses/) | Education |
 
 ## 2023
 
