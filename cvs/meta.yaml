@@ -7,9 +7,10 @@ structure:
     - year: 2026
       entries:
         - id: 2026-ai-engineer
-          title: "AI Engineer (Europass)"
+          title: "AI Engineer (rendercv)"
           date: 2026
           files: ["2026/AI Engineer.pdf"]
+          source: "2026/mykhailo-kapustin-cv-2026-rendercv.yaml"
     - year: 2025
       entries:
         - id: 2025-09-04-short

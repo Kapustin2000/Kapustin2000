@@ -119,7 +119,7 @@ Organized by year.
 
 | Date | CV | File | Notes |
 |------|----|------|-------|
-| 2026 | AI Engineer | [PDF](2026/AI%20Engineer.pdf) | Role-specific, Europass format |
+| 2026 | AI Engineer | [PDF](2026/AI%20Engineer.pdf) | Role-specific, built with [rendercv](https://github.com/rendercv/rendercv) |
 
 ### 2025
 
