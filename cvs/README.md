@@ -4,7 +4,7 @@
 
 Berlin, Germany · [kapustinomm@gmail.com](mailto:kapustinomm@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mykhailo-kapustin-55885612a) · German work permit
 
-**Latest (2026):** [AI Engineer (PDF)](2026/AI%20Engineer.pdf) — all versions in [Downloads](#downloads)
+**Latest (2026):** [Backend & AI Engineer (PDF)](2026/Backend%20%26%20AI%20Engineer.pdf) — all versions in [Downloads](#downloads)
 
 ---
 
@@ -119,7 +119,8 @@ Organized by year.
 
 | Date | CV | File | Notes |
 |------|----|------|-------|
-| 2026 | AI Engineer | [PDF](2026/AI%20Engineer.pdf) | Role-specific, built with [rendercv](https://github.com/rendercv/rendercv) |
+| 2026 | Backend & AI Engineer | [PDF](2026/Backend%20%26%20AI%20Engineer.pdf) | Role-specific, built with [rendercv](https://github.com/rendercv/rendercv) |
+| 2026 | AI Engineer (Europass, archived) | [PDF](2026/AI%20Engineer-europass.pdf) | Superseded by the rendercv version |
 
 ### 2025
 

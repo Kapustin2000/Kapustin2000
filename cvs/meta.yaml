@@ -6,11 +6,16 @@ structure:
   years:
     - year: 2026
       entries:
-        - id: 2026-ai-engineer
-          title: "AI Engineer (rendercv)"
+        - id: 2026-backend-ai-engineer
+          title: "Backend & AI Engineer (rendercv)"
           date: 2026
-          files: ["2026/AI Engineer.pdf"]
+          files: ["2026/Backend & AI Engineer.pdf"]
           source: "2026/mykhailo-kapustin-cv-2026-rendercv.yaml"
+        - id: 2026-ai-engineer-europass
+          title: "AI Engineer (Europass, archived)"
+          date: 2026
+          files: ["2026/AI Engineer-europass.pdf"]
+          note: "Superseded by the rendercv version; kept for reference"
     - year: 2025
       entries:
         - id: 2025-09-04-short
