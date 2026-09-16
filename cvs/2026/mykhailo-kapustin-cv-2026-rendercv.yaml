@@ -24,6 +24,7 @@ cv:
           - "Built the multi-tenant NestJS/PostgreSQL backend and React operator dashboard for a SaaS AI-agent platform, so non-technical operators could describe an agent in plain language and deploy it across a website widget, Outlook add-in, and autonomous email pipeline. Became #1 contributor by commits (~45%) across both core repositories and owned the staging→production release flow across three Azure environments."
           - Designed a registry-based contract for tools and agents instead of hardcoded workflows, turning the platform from a one-off internal automation into a reusable agent factory that could onboard a new business as configuration, not a new project.
           - Isolated tenant agents, data, and secrets on shared infrastructure with JWT-based scoping and Postgres row-level security — the prerequisite that let Osnova sell the platform as multi-tenant SaaS instead of shipping a separate build per customer.
+          - "Stack: Python, TypeScript, React, Node.js, NestJS, FastAPI, PostgreSQL, Azure, OpenAI"
       - company: Woolf
         position: Senior Backend & AI Engineer
         start_date: 2025-01
@@ -32,6 +33,7 @@ cv:
         highlights:
           - Designed and built an LLM-agent exam system on Google ADK for Woolf's higher-education onboarding — covering exam generation, delivery, and evaluation — deployed for real Oxford students running an entrance-style assessment, across 80+ test sessions in three months.
           - Cut LLM workflow cost/latency by ~40% through token and memory optimization, making the multi-agent pipeline viable to run at that volume.
+          - "Stack: Python, TypeScript, React, Node.js, Google ADK, Vertex AI, Gemini"
       - company: Advanced Scientific Research Projects (ASRP)
         position: Backend & AI Engineer (Founding Engineer)
         start_date: 2023-04
@@ -40,18 +42,19 @@ cv:
         highlights:
           - Founded and grew ASRP from zero into a 14+ product research holding (EdTech, media, science, blockchain), architecting the shared microservices infrastructure and building the 6-engineer team that runs it.
           - Filed 7 patents (KZ, PCT, US) and published 8+ peer-reviewed papers to protect and validate the underlying research, then used that credibility to secure DARPA BAA access and Tesla Business Program accreditation.
+          - "Stack: Python, React, Vue, Nuxt, Node.js, LangChain, Docker, PostgreSQL, Nginx"
       - company: Earlier backend / full-stack experience
         position: LAB325 & MOB.325, Provectus, Coelix, Ephyros, HYS Enterprise, Top Agent, PHP-academy, SuperMediaAds
         date: 2016 – 2023
         location: Odesa & Kyiv, Ukraine
         highlights:
-          - Team lead and backend/full-stack roles across edtech, corporate, and travel/ad-tech platforms — PHP/Laravel, Vue.js, PostgreSQL/ClickHouse/Elasticsearch, OAuth2.0/JWT, GraphQL, Docker.
+          - Team lead and backend/full-stack roles across edtech, corporate, and travel/ad-tech platforms — PHP/Laravel, Python, React, Vue.js, PostgreSQL/ClickHouse/Elasticsearch, OAuth2.0/JWT, GraphQL, Docker.
           - "Full history: [github.com/Kapustin2000/Kapustin2000/tree/master/experience](https://github.com/Kapustin2000/Kapustin2000/tree/master/experience)"
     skills:
       - label: Core Stack
-        details: Node.js, NestJS, Google ADK, LangChain, LangGraph
+        details: Node.js, NestJS, Python, React, Vue, Google ADK, LangChain, LangGraph
       - label: Languages & Frameworks
-        details: Python, TypeScript, FastAPI, Vue.js
+        details: TypeScript, FastAPI
       - label: AI/ML
         details: RAG, Data pipelines, Anthropic, OpenAI, Google Vertex AI, Gemini, OpenRouter, LiteLLM, Model fallback/routing design, Claude Agent SDK
       - label: Tooling
