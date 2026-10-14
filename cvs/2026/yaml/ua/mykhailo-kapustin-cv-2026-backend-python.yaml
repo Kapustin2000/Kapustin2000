@@ -15,33 +15,44 @@ cv:
     summary:
     - Senior Backend Engineer with 10+ years of software engineering experience. I cover backend, frontend, cloud, and AI and can own a project end to end, from research and development to deployment, QA, and support — solo or within a team. My main stack is Python/FastAPI and PostgreSQL, with Node.js/NestJS alongside. I'm currently focused on AI coding agents and bringing AI into company products.
     experience:
-    - company: Osnova GmbH
-      end_date: 2026-09
-      highlights:
-      - Designed and built the multi-tenant NestJS/PostgreSQL backend of a SaaS AI-agent platform, isolating tenant agents, data, and secrets with JWT-based scoping and Postgres row-level security, so one deployment served many customers instead of a separate build per customer.
-      - Owned the platform end to end — research, development, deployment, QA, and support — across backend, frontend, cloud, and AI, including the staging→production release flow across three Azure environments.
-      - 'Stack: Python, FastAPI, Node.js, NestJS, TypeScript, React, PostgreSQL, Azure, OpenAI'
-      location: Leipzig, Germany
-      position: Senior Backend & AI Engineer
+    - company: WireBee · Contract
+      position: Full-stack Engineer and Voice-AI Engineer
       start_date: 2025-09
-    - company: Woolf
-      end_date: 2025-08
+      end_date: 2026-09
+      location: Ohio, USA
       highlights:
-      - Designed and built an LLM-agent exam system on Google ADK for Woolf's higher-education onboarding — covering exam generation, delivery, and evaluation — deployed for real Oxford students running an entrance-style assessment, across 80+ test sessions in three months.
-      - Cut LLM workflow cost/latency by ~40% through token and memory optimization, making the multi-agent pipeline viable to run at that volume.
+      - 'Designed a synchronization model for live call and operator state: inbound events plus periodic reconciliation keep the platform''s local view aligned with the external phone system, without making the UI depend on live third-party API calls.'
+      - Solved a race condition where call events arrived before the platform could identify the call, using bounded buffering and replay instead of dropping unmatched events.
+      - Built a ring-all routing engine that calls all available operators and uses a distributed lock to ensure exactly one person claims the call, with idempotent fallback when no one answers.
+      - Integrated voice AI into live calls while keeping call control and routing decisions in the backend, with a fallback to the standard phone menu if the AI path fails.
+      - 'Stack: TypeScript, Node.js, Jambonz, Redis, MySQL'
+    - company: Osnova GmbH · Contract
+      position: Full-stack Engineer and AI Engineer
+      start_date: 2024-06
+      end_date: 2025-09
+      location: Berlin, Germany
+      highlights:
+      - Built backend capabilities for tenant-scoped agents, tools, data sources, and deployments, enforcing tenant isolation with PostgreSQL row-level security and per-request tenant context.
+      - Moved long-running agent creation from synchronous HTTP requests to a queue with retries and dead-letter handling, and added per-step execution traces to make failures diagnosable.
+      - Owned the platform end to end — research, development, deployment, QA, and support — across backend, frontend, cloud, and AI, including the staging→production release flow across three Azure environments.
+      - 'Stack: Python, FastAPI, TypeScript, NestJS, Node.js, PostgreSQL, React, Azure, OpenAI, Gemini, Claude'
+    - company: Woolf · Contract
+      position: Full-stack Engineer and AI Engineer
+      start_date: 2023-04
+      end_date: 2024-06
+      location: San Francisco, USA
+      highlights:
+      - Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by real Oxford students across 80+ test sessions; cut LLM cost/latency by ~40% through token and memory optimization.
       - 'Stack: Python, Node.js, TypeScript, React, Google ADK, Vertex AI, Gemini'
-      location: San Francisco, California, United States
-      position: Senior Backend & AI Engineer
-      start_date: 2025-01
-    - company: Advanced Scientific Research Projects (ASRP)
-      end_date: present
+    - company: Advanced Scientific Research Projects (ASRP) · Full-time
+      end_date: 2026-09
       highlights:
       - Grew ASRP from zero into a 14+ product research holding (EdTech, media, science, blockchain), architecting the shared microservices infrastructure and building the 6-engineer team that runs it.
       - Filed 7 patents (KZ, PCT, US) and published 8+ peer-reviewed papers to protect and validate the underlying research, then used that credibility to secure DARPA BAA access and Tesla Business Program accreditation.
       - 'Stack: Python, Node.js, React, Vue, Nuxt, LangChain, Docker, PostgreSQL, Nginx'
       location: Florida, USA
-      position: Backend & AI Engineer (Founding Engineer)
-      start_date: 2023-04
+      position: Full-stack Engineer and AI Engineer (Founding Engineer)
+      start_date: 2023-01
     - company: Earlier backend / full-stack experience
       date: 2016 – 2023
       highlights:
@@ -54,13 +65,13 @@ cv:
       details: Python, FastAPI, GraphQL, OAuth2.0/JWT
     - label: Also used in production
       details: Node.js, NestJS, TypeScript
-    - details: PostgreSQL (row-level security), ClickHouse, Elasticsearch
+    - details: PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
       label: Data
     - label: Cloud Platforms
       details: Azure, AWS, GCP
     - details: Docker, Nginx, microservices
       label: Infrastructure
-    - details: OpenAI, Gemini, LangChain, Google ADK, RAG
+    - details: OpenAI, Gemini, RAG, LangChain, LangGraph, Google ADK, Agent Evaluation, Tracing, Observability
       label: AI Integration
     - label: AI Coding Agents
       details: Claude Code, Codex (ChatGPT), Cursor
@@ -78,12 +89,12 @@ cv:
       location: Odesa, Ukraine
       start_date: 2017-09
     languages:
-    - details: Native
-      label: Ukrainian / Russian
-    - details: B2
-      label: English
-    - details: A2
-      label: German
+    - label: Ukrainian / Russian
+      details: Native
+    - label: English
+      details: C1
+    - label: German
+      details: A2
     publications:
     - date: 2025
       name: How to Integrate Google ADK with a Custom Interface
@@ -93,7 +104,7 @@ cv:
       summary: How to move from a messy AI monorepo to a scalable agent ecosystem — with real examples, three architectural paths (Filesystem Registry, Package Manager, AgentOps), and lessons from building multi-agent infrastructures.
     - date: null
       name: '[Other publications](https://github.com/Kapustin2000/Kapustin2000/tree/master/publications)'
-      summary: 23 entries · 10 technical articles (100K+ total views across Medium, Habr, and Hashnode) · 7 popular science articles · 4 research papers · 1 academic paper · 1 media mention
+      summary: 23 entries · 10 technical articles (100K+ total reads) · 7 popular science articles · 4 research papers · 1 academic paper · 1 media mention
     conferences:
     - date: 2025-09
       highlights:
