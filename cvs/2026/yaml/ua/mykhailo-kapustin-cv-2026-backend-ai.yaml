@@ -1,0 +1,114 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Mykhailo Kapustin
+  headline: Senior Backend & AI Engineer
+  location: Berlin, Germany
+  email: kapustinomm@gmail.com
+  photo: null
+  phone: null
+  social_networks:
+  - network: LinkedIn
+    username: mykhailo-kapustin-55885612a
+  - network: GitHub
+    username: Kapustin2000
+  sections:
+    summary:
+    - Senior Backend Engineer with 10+ years of software engineering experience. For the past 2 years I have worked at the intersection of backend and AI, building AI pipelines and agents and integrating them into business systems, including agent orchestration, model routing, and evaluation/observability. I cover backend, frontend, cloud, and AI and can own a project end to end, from research and development to deployment, QA, and support — solo or within a team. I'm currently focused on AI coding agents and bringing AI into company products.
+    experience:
+    - company: Osnova GmbH
+      end_date: 2026-09
+      highlights:
+      - Designed a registry-based contract for tools and agents on a SaaS AI-agent platform, so a new business onboards as configuration, not a new project; built its multi-tenant NestJS/PostgreSQL backend and React operator dashboard.
+      - Owned the platform end to end — research, development, deployment, QA, and support — across backend, frontend, cloud, and AI, with agents deployed to a website widget, Outlook add-in, and autonomous email pipeline.
+      - 'Stack: Python, TypeScript, React, Node.js, NestJS, FastAPI, PostgreSQL, Azure, OpenAI'
+      location: Leipzig, Germany
+      position: Senior Backend & AI Engineer
+      start_date: 2025-09
+    - company: Woolf
+      end_date: 2025-08
+      highlights:
+      - Designed and built an LLM-agent exam system on Google ADK for Woolf's higher-education onboarding — covering exam generation, delivery, and evaluation — deployed for real Oxford students running an entrance-style assessment, across 80+ test sessions in three months.
+      - Cut LLM workflow cost/latency by ~40% through token and memory optimization, making the multi-agent pipeline viable to run at that volume.
+      - 'Stack: Python, TypeScript, React, Node.js, Google ADK, Vertex AI, Gemini'
+      location: San Francisco, California, United States
+      position: Senior Backend & AI Engineer
+      start_date: 2025-01
+    - company: Advanced Scientific Research Projects (ASRP)
+      end_date: present
+      highlights:
+      - Grew ASRP from zero into a 14+ product research holding (EdTech, media, science, blockchain), architecting the shared microservices infrastructure and building the 6-engineer team that runs it.
+      - Filed 7 patents (KZ, PCT, US) and published 8+ peer-reviewed papers to protect and validate the underlying research, then used that credibility to secure DARPA BAA access and Tesla Business Program accreditation.
+      - 'Stack: Python, React, Vue, Nuxt, Node.js, LangChain, Docker, PostgreSQL, Nginx'
+      location: Florida, USA
+      position: Backend & AI Engineer (Founding Engineer)
+      start_date: 2023-04
+    - company: Earlier backend / full-stack experience
+      date: 2016 – 2023
+      highlights:
+      - Team lead and backend/full-stack roles across edtech, corporate, and travel/ad-tech platforms — PHP/Laravel, Python, React, Vue.js, PostgreSQL/ClickHouse/Elasticsearch, OAuth2.0/JWT, GraphQL, Docker.
+      - 'Full history: [github.com/Kapustin2000/Kapustin2000/tree/master/experience](https://github.com/Kapustin2000/Kapustin2000/tree/master/experience)'
+      location: Odesa & Kyiv, Ukraine
+      position: LAB325 & MOB.325, Provectus, Coelix, Ephyros, HYS Enterprise, Top Agent, PHP-academy, SuperMediaAds
+    skills:
+    - details: Node.js, NestJS, Python, React, Vue, Google ADK, LangChain, LangGraph
+      label: Core Stack
+    - details: TypeScript, FastAPI
+      label: Languages & Frameworks
+    - details: RAG, Data pipelines, Anthropic, OpenAI, Google Vertex AI, Gemini, OpenRouter, LiteLLM, Model fallback/routing design, Claude Agent SDK
+      label: AI/ML
+    - details: Claude Code, Codex (ChatGPT), Cursor, herdr, pi-agent, hermesagent
+      label: AI Coding Agents
+    - label: Cloud Platforms
+      details: Azure, AWS, GCP
+    - details: Docker, PostgreSQL
+      label: Infrastructure
+    - details: Agent Orchestration, Agent Evaluation & Observability, OpenTelemetry, Arize Phoenix tracing
+      label: Agents & Observability
+    education:
+    - area: Automation and Computer-Integrated Technologies
+      degree: MSc
+      end_date: 2022-12
+      institution: State University of Intellectual Technologies and Communications
+      location: Odesa, Ukraine
+      start_date: 2021-08
+    - area: Automation and Computer-Integrated Technologies
+      degree: BSc
+      end_date: 2021-07
+      institution: State University of Intellectual Technologies and Communications
+      location: Odesa, Ukraine
+      start_date: 2017-09
+    languages:
+    - details: Native
+      label: Ukrainian / Russian
+    - details: B2
+      label: English
+    - details: A2
+      label: German
+    publications:
+    - date: 2025
+      name: How to Integrate Google ADK with a Custom Interface
+      summary: Hands-on guide to wiring Google ADK agents into a custom, non-default frontend — 10,000+ reads across Medium, Habr, and Hashnode.
+    - date: 2025
+      name: 'Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems'
+      summary: How to move from a messy AI monorepo to a scalable agent ecosystem — with real examples, three architectural paths (Filesystem Registry, Package Manager, AgentOps), and lessons from building multi-agent infrastructures.
+    - date: null
+      name: '[Other publications](https://github.com/Kapustin2000/Kapustin2000/tree/master/publications)'
+      summary: 23 entries · 10 technical articles (100K+ total views across Medium, Habr, and Hashnode) · 7 popular science articles · 4 research papers · 1 academic paper · 1 media mention
+    conferences:
+    - date: 2025-09
+      highlights:
+      - Delivered a live pitch presentation and took part in the hackathon track, building an AI solution during the event; focus areas included AI, LLM tooling, and cloud infrastructure.
+      location: Berlin, Germany
+      name: THETA EuroCon — European Theta Network Conference & Hackathon
+design:
+  page:
+    show_top_note: false
+  theme: sb2nov
+locale:
+  language: english
+settings:
+  bold_keywords: []
+  current_date: today
+  pdf_title: Mykhailo Kapustin - Senior Backend & AI Engineer
+  render_command:
+    output_folder: ../../rendercv_output/ua/backend-ai
