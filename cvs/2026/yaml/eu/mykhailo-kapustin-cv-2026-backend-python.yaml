@@ -13,7 +13,7 @@ cv:
     username: Kapustin2000
   sections:
     summary:
-    - Senior Backend Engineer with 10+ years of software engineering experience. I cover backend, frontend, cloud, and AI and can own a project end to end, from research and development to deployment, QA, and support — solo or within a team. My main stack is Python/FastAPI and PostgreSQL, with Node.js/NestJS alongside. I'm currently focused on AI coding agents and bringing AI into company products. I'm an EU citizen (Bulgaria) based in Berlin.
+    - Senior Backend Engineer with 10+ years of software engineering experience. I cover backend, frontend, cloud, and AI and can own a project end to end, from research and development to deployment, QA, and support — solo or within a team. My main stack is Python/FastAPI and PostgreSQL, with Node.js/NestJS alongside.
     experience:
     - company: WireBee · Contract
       position: Full-stack Engineer and Voice-AI Engineer
@@ -44,15 +44,6 @@ cv:
       highlights:
       - Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by real Oxford students across 80+ test sessions; cut LLM cost/latency by ~40% through token and memory optimization.
       - 'Stack: Python, Node.js, TypeScript, React, Google ADK, Vertex AI, Gemini'
-    - company: Advanced Scientific Research Projects (ASRP) · Full-time
-      end_date: 2026-09
-      highlights:
-      - Grew ASRP from zero into a 14+ product research holding (EdTech, media, science, blockchain), architecting the shared microservices infrastructure and building the 6-engineer team that runs it.
-      - Filed 7 patents (KZ, PCT, US) and published 8+ peer-reviewed papers to protect and validate the underlying research, then used that credibility to secure DARPA BAA access and Tesla Business Program accreditation.
-      - 'Stack: Python, Node.js, React, Vue, Nuxt, LangChain, Docker, PostgreSQL, Nginx'
-      location: Florida, USA / Baikonur, KZ
-      position: Full-stack Engineer and AI Engineer (Founding Engineer)
-      start_date: 2023-01
     - company: Earlier backend / full-stack experience
       date: 2016 – 2023
       highlights:

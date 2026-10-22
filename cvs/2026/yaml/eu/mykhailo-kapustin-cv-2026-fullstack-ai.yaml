@@ -13,7 +13,7 @@ cv:
     username: Kapustin2000
   sections:
     summary:
-    - Senior Full-Stack Engineer with 10+ years of software engineering experience, backend-first. For the past 2 years I have also built AI pipelines and agents and integrated them into business systems. I cover backend, frontend, cloud, and AI and can own a project end to end, from research and development to deployment, QA, and support — solo or within a team. My main stack is Node.js/NestJS, PostgreSQL, and React. I'm currently focused on AI coding agents and bringing AI into company products. I'm an EU citizen (Bulgaria) based in Berlin.
+    - Senior Full-Stack Engineer with 10+ years of software engineering experience, backend-first. For the past 2 years I have also built AI pipelines and agents and integrated them into business systems. I cover backend, frontend, cloud, and AI and can own a project end to end, from research and development to deployment, QA, and support — solo or within a team. My main stack is Node.js/NestJS, PostgreSQL, and React.
     experience:
     - company: Osnova GmbH · Contract
       position: Full-stack Engineer and AI Engineer
@@ -43,15 +43,6 @@ cv:
       - Integrated voice AI into live calls while keeping call control and routing decisions in the backend, with a fallback to the standard phone menu if the AI path fails.
       - Built a scenario-testing framework for the voice agent that runs calls, captures transcripts and events, and checks outcomes against explicit assertions.
       - 'Stack: TypeScript, Node.js, Jambonz, Redis, MySQL'
-    - company: Advanced Scientific Research Projects (ASRP) · Full-time
-      end_date: 2026-09
-      highlights:
-      - Grew ASRP from zero into a 14+ product research holding (EdTech, media, science, blockchain), architecting the shared microservices infrastructure and building the 6-engineer team that runs it.
-      - Filed 7 patents (KZ, PCT, US) and published 8+ peer-reviewed papers to protect and validate the underlying research, then used that credibility to secure DARPA BAA access and Tesla Business Program accreditation.
-      - 'Stack: Python, React, Vue, Nuxt, Node.js, LangChain, Docker, PostgreSQL, Nginx'
-      location: Florida, USA / Baikonur, KZ
-      position: Full-stack Engineer and AI Engineer (Founding Engineer)
-      start_date: 2023-01
     - company: Earlier backend / full-stack experience
       date: 2016 – 2023
       highlights:
@@ -64,7 +55,7 @@ cv:
       label: Backend (primary)
     - label: Cloud Platforms
       details: Azure, AWS, GCP
-    - details: React (Osnova operator dashboard, Woolf), Vue / Nuxt (ASRP)
+    - details: React (Osnova operator dashboard, Woolf), Vue (earlier roles)
       label: Frontend (used in projects)
     - details: RAG, Anthropic, OpenAI, Google Vertex AI, Gemini, OpenRouter, LiteLLM, Model fallback/routing design, Claude Agent SDK
       label: AI/ML
