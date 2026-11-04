@@ -48,17 +48,17 @@ cv:
     - company: Earlier backend / full-stack experience
       date: 2016 – 2023
       highlights:
-      - Team lead and backend roles across edtech, corporate, and travel/ad-tech platforms, including a Node.js/GraphQL service on Kubernetes (AWS, Terraform, Grafana) and PostgreSQL/ClickHouse/Elasticsearch data work.
+      - Team lead and backend roles across edtech, corporate, and travel/ad-tech platforms, including Node.js/GraphQL services with ClickHouse analytics, PostgreSQL, and Elasticsearch, and a service on Kubernetes (AWS, Terraform, Grafana).
       - 'Full history: [github.com/Kapustin2000/Kapustin2000/tree/master/experience](https://github.com/Kapustin2000/Kapustin2000/tree/master/experience)'
       location: Odesa & Kyiv, Ukraine
       position: LAB325 & MOB.325, Provectus, Coelix, Ephyros, HYS Enterprise, Top Agent, PHP-academy, SuperMediaAds
     skills:
-    - label: Languages
-      details: TypeScript, Node.js, Python
+    - label: Languages & runtimes
+      details: TypeScript, Node.js, Bun, Python
     - label: Backend
       details: NestJS, FastAPI (async), GraphQL, queues and workers, retries, idempotency, distributed locks, webhooks
     - label: Data
-      details: PostgreSQL (row-level security), Redis, MySQL, ClickHouse, Elasticsearch
+      details: PostgreSQL (row-level security), ClickHouse, Redis, MySQL, Elasticsearch
     - label: Cloud & infra
       details: GCP, Azure, AWS, Kubernetes, Terraform, Docker
     - label: Observability
