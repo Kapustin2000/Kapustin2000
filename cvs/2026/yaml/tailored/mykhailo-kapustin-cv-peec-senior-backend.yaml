@@ -1,0 +1,110 @@
+cv:
+  name: Mykhailo Kapustin
+  headline: Senior Backend Engineer (TypeScript)
+  location: Bulgarian EU Citizen
+  email: kapustinomm@gmail.com
+  photo: null
+  phone: null
+  social_networks:
+  - network: LinkedIn
+    username: mykhailo-kapustin-55885612a
+  - network: GitHub
+    username: Kapustin2000
+  sections:
+    summary:
+    - 'Senior Backend Engineer with 10+ years of experience building production TypeScript/Node.js backends. Recent work centers on the reliability problems behind LLM products: queues with retries and dead-letter handling, distributed locks, idempotent fallbacks, reconciliation of external systems, per-step tracing, and LLM cost/latency control across OpenAI, Gemini, and Claude. Primary stack: TypeScript/Node.js (NestJS), Python/FastAPI, PostgreSQL, Redis, GCP/Azure/AWS.'
+    experience:
+    - company: WireBee · Contract
+      position: Full-stack Engineer and Voice-AI Engineer
+      start_date: 2025-09
+      end_date: 2026-09
+      location: Ohio, USA
+      highlights:
+      - Built a ring-all routing engine that calls all available operators and uses a distributed lock so exactly one person claims the call, with an idempotent fallback when no one answers.
+      - Solved a race condition where call events arrived before the platform could identify the call, using bounded buffering and replay instead of dropping unmatched events.
+      - 'Designed a synchronization model for live call and operator state: inbound events plus periodic reconciliation keep the local view aligned with the external phone system, without making the UI depend on live third-party API calls.'
+      - Integrated voice AI into live calls while keeping call control and routing in the backend, with a fallback to the standard phone menu if the AI path fails.
+      - 'Stack: TypeScript, Node.js, Jambonz, Redis, MySQL'
+    - company: Osnova GmbH · Contract
+      position: Full-stack Engineer and AI Engineer
+      start_date: 2024-06
+      end_date: 2025-09
+      location: Berlin, Germany
+      highlights:
+      - Moved long-running agent creation (1–30 min) from synchronous HTTP requests, which caused gateway timeouts, to a message-bus queue with retries, dead-letter handling, and lock renewal; added per-step execution traces so failures are diagnosable.
+      - Fixed a blocking call on a shared event loop that stalled all tenants by moving I/O to a thread pool and then an async DB pool, rolled out behind feature flags and per-tenant opt-in.
+      - Built tenant-scoped agents, tools, data sources, and deployments, enforcing isolation with PostgreSQL row-level security and per-request tenant context.
+      - Owned the platform end to end, including the staging-to-production release flow across three Azure environments.
+      - 'Stack: Node.js, NestJS, TypeScript, Python, FastAPI, PostgreSQL, Azure, OpenAI, Gemini, Claude'
+    - company: Woolf · Contract
+      position: Full-stack Engineer and AI Engineer
+      start_date: 2023-04
+      end_date: 2024-06
+      location: San Francisco, USA
+      highlights:
+      - Built an LLM-agent exam system on Google ADK, used by real Oxford students across 80+ test sessions; cut LLM cost and latency by ~40% through token and memory optimization.
+      - 'Stack: Node.js, TypeScript, Python, Google ADK, Vertex AI, Gemini'
+    - company: Earlier backend / full-stack experience
+      date: 2016 – 2023
+      highlights:
+      - Team lead and backend roles across edtech, corporate, and travel/ad-tech platforms, including a Node.js/GraphQL service on Kubernetes (AWS, Terraform, Grafana) and PostgreSQL/ClickHouse/Elasticsearch data work.
+      - 'Full history: [github.com/Kapustin2000/Kapustin2000/tree/master/experience](https://github.com/Kapustin2000/Kapustin2000/tree/master/experience)'
+      location: Odesa & Kyiv, Ukraine
+      position: LAB325 & MOB.325, Provectus, Coelix, Ephyros, HYS Enterprise, Top Agent, PHP-academy, SuperMediaAds
+    skills:
+    - label: Languages
+      details: TypeScript, Node.js, Python
+    - label: Backend
+      details: NestJS, FastAPI, GraphQL, queues and workers, retries, idempotency, distributed locks, webhooks
+    - label: Data
+      details: PostgreSQL (row-level security), Redis, MySQL, ClickHouse, Elasticsearch
+    - label: Cloud & infra
+      details: GCP, Azure, AWS, Kubernetes, Terraform, Docker
+    - label: Observability
+      details: Per-step tracing, OpenTelemetry, Arize Phoenix, Grafana, structured logging
+    - label: LLM providers
+      details: OpenAI, Claude, Gemini, Vertex AI, RAG, agent evaluation
+    - label: AI coding agents
+      details: Claude Code, Codex, Cursor
+    education:
+    - area: Automation and Computer-Integrated Technologies
+      degree: MSc
+      end_date: 2022-12
+      institution: State University of Intellectual Technologies and Communications
+      location: Odesa, Ukraine
+      start_date: 2021-08
+    - area: Automation and Computer-Integrated Technologies
+      degree: BSc
+      end_date: 2021-07
+      institution: State University of Intellectual Technologies and Communications
+      location: Odesa, Ukraine
+      start_date: 2017-09
+    languages:
+    - label: Ukrainian / Russian
+      details: Native
+    - label: English
+      details: C1
+    - label: German
+      details: A2
+    publications:
+    - date: 2025
+      name: How to Integrate Google ADK with a Custom Interface
+      summary: Hands-on guide to wiring Google ADK agents into a custom, non-default frontend — 10,000+ reads across Medium, Habr, and Hashnode.
+    - date: 2025
+      name: 'Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems'
+      summary: How to move from a messy AI monorepo to a scalable agent ecosystem — with real examples, three architectural paths (Filesystem Registry, Package Manager, AgentOps), and lessons from building multi-agent infrastructures.
+    - date: null
+      name: '[Other publications](https://github.com/Kapustin2000/Kapustin2000/tree/master/publications)'
+      summary: 23 entries · 10 technical articles (100K+ total reads) · 7 popular science articles · 4 research papers · 1 academic paper · 1 media mention
+design:
+  page:
+    show_top_note: false
+  theme: sb2nov
+locale:
+  language: english
+settings:
+  bold_keywords: []
+  current_date: today
+  pdf_title: Mykhailo Kapustin - Senior Backend Engineer (TypeScript)
+  render_command:
+    output_folder: /Users/mykhailokapustin/Projects/Kapustin/Kapustin2000/cvs/2026/rendercv_output/eu/peec-senior-backend
