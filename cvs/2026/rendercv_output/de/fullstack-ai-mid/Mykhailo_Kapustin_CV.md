@@ -28,6 +28,8 @@ AI call automation and routing for freight brokerages. Owned the development end
 
 - Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails. Now the company reports its voice AI agents automate 40–90% of inbound carrier calls.
 
+- Covered the 8 regular call types and focused on the largest, carriers calling to take a posted load (~80% of call volume, per the CEO): the agent picked up, established who was calling, why and about which load, checked the load, the company and the carrier, and filtered out unwanted calls before they reached an operator.
+
 - Stack: TypeScript, Node.js, Jambonz, Redis, MySQL
 
 
