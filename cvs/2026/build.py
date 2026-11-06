@@ -29,6 +29,7 @@ def render(c, mkt, slug, suffix):
     c = copy.deepcopy(c)
     c['settings']['render_command']['output_folder'] = out
     gen = os.path.join(D, 'yaml', '_gen'); os.makedirs(gen, exist_ok=True)
+    shutil.copytree(os.path.join(D, 'templates', 'sb2nov'), os.path.join(gen, 'sb2nov'), dirs_exist_ok=True)  # side-by-side education/languages
     p = os.path.join(gen, f'{mkt}-{slug}{suffix}.yaml')
     open(p, 'w').write(yaml.safe_dump(c, sort_keys=False, allow_unicode=True, width=10000))
     r = subprocess.run(['uvx', '--from', 'rendercv[full]', 'rendercv', 'render', p], capture_output=True, text=True)

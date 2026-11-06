@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        
+    </title>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-light.min.css"
+        integrity="sha512-Pmhg2i/F7+5+7SsdoUqKeH7UAZoVMYb1sxGOoJ0jWXAEHP0XV2H4CITyK267eHWp2jpj7rtqWNkmEOw1tNyYpg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/katex.min.css" integrity="sha384-PDbUeNCuE6bOPudPOgFyIUEy3UJawJVwr3XlGO90FIuf5qNIoTLSgOJo/dC2ZXV/" crossorigin="anonymous">
+
+    <!-- The loading of KaTeX is deferred to speed up page rendering -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/katex.min.js" integrity="sha384-VkqWq8xtm5YQk1BBXczQ8/Sx+DlCzF8cuS43bZwmtVXzRFtyLTqTCdP7MKmKo+KN" crossorigin="anonymous"></script>
+
+    <!-- To automatically render math in text elements, include the auto-render extension: -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous"
+        onload="renderMathInElement(document.body, {delimiters: [{ left: '$$',  right: '$$',  display: false }]});"></script>
+    <style>
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <article class="markdown-body">
+        <h1>Mykhailo Kapustin's CV</h1>
+        <ul>
+        <li>Email: <a href="mailto:kapustinomm@gmail.com">kapustinomm@gmail.com</a></li>
+        <li>Location: Berlin, Germany · EU citizen, no visa needed · Available now</li>
+        <li>LinkedIn: <a href="https://linkedin.com/in/mykhailo-kapustin-55885612a">mykhailo-kapustin-55885612a</a></li>
+        <li>GitHub: <a href="https://github.com/Kapustin2000">Kapustin2000</a></li>
+        </ul>
+        <h1>Summary</h1>
+        <p>I started programming at 15 and have worked professionally since 2016, moving from PHP/Laravel to Node.js and, in the last 3+ years, Python-based LLM systems. I've launched around 20 products and like owning them end to end, from idea to production. I write about AI architecture and test new coding agents such as Claude Code and Codex. Based in Berlin, seeking a full-time role; open to Berlin hybrid/on-site and remote EU.</p>
+        <h1>Experience</h1>
+        <h2><strong>Senior Backend Engineer (Contract)</strong></h2>
+        <p><em>Remote (US)</em></p>
+        <p><em>Sept 2025 – Sept 2026</em></p>
+        <p><em>WireBee</em></p>
+        <p>Voice and call-routing platform with live operator state and AI on calls.</p>
+        <ul>
+        <li>
+        <p>Designed a sync model for live call and operator state so the platform stays aligned with the external phone system without the UI depending on live third-party API calls.</p>
+        </li>
+        <li>
+        <p>Fixed a race where call events arrived before the call could be identified, using bounded buffering and replay instead of dropping unmatched events.</p>
+        </li>
+        <li>
+        <p>Built a ring-all routing engine with a distributed lock so exactly one operator claims each call, plus an idempotent fallback when no one answers.</p>
+        </li>
+        <li>
+        <p>Integrated voice AI into live calls while keeping control and routing in the backend, with a fallback to the standard phone menu if the AI path fails.</p>
+        </li>
+        <li>
+        <p>Stack: TypeScript, Node.js, Jambonz, Redis, MySQL</p>
+        </li>
+        </ul>
+        <h2><strong>Senior Backend Engineer (Contract)</strong></h2>
+        <p><em>Berlin, Germany</em></p>
+        <p><em>June 2024 – Sept 2025</em></p>
+        <p><em>Osnova GmbH</em></p>
+        <p>Multi-tenant AI agent platform for tenant-scoped agents, tools, data sources and deployments.</p>
+        <ul>
+        <li>
+        <p>Built backend capabilities for tenant-scoped agents, tools, data sources and deployments, with PostgreSQL row-level security and per-request tenant context.</p>
+        </li>
+        <li>
+        <p>Moved long-running agent creation from synchronous HTTP to a queue with retries and dead-letter handling, and added per-step execution traces so failures are diagnosable.</p>
+        </li>
+        <li>
+        <p>Owned the platform end to end across backend, frontend, cloud and AI, including the staging-to-production release flow across three Azure environments.</p>
+        </li>
+        <li>
+        <p>Stack: Python, FastAPI, TypeScript, NestJS, Node.js, PostgreSQL, React, Azure, OpenAI, Gemini, Claude</p>
+        </li>
+        </ul>
+        <h2><strong>Senior Backend Engineer (Contract)</strong></h2>
+        <p><em>Remote (US)</em></p>
+        <p><em>Apr 2023 – June 2024</em></p>
+        <p><em>Woolf</em></p>
+        <p>Edtech university exam system using LLM agents for student onboarding.</p>
+        <ul>
+        <li>
+        <p>Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by Oxford students across 80+ test sessions.</p>
+        </li>
+        <li>
+        <p>Cut LLM cost and latency by about 40% through token and memory optimization.</p>
+        </li>
+        <li>
+        <p>Stack: Python, Node.js, TypeScript, React, Google ADK, Vertex AI, Gemini</p>
+        </li>
+        </ul>
+        <h2><strong>Backend / full-stack roles</strong></h2>
+        <p><em>Odesa and Kyiv, Ukraine</em></p>
+        <p><em>2016 – 2023</em></p>
+        <p><em>Earlier experience</em></p>
+        <ul>
+        <li>
+        <p>Senior Back-end Developer · LAB325 &amp; MOB.325 (2021–2023): delivered 4 products (edtech platform, plant-care app, anonymous chat, smart-TV companion); OAuth2.0/JWT, GraphQL, PostgreSQL/ClickHouse/Elasticsearch, Docker.</p>
+        </li>
+        <li>
+        <p>Senior Back-end Developer · Provectus (2021): refactored a large-scale tender management platform; PHP/Laravel, PostgreSQL, Nginx, Docker, CI/CD, RBAC.</p>
+        </li>
+        <li>
+        <p>Middle Back-end Developer · Coelix (2020–2021): moved the company from WordPress to custom software; delivered 3 projects incl. an edtech platform.</p>
+        </li>
+        <li>
+        <p>Middle Full Stack Developer · Ephyros (2020): QPQ International, a deal advisory platform for green-energy investments; Laravel, PostgreSQL, Vue.js.</p>
+        </li>
+        <li>
+        <p>Junior Full Stack Developer · HYS Enterprise (2018–2020) and Top Agent (2018): corporate website and a travel management platform; PHP.</p>
+        </li>
+        <li>
+        <p>Junior Full Stack Developer · PHP-academy (2017) and Junior Back-end Developer &amp; Account Manager · SuperMediaAds (2016): website engine development; PHP.</p>
+        </li>
+        </ul>
+        <h1>Skills</h1>
+        <p><strong>Backend (primary):</strong> Python, FastAPI, GraphQL, OAuth2.0/JWT</p>
+        <p><strong>Also used in production:</strong> Node.js, NestJS, TypeScript</p>
+        <p><strong>Data:</strong> PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch</p>
+        <p><strong>Cloud Platforms:</strong> Azure, AWS, GCP</p>
+        <p><strong>Infrastructure:</strong> Docker, Nginx, microservices</p>
+        <p><strong>AI Integration:</strong> OpenAI, Gemini, RAG, LangChain, LangGraph, Google ADK, Agent Evaluation, Tracing, Observability</p>
+        <p><strong>AI Coding Agents:</strong> Claude Code, Codex (ChatGPT), Cursor</p>
+        <h1>Publications &amp; Conferences</h1>
+        <p><strong>Articles:</strong> “How to Integrate Google ADK with a Custom Interface” (2025, 10,000+ reads on Medium, Habr, Hashnode); “Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems” (2025)</p>
+        <p><strong>In total:</strong> 23 publications, 100K+ reads</p>
+        <p><strong>Conference:</strong> THETA EuroCon, Berlin (Sept 2025): live pitch and hackathon; built an AI solution</p>
+        <h1>Education</h1>
+        <h2><strong>State University of Intellectual Technologies and Communications</strong></h2>
+        <p><em>Odesa, Ukraine</em></p>
+        <p><em>Sept 2017 – Dec 2022</em></p>
+        <p><em>BSc, MSc</em> <em>in</em> <em>Automation and Computer-Integrated Technologies</em></p>
+        <h1>Languages</h1>
+        <ul>
+        <li>
+        <p>Ukrainian / Russian: Native</p>
+        </li>
+        <li>
+        <p>English: C1</p>
+        </li>
+        <li>
+        <p>German: A2</p>
+        </li>
+        </ul>
+    </article>
+</body>
+
+</html>

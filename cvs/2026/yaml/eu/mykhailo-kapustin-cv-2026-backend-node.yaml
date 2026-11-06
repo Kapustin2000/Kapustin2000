@@ -1,107 +1,97 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
-  name: Mykhailo Kapustin
-  headline: Senior Backend Engineer (Node.js / TypeScript)
-  location: Bulgarian EU Citizen
   email: kapustinomm@gmail.com
-  photo: null
+  headline: Senior Backend Engineer (Node.js / TypeScript)
+  name: Mykhailo Kapustin
   phone: null
+  photo: null
+  sections:
+    summary:
+    - I started programming at 15 and have worked professionally since 2016, moving from PHP/Laravel to Node.js and, in the last 3+ years, Python-based LLM systems. I've launched around 20 products and like owning them end to end, from idea to production. I write about AI architecture and test new coding agents such as Claude Code and Codex. Seeking a full-time role; open to remote EU.
+    experience:
+    - company: WireBee
+      end_date: 2026-09
+      highlights:
+      - Designed a sync model for live call and operator state so the platform stays aligned with the external phone system without the UI depending on live third-party API calls.
+      - Fixed a race where call events arrived before the call could be identified, using bounded buffering and replay instead of dropping unmatched events.
+      - Built a ring-all routing engine with a distributed lock so exactly one operator claims each call, plus an idempotent fallback when no one answers.
+      - Integrated voice AI into live calls while keeping control and routing in the backend, with a fallback to the standard phone menu if the AI path fails.
+      - 'Stack: TypeScript, Node.js, Jambonz, Redis, MySQL'
+      location: Remote (US)
+      position: Senior Backend Engineer (Contract)
+      start_date: 2025-09
+      summary: Voice and call-routing platform with live operator state and AI on calls.
+    - company: Osnova GmbH
+      end_date: 2025-09
+      highlights:
+      - Built backend capabilities for tenant-scoped agents, tools, data sources and deployments, with PostgreSQL row-level security and per-request tenant context.
+      - Moved long-running agent creation from synchronous HTTP to a queue with retries and dead-letter handling, and added per-step execution traces so failures are diagnosable.
+      - Owned the platform end to end across backend, frontend, cloud and AI, including the staging-to-production release flow across three Azure environments.
+      - 'Stack: Node.js, NestJS, TypeScript, Python, FastAPI, PostgreSQL, React, Azure, OpenAI, Gemini, Claude'
+      location: Berlin, Germany
+      position: Senior Backend Engineer (Contract)
+      start_date: 2024-06
+      summary: Multi-tenant AI agent platform for tenant-scoped agents, tools, data sources and deployments.
+    - company: Woolf
+      end_date: 2024-06
+      highlights:
+      - Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by Oxford students across 80+ test sessions.
+      - Cut LLM cost and latency by about 40% through token and memory optimization.
+      - 'Stack: Node.js, TypeScript, Python, React, Google ADK, Vertex AI, Gemini'
+      location: Remote (US)
+      position: Senior Backend Engineer (Contract)
+      start_date: 2023-04
+      summary: Edtech university exam system using LLM agents for student onboarding.
+    - company: Earlier experience
+      date: 2016 – 2023
+      highlights:
+      - 'Senior Back-end Developer · LAB325 & MOB.325 (2021–2023): delivered 4 products (edtech platform, plant-care app, anonymous chat, smart-TV companion); OAuth2.0/JWT, GraphQL, PostgreSQL/ClickHouse/Elasticsearch, Docker.'
+      - 'Senior Back-end Developer · Provectus (2021): refactored a large-scale tender management platform; PHP/Laravel, PostgreSQL, Nginx, Docker, CI/CD, RBAC.'
+      - 'Middle Back-end Developer · Coelix (2020–2021): moved the company from WordPress to custom software; delivered 3 projects incl. an edtech platform.'
+      - 'Middle Full Stack Developer · Ephyros (2020): QPQ International, a deal advisory platform for green-energy investments; Laravel, PostgreSQL, Vue.js.'
+      - 'Junior Full Stack Developer · HYS Enterprise (2018–2020) and Top Agent (2018): corporate website and a travel management platform; PHP.'
+      - 'Junior Full Stack Developer · PHP-academy (2017) and Junior Back-end Developer & Account Manager · SuperMediaAds (2016): website engine development; PHP.'
+      location: Odesa and Kyiv, Ukraine
+      position: Backend / full-stack roles
+    skills:
+    - details: Node.js, NestJS, TypeScript, GraphQL, OAuth2.0/JWT
+      label: Backend (primary)
+    - details: Python, FastAPI
+      label: Also used in production
+    - details: PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
+      label: Data
+    - details: Azure, AWS, GCP
+      label: Cloud Platforms
+    - details: Docker, Nginx, microservices
+      label: Infrastructure
+    - details: OpenAI, Gemini, RAG, LangChain, LangGraph, Google ADK, Agent Evaluation, Tracing, Observability
+      label: AI Integration
+    - details: Claude Code, Codex (ChatGPT), Cursor
+      label: AI Coding Agents
+    Publications & Conferences:
+    - label: Articles
+      details: '“How to Integrate Google ADK with a Custom Interface” (2025, 10,000+ reads on Medium, Habr, Hashnode); “Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems” (2025)'
+    - label: In total
+      details: 23 publications, 100K+ reads
+    - label: Conference
+      details: 'THETA EuroCon, Berlin (Sept 2025): live pitch and hackathon; built an AI solution'
+    education:
+    - institution: State University of Intellectual Technologies and Communications
+      location: Odesa, Ukraine
+      area: Automation and Computer-Integrated Technologies
+      degree: BSc, MSc
+      start_date: 2017-09
+      end_date: 2022-12
+    languages:
+    - bullet: 'Ukrainian / Russian: Native'
+    - bullet: 'English: C1'
+    - bullet: 'German: A2'
   social_networks:
   - network: LinkedIn
     username: mykhailo-kapustin-55885612a
   - network: GitHub
     username: Kapustin2000
-  sections:
-    summary:
-    - Senior Backend Engineer with 10+ years of software engineering experience. I cover backend, frontend, cloud, and AI and can own a project end to end, from research and development to deployment, QA, and support — solo or within a team. My main stack is Node.js/NestJS and PostgreSQL, with Python/FastAPI alongside.
-    experience:
-    - company: WireBee · Contract
-      position: Full-stack Engineer and Voice-AI Engineer
-      start_date: 2025-09
-      end_date: 2026-09
-      location: Ohio, USA
-      highlights:
-      - 'Designed a synchronization model for live call and operator state: inbound events plus periodic reconciliation keep the platform''s local view aligned with the external phone system, without making the UI depend on live third-party API calls.'
-      - Solved a race condition where call events arrived before the platform could identify the call, using bounded buffering and replay instead of dropping unmatched events.
-      - Built a ring-all routing engine that calls all available operators and uses a distributed lock to ensure exactly one person claims the call, with idempotent fallback when no one answers.
-      - Integrated voice AI into live calls while keeping call control and routing decisions in the backend, with a fallback to the standard phone menu if the AI path fails.
-      - 'Stack: TypeScript, Node.js, Jambonz, Redis, MySQL'
-    - company: Osnova GmbH · Contract
-      position: Full-stack Engineer and AI Engineer
-      start_date: 2024-06
-      end_date: 2025-09
-      location: Berlin, Germany
-      highlights:
-      - Built backend capabilities for tenant-scoped agents, tools, data sources, and deployments, enforcing tenant isolation with PostgreSQL row-level security and per-request tenant context.
-      - Moved long-running agent creation from synchronous HTTP requests to a queue with retries and dead-letter handling, and added per-step execution traces to make failures diagnosable.
-      - Owned the platform end to end — research, development, deployment, QA, and support — across backend, frontend, cloud, and AI, including the staging→production release flow across three Azure environments.
-      - 'Stack: Node.js, NestJS, TypeScript, Python, FastAPI, PostgreSQL, React, Azure, OpenAI, Gemini, Claude'
-    - company: Woolf · Contract
-      position: Full-stack Engineer and AI Engineer
-      start_date: 2023-04
-      end_date: 2024-06
-      location: San Francisco, USA
-      highlights:
-      - Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by real Oxford students across 80+ test sessions; cut LLM cost/latency by ~40% through token and memory optimization.
-      - 'Stack: Node.js, TypeScript, Python, React, Google ADK, Vertex AI, Gemini'
-    - company: Earlier backend / full-stack experience
-      date: 2016 – 2023
-      highlights:
-      - Team lead and backend/full-stack roles across edtech, corporate, and travel/ad-tech platforms — PHP/Laravel, Python, React, Vue.js, PostgreSQL/ClickHouse/Elasticsearch, OAuth2.0/JWT, GraphQL, Docker.
-      - 'Full history: [github.com/Kapustin2000/Kapustin2000/tree/master/experience](https://github.com/Kapustin2000/Kapustin2000/tree/master/experience)'
-      location: Odesa & Kyiv, Ukraine
-      position: LAB325 & MOB.325, Provectus, Coelix, Ephyros, HYS Enterprise, Top Agent, PHP-academy, SuperMediaAds
-    skills:
-    - label: Backend (primary)
-      details: Node.js, NestJS, TypeScript, GraphQL, OAuth2.0/JWT
-    - label: Also used in production
-      details: Python, FastAPI
-    - details: PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
-      label: Data
-    - label: Cloud Platforms
-      details: Azure, AWS, GCP
-    - details: Docker, Nginx, microservices
-      label: Infrastructure
-    - details: OpenAI, Gemini, RAG, LangChain, LangGraph, Google ADK, Agent Evaluation, Tracing, Observability
-      label: AI Integration
-    - label: AI Coding Agents
-      details: Claude Code, Codex (ChatGPT), Cursor
-    education:
-    - area: Automation and Computer-Integrated Technologies
-      degree: MSc
-      end_date: 2022-12
-      institution: State University of Intellectual Technologies and Communications
-      location: Odesa, Ukraine
-      start_date: 2021-08
-    - area: Automation and Computer-Integrated Technologies
-      degree: BSc
-      end_date: 2021-07
-      institution: State University of Intellectual Technologies and Communications
-      location: Odesa, Ukraine
-      start_date: 2017-09
-    languages:
-    - label: Ukrainian / Russian
-      details: Native
-    - label: English
-      details: C1
-    - label: German
-      details: A2
-    publications:
-    - date: 2025
-      name: How to Integrate Google ADK with a Custom Interface
-      summary: Hands-on guide to wiring Google ADK agents into a custom, non-default frontend — 10,000+ reads across Medium, Habr, and Hashnode.
-    - date: 2025
-      name: 'Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems'
-      summary: How to move from a messy AI monorepo to a scalable agent ecosystem — with real examples, three architectural paths (Filesystem Registry, Package Manager, AgentOps), and lessons from building multi-agent infrastructures.
-    - date: null
-      name: '[Other publications](https://github.com/Kapustin2000/Kapustin2000/tree/master/publications)'
-      summary: 23 entries · 10 technical articles (100K+ total reads) · 7 popular science articles · 4 research papers · 1 academic paper · 1 media mention
-    conferences:
-    - date: 2025-09
-      highlights:
-      - Delivered a live pitch presentation and took part in the hackathon track, building an AI solution during the event; focus areas included AI, LLM tooling, and cloud infrastructure.
-      location: Berlin, Germany
-      name: THETA EuroCon — European Theta Network Conference & Hackathon
+  location: EU citizen, no visa needed · Remote EU · Available now
 design:
   page:
     show_top_note: false
