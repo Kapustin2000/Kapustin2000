@@ -10,7 +10,7 @@
 I started programming at 15 and have worked professionally since 2016, moving from PHP/Laravel to Node.js and, in the last 3+ years, Python-based LLM systems. I've launched around 20 products and like owning them end to end, from idea to production. I write about AI architecture and test new coding agents such as Claude Code and Codex. Seeking a full-time role; open to remote EU.
 
 # Experience
-## **Full-stack Engineer and Voice-AI Engineer (Contract)**
+## **Voice AI Engineer (Contract)**
 
 *Remote (US)*
 
@@ -34,7 +34,7 @@ Voice and call-routing platform with live operator state and AI on calls.
 
 
 
-## **Full-stack Engineer and AI Engineer (Contract)**
+## **AI Engineer (Contract)**
 
 *Berlin, Germany*
 
@@ -52,7 +52,7 @@ Multi-tenant AI agent platform for tenant-scoped agents, tools, data sources and
 
 
 
-## **Full-stack Engineer and AI Engineer (Contract)**
+## **AI Engineer (Contract)**
 
 *Remote (US)*
 
@@ -91,17 +91,15 @@ Edtech university exam system using LLM agents for student onboarding.
 
 
 # Skills
-**Backend (primary):** Node.js, NestJS, Python, FastAPI, TypeScript, PostgreSQL, Docker
+**AI / LLM:** Voice AI (Jambonz), OpenAI, Gemini, Claude, Google ADK, LangGraph, agent evaluation, tracing & observability (OpenTelemetry, Arize Phoenix)
 
-**Cloud Platforms:** Azure, AWS, GCP
+**Backend:** Node.js, NestJS, TypeScript, Python, FastAPI, GraphQL, OAuth2.0/JWT
 
-**Frontend (used in projects):** React (Osnova operator dashboard, Woolf), Vue (earlier roles)
+**Data:** PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
 
-**AI/ML:** RAG, Anthropic, OpenAI, Google Vertex AI, Gemini, OpenRouter, LiteLLM, Model fallback/routing design, Claude Agent SDK
+**Cloud & infra:** Azure, GCP, Docker, Nginx
 
-**Agents & Observability:** Google ADK, LangChain, LangGraph, Agent Orchestration, Agent Evaluation & Observability, OpenTelemetry, Arize Phoenix tracing, Voice AI (Jambonz)
-
-**AI Coding Agents:** Claude Code, Codex (ChatGPT), Cursor, herdr, pi-agent, hermesagent
+**Tools:** Claude Code, Codex, Cursor, Pi
 
 # Publications & Conferences
 **Articles:** “How to Integrate Google ADK with a Custom Interface” (2025, 10,000+ reads on Medium, Habr, Hashnode); “Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems” (2025)

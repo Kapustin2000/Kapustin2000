@@ -47,6 +47,6 @@ for f in sorted(glob.glob(os.path.join(D, 'yaml', '*', 'mykhailo-kapustin-cv-202
     if want and slug not in want: continue
     base = yaml.safe_load(open(f))
     render(base, mkt, slug, '')
-    for lvl in ('mid', 'junior'):
+    for lvl in (() if slug == 'fde' else ('mid', 'junior')):  # fde: senior only
         render(level(copy.deepcopy(base), lvl), mkt, slug, '-' + lvl)
 shutil.rmtree(os.path.join(D, 'yaml', '_gen'), ignore_errors=True)

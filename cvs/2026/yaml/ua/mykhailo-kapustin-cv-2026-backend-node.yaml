@@ -54,20 +54,16 @@ cv:
       location: Odesa and Kyiv, Ukraine
       position: Backend / full-stack roles
     skills:
-    - details: Node.js, NestJS, TypeScript, GraphQL, OAuth2.0/JWT
-      label: Backend (primary)
-    - details: Python, FastAPI
-      label: Also used in production
-    - details: PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
-      label: Data
-    - details: Azure, AWS, GCP
-      label: Cloud Platforms
-    - details: Docker, Nginx, microservices
-      label: Infrastructure
-    - details: OpenAI, Gemini, RAG, LangChain, LangGraph, Google ADK, Agent Evaluation, Tracing, Observability
-      label: AI Integration
-    - details: Claude Code, Codex (ChatGPT), Cursor
-      label: AI Coding Agents
+    - label: Backend
+      details: Node.js, NestJS, TypeScript, Python, FastAPI, GraphQL, OAuth2.0/JWT
+    - label: Data
+      details: PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
+    - label: AI / LLM
+      details: OpenAI, Gemini, Claude, RAG, LangChain, LangGraph, Google ADK, Vertex AI, agent evaluation, tracing & observability (OpenTelemetry, Arize Phoenix), voice AI (Jambonz)
+    - label: Cloud & infra
+      details: Azure, GCP, Docker, Nginx
+    - label: Tools
+      details: Claude Code, Codex, Cursor, Pi
     Publications & Conferences:
     - label: Articles
       details: '“How to Integrate Google ADK with a Custom Interface” (2025, 10,000+ reads on Medium, Habr, Hashnode); “Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems” (2025)'

@@ -10,7 +10,7 @@
 I started programming at 15 and have worked professionally since 2016, moving from PHP/Laravel to Node.js and, in the last 3+ years, Python-based LLM systems. I've launched around 20 products and like owning them end to end, from idea to production. I write about AI architecture and test new coding agents such as Claude Code and Codex. Seeking a full-time role; open to remote EU.
 
 # Experience
-## **Full-stack Engineer and Voice-AI Engineer (Contract)**
+## **Senior Full-Stack & AI Engineer (Contract)**
 
 *Remote (US)*
 
@@ -32,7 +32,7 @@ Voice and call-routing platform with live operator state and AI on calls.
 
 
 
-## **Full-stack Engineer and AI Engineer (Contract)**
+## **Senior Full-Stack & AI Engineer (Contract)**
 
 *Berlin, Germany*
 
@@ -52,7 +52,7 @@ Multi-tenant AI agent platform for tenant-scoped agents, tools, data sources and
 
 
 
-## **Full-stack Engineer and AI Engineer (Contract)**
+## **Senior Full-Stack & AI Engineer (Contract)**
 
 *Remote (US)*
 
@@ -93,17 +93,17 @@ Edtech university exam system using LLM agents for student onboarding.
 
 
 # Skills
-**Backend (primary):** Node.js, NestJS, Python, FastAPI, TypeScript, PostgreSQL, Docker
+**Backend:** Node.js, NestJS, TypeScript, Python, FastAPI, GraphQL, OAuth2.0/JWT
 
-**Cloud Platforms:** Azure, AWS, GCP
+**Frontend:** React, Vue
 
-**Frontend (used in projects):** React (Osnova operator dashboard, Woolf), Vue (earlier roles)
+**Data:** PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
 
-**AI/ML:** RAG, Anthropic, OpenAI, Google Vertex AI, Gemini, OpenRouter, LiteLLM, Model fallback/routing design, Claude Agent SDK
+**AI / LLM:** OpenAI, Gemini, Claude, RAG, LangChain, LangGraph, Google ADK, Vertex AI, agent evaluation, tracing & observability (OpenTelemetry, Arize Phoenix), voice AI (Jambonz)
 
-**Agents & Observability:** Google ADK, LangChain, LangGraph, Agent Orchestration, Agent Evaluation & Observability, OpenTelemetry, Arize Phoenix tracing, Voice AI (Jambonz)
+**Cloud & infra:** Azure, GCP, Docker, Nginx
 
-**AI Coding Agents:** Claude Code, Codex (ChatGPT), Cursor, herdr, pi-agent, hermesagent
+**Tools:** Claude Code, Codex, Cursor, Pi
 
 # Publications & Conferences
 **Articles:** “How to Integrate Google ADK with a Custom Interface” (2025, 10,000+ reads on Medium, Habr, Hashnode); “Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems” (2025)

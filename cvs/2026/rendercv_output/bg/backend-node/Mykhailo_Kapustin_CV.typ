@@ -216,19 +216,15 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 
 == Skills
 
-#strong[Backend (primary):] Node.js, NestJS, TypeScript, GraphQL, OAuth2.0\/JWT
-
-#strong[Also used in production:] Python, FastAPI
+#strong[Backend:] Node.js, NestJS, TypeScript, Python, FastAPI, GraphQL, OAuth2.0\/JWT
 
 #strong[Data:] PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
 
-#strong[Cloud Platforms:] Azure, AWS, GCP
+#strong[AI \/ LLM:] OpenAI, Gemini, Claude, RAG, LangChain, LangGraph, Google ADK, Vertex AI, agent evaluation, tracing & observability (OpenTelemetry, Arize Phoenix), voice AI (Jambonz)
 
-#strong[Infrastructure:] Docker, Nginx, microservices
+#strong[Cloud & infra:] Azure, GCP, Docker, Nginx
 
-#strong[AI Integration:] OpenAI, Gemini, RAG, LangChain, LangGraph, Google ADK, Agent Evaluation, Tracing, Observability
-
-#strong[AI Coding Agents:] Claude Code, Codex (ChatGPT), Cursor
+#strong[Tools:] Claude Code, Codex, Cursor, Pi
 
 == Publications & Conferences
 

@@ -106,7 +106,7 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 
 #regular-entry(
   [
-    #strong[Full-stack Engineer and Voice-AI Engineer (Contract)]
+    #strong[Senior Full-Stack & AI Engineer (Contract)]
 
     #emph[WireBee]
 
@@ -135,7 +135,7 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 
 #regular-entry(
   [
-    #strong[Full-stack Engineer and AI Engineer (Contract)]
+    #strong[Senior Full-Stack & AI Engineer (Contract)]
 
     #emph[Osnova GmbH]
 
@@ -162,7 +162,7 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 
 #regular-entry(
   [
-    #strong[Full-stack Engineer and AI Engineer (Contract)]
+    #strong[Senior Full-Stack & AI Engineer (Contract)]
 
     #emph[Woolf]
 
@@ -216,17 +216,17 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 
 == Skills
 
-#strong[Backend (primary):] Node.js, NestJS, Python, FastAPI, TypeScript, PostgreSQL, Docker
+#strong[Backend:] Node.js, NestJS, TypeScript, Python, FastAPI, GraphQL, OAuth2.0\/JWT
 
-#strong[Cloud Platforms:] Azure, AWS, GCP
+#strong[Frontend:] React, Vue
 
-#strong[Frontend (used in projects):] React (Osnova operator dashboard, Woolf), Vue (earlier roles)
+#strong[Data:] PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
 
-#strong[AI\/ML:] RAG, Anthropic, OpenAI, Google Vertex AI, Gemini, OpenRouter, LiteLLM, Model fallback\/routing design, Claude Agent SDK
+#strong[AI \/ LLM:] OpenAI, Gemini, Claude, RAG, LangChain, LangGraph, Google ADK, Vertex AI, agent evaluation, tracing & observability (OpenTelemetry, Arize Phoenix), voice AI (Jambonz)
 
-#strong[Agents & Observability:] Google ADK, LangChain, LangGraph, Agent Orchestration, Agent Evaluation & Observability, OpenTelemetry, Arize Phoenix tracing, Voice AI (Jambonz)
+#strong[Cloud & infra:] Azure, GCP, Docker, Nginx
 
-#strong[AI Coding Agents:] Claude Code, Codex (ChatGPT), Cursor, herdr, pi-agent, hermesagent
+#strong[Tools:] Claude Code, Codex, Cursor, Pi
 
 == Publications & Conferences
 

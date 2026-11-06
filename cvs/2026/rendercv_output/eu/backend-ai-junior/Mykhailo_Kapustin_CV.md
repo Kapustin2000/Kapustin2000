@@ -71,19 +71,15 @@ Edtech university exam system using LLM agents for student onboarding.
 
 
 # Skills
-**Core Stack:** Node.js, NestJS, Python, React, Vue, Google ADK, LangChain, LangGraph
+**Backend:** Node.js, NestJS, TypeScript, Python, FastAPI, GraphQL, OAuth2.0/JWT
 
-**Languages & Frameworks:** TypeScript, FastAPI
+**Data:** PostgreSQL (row-level security), MySQL, Redis, ClickHouse, Elasticsearch
 
-**AI/ML:** RAG, Data pipelines, Anthropic, OpenAI, Google Vertex AI, Gemini, OpenRouter, LiteLLM, Model fallback/routing design, Claude Agent SDK
+**AI / LLM:** OpenAI, Gemini, Claude, RAG, LangChain, LangGraph, Google ADK, Vertex AI, agent evaluation, tracing & observability (OpenTelemetry, Arize Phoenix), voice AI (Jambonz)
 
-**AI Coding Agents:** Claude Code, Codex (ChatGPT), Cursor, herdr, pi-agent, hermesagent
+**Cloud & infra:** Azure, GCP, Docker, Nginx
 
-**Cloud Platforms:** Azure, AWS, GCP
-
-**Infrastructure:** Docker, PostgreSQL
-
-**Agents & Observability:** Agent Orchestration, Agent Evaluation & Observability, OpenTelemetry, Arize Phoenix tracing, Voice AI (Jambonz)
+**Tools:** Claude Code, Codex, Cursor, Pi
 
 # Publications & Conferences
 **Articles:** “How to Integrate Google ADK with a Custom Interface” (2025, 10,000+ reads on Medium, Habr, Hashnode); “Building AI Agent Infrastructure: Three Paths from Chaos to Scalable Systems” (2025)
