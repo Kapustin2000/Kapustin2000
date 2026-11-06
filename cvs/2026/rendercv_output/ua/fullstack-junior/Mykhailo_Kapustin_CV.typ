@@ -126,7 +126,7 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
     - Built a ring-all routing engine with a distributed lock so exactly one operator claims each call, plus an idempotent fallback when no one answers.
 
-    - Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails (the company reports its voice AI agents automate 40–90\% of inbound carrier calls).
+    - Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails. Now the company reports its voice AI agents automate 40–90\% of inbound carrier calls.
 
     - Stack: TypeScript, Node.js, Jambonz, Redis, MySQL
 

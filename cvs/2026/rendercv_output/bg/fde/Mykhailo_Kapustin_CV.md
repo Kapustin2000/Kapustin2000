@@ -20,7 +20,7 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
 AI call automation and routing for freight brokerages. Owned the development end to end; worked directly with the CEO.
 
-- Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails (the company reports its voice AI agents automate 40–90% of inbound carrier calls).
+- Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails. Now the company reports its voice AI agents automate 40–90% of inbound carrier calls.
 
 - Designed a sync model for live call and operator state, keeping the platform aligned with the external phone system without live third-party API calls from the UI.
 
