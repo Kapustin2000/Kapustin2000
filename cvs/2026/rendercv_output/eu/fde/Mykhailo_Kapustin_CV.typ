@@ -100,7 +100,7 @@
 
 == Summary
 
-I work directly with client CEOs and product managers and take LLM agents and voice AI from idea to production inside real business systems: phone systems, ERP, email and web. I started programming at 15 and have worked professionally since 2016, moving from PHP\/Laravel to Node.js and, in the last 3+ years, Python-based LLM systems. I've launched around 20 products and like owning delivery end to end, from the first prototype to production support. Seeking a full-time role; open to remote EU.
+I've been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I take ownership of problems end to end and enjoy research and development. I build LLM agents and voice AI inside real business systems, keep deepening my expertise by learning new technologies and attending technical events, and write technical articles and research on AI. Outside of work I lead a healthy lifestyle and practice Pilates. Seeking a full-time role; open to remote EU.
 
 == Experience
 

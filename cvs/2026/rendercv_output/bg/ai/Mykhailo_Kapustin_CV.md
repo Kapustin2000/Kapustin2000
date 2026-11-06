@@ -7,7 +7,7 @@
 
 
 # Summary
-I started programming at 15 and have worked professionally since 2016, moving from PHP/Laravel to Node.js and, in the last 3+ years, Python-based LLM systems. I've launched around 20 products and like owning them end to end, from idea to production. I write about AI architecture and test new coding agents such as Claude Code and Codex. Based in Sofia, seeking a full-time role; open to Sofia hybrid/on-site and remote EU.
+I've been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I like taking ownership of tasks and whole projects, and I enjoy research and development. I keep deepening my expertise: I learn new technologies, tools and techniques, attend technical events, and write technical articles and research, including on AI. Outside of work I lead a healthy lifestyle and practice Pilates. Based in Sofia, seeking a full-time role; open to Sofia hybrid/on-site and remote EU.
 
 # Experience
 ## **AI Engineer (Contract)**
