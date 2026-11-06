@@ -7,7 +7,7 @@
 
 
 # Summary
-I've been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I like taking ownership of tasks and whole projects, and I enjoy research and development. I keep deepening my expertise: I learn new technologies, tools and techniques, attend technical events, and write technical articles and research, including on AI. Outside of work I lead a healthy lifestyle and practice Pilates. Seeking a full-time role; open to remote EU.
+I've been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I like taking ownership of tasks and whole projects, and I enjoy research and development. I keep deepening my expertise: I learn new technologies, tools and techniques, attend technical events, and write technical articles and research, including on AI. Seeking a full-time role; open to remote EU.
 
 # Experience
 ## **Voice AI Engineer (Contract)**
@@ -18,7 +18,7 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
 *WireBee, 2–10 employees, team of 4*
 
-AI call automation and call routing for freight brokerages; the company reports its voice agents automate 40–90% of inbound carrier calls. Owned the development end to end; communicated directly with the CEO.
+AI call automation and routing for freight brokerages (the company reports its voice AI agents automate 40–90% of inbound carrier calls). Owned the development end to end; worked directly with the CEO.
 
 - Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails.
 
@@ -42,7 +42,7 @@ AI call automation and call routing for freight brokerages; the company reports 
 
 *Osnova GmbH, 2–10 employees, team of 4*
 
-AI agent platform (cogit): agent factories turn a business requirement into a researched, configured, tested and deployed agent for workflows like orders and documents; the company reports −20 h/week order processing and −96% document processing time. Owned the development end to end; communicated directly with the CEO.
+AI agent platform (cogit): agent factories turn a business requirement into a tested, deployed agent for workflows like orders and documents (the company reports −20 h/week order processing and −96% document processing time). Owned the development end to end; worked directly with the CEO.
 
 - Designed a registry-based contract for tools and agents so a new business onboards as configuration, not a new project; built the multi-tenant NestJS/PostgreSQL backend and React operator dashboard.
 
@@ -60,7 +60,7 @@ AI agent platform (cogit): agent factories turn a business requirement into a re
 
 *Woolf, 50–200 employees, team of 7*
 
-Online university with accredited degrees; LLM-agent exam system for student onboarding. Owned the development end to end; communicated directly with the product manager.
+Online university with accredited degrees. Owned the development end to end; worked directly with the product manager.
 
 - Designed and built an LLM-agent exam system on Google ADK for Woolf's higher-education onboarding — covering exam generation, delivery, and evaluation — deployed for real Oxford students running an entrance-style assessment, across 80+ test sessions in three months.
 

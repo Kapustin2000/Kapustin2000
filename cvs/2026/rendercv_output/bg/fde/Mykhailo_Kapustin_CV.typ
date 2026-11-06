@@ -100,7 +100,7 @@
 
 == Summary
 
-I've been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I take ownership of problems end to end and enjoy research and development. I build LLM agents and voice AI inside real business systems, keep deepening my expertise by learning new technologies and attending technical events, and write technical articles and research on AI. Outside of work I lead a healthy lifestyle and practice Pilates. Based in Sofia, seeking a full-time role; open to Sofia hybrid\/on-site and remote EU.
+I've been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I take ownership of problems end to end and enjoy research and development. I build LLM agents and voice AI inside real business systems, keep deepening my expertise by learning new technologies and attending technical events, and write technical articles and research on AI. Based in Sofia, seeking a full-time role; open to Sofia hybrid\/on-site and remote EU.
 
 == Experience
 
@@ -118,11 +118,11 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
   ],
   main-column-second-row: [
-    #summary[AI call automation and call routing for freight brokerages; the company reports its voice agents automate 40–90\% of inbound carrier calls. Owned the development end to end; communicated directly with the CEO.]
+    #summary[AI call automation and routing for freight brokerages (the company reports its voice AI agents automate 40–90\% of inbound carrier calls). Owned the development end to end; worked directly with the CEO.]
 
     - Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails.
 
-    - Designed a sync model for live call and operator state so the platform stays aligned with the external phone system without the UI depending on live third-party API calls.
+    - Designed a sync model for live call and operator state, keeping the platform aligned with the external phone system without live third-party API calls from the UI.
 
     - Built a ring-all routing engine with a distributed lock so exactly one operator claims each call, plus an idempotent fallback when no one answers.
 
@@ -147,7 +147,7 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
   ],
   main-column-second-row: [
-    #summary[AI agent platform (cogit): agent factories turn a business requirement into a researched, configured, tested and deployed agent for workflows like orders and documents; the company reports −20 h\/week order processing and −96\% document processing time. Owned the development end to end; communicated directly with the CEO.]
+    #summary[AI agent platform (cogit): agent factories turn a business requirement into a tested, deployed agent for workflows like orders and documents (the company reports −20 h\/week order processing and −96\% document processing time). Owned the development end to end; worked directly with the CEO.]
 
     - Productionized an AI order-entry agent that turns emailed orders into ERP orders, creating them only after validation, with duplicate protection and clear status replies for cases needing review.
 
@@ -176,7 +176,7 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
   ],
   main-column-second-row: [
-    #summary[Online university with accredited degrees; LLM-agent exam system for student onboarding. Owned the development end to end; communicated directly with the product manager.]
+    #summary[Online university with accredited degrees. Owned the development end to end; worked directly with the product manager.]
 
     - Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by Oxford students across 80+ test sessions.
 

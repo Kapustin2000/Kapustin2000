@@ -7,12 +7,12 @@ cv:
   photo: null
   sections:
     summary:
-    - 'I''ve been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I like taking ownership of tasks and whole projects, and I enjoy research and development. I keep deepening my expertise: I learn new technologies, tools and techniques, attend technical events, and write technical articles and research, including on AI. Outside of work I lead a healthy lifestyle and practice Pilates. Based in Berlin, seeking a full-time role; open to Berlin hybrid/on-site and remote EU.'
+    - 'I''ve been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I like taking ownership of tasks and whole projects, and I enjoy research and development. I keep deepening my expertise: I learn new technologies, tools and techniques, attend technical events, and write technical articles and research, including on AI. Based in Berlin, seeking a full-time role; open to Berlin hybrid/on-site and remote EU.'
     experience:
     - company: WireBee, 2–10 employees, team of 4
       end_date: 2026-09
       highlights:
-      - Designed a sync model for live call and operator state so the platform stays aligned with the external phone system without the UI depending on live third-party API calls.
+      - Designed a sync model for live call and operator state, keeping the platform aligned with the external phone system without live third-party API calls from the UI.
       - Fixed a race where call events arrived before the call could be identified, using bounded buffering and replay instead of dropping unmatched events.
       - Built a ring-all routing engine with a distributed lock so exactly one operator claims each call, plus an idempotent fallback when no one answers.
       - 'Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails.'
@@ -20,18 +20,18 @@ cv:
       location: Remote (US, Ohio)
       position: Senior Backend Engineer (Contract)
       start_date: 2025-09
-      summary: AI call automation and call routing for freight brokerages; the company reports its voice agents automate 40–90% of inbound carrier calls. Owned the development end to end; communicated directly with the CEO.
+      summary: AI call automation and routing for freight brokerages (the company reports its voice AI agents automate 40–90% of inbound carrier calls). Owned the development end to end; worked directly with the CEO.
     - company: Osnova GmbH, 2–10 employees, team of 4
       end_date: 2025-09
       highlights:
-      - Built backend capabilities for tenant-scoped agents, tools, data sources and deployments, with PostgreSQL row-level security and per-request tenant context.
+      - Built the multi-tenant backend for agents, tools, data sources and deployments, with PostgreSQL row-level security and per-request tenant context.
       - Moved long-running agent creation from synchronous HTTP to a queue with retries and dead-letter handling, and added per-step execution traces so failures are diagnosable.
       - Owned the platform end to end across backend, frontend, cloud and AI, including the staging-to-production release flow across three Azure environments.
       - 'Stack: Node.js, NestJS, TypeScript, Python, FastAPI, PostgreSQL, React, Azure, OpenAI, Gemini, Claude'
       location: Berlin, Germany (on-site)
       position: Senior Backend Engineer (Contract)
       start_date: 2024-06
-      summary: 'AI agent platform (cogit): agent factories turn a business requirement into a researched, configured, tested and deployed agent for workflows like orders and documents; the company reports −20 h/week order processing and −96% document processing time. Owned the development end to end; communicated directly with the CEO.'
+      summary: 'AI agent platform (cogit): agent factories turn a business requirement into a tested, deployed agent for workflows like orders and documents (the company reports −20 h/week order processing and −96% document processing time). Owned the development end to end; worked directly with the CEO.'
     - company: Woolf, 50–200 employees, team of 7
       end_date: 2024-06
       highlights:
@@ -41,7 +41,7 @@ cv:
       location: Remote (US, San Francisco)
       position: Senior Backend Engineer (Contract)
       start_date: 2023-04
-      summary: Online university with accredited degrees; LLM-agent exam system for student onboarding. Owned the development end to end; communicated directly with the product manager.
+      summary: Online university with accredited degrees. Owned the development end to end; worked directly with the product manager.
     - company: Earlier experience
       date: 2016 – 2023
       highlights:

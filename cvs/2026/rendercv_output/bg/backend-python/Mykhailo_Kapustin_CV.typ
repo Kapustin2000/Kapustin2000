@@ -100,7 +100,7 @@
 
 == Summary
 
-I've been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I like taking ownership of tasks and whole projects, and I enjoy research and development. I keep deepening my expertise: I learn new technologies, tools and techniques, attend technical events, and write technical articles and research, including on AI. Outside of work I lead a healthy lifestyle and practice Pilates. Based in Sofia, seeking a full-time role; open to Sofia hybrid\/on-site and remote EU.
+I've been programming since the age of 15 (2015) and have worked on 20+ projects, both building new products from scratch and developing existing ones. I like taking ownership of tasks and whole projects, and I enjoy research and development. I keep deepening my expertise: I learn new technologies, tools and techniques, attend technical events, and write technical articles and research, including on AI. Based in Sofia, seeking a full-time role; open to Sofia hybrid\/on-site and remote EU.
 
 == Experience
 
@@ -118,9 +118,9 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
   ],
   main-column-second-row: [
-    #summary[AI call automation and call routing for freight brokerages; the company reports its voice agents automate 40–90\% of inbound carrier calls. Owned the development end to end; communicated directly with the CEO.]
+    #summary[AI call automation and routing for freight brokerages (the company reports its voice AI agents automate 40–90\% of inbound carrier calls). Owned the development end to end; worked directly with the CEO.]
 
-    - Designed a sync model for live call and operator state so the platform stays aligned with the external phone system without the UI depending on live third-party API calls.
+    - Designed a sync model for live call and operator state, keeping the platform aligned with the external phone system without live third-party API calls from the UI.
 
     - Fixed a race where call events arrived before the call could be identified, using bounded buffering and replay instead of dropping unmatched events.
 
@@ -147,9 +147,9 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
   ],
   main-column-second-row: [
-    #summary[AI agent platform (cogit): agent factories turn a business requirement into a researched, configured, tested and deployed agent for workflows like orders and documents; the company reports −20 h\/week order processing and −96\% document processing time. Owned the development end to end; communicated directly with the CEO.]
+    #summary[AI agent platform (cogit): agent factories turn a business requirement into a tested, deployed agent for workflows like orders and documents (the company reports −20 h\/week order processing and −96\% document processing time). Owned the development end to end; worked directly with the CEO.]
 
-    - Built backend capabilities for tenant-scoped agents, tools, data sources and deployments, with PostgreSQL row-level security and per-request tenant context.
+    - Built the multi-tenant backend for agents, tools, data sources and deployments, with PostgreSQL row-level security and per-request tenant context.
 
     - Moved long-running agent creation from synchronous HTTP to a queue with retries and dead-letter handling, and added per-step execution traces so failures are diagnosable.
 
@@ -174,7 +174,7 @@ I've been programming since the age of 15 (2015) and have worked on 20+ projects
 
   ],
   main-column-second-row: [
-    #summary[Online university with accredited degrees; LLM-agent exam system for student onboarding. Owned the development end to end; communicated directly with the product manager.]
+    #summary[Online university with accredited degrees. Owned the development end to end; worked directly with the product manager.]
 
     - Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by Oxford students across 80+ test sessions.
 
