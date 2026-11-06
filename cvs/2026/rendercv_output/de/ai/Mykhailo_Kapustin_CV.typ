@@ -64,7 +64,7 @@
   sections-allow-page-break: true,
   sections-space-between-text-based-entries: 0.3em,
   sections-space-between-regular-entries: 1.2em,
-  entries-date-and-location-width: 4.15cm,
+  entries-date-and-location-width: 4.6cm,
   entries-side-space: 0.2cm,
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
@@ -108,19 +108,19 @@ I started programming at 15 and have worked professionally since 2016, moving fr
   [
     #strong[AI Engineer (Contract)]
 
-    #emph[WireBee]
+    #emph[WireBee, 2–10 employees, team of 4]
 
   ],
   [
-    #emph[Remote (US)]
+    #emph[Remote (US, Ohio)]
 
     #emph[Sept 2025 – Sept 2026]
 
   ],
   main-column-second-row: [
-    #summary[Voice and call-routing platform with live operator state and AI on calls.]
+    #summary[AI call automation and call routing for freight brokerages; the company reports its voice agents automate 40–90\% of inbound carrier calls. Owned the development end to end; communicated directly with the CEO.]
 
-    - Integrated voice AI into live calls while keeping call control and routing decisions in the backend, with a fallback to the standard phone menu if the AI path fails.
+    - Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails.
 
     - Built a scenario-testing framework for the voice agent that runs calls, captures transcripts and events, and checks outcomes against explicit assertions.
 
@@ -133,17 +133,17 @@ I started programming at 15 and have worked professionally since 2016, moving fr
   [
     #strong[AI Engineer (Contract)]
 
-    #emph[Osnova GmbH]
+    #emph[Osnova GmbH, 2–10 employees, team of 4]
 
   ],
   [
-    #emph[Berlin, Germany]
+    #emph[Berlin, Germany (on-site)]
 
     #emph[June 2024 – Sept 2025]
 
   ],
   main-column-second-row: [
-    #summary[Multi-tenant AI agent platform for tenant-scoped agents, tools, data sources and deployments.]
+    #summary[AI agent platform (cogit): agent factories turn a business requirement into a researched, configured, tested and deployed agent for workflows like orders and documents; the company reports −20 h\/week order processing and −96\% document processing time. Owned the development end to end; communicated directly with the CEO.]
 
     - Designed a registry-based contract for tools and agents so a new business onboards as configuration, not a new project; built the multi-tenant NestJS\/PostgreSQL backend and React operator dashboard.
 
@@ -160,17 +160,17 @@ I started programming at 15 and have worked professionally since 2016, moving fr
   [
     #strong[AI Engineer (Contract)]
 
-    #emph[Woolf]
+    #emph[Woolf, 50–200 employees, team of 7]
 
   ],
   [
-    #emph[Remote (US)]
+    #emph[Remote (US, San Francisco)]
 
     #emph[Apr 2023 – June 2024]
 
   ],
   main-column-second-row: [
-    #summary[Edtech university exam system using LLM agents for student onboarding.]
+    #summary[Online university with accredited degrees; LLM-agent exam system for student onboarding. Owned the development end to end; communicated directly with the product manager.]
 
     - Designed and built an LLM-agent exam system on Google ADK for Woolf's higher-education onboarding — covering exam generation, delivery, and evaluation — deployed for real Oxford students running an entrance-style assessment, across 80+ test sessions in three months.
 
@@ -230,9 +230,6 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 
 #strong[Conference:] THETA EuroCon, Berlin (Sept 2025): live pitch and hackathon; built an AI solution
 
-#v(0.7em)
-#grid(columns: (1fr, 1fr), column-gutter: 2em, [
-#set par(spacing: 0.3em)
 == Education
 
 #education-entry(
@@ -252,13 +249,10 @@ I started programming at 15 and have worked professionally since 2016, moving fr
   ],
 )
 
-], [
-#set par(spacing: 0.3em)
 == Languages
 
-#pad(left: 0.5em, top: 0em, bottom: 0.3em)[• #h(0.4em) Ukrainian \/ Russian: Native]
+#strong[Ukrainian \/ Russian:] Native
 
-#pad(left: 0.5em, top: 0em, bottom: 0.3em)[• #h(0.4em) English: C1]
+#strong[English:] C1
 
-#pad(left: 0.5em, top: 0em, bottom: 0.3em)[• #h(0.4em) German: A2]
-])
+#strong[German:] A2

@@ -15,7 +15,7 @@ MARKETS = {
  'bg': ('Sofia, Bulgaria · EU citizen · Available now',
         'Based in Sofia, seeking a full-time role; open to Sofia hybrid/on-site and remote EU.'),
 }
-SECTIONS = ['summary', 'experience', 'skills', 'Publications & Conferences', 'education', 'languages']  # education+languages render side by side (templates/sb2nov); languages must stay last
+SECTIONS = ['summary', 'experience', 'skills', 'Publications & Conferences', 'education', 'languages']
 ORDER = ['WireBee', 'Osnova', 'Woolf', 'Earlier']
 for f in sorted(glob.glob(os.path.join(D, 'yaml', 'eu', 'mykhailo-kapustin-cv-2026-*.yaml'))):
     base = yaml.safe_load(open(f))

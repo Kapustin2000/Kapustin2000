@@ -12,13 +12,13 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 # Experience
 ## **Senior Backend Engineer (Contract)**
 
-*Remote (US)*
+*Remote (US, Ohio)*
 
 *Sept 2025 – Sept 2026*
 
-*WireBee*
+*WireBee, 2–10 employees, team of 4*
 
-Voice and call-routing platform with live operator state and AI on calls.
+AI call automation and call routing for freight brokerages; the company reports its voice agents automate 40–90% of inbound carrier calls. Owned the development end to end; communicated directly with the CEO.
 
 - Designed a sync model for live call and operator state so the platform stays aligned with the external phone system without the UI depending on live third-party API calls.
 
@@ -26,7 +26,7 @@ Voice and call-routing platform with live operator state and AI on calls.
 
 - Built a ring-all routing engine with a distributed lock so exactly one operator claims each call, plus an idempotent fallback when no one answers.
 
-- Integrated voice AI into live calls while keeping control and routing in the backend, with a fallback to the standard phone menu if the AI path fails.
+- Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails.
 
 - Stack: TypeScript, Node.js, Jambonz, Redis, MySQL
 
@@ -34,13 +34,13 @@ Voice and call-routing platform with live operator state and AI on calls.
 
 ## **Senior Backend Engineer (Contract)**
 
-*Berlin, Germany*
+*Berlin, Germany (on-site)*
 
 *June 2024 – Sept 2025*
 
-*Osnova GmbH*
+*Osnova GmbH, 2–10 employees, team of 4*
 
-Multi-tenant AI agent platform for tenant-scoped agents, tools, data sources and deployments.
+AI agent platform (cogit): agent factories turn a business requirement into a researched, configured, tested and deployed agent for workflows like orders and documents; the company reports −20 h/week order processing and −96% document processing time. Owned the development end to end; communicated directly with the CEO.
 
 - Built backend capabilities for tenant-scoped agents, tools, data sources and deployments, with PostgreSQL row-level security and per-request tenant context.
 
@@ -54,13 +54,13 @@ Multi-tenant AI agent platform for tenant-scoped agents, tools, data sources and
 
 ## **Senior Backend Engineer (Contract)**
 
-*Remote (US)*
+*Remote (US, San Francisco)*
 
 *Apr 2023 – June 2024*
 
-*Woolf*
+*Woolf, 50–200 employees, team of 7*
 
-Edtech university exam system using LLM agents for student onboarding.
+Online university with accredited degrees; LLM-agent exam system for student onboarding. Owned the development end to end; communicated directly with the product manager.
 
 - Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by Oxford students across 80+ test sessions.
 
@@ -122,8 +122,8 @@ Edtech university exam system using LLM agents for student onboarding.
 
 
 # Languages
-- Ukrainian / Russian: Native
+**Ukrainian / Russian:** Native
 
-- English: C1
+**English:** C1
 
-- German: A2
+**German:** A2

@@ -64,7 +64,7 @@
   sections-allow-page-break: true,
   sections-space-between-text-based-entries: 0.3em,
   sections-space-between-regular-entries: 1.2em,
-  entries-date-and-location-width: 4.15cm,
+  entries-date-and-location-width: 4.6cm,
   entries-side-space: 0.2cm,
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
@@ -108,17 +108,17 @@ I started programming at 15 and have worked professionally since 2016, moving fr
   [
     #strong[Senior Backend & AI Engineer (Contract)]
 
-    #emph[WireBee]
+    #emph[WireBee, 2–10 employees, team of 4]
 
   ],
   [
-    #emph[Remote (US)]
+    #emph[Remote (US, Ohio)]
 
     #emph[Sept 2025 – Sept 2026]
 
   ],
   main-column-second-row: [
-    #summary[Voice and call-routing platform with live operator state and AI on calls.]
+    #summary[AI call automation and call routing for freight brokerages; the company reports its voice agents automate 40–90\% of inbound carrier calls. Owned the development end to end; communicated directly with the CEO.]
 
     - Designed a sync model for live call and operator state so the platform stays aligned with the external phone system without the UI depending on live third-party API calls.
 
@@ -126,7 +126,7 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 
     - Built a ring-all routing engine with a distributed lock so exactly one operator claims each call, plus an idempotent fallback when no one answers.
 
-    - Integrated voice AI into live calls while keeping control and routing in the backend, with a fallback to the standard phone menu if the AI path fails.
+    - Built the voice-AI call flow and the backend behind it: the agent handles part of inbound calls end to end and collects caller details up front for the rest, with a fallback to the standard phone menu if the AI path fails.
 
     - Stack: TypeScript, Node.js, Jambonz, Redis, MySQL
 
@@ -137,17 +137,17 @@ I started programming at 15 and have worked professionally since 2016, moving fr
   [
     #strong[Senior Backend & AI Engineer (Contract)]
 
-    #emph[Osnova GmbH]
+    #emph[Osnova GmbH, 2–10 employees, team of 4]
 
   ],
   [
-    #emph[Berlin, Germany]
+    #emph[Berlin, Germany (on-site)]
 
     #emph[June 2024 – Sept 2025]
 
   ],
   main-column-second-row: [
-    #summary[Multi-tenant AI agent platform for tenant-scoped agents, tools, data sources and deployments.]
+    #summary[AI agent platform (cogit): agent factories turn a business requirement into a researched, configured, tested and deployed agent for workflows like orders and documents; the company reports −20 h\/week order processing and −96\% document processing time. Owned the development end to end; communicated directly with the CEO.]
 
     - Built backend capabilities for tenant-scoped agents, tools, data sources and deployments, with PostgreSQL row-level security and per-request tenant context.
 
@@ -164,17 +164,17 @@ I started programming at 15 and have worked professionally since 2016, moving fr
   [
     #strong[Senior Backend & AI Engineer (Contract)]
 
-    #emph[Woolf]
+    #emph[Woolf, 50–200 employees, team of 7]
 
   ],
   [
-    #emph[Remote (US)]
+    #emph[Remote (US, San Francisco)]
 
     #emph[Apr 2023 – June 2024]
 
   ],
   main-column-second-row: [
-    #summary[Edtech university exam system using LLM agents for student onboarding.]
+    #summary[Online university with accredited degrees; LLM-agent exam system for student onboarding. Owned the development end to end; communicated directly with the product manager.]
 
     - Designed and built an LLM-agent exam system on Google ADK for student onboarding, used by Oxford students across 80+ test sessions.
 
@@ -205,9 +205,6 @@ I started programming at 15 and have worked professionally since 2016, moving fr
 
 #strong[Conference:] THETA EuroCon, Berlin (Sept 2025): live pitch and hackathon; built an AI solution
 
-#v(0.7em)
-#grid(columns: (1fr, 1fr), column-gutter: 2em, [
-#set par(spacing: 0.3em)
 == Education
 
 #education-entry(
@@ -227,13 +224,10 @@ I started programming at 15 and have worked professionally since 2016, moving fr
   ],
 )
 
-], [
-#set par(spacing: 0.3em)
 == Languages
 
-#pad(left: 0.5em, top: 0em, bottom: 0.3em)[• #h(0.4em) Ukrainian \/ Russian: Native]
+#strong[Ukrainian \/ Russian:] Native
 
-#pad(left: 0.5em, top: 0em, bottom: 0.3em)[• #h(0.4em) English: C1]
+#strong[English:] C1
 
-#pad(left: 0.5em, top: 0em, bottom: 0.3em)[• #h(0.4em) German: A2]
-])
+#strong[German:] A2
