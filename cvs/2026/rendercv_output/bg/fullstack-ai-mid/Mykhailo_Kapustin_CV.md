@@ -30,7 +30,7 @@ AI call automation and routing for freight brokerages. Owned the development end
 
 - Covered the 8 regular call types and focused on the largest, carriers calling to take a posted load (~80% of call volume, per the CEO): the agent picked up, established who was calling, why and about which load, checked the load, the company and the carrier, and filtered out unwanted calls before they reached an operator.
 
-- Stack: TypeScript, Node.js, Jambonz, Redis, MySQL
+- Stack: TypeScript, React, Node.js, Jambonz, Redis, MySQL
 
 
 
